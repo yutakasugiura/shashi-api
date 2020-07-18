@@ -1,50 +1,40 @@
-# Check https://circleci.com/docs/2.0/language-php/ for more details
-#
 version: 2
 jobs:
   build:
     docker:
-      # specify the version you desire here
-      - image: circleci/php:7.4.8-apache-node-browsers
-      - image: circleci/mysql:5.7
+      - image: circleci/php:7.4-node-browsers
+        environment:
+          - APP_DEBUG: true
+          - APP_ENV: testing
+          - DB_CONNECTION: mysql
+          - DB_DATABASE: shashi_testing
+          - DB_USERNAME: root
 
-      # Specify service dependencies here if necessary
-      # CircleCI maintains a library of pre-built images
-      # documented at https://circleci.com/docs/2.0/circleci-images/
-      # - image: circleci/mysql:9.4
-
-    environment:
-      - APP_DEBUG: true
-      - APP_ENV: testing
-      - APP_KEY: base64:wmmw9u2UQNYH4k9VIERRDbfg+823Lcw1gZgvfwLRmGg=
-      - DB_CONNECTION: shashi_testing
-      - MYSQL_ALLOW_EMPTY_PASSWORD: true
-
-    working_directory: ~/repo
+      - image: circleci/mysql:5.7-ram
+        environment:
+          - MYSQL_ALLOW_EMPTY_PASSWORD: true
+          - MYSQL_DATABASE: shashi_testing
 
     steps:
       - checkout
 
-      # Install PHP Extension
+      - run: sudo apt update
       - run: sudo docker-php-ext-install pdo_mysql
 
-      # Download and cache dependencies
       - restore_cache:
           keys:
-          - v1-dependencies-{{ checksum "composer.json" }}
-          # fallback to using the latest cache if no exact match is found
-          - v1-dependencies-
+            - v1-dependencies-{{ checksum "composer.json" }}
+            - v1-dependencies-
 
       - run: composer install -n --prefer-dist
 
       - save_cache:
+          key: v1-dependencies-{{ checksum "composer.json" }}
           paths:
             - ./vendor
-          key: v1-dependencies-{{ checksum "composer.json" }}
 
-      # run seeding
-      - run: php artisan migrate --env=testing
-      - run: php artisan db:seed --env=testing
+      - run: echo "APP_KEY=" > .env.testing
+      - run: php artisan key:generate
+      - run: php artisan migrate
 
-      # run tests!
-      - run: php ./vendor/bin/phpunit
+      - run: ./vendor/bin/phpunit

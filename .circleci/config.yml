@@ -22,7 +22,7 @@ jobs:
       - APP_DEBUG: true
       - APP_ENV: testing
       - APP_KEY: base64:wmmw9u2UQNYH4k9VIERRDbfg+823Lcw1gZgvfwLRmGg=
-      - DB_CONNECTION: circle_test
+      - DB_CONNECTION: shahsi
       - MYSQL_ALLOW_EMPTY_PASSWORD: true
 
     steps:
@@ -30,7 +30,7 @@ jobs:
 
       - run: sudo apt update # PHP CircleCI 2.0 Configuration File# PHP CircleCI 2.0 Configuration File sudo apt install zlib1g-dev libsqlite3-dev
       - run: sudo docker-php-ext-install pdo_mysql
-      
+
     working_directory: ~/repo
 
       # Download and cache dependencies

@@ -1,0 +1,24 @@
+{
+  "company": [
+    {
+      "stock_code": "7201",
+      "name": "トヨタ自動車",
+      "memo": ""
+    },
+    {
+      "stock_code": "7202",
+      "name": "トヨタ自動車",
+      "memo": ""
+    },
+    {
+      "stock_code": "7203",
+      "name": "トヨタ自動車",
+      "memo": ""
+    },
+    {
+      "stock_code": "7267",
+      "name": "トヨタ自動車",
+      "memo": ""
+    }
+  ]
+}

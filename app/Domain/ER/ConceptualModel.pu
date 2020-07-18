@@ -1,0 +1,183 @@
+@startuml
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+package 定性ドメイン {
+    package 企業(親テーブル) <<Rectangle>> {
+        entity "companies" {
+            # id [PK]
+            --
+            - stock_code [int]
+            - name [varchar]
+            - founder [varchar]
+            - found_year [date]
+            - establish_year [date]
+            - origin [varchar]
+            --
+        }
+    }
+
+    package 業界区分 <<Rectangle>> {
+        entity "industries" {
+            # id [PK]
+            --
+            - name [varchar]
+            --
+        }
+
+        entity "industry_company" {
+            # id [PK]
+            --
+            # industry_id [FK]
+            # comapny_id [FK]
+            --
+        }
+    }
+
+    package 沿革 <<Rectangle>> {
+        entity "histories" {
+            # id [PK]
+            --
+            # company_id [FK]
+            --
+            - year [date]
+            - summary [varchar]
+            - detail [varchar]
+            - key_person [varchar]
+            - region [varchar]
+            --
+        }
+
+        entity "history_tag" {
+            # id [PK]
+            --
+            # history_id [FK]
+            # tag_id [FK]
+            --
+        }
+
+        entity "tags" {
+            # id [PK]
+            --
+            - name [string]
+            --
+        }
+    }
+
+    package  歴代経営陣 <<Rectangle>> {
+        entity "exectives" {
+            # id [PK]
+            --
+            - type [varchar]
+            --
+        }
+
+        entity "exective_company" {
+            # id [PK]
+            --
+            # comapny_id [FK]
+            # exective_id [FK]
+            --
+            - name [varchar]
+            - summary [varchar]
+            - detail [varchar]
+            - memo [varchar]
+            - started_at [date]
+            - ended_at [date]
+            --
+        }
+    }
+}
+
+package 定量ドメイン {
+    entity "performances" {
+        # id [PK]
+        --
+        # company_id [FK]
+        # type_id [FK]
+        --
+        - FY1980 [date]
+        - FY1981 [date]
+        - FY1982 [date]
+        - FY1983 [date]
+        - FY1984 [date]
+        - FY1985 [date]
+        - FY1986 [date]
+        - FY1987 [date]
+        - FY1988 [date]
+        - FY1989 [date]
+        - FY1990 [date]
+        - FY1991 [date]
+        - FY1992 [date]
+        - FY1993 [date]
+        - FY1994 [date]
+        - FY1995 [date]
+        - FY1996 [date]
+        - FY1997 [date]
+        - FY1998 [date]
+        - FY1999 [date]
+        - FY2000 [date]
+        - FY2001 [date]
+        - FY2002 [date]
+        - FY2003 [date]
+        - FY2004 [date]
+        - FY2005 [date]
+        - FY2006 [date]
+        - FY2007 [date]
+        - FY2008 [date]
+        - FY2009 [date]
+        - FY2010 [date]
+        - FY2011 [date]
+        - FY2012 [date]
+        - FY2013 [date]
+        - FY2014 [date]
+        - FY2015 [date]
+        - FY2016 [date]
+        - FY2017 [date]
+        - FY2018 [date]
+        - FY2019 [date]
+        - FY2020 [date]
+        - FY2021 [date]
+        - FY2022 [date]
+        - FY2023 [date]
+        - FY2024 [date]
+        - FY2025 [date]
+        - FY2026 [date]
+        - FY2027 [date]
+        - FY2028 [date]
+        - FY2029 [date]
+        - FY2030 [date]
+        - memo [varchar]
+        --
+    }
+
+    entity "types" {
+        # id [PK]
+        --
+        - type_name [varchar]
+        - unit [varchar]
+        --
+        <b>type_name_details（下記）</b>
+        --
+        + month: <決算月>
+        + sales: <売上高>
+        + oerating_income: <営業利益>
+        + regular_income: <経常利益>
+        + net_income: <純利益>
+        + extraordinary_loss: <特別損失>
+        + impairment_loss: <減損損失>
+        --
+    }
+}
+
+companies ||--o{ performances
+companies ||--o{ industry_company
+companies ||--o{ exective_company
+exectives ||--o{ exective_company
+industries ||--o{ industry_company
+companies ||--o{ histories
+histories ||--o{ history_tag
+history_tag }o--|| tags
+types ||--o{ performances
+@enduml

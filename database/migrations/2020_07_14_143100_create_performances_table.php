@@ -17,6 +17,8 @@ class CreatePerformancesTable extends Migration
             $table->bigIncrements('id');
             $table->unsignedBigInteger('company_id')
                 ->comment('企業id');
+            $table->unsignedBigInteger('type_id')
+                ->comment('種別id');
             $table->integer('FY1980')
                 ->nullable();
             $table->integer('FY1981')
@@ -117,6 +119,8 @@ class CreatePerformancesTable extends Migration
                 ->nullable();
             $table->integer('FY2030')
                 ->nullable();
+            $table->string('memo')
+                ->comment('備考');
             $table->timestamps();
         });
     }

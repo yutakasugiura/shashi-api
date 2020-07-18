@@ -12,25 +12,9 @@ package 定性ドメイン {
             - name [varchar]
             - founder [varchar]
             - found_year [date]
-            - establish_year [date]
+            - industry [varchar]
             - origin [varchar]
-            --
-        }
-    }
-
-    package 業界区分 <<Rectangle>> {
-        entity "industries" {
-            # id [PK]
-            --
-            - name [varchar]
-            --
-        }
-
-        entity "industry_company" {
-            # id [PK]
-            --
-            # industry_id [FK]
-            # comapny_id [FK]
+            - img_url [varchar]
             --
         }
     }
@@ -40,27 +24,29 @@ package 定性ドメイン {
             # id [PK]
             --
             # company_id [FK]
+            # tag_id [FK]
+            # region_id [FK]
+            # exective_id [FK]
             --
             - year [date]
             - summary [varchar]
             - detail [varchar]
-            - key_person [varchar]
-            - region [varchar]
-            --
-        }
-
-        entity "history_tag" {
-            # id [PK]
-            --
-            # history_id [FK]
-            # tag_id [FK]
             --
         }
 
         entity "tags" {
             # id [PK]
             --
-            - name [string]
+            - name [varchar]
+            - status [varchar]
+            --
+        }
+
+        entity "regions" {
+            # id [PK]
+            --
+            - region [varchar]
+            - countory [varchar]
             --
         }
     }
@@ -73,7 +59,7 @@ package 定性ドメイン {
             --
         }
 
-        entity "exective_company" {
+        entity "company_exective" {
             # id [PK]
             --
             # comapny_id [FK]
@@ -172,12 +158,11 @@ package 定量ドメイン {
 }
 
 companies ||--o{ performances
-companies ||--o{ industry_company
-companies ||--o{ exective_company
-exectives ||--o{ exective_company
-industries ||--o{ industry_company
 companies ||--o{ histories
-histories ||--o{ history_tag
-history_tag }o--|| tags
+companies ||--o{ company_exective
+histories }o--|| company_exective
+histories }|--|| tags
+histories }o--|| regions
+exectives ||--o{ company_exective
 types ||--o{ performances
 @enduml

@@ -22,24 +22,23 @@ class ExampleTest extends TestCase
         );
     }
 
-    public function testCanCreateCompany()
-    {
-        $company = [
-            'stock_code' => 7203,
-            'name'       => 'トヨタ自動車',
-            'memo'       => '三河モンロー主義'
-        ];
+    // public function testCanCreateCompany()
+    // {
+    //     $company = [
+    //         'stock_code' => 7203,
+    //         'name'       => 'トヨタ自動車',
+    //     ];
 
-        $this->companyService->createCompany(
-            $company['stock_code'],
-            $company['name'],
-            $company['memo']
-        );
+    //     $this->companyService->createCompany(
+    //         $company['stock_code'],
+    //         $company['name'],
+    //         $company['memo']
+    //     );
 
-        $this->assertDatabaseHas('companies', [
-            'stock_code' => 7203,
-            'name'       => 'トヨタ自動車',
-            'memo'       => '三河モンロー主義'
-        ]);
-    }
+    //     $this->assertDatabaseHas('companies', [
+    //         'stock_code' => 7203,
+    //         'name'       => 'トヨタ自動車',
+    //         'memo'       => '三河モンロー主義'
+    //     ]);
+    // }
 }

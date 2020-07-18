@@ -23,7 +23,6 @@ class CompaniesTableSeeder extends Seeder
         //現段階はconfigから読み込む
         $companyData = config('company');
 
-        //毎回DBをリフレッシュする
         DB::table('companies')->truncate();
 
         DB::table('companies')->insert($companyData);

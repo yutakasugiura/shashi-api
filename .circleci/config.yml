@@ -17,7 +17,7 @@ jobs:
       - APP_DEBUG: true
       - APP_ENV: testing
       - APP_KEY: base64:wmmw9u2UQNYH4k9VIERRDbfg+823Lcw1gZgvfwLRmGg=
-      - DB_CONNECTION: shashi
+      - DB_CONNECTION: shashi_testing
       - MYSQL_ALLOW_EMPTY_PASSWORD: true
 
     working_directory: ~/repo

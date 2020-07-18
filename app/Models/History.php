@@ -18,6 +18,6 @@ class History extends Model
 
     public function tag(): BelongsTo
     {
-        return $this->belongsTo(Tag::class)
+        return $this->belongsTo(Tag::class);
     }
 }

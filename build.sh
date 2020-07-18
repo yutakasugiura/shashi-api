@@ -6,3 +6,4 @@ npm run dev
 
 php artisan serve
 
+php artisan migrate:refresh --seed

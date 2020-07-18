@@ -11,6 +11,9 @@
          -  laravel(php7.4) //APIに特化
          -  Nuxt.js //API連携によってコンテンツの表示テストを行う
          -  mysql5.7
+    　- 8月頃を目処にDockerへの移行を実施する
+         - 筆者のDocker構築の学習スピードによって前後
+         - 7月はローカル環境構築に慣れるという意味もあり、Dockerは先送り
 
    - deploy先は「the-shahsi.com」ではなく「yutaka-sugiura.com」にて実施
        - the-shahsi.comは運用中のため、あまり触りたくない

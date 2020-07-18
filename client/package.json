@@ -10,6 +10,7 @@
     "serve": "nuxt serve"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
     "nuxt": "^2.13.0"
   },
   "devDependencies": {}

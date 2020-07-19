@@ -27,7 +27,7 @@ class CompanyRepository
         string $stockCode,
         string $companyName
     ): Company {
-        return $this->eloquentCompany->create([
+        return $this->eloquentCompany->updateOrCreate([
             'stock_code'   => $stockCode,
             'name' => $companyName
         ]);

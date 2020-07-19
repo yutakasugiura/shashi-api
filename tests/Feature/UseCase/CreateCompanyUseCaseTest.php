@@ -62,7 +62,7 @@ class CreateCompanyUseCaseTest extends TestCase
             );
         }
 
-        //Read Company Databases in Json (ex.三陽商会)
+        //Read Company Databases in Json (ex.三陽商会 8011)
         $url = storage_path('json/qualitative/8011.json');
 
         //Create Company & Histories etc...

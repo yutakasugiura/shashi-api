@@ -20,4 +20,9 @@ class History extends Model
     {
         return $this->belongsTo(Tag::class);
     }
+
+    public function region(): BelongsTo
+    {
+        return $this->belongsTo(Region::class);
+    }
 }

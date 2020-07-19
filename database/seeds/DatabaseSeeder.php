@@ -17,12 +17,13 @@ class DatabaseSeeder extends Seeder
         DB::statement('SET FOREIGN_KEY_CHECKS=0;');
 
         //NOTICE: 追加後は「composer dump-autoload」を実行
+        //親テーブルを生成
         $this->call(CompaniesTableSeeder::class);
         $this->call(TagsTableSeeder::class);
         $this->call(RegionsTableSeeder::class);
         $this->call(HistoriesTableSeeder::class);
 
-        //JOINのテスト
+        // JOINのテスト
         // $test = DB::table('histories')
         //     ->join('companies', 'histories.company_id', '=', 'companies.id')
         //     ->join('tags', 'histories.tag_id', '=', 'tags.id')

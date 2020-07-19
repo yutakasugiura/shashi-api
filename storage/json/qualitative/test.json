@@ -1,0 +1,13 @@
+{
+    "name": "あらゆ",
+    "gender": "男",
+    "blog": {
+        "name": "SYNCER",
+        "published": "2014-06-10",
+        "category": [
+            "旅行",
+            "温泉",
+            "ドライブ"
+        ]
+    }
+}

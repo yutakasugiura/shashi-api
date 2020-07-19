@@ -35,16 +35,37 @@ class CreateCompanyUseCaseTest extends TestCase
         );
     }
 
+    //vendor/bin/phpunit
+
+    /**
+     * Can Create Company?
+     *
+     * @return void
+     */
     public function testCanCreateCompany()
     {
+        //Create Tag
         $this->createTagUseCase->execute();
-        $this->createRegionUseCase->execute();
-
-        //vendor/bin/phpunit
-        $url = storage_path('json/qualitative/8011.json');
 
         //Create Region
+        $this->createRegionUseCase->execute();
 
+        //Read Company Databases in Json
+        $url = storage_path('json/qualitative/8011.json');
+
+        //Create Company & Histories etc...
         $this->createCompanyUseCase->execute($url);
+
+        //Check The Companies Table
+        $this->assertDatabaseHas('companies', [
+            'stock_code' => '8011',
+            'name'       => '三陽商会'
+        ]);
+
+        //Check The Histories Table
+        $this->assertDatabaseHas('histories', [
+            'year' => '1943-01-01',
+            'summary' => '三陽商会を設立'
+        ]);
     }
 }

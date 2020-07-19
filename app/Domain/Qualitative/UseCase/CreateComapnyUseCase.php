@@ -65,11 +65,6 @@ class CreateCompanyUseCase
             );
         }
 
-        //3. create History
-        //TODO: 後日実装
-        // $this->historyRepository->create();
-
-
         //補足情報を永続化する
         //TODO: 後日実装
 

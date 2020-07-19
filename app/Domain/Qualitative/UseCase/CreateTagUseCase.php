@@ -13,14 +13,18 @@ class CreateTagUseCase
         $this->tagRepository = $tagRepository;
     }
 
-    public function execute()
+    /**
+     * Update or Create Tag
+     *
+     * @param string $name
+     * @param string $status
+     * @return void
+     */
+    public function execute(string $name, string $status)
     {
-        $tags = config('tag');
-        foreach ($tags as $tag) {
-            $a = $this->tagRepository->updateOrCreateTag(
-                $tag['name'],
-                $tag['status']
-            );
-        }
+        $this->tagRepository->updateOrCreateTag(
+            $name,
+            $status
+        );
     }
 }

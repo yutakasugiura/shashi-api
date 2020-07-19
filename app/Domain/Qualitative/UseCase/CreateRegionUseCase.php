@@ -13,14 +13,18 @@ class CreateRegionUseCase
         $this->regionRepository = $regionRepository;
     }
 
-    public function execute()
+    /**
+     * Update or Create Tag
+     *
+     * @param string $region
+     * @param string $country
+     * @return void
+     */
+    public function execute(string $region, string $country)
     {
-        $regions = config('region');
-        foreach ($regions as $region) {
-            $a = $this->regionRepository->updateOrCreateRegion(
-                $region['region'],
-                $region['country']
-            );
-        }
+        $this->regionRepository->updateOrCreateRegion(
+            $region,
+            $country
+        );
     }
 }

@@ -10,11 +10,6 @@ package 定性ドメイン {
             --
             - stock_code [int]
             - name [varchar]
-            - founder [varchar]
-            - found_year [date]
-            - industry [varchar]
-            - origin [varchar]
-            - img_url [varchar]
             --
         }
     }
@@ -69,6 +64,37 @@ package 定性ドメイン {
             - summary [varchar]
             - detail [varchar]
             - memo [varchar]
+            - started_at [date]
+            - ended_at [date]
+            --
+        }
+    }
+
+    package 補足情報 <<Rectangle>> {
+        entity "images" {
+            # id [PK]
+            # company_id [FK]
+            --
+            - summary [varchar]
+            - detail [varchar]
+            - url [varchar]
+            --
+        }
+
+        entity "industries" {
+            # id [PK]
+            # company_id [FK]
+            --
+            - name [varchar]
+            --
+        }
+
+        entity "explannations" {
+            # id [PK]
+            # company_id [FK]
+            --
+            - detail [varchar]
+            - type [varchar]
             - started_at [date]
             - ended_at [date]
             --
@@ -160,6 +186,9 @@ package 定量ドメイン {
 companies ||--o{ performances
 companies ||--o{ histories
 companies ||--o{ company_exective
+companies ||--o{ industries
+companies ||--o{ images
+companies ||--o{ explannations
 histories }o--|| company_exective
 histories }|--|| tags
 histories }o--|| regions

@@ -16,15 +16,20 @@ class CompanyRepository
         $this->eloquentCompany = $eloquentCompany;
     }
 
+    /**
+     * Undocumented function
+     *
+     * @param string $stockCode
+     * @param string $companyName
+     * @return Company
+     */
     public function createCompany(
-        int $stockCode,
-        string $name,
-        string $memo
+        string $stockCode,
+        string $companyName
     ): Company {
         return $this->eloquentCompany->create([
-            'stock_code' => $stockCode,
-            'name'       => $name,
-            'memo'       => $memo,
+            'stock_code'   => $stockCode,
+            'name' => $companyName
         ]);
     }
 

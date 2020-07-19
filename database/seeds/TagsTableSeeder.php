@@ -13,8 +13,6 @@ class TagsTableSeeder extends Seeder
     {
         $registerData = config('tag');
 
-        DB::table('tags')->truncate();
-
         DB::table('tags')->insert($registerData);
     }
 }

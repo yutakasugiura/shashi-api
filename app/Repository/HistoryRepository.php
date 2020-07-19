@@ -24,7 +24,7 @@ class HistoryRepository
         string $summary,
         string $detail
     ): History {
-        return $this->eloquentHistory->create([
+        return $this->eloquentHistory->updateOrCreate([
             'company_id' => $companyId,
             'tag_id'     => $tagId,
             'region_id'  => $regionId,

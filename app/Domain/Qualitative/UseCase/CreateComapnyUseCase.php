@@ -50,35 +50,29 @@ class CreateCompanyUseCase
         $companyId = $this->companyRepository->createCompany($stockCode, $companyName)->id;
 
         //2. create History
+
         $histories = $company->get('histories');
 
-        foreach ($histories as $history) {
-            $year = Carbon::parse($history['year']);
+        if (isset($histories)) {
+            foreach ($histories as $history) {
+                $year = Carbon::parse($history['year']);
 
-            $history = $this->historyRepository->createHistory(
-                $companyId,
-                $history['tag_id'],
-                $history['region_id'],
-                $year,
-                $history['summary'],
-                $history['detail']
-            );
+                $history = $this->historyRepository->createHistory(
+                    $companyId,
+                    $history['tag_id'],
+                    $history['region_id'],
+                    $year,
+                    $history['summary'],
+                    $history['detail']
+                );
+            }
         }
-
-        //3. create History
-        //TODO: 後日実装
-        // $this->historyRepository->create();
-
 
         //補足情報を永続化する
         //TODO: 後日実装
 
 
         //歴代経営陣を永続化する
-        //TODO: 後日実装
-
-
-        //定量情報を永続化する
         //TODO: 後日実装
     }
 }

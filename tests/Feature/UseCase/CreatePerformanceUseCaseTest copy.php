@@ -8,7 +8,7 @@ use App\Domain\Qualitative\UseCase\CreateTagUseCase;
 use App\Domain\Qualitative\UseCase\CreateRegionUseCase;
 use App\Domain\Qualitative\UseCase\CreateCompanyUseCase;
 
-class CreateCompanyUseCaseTest extends TestCase
+class CreatePerformanceUseCaseTest extends TestCase
 {
     use RefreshDatabase;
 
@@ -42,30 +42,8 @@ class CreateCompanyUseCaseTest extends TestCase
      *
      * @return void
      */
-    public function testCanCreateCompany()
+    public function testCanCreatePerformance()
     {
-        //Create Tag
-        $this->createTagUseCase->execute();
-
-        //Create Region
-        $this->createRegionUseCase->execute();
-
-        //Read Company Databases in Json
-        $url = storage_path('json/qualitative/8011.json');
-
-        //Create Company & Histories etc...
-        $this->createCompanyUseCase->execute($url);
-
-        //Check The Companies Table
-        $this->assertDatabaseHas('companies', [
-            'stock_code' => '8011',
-            'name'       => '三陽商会'
-        ]);
-
-        //Check The Histories Table
-        $this->assertDatabaseHas('histories', [
-            'year' => '1943-01-01',
-            'summary' => '三陽商会を設立'
-        ]);
+        //
     }
 }

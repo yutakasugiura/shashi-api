@@ -45,12 +45,24 @@ class CreateCompanyUseCaseTest extends TestCase
     public function testCanCreateCompany()
     {
         //Create Tag
-        $this->createTagUseCase->execute();
+        $tags = config('tag');
+        foreach ($tags as $tag) {
+            $this->createTagUseCase->execute(
+                $tag['name'],
+                $tag['status']
+            );
+        }
 
         //Create Region
-        $this->createRegionUseCase->execute();
+        $regions = config('region');
+        foreach ($regions as $region) {
+            $this->createRegionUseCase->execute(
+                $region['region'],
+                $region['country'],
+            );
+        }
 
-        //Read Company Databases in Json
+        //Read Company Databases in Json (ex.三陽商会 8011)
         $url = storage_path('json/qualitative/8011.json');
 
         //Create Company & Histories etc...

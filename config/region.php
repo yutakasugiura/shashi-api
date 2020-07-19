@@ -1,147 +1,38 @@
 <?php
 
 return [
-    //東京
-    [
-        'region'  => '東京',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '新宿',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '渋谷',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '池袋',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '銀座',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '日本橋',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '丸の内',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '日比谷',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '有楽町',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '大手町',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '赤坂',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '六本木',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '青山',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '原宿',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '品川',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '虎ノ門',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '新橋',
-        'country' => 'japan',
-    ],
     //首都圏
     [
+        'region'  => '東京',
+        'country' => 'japan'
+    ],
+    [
         'region'  => '神奈川',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '川崎',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '横浜',
-        'country' => 'japan',
+        'country' => 'japan'
     ],
     [
         'region'  => '埼玉',
-        'country' => 'japan',
+        'country' => 'japan'
     ],
     [
-        'region'  => '浦和',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '大宮',
-        'country' => 'japan',
+        'region'  => '千葉',
+        'country' => 'japan'
     ],
     [
         'region'  => '栃木',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '宇都宮',
-        'country' => 'japan',
+        'country' => 'japan'
     ],
     [
         'region'  => '茨城',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '水戸',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '日立',
-        'country' => 'japan',
+        'country' => 'japan'
     ],
     [
         'region'  => '群馬',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '高崎',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '前橋',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '千葉',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '千葉',
-        'country' => 'japan',
+        'country' => 'japan'
     ],
     //東北・北海道
     [
         'region'  => '北海道',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '札幌',
         'country' => 'japan',
     ],
     [
@@ -150,6 +41,10 @@ return [
     ],
     [
         'region'  => '秋田',
+        'country' => 'japan',
+    ],
+    [
+        'region'  => '岩手',
         'country' => 'japan',
     ],
     [
@@ -164,17 +59,9 @@ return [
         'region'  => '福島',
         'country' => 'japan',
     ],
-    [
-        'region'  => '常磐',
-        'country' => 'japan',
-    ],
     //北信越
     [
         'region'  => '長野',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '松本',
         'country' => 'japan',
     ],
     [
@@ -203,27 +90,11 @@ return [
         'country' => 'japan',
     ],
     [
-        'region'  => '浜松',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '三河',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '名古屋',
-        'country' => 'japan',
-    ],
-    [
         'region'  => '愛知',
         'country' => 'japan',
     ],
     [
         'region'  => '岐阜',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '大垣',
         'country' => 'japan',
     ],
     [
@@ -252,42 +123,10 @@ return [
         'country' => 'japan',
     ],
     [
-        'region'  => '難波',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '尼崎',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '吹田',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '神戸',
-        'country' => 'japan',
-    ],
-    [
         'region'  => '兵庫',
         'country' => 'japan',
     ],
-    [
-        'region'  => '姫路',
-        'country' => 'japan',
-    ],
     //山陰・西日本
-    [
-        'region'  => '丹波',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '丹後',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '但馬',
-        'country' => 'japan',
-    ],
     [
         'region'  => '鳥取',
         'country' => 'japan',
@@ -301,19 +140,11 @@ return [
         'country' => 'japan',
     ],
     [
-        'region'  => '宇部',
-        'country' => 'japan',
-    ],
-    [
         'region'  => '岡山',
         'country' => 'japan',
     ],
     [
         'region'  => '広島',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '福山',
         'country' => 'japan',
     ],
     [
@@ -333,10 +164,6 @@ return [
         'country' => 'japan',
     ],
     [
-        'region'  => '小倉',
-        'country' => 'japan',
-    ],
-    [
         'region'  => '福岡',
         'country' => 'japan',
     ],
@@ -350,10 +177,6 @@ return [
     ],
     [
         'region'  => '佐賀',
-        'country' => 'japan',
-    ],
-    [
-        'region'  => '佐世保',
         'country' => 'japan',
     ],
     [
@@ -372,9 +195,13 @@ return [
         'region'  => '沖縄',
         'country' => 'japan',
     ],
+    [
+        'region'  => 'その他',
+        'country' => 'other',
+    ],
     //海外
     [
-        'region'  => 'アメリカ',
+        'region'  => '米国',
         'country' => 'america',
     ],
     [

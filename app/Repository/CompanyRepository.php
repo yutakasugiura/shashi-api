@@ -33,8 +33,24 @@ class CompanyRepository
         ]);
     }
 
-    public function getCompany(): Collection
+    public function findCompany(
+        string $stockCode
+    ): Company {
+        return $this->eloquentCompany
+            ->where('stock_code', $stockCode)
+            ->first();
+    }
+
+    public function showCompanyLists(): Collection
     {
         return $this->eloquentCompany->get();
+    }
+
+    public function getHistories(string $stockCode): Collection
+    {
+        return $this->eloquentCompany
+            ->with('histories')
+            ->where('stock_code', $stockCode)
+            ->get();
     }
 }

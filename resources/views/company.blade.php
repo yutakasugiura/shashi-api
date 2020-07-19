@@ -50,14 +50,15 @@
             font-size: 84px;
         }
 
-        a {
-            color: #666;
+        .links>a {
+            color: #636b6f;
+            padding: 0 25px;
+            font-size: 13px;
+            font-weight: 600;
+            letter-spacing: .1rem;
+            text-decoration: none;
+            text-transform: uppercase;
         }
-
-        .m-b-md {
-            margin-bottom: 30px;
-        }
-
     </style>
 </head>
 
@@ -65,26 +66,14 @@
     <div class="flex-center position-ref full-height">
         <div class="content">
             <div class="title m-b-md">
-                社史API
+                {{ $items["name"] }}
             </div>
 
-            @foreach($companies as $company)
-            <p><a href="./company/{{ $company->stock_code }}">{{ $company->name }}</a></p>
+            @foreach ( $items["histories"] as $history)
+                <p>{{ $history["year"] }}</p>
             @endforeach
 
-            <form action="/create" method="post">
-                <input type="input" name="stockCode">
-                <input type="submit" value="新規" class="button">
-                <input type="hidden" name="_token" value="{{csrf_token()}}">
-            </form>
-            <p></p>
-            <form action="/create" method="post">
-                <input type="input" name="stockCode">
-                <input type="submit" value="更新" class="button">
-                <input type="hidden" name="_method" value="put">
-                <input type="hidden" name="_token" value="{{csrf_token()}}">
-            </form>
-
+            <p><a href="/">管理画面に戻る</a></p>
         </div>
     </div>
 </body>

@@ -4,6 +4,7 @@ namespace App\Repository;
 
 use App\Models\History;
 use Illuminate\Support\Carbon;
+use Illuminate\Support\Collection;
 
 class HistoryRepository
 {
@@ -32,5 +33,19 @@ class HistoryRepository
             'summary'    => $summary,
             'detail'     => $detail
         ]);
+    }
+
+    public function showHistoryDetails(int $companyId): Collection
+    {
+        return $this->eloquentHistory
+            ->where('company_id', $companyId)
+            ->get();
+    }
+
+    public function deleteHistory($companyId): int
+    {
+        return $this->eloquentHistory
+            ->where('company_id', $companyId)
+            ->delete();
     }
 }

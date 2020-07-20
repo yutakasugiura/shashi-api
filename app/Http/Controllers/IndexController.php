@@ -3,22 +3,21 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Services\CompanyService;
+use App\Domain\Qualitative\UseCase\ShowCompanyListUseCase;
 
 class IndexController extends Controller
 {
-    /** @var CompanyService */
-    private $companyService;
+    private ShowCompanyListUseCase $showCompanyListUseCase;
 
     public function __construct(
-        CompanyService $companyService
+        ShowCompanyListUseCase $showCompanyListUseCase
     ) {
-        $this->companyService = $companyService;
+        $this->showCompanyListUseCase = $showCompanyListUseCase;
     }
 
     public function index()
     {
-        $companies = $this->companyService->getCompany();
+        $companies = $this->showCompanyListUseCase->execute();
 
         return view('welcome', compact('companies'));
     }

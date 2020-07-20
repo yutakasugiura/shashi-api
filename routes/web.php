@@ -13,4 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'IndexController@index');
+Route::get('/', 'IndexController@index')->name('company.index');
+
+Route::post('create', 'CreateController@store')->name('company.store');
+
+Route::put('create', 'CreateController@update')->name('company.update');
+
+Route::get('company/{stock_code}', 'ContentController@index')->name('content.index');

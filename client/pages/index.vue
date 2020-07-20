@@ -3,13 +3,13 @@
     <div>
       <Logo />
       <h1 class="title">社史API</h1>
-      <p>{{ companies }}</p>
+      <!-- <p>{{ companies }}</p> -->
       <div v-for="company in companies" :key="company.id">
         <p>
-          <router-link :to="{ path: `/tse/${company.id}`}">home</router-link>
+          <router-link :to="{ path: `/tse/${company.stock_code}`}">{{ company.stock_code }}</router-link>
         </p>
         <p>{{ company.name }}</p>
-        <hr />
+        <p></p>
       </div>
     </div>
   </div>

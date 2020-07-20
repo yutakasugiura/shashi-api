@@ -13,4 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::apiResource('/company', 'API\CompanyController');
+Route::apiResource('/company', 'API\CompanyController', ['only' => ['index']]);
+Route::apiResource('/history/{stock_code}', 'API\HistoryController', ['only' => ['index']]);

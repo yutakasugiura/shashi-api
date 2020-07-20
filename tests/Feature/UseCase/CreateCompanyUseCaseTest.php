@@ -70,7 +70,7 @@ class CreateCompanyUseCaseTest extends TestCase
 
         //Check The Companies Table
         $this->assertDatabaseHas('companies', [
-            'stock_code' => '8011',
+            'stock_code' => 'jp8011',
             'name'       => '三陽商会'
         ]);
 

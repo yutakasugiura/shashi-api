@@ -17,7 +17,7 @@ class CompanyController extends Controller
     public function index()
     {
         $companies = Company::all();
-        return json_encode($companies, JSON_UNESCAPED_UNICODE);
+        return response()->json($companies);
     }
 
     /**

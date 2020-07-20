@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::apiResource('/company', 'CompanyController');
+Route::apiResource('/company', 'API\CompanyController');

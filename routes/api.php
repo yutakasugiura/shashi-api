@@ -13,5 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::apiResource('/company', 'API\CompanyController', ['only' => ['index']]);
-Route::apiResource('/history/{stock_code}', 'API\HistoryController', ['only' => ['index']]);
+Route::apiResource('company', 'API\CompanyController', ['only' => ['index']]);
+//TODO: 修正（なぜか変数を認識しない...）
+Route::apiResource('company/', 'API\CompanyController', ['only' => ['show']]);
+Route::apiResource('history/{stock_code}', 'API\HistoryController', ['only' => ['index']]);

@@ -16,15 +16,17 @@ class CompaniesTableSeeder extends Seeder
      */
     public function run()
     {
-        //TODO: 将来はjsonの読み込みに変更
-        // $reader = new Reader;
-        // $companyData = $reader->readJson('stock/company.json');
+        $now = Carbon::now()->toDateString();
 
-        //現段階はconfigから読み込む
-        $companyData = config('company');
+        $companies = config('company');
+
+        foreach ($companies as $item) {
+            $item['created_at'] = $now;
+            $item['updated_at'] = $now;
+        }
 
         DB::table('companies')->truncate();
 
-        DB::table('companies')->insert($companyData);
+        DB::table('companies')->insert($companies);
     }
 }

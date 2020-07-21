@@ -6,19 +6,40 @@
       <!-- <p>{{ companies }}</p> -->
       <div v-for="company in companies" :key="company.id">
         <p>
-          <router-link :to="{ path: `/tse/${company.stock_code}`}">{{ company.stock_code }}</router-link>
+          <router-link :to="{ path: `/tse/${company.stock_code}`}">{{ company.name }}</router-link>
         </p>
-        <p>{{ company.name }}</p>
-        <p></p>
       </div>
+      <paginate
+        :page-count="getPageCount"
+        :page-range="3"
+        :margin-pages="2"
+        :click-handler="clickCallback"
+        :prev-text="'＜'"
+        :next-text="'＞'"
+        :container-class="'pagination'"
+        :page-class="'page-item'"
+      ></paginate>
     </div>
   </div>
 </template>
 
 <script>
+import Paginate from "vuejs-paginate";
+
 export default {
+  data() {
+    return {
+      page: 1,
+      length: 0,
+      lists: [],
+      viewLists: [],
+      pageSize: 10
+    };
+  },
   async asyncData(app) {
-    const res = await app.$axios.$get("http://localhost:8000/api/company/");
+    const res = await app.$axios.$get(
+      "http://localhost:8000/api/company/?query=tag:javascript&per_page=30/"
+    );
     return {
       companies: res
     };
@@ -34,6 +55,10 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
+  color: #888;
+}
+.container a {
+  color: #888;
 }
 
 .title {

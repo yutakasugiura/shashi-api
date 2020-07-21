@@ -19,4 +19,17 @@ class CompanyController extends Controller
         $companies = Company::all();
         return response()->json($companies);
     }
+
+    /**
+    * Store a newly created resource in storage.
+    *
+    * @param  \Illuminate\Http\Request  $request
+    * @return \Illuminate\Http\Response
+    */
+    public function show(Request $request, $stockCode)
+    {
+        $company = Company::where('stock_code', $stockCode)->first();
+
+        return response()->json($company);
+    }
 }

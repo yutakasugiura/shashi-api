@@ -68,10 +68,6 @@
                 社史API
             </div>
 
-            @foreach($companies as $company)
-            <p><a href="./company/{{ $company->stock_code }}">{{ $company->name }}</a></p>
-            @endforeach
-
             <form action="/create" method="post">
                 <input type="input" name="stockCode">
                 <input type="submit" value="新規" class="button">

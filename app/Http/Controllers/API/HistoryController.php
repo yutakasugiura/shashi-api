@@ -17,10 +17,22 @@ class HistoryController extends Controller
      */
     public function index(Request $request, $stockCode)
     {
-        $companyId = Company::where('stock_code', $stockCode)->first()->id;
 
-        $histories = History::where('company_id', $companyId)->get();
+        // use join
+        // $histories = DB::table('companies')->join('histories', 'companies.id', '=', 'histories.company_id')->get();
+
+        // use with
+        $histories = Company::with('histories')->where('stock_code', $stockCode)->first();
 
         return response()->json($histories);
     }
+
+    // public function index(Request $request, $stockCode)
+    // {
+    //     $companyId = Company::where('stock_code', $stockCode)->first()->id;
+
+    //     $histories = History::where('company_id', $companyId)->get();
+
+    //     return response()->json($histories);
+    // }
 }

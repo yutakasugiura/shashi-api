@@ -9,7 +9,6 @@
 <script>
 export default {
   async asyncData({ app, params }) {
-    // const res = await app.$axios.$get("http://localhost:8000/api/company/");
     const res = await app.$axios.$get(
       `http://localhost:8000/api/history/${params.id}`
     );

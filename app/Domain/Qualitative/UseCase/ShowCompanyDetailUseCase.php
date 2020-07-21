@@ -21,6 +21,12 @@ class ShowCompanyDetailUseCase
         $this->historyRepository = $historyRepository;
     }
 
+    /**
+     * 企業の詳細を表示する
+     *
+     * @param [type] $stockCode
+     * @return void
+     */
     public function execute($stockCode)
     {
         return $this->companyRepository->getHistories($stockCode);

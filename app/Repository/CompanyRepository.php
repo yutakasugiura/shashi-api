@@ -3,6 +3,7 @@
 namespace App\Repository;
 
 use App\Models\Company;
+use App\Models\History;
 use Illuminate\Support\Collection;
 
 class CompanyRepository
@@ -10,10 +11,15 @@ class CompanyRepository
     /** @var Company */
     private $eloquentCompany;
 
+    /** @var History */
+    private $eloquentHistory;
+
     public function __construct(
-        Company $eloquentCompany
+        Company $eloquentCompany,
+        History $eloquentHistory
     ) {
         $this->eloquentCompany = $eloquentCompany;
+        $this->eloquentHistory = $eloquentHistory;
     }
 
     /**
@@ -44,13 +50,5 @@ class CompanyRepository
     public function showCompanyLists(): Collection
     {
         return $this->eloquentCompany->get();
-    }
-
-    public function getHistories(string $stockCode): Collection
-    {
-        return $this->eloquentCompany
-            ->with('histories')
-            ->where('stock_code', $stockCode)
-            ->get();
     }
 }

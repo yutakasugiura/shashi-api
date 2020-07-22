@@ -19,7 +19,8 @@ Route::post('create', 'CreateController@store')->name('company.store');
 
 Route::put('create', 'CreateController@update')->name('company.update');
 
-Route::get('company/{stock_code}', 'ContentController@index')->name('content.index');
+//企業ごとに沿革を表示
+Route::get('company/{stock_code}', 'HistoryController@show')->name('history.show');
 
 //TODO: API.phpで管理する（なぜか変数を認識しない...）
 Route::get('api/company/{company}', 'API\CompanyController@show')->name('api.company.show');

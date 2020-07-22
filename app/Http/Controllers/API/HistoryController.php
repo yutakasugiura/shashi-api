@@ -7,9 +7,18 @@ use App\Models\Company;
 use App\Models\History;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
+use App\Domain\Qualitative\UseCase\FindCompanyHistoriesUseCase;
 
 class HistoryController extends Controller
 {
+    private FindCompanyHistoriesUseCase $findCompanyHistoriesUseCase;
+
+    public function __construct(
+        FindCompanyHistoriesUseCase $findCompanyHistoriesUseCase
+    ) {
+        $this->findCompanyHistoriesUseCase = $findCompanyHistoriesUseCase;
+    }
+
     /**
      * Display a listing of the resource.
      *
@@ -17,12 +26,7 @@ class HistoryController extends Controller
      */
     public function index(Request $request, $stockCode)
     {
-
-        // use join
-        // $histories = DB::table('companies')->join('histories', 'companies.id', '=', 'histories.company_id')->get();
-
-        // use with
-        $histories = Company::with('histories')->where('stock_code', $stockCode)->first();
+        $histories = $this->findCompanyHistoriesUseCase->execute($stockCode);
 
         return response()->json($histories);
     }

@@ -5,7 +5,7 @@ namespace App\Domain\Qualitative\UseCase;
 use App\Repository\CompanyRepository;
 use App\Repository\HistoryRepository;
 
-class ShowCompanyDetailUseCase
+class FindCompanyHistoriesUseCase
 {
     /** @var CompanyRepository */
     private $companyRepository;
@@ -22,13 +22,13 @@ class ShowCompanyDetailUseCase
     }
 
     /**
-     * 企業の詳細を表示する
+     * １企業ごとの沿革を表示する
      *
-     * @param [type] $stockCode
-     * @return void
+     * @param string $stockCode
+     *
      */
-    public function execute($stockCode)
+    public function execute(string $stockCode)
     {
-        return $this->companyRepository->getHistories($stockCode);
+        return $this->historyRepository->findCompanyHistories($stockCode);
     }
 }

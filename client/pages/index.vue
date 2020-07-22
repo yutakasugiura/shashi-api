@@ -9,16 +9,6 @@
           <router-link :to="{ path: `/tse/${company.stock_code}`}">{{ company.name }}</router-link>
         </p>
       </div>
-      <paginate
-        :page-count="getPageCount"
-        :page-range="3"
-        :margin-pages="2"
-        :click-handler="clickCallback"
-        :prev-text="'＜'"
-        :next-text="'＞'"
-        :container-class="'pagination'"
-        :page-class="'page-item'"
-      ></paginate>
     </div>
   </div>
 </template>
@@ -37,9 +27,7 @@ export default {
     };
   },
   async asyncData(app) {
-    const res = await app.$axios.$get(
-      "http://localhost:8000/api/company/?query=tag:javascript&per_page=30/"
-    );
+    const res = await app.$axios.$get("http://localhost:8000/api/company/");
     return {
       companies: res
     };

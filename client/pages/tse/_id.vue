@@ -1,11 +1,12 @@
 <template>
   <div>
-    <h1>{{ histories.name }}</h1>
-    <p>{{ histories.id }}</p>
-    <div v-for="item in timelines" :key="item.id">
+    <h1>{{ histories[0].company_name }}</h1>
+    <div v-for="item in histories" :key="item.id">
       <p>{{ item.year }}</p>
       <p>{{ item.detail }}</p>
       <p>{{ item.summary }}</p>
+      <p>{{ item.tag_name }}</p>
+      <p>{{ item.region }}</p>
     </div>
     <p>{{ histories }}</p>
   </div>
@@ -18,8 +19,7 @@ export default {
       `http://localhost:8000/api/history/${params.id}`
     );
     return {
-      histories: history,
-      timelines: history.histories
+      histories: history
     };
   }
 };

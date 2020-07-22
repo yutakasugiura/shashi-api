@@ -63,14 +63,14 @@ class CreateCompanyUseCaseTest extends TestCase
         }
 
         //Read Company Databases in Json (ex.三陽商会 8011)
-        $url = storage_path('json/qualitative/jp8011.json');
+        $url = storage_path('json/qualitative/8011.json');
 
         //Create Company & Histories etc...
         $this->createCompanyUseCase->execute($url);
 
         //Check The Companies Table
         $this->assertDatabaseHas('companies', [
-            'stock_code' => 'jp8011',
+            'stock_code' => '8011',
             'name'       => '三陽商会'
         ]);
 

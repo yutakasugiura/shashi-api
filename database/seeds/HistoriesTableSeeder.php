@@ -14,7 +14,7 @@ class HistoriesTableSeeder extends Seeder
     public function run()
     {
         //現段階はconfigから読み込む
-        $registerData = config('history');
+        $registerData = config('seeder.history');
 
         DB::table('histories')->truncate();
 

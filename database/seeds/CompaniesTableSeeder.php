@@ -18,12 +18,7 @@ class CompaniesTableSeeder extends Seeder
     {
         $now = Carbon::now()->toDateString();
 
-        $companies = config('company');
-
-        foreach ($companies as $item) {
-            $item['created_at'] = $now;
-            $item['updated_at'] = $now;
-        }
+        $companies = config('seeder.company');
 
         DB::table('companies')->truncate();
 

@@ -13,13 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'IndexController@index')->name('company.index');
+//管理画面トップページの表示
+//TODO: 認証画面としてのトップページは後日実装
+Route::get('/', 'ImportController@index')->name('import.index');
 
-Route::post('create', 'CreateController@store')->name('company.store');
-
-Route::put('create', 'CreateController@update')->name('company.update');
-
-Route::get('company/{stock_code}', 'ContentController@index')->name('content.index');
-
-//TODO: API.phpで管理する（なぜか変数を認識しない...）
-Route::get('api/company/{company}', 'API\CompanyController@show')->name('api.company.show');
+//Json経由で企業情報を一括で永続化
+Route::put('store', 'ImportController@store')->name('import.store');

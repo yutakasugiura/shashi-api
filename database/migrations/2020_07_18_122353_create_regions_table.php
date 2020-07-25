@@ -15,10 +15,8 @@ class CreateRegionsTable extends Migration
     {
         Schema::create('regions', function (Blueprint $table) {
             $table->id();
-            $table->string('region')
+            $table->string('name')
                 ->comment('地域');
-            $table->string('country')
-                ->comment('国名');
             $table->timestamps();
         });
     }

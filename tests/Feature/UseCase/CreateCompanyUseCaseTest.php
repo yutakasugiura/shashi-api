@@ -3,35 +3,25 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
+use App\Models\Region;
+use App\Models\Company;
+use App\Models\HistoryTag;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use App\Domain\Qualitative\UseCase\CreateTagUseCase;
-use App\Domain\Qualitative\UseCase\CreateRegionUseCase;
-use App\Domain\Qualitative\UseCase\CreateCompanyUseCase;
+use App\Domain\Qualitative\UseCase\ImportCompanyUseCase;
 
 class CreateCompanyUseCaseTest extends TestCase
 {
     use RefreshDatabase;
 
-    /** @var CreateCompanyUseCase */
-    private $createCompanyUseCase;
-
-    /** @var CreateTagUseCase */
-    private $createTagUseCase;
+    /** @var ImportCompanyUseCase */
+    private $importCompanyUseCase;
 
     public function setUp(): void
     {
         parent::setUp();
 
-        $this->createTagUseCase = app()->make(
-            CreateTagUseCase::class
-        );
-
-        $this->createRegionUseCase = app()->make(
-            CreateRegionUseCase::class
-        );
-
-        $this->createCompanyUseCase = app()->make(
-            CreateCompanyUseCase::class
+        $this->importCompanyUseCase = app()->make(
+            ImportCompanyUseCase::class
         );
     }
 
@@ -44,33 +34,40 @@ class CreateCompanyUseCaseTest extends TestCase
      */
     public function testCanCreateCompany()
     {
-        //Create Tag
-        $tags = config('tag');
-        foreach ($tags as $tag) {
-            $this->createTagUseCase->execute(
-                $tag['name'],
-                $tag['status']
-            );
+        //Create History Tag
+        $historyTags = config('seeder.history_tag');
+        foreach ($historyTags as $historyTag) {
+            HistoryTag::create([
+                'name'           => $historyTag['name'],
+                'classification' => $historyTag['classification']
+            ]);
         }
 
         //Create Region
-        $regions = config('region');
+        $regions = config('seeder.region');
         foreach ($regions as $region) {
-            $this->createRegionUseCase->execute(
-                $region['region'],
-                $region['country'],
-            );
+            Region::create([
+                'name' => $region['name'],
+            ]);
         }
 
-        //Read Company Databases in Json (ex.三陽商会 8011)
-        $url = storage_path('json/qualitative/jp8011.json');
+        //Create Company
+        $companies = config('seeder.company');
+        foreach ($companies as $company) {
+            Company::create([
+                'name' => $company['name'],
+                'stock_code' => $company['stock_code'],
+                'status' => $company['status'],
+            ]);
+        }
 
         //Create Company & Histories etc...
-        $this->createCompanyUseCase->execute($url);
+        $stockCode = '8011'; //NOTE: 三陽商会を生成
+        $this->importCompanyUseCase->execute($stockCode);
 
         //Check The Companies Table
         $this->assertDatabaseHas('companies', [
-            'stock_code' => 'jp8011',
+            'stock_code' => '8011',
             'name'       => '三陽商会'
         ]);
 

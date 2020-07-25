@@ -66,11 +66,14 @@
     <div class="flex-center position-ref full-height">
         <div class="content">
             <div class="title m-b-md">
-                {{ $items["name"] }}
+                {{ $items[0]->company_name }}
             </div>
-
-            @foreach ( $items["histories"] as $history)
-                <p>{{ $history["year"] }}</p>
+            @foreach ( $items as $timeline )
+                <p>{{$timeline->year}}</p>
+                <p>{{$timeline->summary}}</p>
+                <p>{{$timeline->detail}}</p>
+                <p>{{$timeline->tag_name}}</p>
+                <p>{{$timeline->region}}</p>
             @endforeach
 
             <p><a href="/">管理画面に戻る</a></p>

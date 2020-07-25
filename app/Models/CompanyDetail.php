@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
-class History extends Model
+class CompanyDetail extends Model
 {
     protected $guarded = ['id'];
 
@@ -20,22 +20,12 @@ class History extends Model
     }
 
     /**
-     * 沿革種別とのリレーション
+     * 産業種別とのリレーション
      *
      * @return BelongsTo
      */
-    public function historyTag(): BelongsTo
+    public function industry(): BelongsTo
     {
-        return $this->belongsTo(HistoryTag::class);
-    }
-
-    /**
-     * 地域とのリレーション
-     *
-     * @return BelongsTo
-     */
-    public function region(): BelongsTo
-    {
-        return $this->belongsTo(Region::class);
+        return $this->belongsTo(Industry::class);
     }
 }

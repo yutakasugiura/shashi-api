@@ -67,16 +67,9 @@
             <div class="title m-b-md">
                 社史API
             </div>
-
-            <form action="/create" method="post">
-                <input type="input" name="stockCode">
-                <input type="submit" value="新規" class="button">
-                <input type="hidden" name="_token" value="{{csrf_token()}}">
-            </form>
-            <p></p>
-            <form action="/create" method="post">
-                <input type="input" name="stockCode">
-                <input type="submit" value="更新" class="button">
+            <form action="store" method="post">
+                <input type="input" name="stockCode" placeholder="8011">
+                <input type="submit" value="保存" class="button">
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
             </form>

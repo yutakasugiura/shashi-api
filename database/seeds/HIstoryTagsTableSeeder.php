@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Seeder;
 
-class TagsTableSeeder extends Seeder
+class HistoryTagsTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -11,8 +11,8 @@ class TagsTableSeeder extends Seeder
      */
     public function run()
     {
-        $registerData = config('tag');
+        $registerData = config('seeder.history_tag');
 
-        DB::table('tags')->insert($registerData);
+        DB::table('history_tags')->insert($registerData);
     }
 }

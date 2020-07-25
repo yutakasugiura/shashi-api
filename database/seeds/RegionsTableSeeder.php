@@ -11,7 +11,7 @@ class RegionsTableSeeder extends Seeder
      */
     public function run()
     {
-        $registerData = config('region');
+        $registerData = config('seeder.region');
 
         DB::table('regions')->truncate();
 

@@ -50,14 +50,19 @@
             font-size: 84px;
         }
 
-        a {
-            color: #666;
+        .links>a {
+            color: #636b6f;
+            padding: 0 25px;
+            font-size: 13px;
+            font-weight: 600;
+            letter-spacing: .1rem;
+            text-decoration: none;
+            text-transform: uppercase;
         }
 
-        .m-b-md {
-            margin-bottom: 30px;
+        span.bad {
+            color: crimson;
         }
-
     </style>
 </head>
 
@@ -65,19 +70,10 @@
     <div class="flex-center position-ref full-height">
         <div class="content">
             <div class="title m-b-md">
-                社史API
+                　保存に<span class="bad">失敗</span>しました
+                <p>YOU NEED JSON SECRET KEY</p>
             </div>
-            <form action="store" method="post">
-                <input type="input" name="stockCode" placeholder="証券コード例）6758" autocomplete=off>
-                <input type="password" name="jsonKey" placeholder="json_password" autocomplete=off>
-                <input type="submit" value="json保存" class="button">
-                <input type="hidden" name="_method" value="put">
-                <input type="hidden" name="_token" value="{{csrf_token()}}">
-            </form>
-            <p><a href="./api/company/6758">ソニーの企業詳細をAPIで取得</a></p>
-            <h2><a href="http://localhost:3000/">Nuxt.js - localhost:3000</a></h2>
-            <p><a href="http://localhost:3000/tse/6758/">Nuxt.js - SONY</a></p>
-
+            <p><a href="/">管理画面に戻る</a></p>
         </div>
     </div>
 </body>

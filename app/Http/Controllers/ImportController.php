@@ -38,8 +38,16 @@ class ImportController extends Controller
     {
         $stockCode = $request->stockCode;
 
-        $companies = $this->importCompanyUseCase->execute($stockCode);
+        //json_key照合
+        $jsonKey = $request->jsonKey;
+        $jsonSecretKey = config('json_key.json_key');
 
-        return view('success_store', compact('companies'));
+        if ($jsonKey == $jsonSecretKey) {
+            $companies = $this->importCompanyUseCase->execute($stockCode);
+
+            return view('success_store', compact('companies'));
+        } else {
+            return view('failed_store');
+        }
     }
 }

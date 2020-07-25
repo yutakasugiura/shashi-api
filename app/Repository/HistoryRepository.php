@@ -27,7 +27,7 @@ class HistoryRepository
      * @param integer $companyId
      * @param integer $historyTagId
      * @param integer $regionId
-     * @param Carbon $year
+     * @param string $year
      * @param string $summary
      * @param string $detail
      * @return History
@@ -36,7 +36,7 @@ class HistoryRepository
         int $companyId,
         int $historyTagId,
         int $regionId,
-        Carbon $year,
+        string $year,
         string $summary,
         string $detail
     ): History {
@@ -44,7 +44,7 @@ class HistoryRepository
             'company_id' => $companyId,
             'history_tag_id'     => $historyTagId,
             'region_id'  => $regionId,
-            'year'       => $year->toDateString(),
+            'year'       => $year,
             'summary'    => $summary,
             'detail'     => $detail
         ]);

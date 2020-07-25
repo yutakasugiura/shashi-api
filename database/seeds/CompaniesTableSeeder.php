@@ -16,8 +16,6 @@ class CompaniesTableSeeder extends Seeder
      */
     public function run()
     {
-        $now = Carbon::now()->toDateString();
-
         $companies = config('seeder.company');
 
         DB::table('companies')->truncate();

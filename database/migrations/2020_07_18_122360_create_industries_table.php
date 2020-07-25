@@ -17,6 +17,8 @@ class CreateIndustriesTable extends Migration
             $table->id();
             $table->string('name')
                 ->comment('名前');
+            $table->string('classification')
+                ->comment('分類');
             $table->timestamps();
         });
     }

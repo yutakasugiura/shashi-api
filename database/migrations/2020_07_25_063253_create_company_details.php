@@ -17,7 +17,7 @@ class CreateCompanyDetails extends Migration
             $table->id();
             $table->unsignedBigInteger('company_id')
                 ->comment('企業id');
-            $table->unsignedBigInteger('industries_id')
+            $table->unsignedBigInteger('industry_id')
                 ->comment('産業種別id');
             $table->string('summary')
                 ->comment('要旨');
@@ -46,7 +46,7 @@ class CreateCompanyDetails extends Migration
 
             $table->foreign('industry_id')
                 ->references('id')
-                ->on('industries')
+                ->on('industries');
         });
     }
 

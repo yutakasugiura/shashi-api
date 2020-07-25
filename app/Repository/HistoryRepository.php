@@ -71,7 +71,7 @@ class HistoryRepository
                     'histories.summary',
                     'histories.detail',
                     'history_tags.name as history_tag_name',
-                    'regions.name'
+                    'regions.name as region'
                 )
                 ->where('stock_code', $stockCode)
                 ->get();

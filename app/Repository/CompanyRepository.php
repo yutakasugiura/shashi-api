@@ -58,7 +58,7 @@ class CompanyRepository
     public function updateCompanyStatus(string $stockCode, string $status): void
     {
         $this->eloquentCompany
-            ->where('status', $status)
+            ->where('stock_code', $stockCode)
             ->update(['status' => $status]);
     }
 }

@@ -25,7 +25,7 @@ class HistoryRepository
      * 沿革を永続化
      *
      * @param integer $companyId
-     * @param integer $tagId
+     * @param integer $historyTagId
      * @param integer $regionId
      * @param Carbon $year
      * @param string $summary
@@ -34,7 +34,7 @@ class HistoryRepository
      */
     public function createHistory(
         int $companyId,
-        int $tagId,
+        int $historyTagId,
         int $regionId,
         Carbon $year,
         string $summary,
@@ -42,7 +42,7 @@ class HistoryRepository
     ): History {
         return $this->eloquentHistory->updateOrCreate([
             'company_id' => $companyId,
-            'tag_id'     => $tagId,
+            'history_tag_id'     => $historyTagId,
             'region_id'  => $regionId,
             'year'       => $year->toDateString(),
             'summary'    => $summary,
@@ -53,14 +53,14 @@ class HistoryRepository
     /**
      * 沿革を取得（企業名単位）
      *
-     * @param integer $companyId
+     * @param string $stockCode
      * @return Collection
      */
-    public function findCompanyHistories(int $stockCode): Collection
+    public function findCompanyHistory(string $stockCode): Collection
     {
         return  $this->eloquentHistory
                 ->join('companies', 'histories.company_id', '=', 'companies.id')
-                ->join('tags', 'histories.tag_id', '=', 'tags.id')
+                ->join('history_tags', 'histories.history_tag_id', '=', 'history_tags.id')
                 ->join('regions', 'histories.region_id', '=', 'regions.id')
                 ->select(
                     'histories.id',
@@ -70,15 +70,15 @@ class HistoryRepository
                     'histories.year',
                     'histories.summary',
                     'histories.detail',
-                    'tags.name as tag_name',
-                    'regions.region'
+                    'history_tags.name as history_tag_name',
+                    'regions.name'
                 )
                 ->where('stock_code', $stockCode)
                 ->get();
     }
 
     /**
-     * 沿革を削除（１企業）
+     * 沿革を削除
      *
      * @param int $companyId
      * @return integer

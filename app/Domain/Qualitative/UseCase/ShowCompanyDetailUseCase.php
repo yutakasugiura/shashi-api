@@ -2,11 +2,16 @@
 
 namespace App\Domain\Qualitative\UseCase;
 
+use Illuminate\Support\Carbon;
 use App\Repository\CompanyRepository;
 use App\Repository\HistoryRepository;
+use App\Domain\Utility\ReadCompanyJsonUtility;
 
-class FindCompanyHistoriesUseCase
+class ShowCompanyDetailUseCase
 {
+    /** @var ReadCompanyJsonUtility */
+    private $readCompanyJsonUtility;
+
     /** @var CompanyRepository */
     private $companyRepository;
 
@@ -14,21 +19,22 @@ class FindCompanyHistoriesUseCase
     private $historyRepository;
 
     public function __construct(
+        ReadCompanyJsonUtility $readCompanyJsonUtility,
         CompanyRepository $companyRepository,
         HistoryRepository $historyRepository
     ) {
+        $this->readCompanyJsonUtility = $readCompanyJsonUtility;
         $this->companyRepository = $companyRepository;
         $this->historyRepository = $historyRepository;
     }
 
     /**
-     * １企業ごとの沿革を表示する
+     * 企業詳細を取得
      *
-     * @param string $stockCode
-     *
+     * @return void
      */
-    public function execute(string $stockCode)
+    public function execute($stockCode)
     {
-        return $this->historyRepository->findCompanyHistories($stockCode);
+        return $this->historyRepository->findCompanyHistory($stockCode);
     }
 }

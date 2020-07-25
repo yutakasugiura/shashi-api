@@ -42,15 +42,23 @@ class CompanyRepository
             ->first();
     }
 
-    public function showCompanyLists(): Collection
+    /**
+     * 企業一覧を取得（Enableのみ）
+     *
+     * @param string $status
+     * @return Collection
+     */
+    public function showCompanyLists(string $status): Collection
     {
-        return $this->eloquentCompany->get();
+        return $this->eloquentCompany
+            ->where('status', $status)
+            ->get();
     }
 
     public function updateCompanyStatus(string $stockCode, string $status): void
     {
         $this->eloquentCompany
-            ->where('stock_code', $stockCode)
+            ->where('status', $status)
             ->update(['status' => $status]);
     }
 }

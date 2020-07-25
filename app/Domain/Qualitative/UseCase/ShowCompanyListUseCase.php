@@ -28,8 +28,15 @@ class ShowCompanyListUseCase
         $this->historyRepository = $historyRepository;
     }
 
+    /**
+     * 企業一覧を取得（Enableのみ）
+     *
+     * @return void
+     */
     public function execute()
     {
-        return $this->companyRepository->showCompanyLists();
+        $status = config('company_status.enable');
+
+        return $this->companyRepository->showCompanyLists($status);
     }
 }

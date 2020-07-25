@@ -7,7 +7,7 @@ use App\Repository\CompanyRepository;
 use App\Repository\HistoryRepository;
 use App\Domain\Utility\ReadCompanyJsonUtility;
 
-class CreateCompanyUseCase
+class ImportCompanyUseCase
 {
     /** @var ReadCompanyJsonUtility */
     private $readCompanyJsonUtility;
@@ -29,32 +29,29 @@ class CreateCompanyUseCase
     }
 
     /**
-     * 1. Import json
+     * Undocumented function
      *
-     * 2. Find Company
-     *
-     * 3. Update Status
-     *
-     * 4. Create Histories etc...
-     *
-     * @param string $url
+     * @param string $stockCode
      * @return void
      */
     public function execute(
-        string $url
+        string $stockCode
     ) {
-        //read json
+        //Jsonを読み込む
+        $url = storage_path('json/qualitative/'.$stockCode.'.json');
         $company = $this->readCompanyJsonUtility->convertJsonToArray($url);
 
-        $stockCode = $company->get('stock_code');
-
+        //企業の表示ステータスを有効化
         $status = config('company_status.enable');
-
         $this->companyRepository->updateCompanyStatus($stockCode, $status);
 
+        //企業の外部キーを取得
         $companyId = $this->companyRepository->findCompany($stockCode)->id;
 
-        //2. create History
+        //沿革の削除（過去分がある場合）
+        $this->historyRepository->deleteHistory($companyId);
+
+        //沿革を永続化
         $histories = $company->get('histories');
 
         if (isset($histories)) {
@@ -63,7 +60,7 @@ class CreateCompanyUseCase
 
                 $history = $this->historyRepository->createHistory(
                     $companyId,
-                    $history['tag_id'],
+                    $history['history_tag_id'],
                     $history['region_id'],
                     $year,
                     $history['summary'],
@@ -72,11 +69,7 @@ class CreateCompanyUseCase
             }
         }
 
-        //補足情報を永続化する
-        //TODO: 後日実装
-
-
-        //歴代経営陣を永続化する
+        //業績を永続化
         //TODO: 後日実装
     }
 }

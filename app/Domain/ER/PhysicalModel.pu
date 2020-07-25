@@ -49,9 +49,9 @@ package 定性ドメイン {
             # id [PK]
             --
             # company_id [FK]
-            # tag_id [FK]
+            # historyTag_id [FK]
             # region_id [FK]
-            # exective_id [FK]
+            # exective_id [FK] (Phase2)
             --
             - year [date]
             - summary [varchar]

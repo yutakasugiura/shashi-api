@@ -73,6 +73,7 @@
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
             </form>
+            <p><a href="./api/company/6758">ソニーの企業詳細をAPIで取得</a></p>
 
         </div>
     </div>

@@ -74,6 +74,8 @@
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
             </form>
             <p><a href="./api/company/6758">ソニーの企業詳細をAPIで取得</a></p>
+            <h2><a href="http://localhost:3000/">Nuxt.js - localhost:3000</a></h2>
+            <p><a href="http://localhost:3000/tse/6758/">Nuxt.js - SONY</a></p>
 
         </div>
     </div>

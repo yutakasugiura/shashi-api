@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>{{ companies[0].company_name }}</h1>
-    <div v-for="item in companies" :key="item.id">
+    <h1>{{ company.name }}</h1>
+    <p>{{ company.founder }}</p>
+    <div v-for="item in company.histories" :key="item.id">
       <p>{{ item.year }}</p>
       <hr />
       <p>{{ item.detail }}</p>
@@ -12,8 +13,6 @@
       <hr />
       <p>{{ item.region }}</p>
     </div>
-    <h2>沿革詳細</h2>
-    <p>{{ companies }}</p>
   </div>
 </template>
 
@@ -24,7 +23,7 @@ export default {
       `http://localhost:8000/api/company/${params.id}`
     );
     return {
-      companies: company,
+      company: company,
     };
   },
 };

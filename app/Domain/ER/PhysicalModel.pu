@@ -1,0 +1,250 @@
+@startuml
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+package 定性ドメイン {
+    package 企業グループ <<Rectangle>> {
+        entity "companies" {
+            # id [PK]
+            --
+            - stock_code [int]
+            - name [varchar]
+            - status [varchar]
+            --
+        }
+        note right
+        あらかじめ上場企業約3600社のデータを格納
+        ・nullを許容したくないため、項目は最小限
+        ・詳細項目は「1:1」の企業詳細テーブルで管理
+        ・ステータスで「非表示/編集中/表示」を管理
+        endnote
+
+        entity "company_details" {
+            # id [PK]
+            # company_id [FK]
+            # industry_id [FK]
+            --
+            - summary [varchar]
+            - detail [varchar]
+            - founder [varchar]
+            - found_year [date]
+            - found_region [varchar]
+            - ipo_year [date]
+            - ipo_type [varchar]
+            - top_img_path [varchar]
+            - person_img_path [varchar]
+            --
+        }
+
+        entity "industries" {
+            # id [PK]
+            --
+            - name [varchar]
+        }
+    }
+
+    package 沿革 <<Rectangle>> {
+        entity "histories" {
+            # id [PK]
+            --
+            # company_id [FK]
+            # tag_id [FK]
+            # region_id [FK]
+            # exective_id [FK]
+            --
+            - year [date]
+            - summary [varchar]
+            - detail [varchar]
+            --
+        }
+
+        entity "history_tags" {
+            # id [PK]
+            --
+            - name [varchar]
+            - classification [varchar]
+            --
+        }
+
+        entity "regions" {
+            # id [PK]
+            --
+            - name [varchar]
+            --
+        }
+        note left
+        <b>国内外で管理の粒度を変える</b>
+        日本：都道府県別に管理
+        海外：国別に管理
+        end note
+    }
+
+    package  歴代経営陣(Phase2) <<Rectangle>> {
+        entity "exectives" {
+            # id [PK]
+            --
+            - type [varchar]
+            --
+        }
+
+        entity "company_exective" {
+            # id [PK]
+            --
+            # comapny_id [FK]
+            # exective_id [FK]
+            --
+            - name [varchar]
+            - summary [varchar]
+            - detail [varchar]
+            - memo [varchar]
+            - started_at [date]
+            - ended_at [date]
+            --
+        }
+    }
+}
+
+package 定量ドメイン {
+    package 業績グループ <<Rectangle>> {
+        entity "performances_pahse2" {
+            # id [PK]
+            --
+            # company_id [FK]
+            # type_id [FK]
+            --
+            - FY1980 [int]
+            - FY1981 [int]
+            - FY1982 [int]
+            - FY1983 [int]
+            - FY1984 [int]
+            - FY1985 [int]
+            - FY1986 [int]
+            - FY1987 [int]
+            - FY1988 [int]
+            - FY1989 [int]
+            - FY1990 [int]
+            - FY1991 [int]
+            - FY1992 [int]
+            - FY1993 [int]
+            - FY1994 [int]
+            - FY1995 [int]
+            - FY1996 [int]
+            - FY1997 [int]
+            - FY1998 [int]
+            - FY1999 [int]
+            - FY2000 [int]
+            - FY2001 [int]
+            - FY2002 [int]
+            - FY2003 [int]
+            - FY2004 [int]
+            - FY2005 [int]
+            - FY2006 [int]
+            - FY2007 [int]
+            - FY2008 [int]
+            - FY2009 [int]
+            - FY2010 [int]
+            - FY2011 [int]
+            - FY2012 [int]
+            - FY2013 [int]
+            - FY2014 [int]
+            - FY2015 [int]
+            - FY2016 [int]
+            - FY2017 [int]
+            - FY2018 [int]
+            - FY2019 [int]
+            - FY2020 [int]
+            - FY2021 [int]
+            - FY2022 [int]
+            - FY2023 [int]
+            - FY2024 [int]
+            - FY2025 [int]
+            - FY2026 [int]
+            - FY2027 [int]
+            - FY2028 [int]
+            - FY2029 [int]
+            - FY2030 [int]
+            - memo [varchar]
+            --
+        }
+        note left
+        <b>Phase2向けのテーブル</b>
+        ・金融庁APIとの連携が前提
+        ・年別の売上を抽出可能とする
+        end note
+
+        entity "performance_types" {
+            # id [PK]
+            --
+            - type_name [varchar]
+            - unit [varchar]
+            --
+        }
+        note right
+        <b>Phase2向けのテーブル</b>
+        各指標をタイプ別に管理する
+        + 決算月
+        + 売上高
+        + 営業利益
+        + 経常利益
+        + 純利益
+        + 特別損失
+        + 減損損失
+        unitで金額単位を管理
+        + 億円
+        + 億ドル
+        end note
+
+        entity "performances" {
+        # id [PK]
+        # company_id [FK]
+        --
+        - closing_year [varchar]
+        - sales [varchar]
+        - profit [varchar]
+        - sales_type [varchar]
+        - profit_type [varchar]
+        - sales_rgba [varchar]
+        - profit_rgba [varchar]
+        --
+        }
+        note left
+        <b>Phase1向け暫定テーブル</b>
+        ・各指標をタイプ別に管理する
+        - 各項目に配列を格納して業績を表示する
+        end note
+    }
+}
+
+package 認証ドメイン {
+    package 認証 <<Rectangle>> {
+        entity "admins" {
+            # id [PK]
+            --
+            - account_name
+            - cognito
+            - email
+            --
+        }
+    }
+    note right
+    AWS Cognitoを利用
+    ・パスワードはCognitoで管理
+    ・Laravel側には秘匿情報を保持しない
+    endnote
+}
+
+' リレーションの定義
+companies ||--o| company_details
+companies ||--o{ performances_pahse2
+companies ||--o{ performances
+companies ||--o{ histories
+companies ||--o{ company_exective
+histories }o--|| company_exective
+histories }|--|| history_tags
+histories }o--|| regions
+exectives ||--o{ company_exective
+company_details }o--|| industries
+performance_types ||--o{ performances_pahse2
+
+@enduml

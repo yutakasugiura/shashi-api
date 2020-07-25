@@ -29,11 +29,13 @@ class CreateCompanyUseCase
     }
 
     /**
-     * 1. Import json URL
+     * 1. Import json
      *
-     * 2. Create Company
+     * 2. Find Company
      *
-     * 3. Create Histories etc...
+     * 3. Update Status
+     *
+     * 4. Create Histories etc...
      *
      * @param string $url
      * @return void
@@ -44,13 +46,15 @@ class CreateCompanyUseCase
         //read json
         $company = $this->readCompanyJsonUtility->convertJsonToArray($url);
 
-        //1. create company
         $stockCode = $company->get('stock_code');
-        $companyName = $company->get('name');
-        $companyId = $this->companyRepository->createCompany($stockCode, $companyName)->id;
+
+        $status = config('company_status.enable');
+
+        $this->companyRepository->updateCompanyStatus($stockCode, $status);
+
+        $companyId = $this->companyRepository->findCompany($stockCode)->id;
 
         //2. create History
-
         $histories = $company->get('histories');
 
         if (isset($histories)) {

@@ -20,11 +20,6 @@ class CompaniesTableSeeder extends Seeder
 
         $companies = config('company');
 
-        foreach ($companies as $item) {
-            $item['created_at'] = $now;
-            $item['updated_at'] = $now;
-        }
-
         DB::table('companies')->truncate();
 
         DB::table('companies')->insert($companies);

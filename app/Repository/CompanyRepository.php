@@ -22,26 +22,21 @@ class CompanyRepository
         $this->eloquentHistory = $eloquentHistory;
     }
 
-    /**
-     * Undocumented function
-     *
-     * @param string $stockCode
-     * @param string $companyName
-     * @return Company
-     */
     public function createCompany(
         string $stockCode,
-        string $companyName
+        string $companyName,
+        string $status
     ): Company {
         return $this->eloquentCompany->updateOrCreate([
             'stock_code'   => $stockCode,
-            'name' => $companyName
+            'name' => $companyName,
+            'status' => $status,
         ]);
     }
 
     public function findCompany(
         string $stockCode
-    ): Company {
+    ): ?Company {
         return $this->eloquentCompany
             ->where('stock_code', $stockCode)
             ->first();
@@ -50,5 +45,12 @@ class CompanyRepository
     public function showCompanyLists(): Collection
     {
         return $this->eloquentCompany->get();
+    }
+
+    public function updateCompanyStatus(string $stockCode, string $status): void
+    {
+        $this->eloquentCompany
+            ->where('stock_code', $stockCode)
+            ->update(['status' => $status]);
     }
 }

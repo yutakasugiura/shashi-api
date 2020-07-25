@@ -19,6 +19,8 @@ class CreateCompaniesTable extends Migration
                 ->comment('株式コード');
             $table->string('name')
                 ->comment('会社名');
+            $table->string('status')
+                ->comment('ステータス');
             $table->timestamps();
         });
     }

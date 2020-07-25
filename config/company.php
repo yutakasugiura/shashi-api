@@ -3,15134 +3,18917 @@
 return [
     [
         'stock_code' => 1301,
-        'name'       => '極洋'
+        'name'       => '極洋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1332,
-        'name'       => '日本水産'
+        'name'       => '日本水産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1333,
-        'name'       => 'マルハニチロ'
+        'name'       => 'マルハニチロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1352,
-        'name'       => 'ホウスイ'
+        'name'       => 'ホウスイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1376,
-        'name'       => 'カネコ種苗'
+        'name'       => 'カネコ種苗',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1377,
-        'name'       => 'サカタのタネ'
+        'name'       => 'サカタのタネ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1379,
-        'name'       => 'ホクト'
+        'name'       => 'ホクト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1380,
-        'name'       => '秋川牧園'
+        'name'       => '秋川牧園',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1381,
-        'name'       => 'アクシーズ'
+        'name'       => 'アクシーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1382,
-        'name'       => 'ホーブ'
+        'name'       => 'ホーブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1383,
-        'name'       => 'ベルグアース'
+        'name'       => 'ベルグアース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1384,
-        'name'       => 'ホクリヨウ'
+        'name'       => 'ホクリヨウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1400,
-        'name'       =>	'ルーデン・ホールディングス'
+        'name'       =>	'ルーデン・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1401,
-        'name'       =>	'エムビーエス'
+        'name'       =>	'エムビーエス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1407,
-        'name'       =>	'ウエストホールディングス'
+        'name'       =>	'ウエストホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1413,
-        'name'       =>	'ヒノキヤグループ'
+        'name'       =>	'ヒノキヤグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1414,
-        'name'       =>	'ショーボンドホールディングス'
+        'name'       =>	'ショーボンドホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1417,
-        'name'       =>	'ミライト・ホールディングス'
+        'name'       =>	'ミライト・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1418,
-        'name'       =>	'インターライフホールディングス'
+        'name'       =>	'インターライフホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1419,
-        'name'       =>	'タマホーム'
+        'name'       =>	'タマホーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1420,
-        'name'       =>	'サンヨーホームズ'
+        'name'       =>	'サンヨーホームズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1429,
-        'name'       =>	'日本アクア'
+        'name'       =>	'日本アクア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1430,
-        'name'       =>	'ファーストコーポレーション'
+        'name'       =>	'ファーストコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1431,
-        'name'       =>	'Ｌｉｂ　Ｗｏｒｋ'
+        'name'       =>	'Ｌｉｂ　Ｗｏｒｋ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1432,
-        'name'       =>	'動力'
+        'name'       =>	'動力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1433,
-        'name'       =>	'ベステラ'
+        'name'       =>	'ベステラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1434,
-        'name'       =>	'ＪＥＳＣＯホールディングス'
+        'name'       =>	'ＪＥＳＣＯホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1435,
-        'name'       =>	'ＴＡＴＥＲＵ'
+        'name'       =>	'ＴＡＴＥＲＵ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1436,
-        'name'       =>	'フィット'
+        'name'       =>	'フィット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1439,
-        'name'       =>	'安江工務店'
+        'name'       =>	'安江工務店',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1440,
-        'name'       =>	'やまぜんホームズ'
+        'name'       =>	'やまぜんホームズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1443,
-        'name'       =>	'技研ホールディングス'
+        'name'       =>	'技研ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1445,
-        'name'       =>	'ひかりホールディングス'
+        'name'       =>	'ひかりホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1446,
-        'name'       =>	'キャンディル'
+        'name'       =>	'キャンディル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1447,
-        'name'       =>	'ＩＴｂｏｏｋホールディングス'
+        'name'       =>	'ＩＴｂｏｏｋホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1448,
-        'name'       =>	'スペースバリューホールディングス'
+        'name'       =>	'スペースバリューホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1450,
-        'name'       =>	'田中建設工業'
+        'name'       =>	'田中建設工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1451,
-        'name'       =>	'ＫＨＣ'
+        'name'       =>	'ＫＨＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1452,
-        'name'       =>	'横浜ライト工業'
+        'name'       =>	'横浜ライト工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1491,
-        'name'       =>	'中外鉱業'
+        'name'       =>	'中外鉱業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1514,
-        'name'       =>	'住石ホールディングス'
+        'name'       =>	'住石ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1515,
-        'name'       =>	'日鉄鉱業'
+        'name'       =>	'日鉄鉱業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1518,
-        'name'       =>	'三井松島ホールディングス'
+        'name'       =>	'三井松島ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1605,
-        'name'       =>	'国際石油開発帝石'
+        'name'       =>	'国際石油開発帝石',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1662,
-        'name'       =>	'石油資源開発'
+        'name'       =>	'石油資源開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1663,
-        'name'       =>	'Ｋ＆Ｏエナジーグループ'
+        'name'       =>	'Ｋ＆Ｏエナジーグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1711,
-        'name'       =>	'省電舎ホールディングス'
+        'name'       =>	'省電舎ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1712,
-        'name'       =>	'ダイセキ環境ソリューション'
+        'name'       =>	'ダイセキ環境ソリューション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1716,
-        'name'       =>	'第一カッター興業'
+        'name'       =>	'第一カッター興業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1717,
-        'name'       =>	'明豊ファシリティワークス'
+        'name'       =>	'明豊ファシリティワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1718,
-        'name'       =>	'美樹工業'
+        'name'       =>	'美樹工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1719,
-        'name'       =>	'安藤・間'
+        'name'       =>	'安藤・間',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1720,
-        'name'       =>	'東急建設'
+        'name'       =>	'東急建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1721,
-        'name'       =>	'コムシスホールディングス'
+        'name'       =>	'コムシスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1723,
-        'name'       =>	'日本電技'
+        'name'       =>	'日本電技',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1724,
-        'name'       =>	'シンクレイヤ'
+        'name'       =>	'シンクレイヤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1726,
-        'name'       =>	'ビーアールホールディングス'
+        'name'       =>	'ビーアールホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1728,
-        'name'       =>	'ミサワホーム中国'
+        'name'       =>	'ミサワホーム中国',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1730,
-        'name'       =>	'麻生フオームクリート'
+        'name'       =>	'麻生フオームクリート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1736,
-        'name'       =>	'オーテック'
+        'name'       =>	'オーテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1737,
-        'name'       =>	'三井金属エンジニアリング'
+        'name'       =>	'三井金属エンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1739,
-        'name'       =>	'シード平和'
+        'name'       =>	'シード平和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1743,
-        'name'       =>	'コーアツ工業'
+        'name'       =>	'コーアツ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1757,
-        'name'       =>	'クレアホールディングス'
+        'name'       =>	'クレアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1758,
-        'name'       =>	'太洋基礎工業'
+        'name'       =>	'太洋基礎工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1762,
-        'name'       =>	'高松コンストラクショングループ'
+        'name'       =>	'高松コンストラクショングループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1764,
-        'name'       =>	'工藤建設'
+        'name'       =>	'工藤建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1766,
-        'name'       =>	'東建コーポレーション'
+        'name'       =>	'東建コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1768,
-        'name'       =>	'ソネック'
+        'name'       =>	'ソネック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1770,
-        'name'       =>	'藤田エンジニアリング'
+        'name'       =>	'藤田エンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1773,
-        'name'       =>	'ワイ・ティー・エル・コーポレーション・バーハッド'
+        'name'       =>	'ワイ・ティー・エル・コーポレーション・バーハッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1775,
-        'name'       =>	'富士古河Ｅ＆Ｃ'
+        'name'       =>	'富士古河Ｅ＆Ｃ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1776,
-        'name'       =>	'三井住建道路'
+        'name'       =>	'三井住建道路',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1780,
-        'name'       =>	'ヤマウラ'
+        'name'       =>	'ヤマウラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1782,
-        'name'       =>	'常磐開発'
+        'name'       =>	'常磐開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1783,
-        'name'       =>	'アジアゲートホールディングス'
+        'name'       =>	'アジアゲートホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1787,
-        'name'       =>	'ナカボーテック'
+        'name'       =>	'ナカボーテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1788,
-        'name'       =>	'三東工業社'
+        'name'       =>	'三東工業社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1789,
-        'name'       =>	'ＥＴＳホールディングス'
+        'name'       =>	'ＥＴＳホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1793,
-        'name'       =>	'大本組'
+        'name'       =>	'大本組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1795,
-        'name'       =>	'マサル'
+        'name'       =>	'マサル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1798,
-        'name'       =>	'守谷商会'
+        'name'       =>	'守谷商会',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1799,
-        'name'       =>	'第一建設工業'
+        'name'       =>	'第一建設工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1801,
-        'name'       =>	'大成建設'
+        'name'       =>	'大成建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1802,
-        'name'       =>	'大林組'
+        'name'       =>	'大林組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1803,
-        'name'       =>	'清水建設'
+        'name'       =>	'清水建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1805,
-        'name'       =>	'飛島建設'
+        'name'       =>	'飛島建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1807,
-        'name'       =>	'佐藤渡辺'
+        'name'       =>	'佐藤渡辺',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1808,
-        'name'       =>	'長谷工コーポレーション'
+        'name'       =>	'長谷工コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1810,
-        'name'       =>	'松井建設'
+        'name'       =>	'松井建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1811,
-        'name'       =>	'錢高組'
+        'name'       =>	'錢高組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1812,
-        'name'       =>	'鹿島建設'
+        'name'       =>	'鹿島建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1813,
-        'name'       =>	'不動テトラ'
+        'name'       =>	'不動テトラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1814,
-        'name'       =>	'大末建設'
+        'name'       =>	'大末建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1815,
-        'name'       =>	'鉄建建設'
+        'name'       =>	'鉄建建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1820,
-        'name'       =>	'西松建設'
+        'name'       =>	'西松建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1821,
-        'name'       =>	'三井住友建設'
+        'name'       =>	'三井住友建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1822,
-        'name'       =>	'大豊建設'
+        'name'       =>	'大豊建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1824,
-        'name'       =>	'前田建設工業'
+        'name'       =>	'前田建設工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1826,
-        'name'       =>	'佐田建設'
+        'name'       =>	'佐田建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1827,
-        'name'       =>	'ナカノフドー建設'
+        'name'       =>	'ナカノフドー建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1828,
-        'name'       =>	'田辺工業'
+        'name'       =>	'田辺工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1833,
-        'name'       =>	'奥村組'
+        'name'       =>	'奥村組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1835,
-        'name'       =>	'東鉄工業'
+        'name'       =>	'東鉄工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1840,
-        'name'       =>	'土屋ホールディングス'
+        'name'       =>	'土屋ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1841,
-        'name'       =>	'サンユー建設'
+        'name'       =>	'サンユー建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1844,
-        'name'       =>	'大盛工業'
+        'name'       =>	'大盛工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1847,
-        'name'       =>	'イチケン'
+        'name'       =>	'イチケン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1848,
-        'name'       =>	'富士ピー・エス'
+        'name'       =>	'富士ピー・エス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1850,
-        'name'       =>	'南海辰村建設'
+        'name'       =>	'南海辰村建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1852,
-        'name'       =>	'淺沼組'
+        'name'       =>	'淺沼組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1853,
-        'name'       =>	'森組'
+        'name'       =>	'森組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1860,
-        'name'       =>	'戸田建設'
+        'name'       =>	'戸田建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1861,
-        'name'       =>	'熊谷組'
+        'name'       =>	'熊谷組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1866,
-        'name'       =>	'北野建設'
+        'name'       =>	'北野建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1867,
-        'name'       =>	'植木組'
+        'name'       =>	'植木組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1870,
-        'name'       =>	'矢作建設工業'
+        'name'       =>	'矢作建設工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1871,
-        'name'       =>	'ピーエス三菱'
+        'name'       =>	'ピーエス三菱',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1873,
-        'name'       =>	'日本ハウスホールディングス'
+        'name'       =>	'日本ハウスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1878,
-        'name'       =>	'大東建託'
+        'name'       =>	'大東建託',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1879,
-        'name'       =>	'新日本建設'
+        'name'       =>	'新日本建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1881,
-        'name'       =>	'ＮＩＰＰＯ'
+        'name'       =>	'ＮＩＰＰＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1882,
-        'name'       =>	'東亜道路工業'
+        'name'       =>	'東亜道路工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1883,
-        'name'       =>	'前田道路'
+        'name'       =>	'前田道路',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1884,
-        'name'       =>	'日本道路'
+        'name'       =>	'日本道路',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1885,
-        'name'       =>	'東亜建設工業'
+        'name'       =>	'東亜建設工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1887,
-        'name'       =>	'日本国土開発'
+        'name'       =>	'日本国土開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1888,
-        'name'       =>	'若築建設'
+        'name'       =>	'若築建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1890,
-        'name'       =>	'東洋建設'
+        'name'       =>	'東洋建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1893,
-        'name'       =>	'五洋建設'
+        'name'       =>	'五洋建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1897,
-        'name'       =>	'金下建設'
+        'name'       =>	'金下建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1898,
-        'name'       =>	'世紀東急工業'
+        'name'       =>	'世紀東急工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1899,
-        'name'       =>	'福田組'
+        'name'       =>	'福田組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1904,
-        'name'       =>	'大成温調'
+        'name'       =>	'大成温調',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1905,
-        'name'       =>	'テノックス'
+        'name'       =>	'テノックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1909,
-        'name'       =>	'日本ドライケミカル'
+        'name'       =>	'日本ドライケミカル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1911,
-        'name'       =>	'住友林業'
+        'name'       =>	'住友林業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1914,
-        'name'       =>	'日本基礎技術'
+        'name'       =>	'日本基礎技術',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1921,
-        'name'       =>	'巴コーポレーション'
+        'name'       =>	'巴コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1925,
-        'name'       =>	'大和ハウス工業'
+        'name'       =>	'大和ハウス工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1926,
-        'name'       =>	'ライト工業'
+        'name'       =>	'ライト工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1928,
-        'name'       =>	'積水ハウス'
+        'name'       =>	'積水ハウス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1929,
-        'name'       =>	'日特建設'
+        'name'       =>	'日特建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1930,
-        'name'       =>	'北陸電気工事'
+        'name'       =>	'北陸電気工事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1934,
-        'name'       =>	'ユアテック'
+        'name'       =>	'ユアテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1938,
-        'name'       =>	'日本リーテック'
+        'name'       =>	'日本リーテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1939,
-        'name'       =>	'四電工'
+        'name'       =>	'四電工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1941,
-        'name'       =>	'中電工'
+        'name'       =>	'中電工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1942,
-        'name'       =>	'関電工'
+        'name'       =>	'関電工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1944,
-        'name'       =>	'きんでん'
+        'name'       =>	'きんでん',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1945,
-        'name'       =>	'東京エネシス'
+        'name'       =>	'東京エネシス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1946,
-        'name'       =>	'トーエネック'
+        'name'       =>	'トーエネック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1948,
-        'name'       =>	'弘電社'
+        'name'       =>	'弘電社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1949,
-        'name'       =>	'住友電設'
+        'name'       =>	'住友電設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1950,
-        'name'       =>	'日本電設工業'
+        'name'       =>	'日本電設工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1951,
-        'name'       =>	'協和エクシオ'
+        'name'       =>	'協和エクシオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1952,
-        'name'       =>	'新日本空調'
+        'name'       =>	'新日本空調',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1954,
-        'name'       =>	'日本工営'
+        'name'       =>	'日本工営',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1959,
-        'name'       =>	'九電工'
+        'name'       =>	'九電工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1960,
-        'name'       =>	'サンテック'
+        'name'       =>	'サンテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1961,
-        'name'       =>	'三機工業'
+        'name'       =>	'三機工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1963,
-        'name'       =>	'日揮ホールディングス'
+        'name'       =>	'日揮ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1964,
-        'name'       =>	'中外炉工業'
+        'name'       =>	'中外炉工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1965,
-        'name'       =>	'テクノ菱和'
+        'name'       =>	'テクノ菱和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1966,
-        'name'       =>	'高田工業所'
+        'name'       =>	'高田工業所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1967,
-        'name'       =>	'ヤマト'
+        'name'       =>	'ヤマト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1968,
-        'name'       =>	'太平電業'
+        'name'       =>	'太平電業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1969,
-        'name'       =>	'高砂熱学工業'
+        'name'       =>	'高砂熱学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1971,
-        'name'       =>	'中央ビルト工業'
+        'name'       =>	'中央ビルト工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1972,
-        'name'       =>	'三晃金属工業'
+        'name'       =>	'三晃金属工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1973,
-        'name'       =>	'ＮＥＣネッツエスアイ'
+        'name'       =>	'ＮＥＣネッツエスアイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1975,
-        'name'       =>	'朝日工業社'
+        'name'       =>	'朝日工業社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1976,
-        'name'       =>	'明星工業'
+        'name'       =>	'明星工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1979,
-        'name'       =>	'大氣社'
+        'name'       =>	'大氣社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1980,
-        'name'       =>	'ダイダン'
+        'name'       =>	'ダイダン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1981,
-        'name'       =>	'協和日成'
+        'name'       =>	'協和日成',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1982,
-        'name'       =>	'日比谷総合設備'
+        'name'       =>	'日比谷総合設備',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1992,
-        'name'       =>	'神田通信機'
+        'name'       =>	'神田通信機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1994,
-        'name'       =>	'高橋カーテンウォール工業'
+        'name'       =>	'高橋カーテンウォール工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 1997,
-        'name'       =>	'暁飯島工業'
+        'name'       =>	'暁飯島工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2001,
-        'name'       =>	'日本製粉'
+        'name'       =>	'日本製粉',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2002,
-        'name'       =>	'日清製粉グループ本社'
+        'name'       =>	'日清製粉グループ本社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2003,
-        'name'       =>	'日東富士製粉'
+        'name'       =>	'日東富士製粉',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2004,
-        'name'       =>	'昭和産業'
+        'name'       =>	'昭和産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2009,
-        'name'       =>	'鳥越製粉'
+        'name'       =>	'鳥越製粉',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2053,
-        'name'       =>	'中部飼料'
+        'name'       =>	'中部飼料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2055,
-        'name'       =>	'日和産業'
+        'name'       =>	'日和産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2060,
-        'name'       =>	'フィード・ワン'
+        'name'       =>	'フィード・ワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2107,
-        'name'       =>	'東洋精糖'
+        'name'       =>	'東洋精糖',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2108,
-        'name'       =>	'日本甜菜製糖'
+        'name'       =>	'日本甜菜製糖',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2109,
-        'name'       =>	'三井製糖'
+        'name'       =>	'三井製糖',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2112,
-        'name'       =>	'塩水港精糖'
+        'name'       =>	'塩水港精糖',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2114,
-        'name'       =>	'フジ日本精糖'
+        'name'       =>	'フジ日本精糖',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2117,
-        'name'       =>	'日新製糖'
+        'name'       =>	'日新製糖',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2120,
-        'name'       =>	'ＬＩＦＵＬＬ'
+        'name'       =>	'ＬＩＦＵＬＬ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2121,
-        'name'       =>	'ミクシィ'
+        'name'       =>	'ミクシィ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2122,
-        'name'       =>	'インタースペース'
+        'name'       =>	'インタースペース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2124,
-        'name'       =>	'ジェイエイシーリクルートメント'
+        'name'       =>	'ジェイエイシーリクルートメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2127,
-        'name'       =>	'日本Ｍ＆Ａセンター'
+        'name'       =>	'日本Ｍ＆Ａセンター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2130,
-        'name'       =>	'メンバーズ'
+        'name'       =>	'メンバーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2134,
-        'name'       =>	'燦キャピタルマネージメント'
+        'name'       =>	'燦キャピタルマネージメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2136,
-        'name'       =>	'ヒップ'
+        'name'       =>	'ヒップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2138,
-        'name'       =>	'クルーズ'
+        'name'       =>	'クルーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2139,
-        'name'       =>	'中広'
+        'name'       =>	'中広',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2146,
-        'name'       =>	'ＵＴグループ'
+        'name'       =>	'ＵＴグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2148,
-        'name'       =>	'アイティメディア'
+        'name'       =>	'アイティメディア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2150,
-        'name'       =>	'ケアネット'
+        'name'       =>	'ケアネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2151,
-        'name'       =>	'タケエイ'
+        'name'       =>	'タケエイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2152,
-        'name'       =>	'幼児活動研究会'
+        'name'       =>	'幼児活動研究会',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2153,
-        'name'       =>	'Ｅ・Ｊホールディングス'
+        'name'       =>	'Ｅ・Ｊホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2154,
-        'name'       =>	'ビーネックスグループ'
+        'name'       =>	'ビーネックスグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2156,
-        'name'       =>	'セーラー広告'
+        'name'       =>	'セーラー広告',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2157,
-        'name'       =>	'コシダカホールディングス'
+        'name'       =>	'コシダカホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2158,
-        'name'       =>	'ＦＲＯＮＴＥＯ'
+        'name'       =>	'ＦＲＯＮＴＥＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2159,
-        'name'       =>	'フルスピード'
+        'name'       =>	'フルスピード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2160,
-        'name'       =>	'ジーエヌアイグループ'
+        'name'       =>	'ジーエヌアイグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2162,
-        'name'       =>	'ｎｍｓ　ホールディングス'
+        'name'       =>	'ｎｍｓ　ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2163,
-        'name'       =>	'アルトナー'
+        'name'       =>	'アルトナー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2164,
-        'name'       =>	'地域新聞社'
+        'name'       =>	'地域新聞社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2168,
-        'name'       =>	'パソナグループ'
+        'name'       =>	'パソナグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2169,
-        'name'       =>	'ＣＤＳ'
+        'name'       =>	'ＣＤＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2170,
-        'name'       =>	'リンクアンドモチベーション'
+        'name'       =>	'リンクアンドモチベーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2173,
-        'name'       =>	'博展'
+        'name'       =>	'博展',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2174,
-        'name'       =>	'ＧＣＡ'
+        'name'       =>	'ＧＣＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2175,
-        'name'       =>	'エス・エム・エス'
+        'name'       =>	'エス・エム・エス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2176,
-        'name'       =>	'イナリサーチ'
+        'name'       =>	'イナリサーチ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2178,
-        'name'       =>	'トライステージ'
+        'name'       =>	'トライステージ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2179,
-        'name'       =>	'成学社'
+        'name'       =>	'成学社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2180,
-        'name'       =>	'サニーサイドアップグループ'
+        'name'       =>	'サニーサイドアップグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2181,
-        'name'       =>	'パーソルホールディングス'
+        'name'       =>	'パーソルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2183,
-        'name'       =>	'リニカル'
+        'name'       =>	'リニカル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2185,
-        'name'       =>	'シイエム・シイ'
+        'name'       =>	'シイエム・シイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2186,
-        'name'       =>	'ソーバル'
+        'name'       =>	'ソーバル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2191,
-        'name'       =>	'テラ'
+        'name'       =>	'テラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2193,
-        'name'       =>	'クックパッド'
+        'name'       =>	'クックパッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2195,
-        'name'       =>	'アミタホールディングス'
+        'name'       =>	'アミタホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2196,
-        'name'       =>	'エスクリ'
+        'name'       =>	'エスクリ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2198,
-        'name'       =>	'アイ・ケイ・ケイ'
+        'name'       =>	'アイ・ケイ・ケイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2201,
-        'name'       =>	'森永製菓'
+        'name'       =>	'森永製菓',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2204,
-        'name'       =>	'中村屋'
+        'name'       =>	'中村屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2206,
-        'name'       =>	'江崎グリコ'
+        'name'       =>	'江崎グリコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2207,
-        'name'       =>	'名糖産業'
+        'name'       =>	'名糖産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2208,
-        'name'       =>	'ブルボン'
+        'name'       =>	'ブルボン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2209,
-        'name'       =>	'井村屋グループ'
+        'name'       =>	'井村屋グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2211,
-        'name'       =>	'不二家'
+        'name'       =>	'不二家',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2212,
-        'name'       =>	'山崎製パン'
+        'name'       =>	'山崎製パン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2215,
-        'name'       =>	'第一屋製パン'
+        'name'       =>	'第一屋製パン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2216,
-        'name'       =>	'カンロ'
+        'name'       =>	'カンロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2217,
-        'name'       =>	'モロゾフ'
+        'name'       =>	'モロゾフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2220,
-        'name'       =>	'亀田製菓'
+        'name'       =>	'亀田製菓',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2221,
-        'name'       =>	'岩塚製菓'
+        'name'       =>	'岩塚製菓',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2222,
-        'name'       =>	'寿スピリッツ'
+        'name'       =>	'寿スピリッツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2224,
-        'name'       =>	'コモ'
+        'name'       =>	'コモ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2226,
-        'name'       =>	'湖池屋'
+        'name'       =>	'湖池屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2229,
-        'name'       =>	'カルビー'
+        'name'       =>	'カルビー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2230,
-        'name'       =>	'五洋食品産業'
+        'name'       =>	'五洋食品産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2264,
-        'name'       =>	'森永乳業'
+        'name'       =>	'森永乳業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2266,
-        'name'       =>	'六甲バター'
+        'name'       =>	'六甲バター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2267,
-        'name'       =>	'ヤクルト本社'
+        'name'       =>	'ヤクルト本社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2268,
-        'name'       =>	'Ｂ－Ｒ　サーティワン　アイスクリーム'
+        'name'       =>	'Ｂ－Ｒ　サーティワン　アイスクリーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2269,
-        'name'       =>	'明治ホールディングス'
+        'name'       =>	'明治ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2270,
-        'name'       =>	'雪印メグミルク'
+        'name'       =>	'雪印メグミルク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2281,
-        'name'       =>	'プリマハム'
+        'name'       =>	'プリマハム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2282,
-        'name'       =>	'日本ハム'
+        'name'       =>	'日本ハム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2286,
-        'name'       =>	'林兼産業'
+        'name'       =>	'林兼産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2288,
-        'name'       =>	'丸大食品'
+        'name'       =>	'丸大食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2291,
-        'name'       =>	'福留ハム'
+        'name'       =>	'福留ハム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2292,
-        'name'       =>	'Ｓ　Ｆｏｏｄｓ'
+        'name'       =>	'Ｓ　Ｆｏｏｄｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2293,
-        'name'       =>	'滝沢ハム'
+        'name'       =>	'滝沢ハム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2294,
-        'name'       =>	'柿安本店'
+        'name'       =>	'柿安本店',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2296,
-        'name'       =>	'伊藤ハム米久ホールディングス'
+        'name'       =>	'伊藤ハム米久ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2300,
-        'name'       =>	'きょくとう'
+        'name'       =>	'きょくとう',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2301,
-        'name'       =>	'学情'
+        'name'       =>	'学情',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2303,
-        'name'       =>	'ドーン'
+        'name'       =>	'ドーン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2304,
-        'name'       =>	'ＣＳＳホールディングス'
+        'name'       =>	'ＣＳＳホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2305,
-        'name'       =>	'スタジオアリス'
+        'name'       =>	'スタジオアリス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2307,
-        'name'       =>	'クロスキャット'
+        'name'       =>	'クロスキャット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2309,
-        'name'       =>	'シミックホールディングス'
+        'name'       =>	'シミックホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2311,
-        'name'       =>	'エプコ'
+        'name'       =>	'エプコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2315,
-        'name'       =>	'ＣＡＩＣＡ'
+        'name'       =>	'ＣＡＩＣＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2317,
-        'name'       =>	'システナ'
+        'name'       =>	'システナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2321,
-        'name'       =>	'ソフトフロントホールディングス'
+        'name'       =>	'ソフトフロントホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2323,
-        'name'       =>	'ｆｏｎｆｕｎ'
+        'name'       =>	'ｆｏｎｆｕｎ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2325,
-        'name'       =>	'ＮＪＳ'
+        'name'       =>	'ＮＪＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2326,
-        'name'       =>	'デジタルアーツ'
+        'name'       =>	'デジタルアーツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2327,
-        'name'       =>	'日鉄ソリューションズ'
+        'name'       =>	'日鉄ソリューションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2329,
-        'name'       =>	'東北新社'
+        'name'       =>	'東北新社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2330,
-        'name'       =>	'フォーサイド'
+        'name'       =>	'フォーサイド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2331,
-        'name'       =>	'綜合警備保障'
+        'name'       =>	'綜合警備保障',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2332,
-        'name'       =>	'クエスト'
+        'name'       =>	'クエスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2334,
-        'name'       =>	'イオレ'
+        'name'       =>	'イオレ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2335,
-        'name'       =>	'キューブシステム'
+        'name'       =>	'キューブシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2336,
-        'name'       =>	'富士テクノソリューションズ'
+        'name'       =>	'富士テクノソリューションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2337,
-        'name'       =>	'いちご'
+        'name'       =>	'いちご',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2338,
-        'name'       =>	'ビットワングループ'
+        'name'       =>	'ビットワングループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2340,
-        'name'       =>	'極楽湯ホールディングス'
+        'name'       =>	'極楽湯ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2341,
-        'name'       =>	'アルバイトタイムス'
+        'name'       =>	'アルバイトタイムス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2342,
-        'name'       =>	'トランスジェニック'
+        'name'       =>	'トランスジェニック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2344,
-        'name'       =>	'平安レイサービス'
+        'name'       =>	'平安レイサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2345,
-        'name'       =>	'クシム'
+        'name'       =>	'クシム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2349,
-        'name'       =>	'エヌアイデイ'
+        'name'       =>	'エヌアイデイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2351,
-        'name'       =>	'ＡＳＪ'
+        'name'       =>	'ＡＳＪ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2352,
-        'name'       =>	'エイジア'
+        'name'       =>	'エイジア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2353,
-        'name'       =>	'日本駐車場開発'
+        'name'       =>	'日本駐車場開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2354,
-        'name'       =>	'ＹＥ　ＤＩＧＩＴＡＬ'
+        'name'       =>	'ＹＥ　ＤＩＧＩＴＡＬ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2359,
-        'name'       =>	'コア'
+        'name'       =>	'コア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2362,
-        'name'       =>	'夢真ホールディングス'
+        'name'       =>	'夢真ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2370,
-        'name'       =>	'メディネット'
+        'name'       =>	'メディネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2371,
-        'name'       =>	'カカクコム'
+        'name'       =>	'カカクコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2372,
-        'name'       =>	'アイロムグループ'
+        'name'       =>	'アイロムグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2373,
-        'name'       =>	'ケア２１'
+        'name'       =>	'ケア２１',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2374,
-        'name'       =>	'セントケア・ホールディング'
+        'name'       =>	'セントケア・ホールディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2375,
-        'name'       =>	'ギグワークス'
+        'name'       =>	'ギグワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2376,
-        'name'       =>	'サイネックス'
+        'name'       =>	'サイネックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2378,
-        'name'       =>	'ルネサンス'
+        'name'       =>	'ルネサンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2379,
-        'name'       =>	'ディップ'
+        'name'       =>	'ディップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2384,
-        'name'       =>	'ＳＢＳホールディングス'
+        'name'       =>	'ＳＢＳホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2385,
-        'name'       =>	'総医研ホールディングス'
+        'name'       =>	'総医研ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2388,
-        'name'       =>	'ウェッジホールディングス'
+        'name'       =>	'ウェッジホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2389,
-        'name'       =>	'オプトホールディング'
+        'name'       =>	'オプトホールディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2391,
-        'name'       =>	'プラネット'
+        'name'       =>	'プラネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2393,
-        'name'       =>	'日本ケアサプライ'
+        'name'       =>	'日本ケアサプライ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2395,
-        'name'       =>	'新日本科学'
+        'name'       =>	'新日本科学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2397,
-        'name'       =>	'ＤＮＡチップ研究所'
+        'name'       =>	'ＤＮＡチップ研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2398,
-        'name'       =>	'ツクイ'
+        'name'       =>	'ツクイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2402,
-        'name'       =>	'アマナ'
+        'name'       =>	'アマナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2404,
-        'name'       =>	'鉄人化計画'
+        'name'       =>	'鉄人化計画',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2406,
-        'name'       =>	'アルテ　サロン　ホールディングス'
+        'name'       =>	'アルテ　サロン　ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2408,
-        'name'       =>	'ＫＧ情報'
+        'name'       =>	'ＫＧ情報',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2410,
-        'name'       =>	'キャリアデザインセンター'
+        'name'       =>	'キャリアデザインセンター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2411,
-        'name'       =>	'ゲンダイエージェンシー'
+        'name'       =>	'ゲンダイエージェンシー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2412,
-        'name'       =>	'ベネフィット・ワン'
+        'name'       =>	'ベネフィット・ワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2413,
-        'name'       =>	'エムスリー'
+        'name'       =>	'エムスリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2415,
-        'name'       =>	'ヒューマンホールディングス'
+        'name'       =>	'ヒューマンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2418,
-        'name'       =>	'ツカダ・グローバルホールディング'
+        'name'       =>	'ツカダ・グローバルホールディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2424,
-        'name'       =>	'ブラス'
+        'name'       =>	'ブラス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2425,
-        'name'       =>	'ケアサービス'
+        'name'       =>	'ケアサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2427,
-        'name'       =>	'アウトソーシング'
+        'name'       =>	'アウトソーシング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2428,
-        'name'       =>	'ウェルネット'
+        'name'       =>	'ウェルネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2429,
-        'name'       =>	'ワールドホールディングス'
+        'name'       =>	'ワールドホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2432,
-        'name'       =>	'ディー・エヌ・エー'
+        'name'       =>	'ディー・エヌ・エー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2433,
-        'name'       =>	'博報堂ＤＹホールディングス'
+        'name'       =>	'博報堂ＤＹホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2435,
-        'name'       =>	'シダー'
+        'name'       =>	'シダー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2436,
-        'name'       =>	'共同ピーアール'
+        'name'       =>	'共同ピーアール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2437,
-        'name'       =>	'Ｓｈｉｎｗａ　Ｗｉｓｅ　Ｈｏｌｄｉｎｇｓ'
+        'name'       =>	'Ｓｈｉｎｗａ　Ｗｉｓｅ　Ｈｏｌｄｉｎｇｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2438,
-        'name'       =>	'アスカネット'
+        'name'       =>	'アスカネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2440,
-        'name'       =>	'ぐるなび'
+        'name'       =>	'ぐるなび',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2445,
-        'name'       =>	'タカミヤ'
+        'name'       =>	'タカミヤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2449,
-        'name'       =>	'プラップジャパン'
+        'name'       =>	'プラップジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2452,
-        'name'       =>	'コンピュータマインド'
+        'name'       =>	'コンピュータマインド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2453,
-        'name'       =>	'ジャパンベストレスキューシステム'
+        'name'       =>	'ジャパンベストレスキューシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2454,
-        'name'       =>	'オールアバウト'
+        'name'       =>	'オールアバウト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2459,
-        'name'       =>	'アウンコンサルティング'
+        'name'       =>	'アウンコンサルティング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2461,
-        'name'       =>	'ファンコミュニケーションズ'
+        'name'       =>	'ファンコミュニケーションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2462,
-        'name'       =>	'ライク'
+        'name'       =>	'ライク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2464,
-        'name'       =>	'ビジネス・ブレークスルー'
+        'name'       =>	'ビジネス・ブレークスルー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2468,
-        'name'       =>	'フュートレック'
+        'name'       =>	'フュートレック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2469,
-        'name'       =>	'ヒビノ'
+        'name'       =>	'ヒビノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2471,
-        'name'       =>	'エスプール'
+        'name'       =>	'エスプール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2475,
-        'name'       =>	'ＷＤＢホールディングス'
+        'name'       =>	'ＷＤＢホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2477,
-        'name'       =>	'手間いらず'
+        'name'       =>	'手間いらず',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2479,
-        'name'       =>	'ジェイテック'
+        'name'       =>	'ジェイテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2480,
-        'name'       =>	'システム・ロケーション'
+        'name'       =>	'システム・ロケーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2481,
-        'name'       =>	'タウンニュース社'
+        'name'       =>	'タウンニュース社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2483,
-        'name'       =>	'翻訳センター'
+        'name'       =>	'翻訳センター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2484,
-        'name'       =>	'出前館'
+        'name'       =>	'出前館',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2485,
-        'name'       =>	'ティア'
+        'name'       =>	'ティア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2487,
-        'name'       =>	'ＣＤＧ'
+        'name'       =>	'ＣＤＧ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2488,
-        'name'       =>	'日本サード・パーティ'
+        'name'       =>	'日本サード・パーティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2489,
-        'name'       =>	'アドウェイズ'
+        'name'       =>	'アドウェイズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2491,
-        'name'       =>	'バリューコマース'
+        'name'       =>	'バリューコマース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2492,
-        'name'       =>	'インフォマート'
+        'name'       =>	'インフォマート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2493,
-        'name'       =>	'イーサポートリンク'
+        'name'       =>	'イーサポートリンク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2497,
-        'name'       =>	'ユナイテッド'
+        'name'       =>	'ユナイテッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2498,
-        'name'       =>	'オリエンタルコンサルタンツホールディングス'
+        'name'       =>	'オリエンタルコンサルタンツホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2499,
-        'name'       =>	'日本和装ホールディングス'
+        'name'       =>	'日本和装ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2501,
-        'name'       =>	'サッポロホールディングス'
+        'name'       =>	'サッポロホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2502,
-        'name'       =>	'アサヒグループホールディングス'
+        'name'       =>	'アサヒグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2503,
-        'name'       =>	'キリンホールディングス'
+        'name'       =>	'キリンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2531,
-        'name'       =>	'宝ホールディングス'
+        'name'       =>	'宝ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2533,
-        'name'       =>	'オエノンホールディングス'
+        'name'       =>	'オエノンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2540,
-        'name'       =>	'養命酒製造'
+        'name'       =>	'養命酒製造',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2573,
-        'name'       =>	'北海道コカ・コーラボトリング'
+        'name'       =>	'北海道コカ・コーラボトリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2579,
-        'name'       =>	'コカ・コーラ　ボトラーズジャパンホールディングス'
+        'name'       =>	'コカ・コーラ　ボトラーズジャパンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2586,
-        'name'       =>	'フルッタフルッタ'
+        'name'       =>	'フルッタフルッタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2587,
-        'name'       =>	'サントリー食品インターナショナル'
+        'name'       =>	'サントリー食品インターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2588,
-        'name'       =>	'プレミアムウォーターホールディングス'
+        'name'       =>	'プレミアムウォーターホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2590,
-        'name'       =>	'ダイドーグループホールディングス'
+        'name'       =>	'ダイドーグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2593,
-        'name'       =>	'伊藤園'
+        'name'       =>	'伊藤園',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2593,
-        'name'       =>'伊藤園 優先株式'
+        'name'       =>'伊藤園 優先株式',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2594,
-        'name'       =>	'キーコーヒー'
+        'name'       =>	'キーコーヒー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2597,
-        'name'       =>	'ユニカフェ'
+        'name'       =>	'ユニカフェ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2599,
-        'name'       =>	'ジャパンフーズ'
+        'name'       =>	'ジャパンフーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2602,
-        'name'       =>	'日清オイリオグループ'
+        'name'       =>	'日清オイリオグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2607,
-        'name'       =>	'不二製油グループ本社'
+        'name'       =>	'不二製油グループ本社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2608,
-        'name'       =>	'ボーソー油脂'
+        'name'       =>	'ボーソー油脂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2612,
-        'name'       =>	'かどや製油'
+        'name'       =>	'かどや製油',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2613,
-        'name'       =>	'Ｊ－オイルミルズ'
+        'name'       =>	'Ｊ－オイルミルズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2651,
-        'name'       =>	'ローソン'
+        'name'       =>	'ローソン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2652,
-        'name'       =>	'まんだらけ'
+        'name'       =>	'まんだらけ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2653,
-        'name'       =>	'イオン九州'
+        'name'       =>	'イオン九州',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2654,
-        'name'       =>	'アスモ'
+        'name'       =>	'アスモ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2656,
-        'name'       =>	'ベクター'
+        'name'       =>	'ベクター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2659,
-        'name'       =>	'サンエー'
+        'name'       =>	'サンエー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2664,
-        'name'       =>	'カワチ薬品'
+        'name'       =>	'カワチ薬品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2666,
-        'name'       =>	'オートウェーブ'
+        'name'       =>	'オートウェーブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2667,
-        'name'       =>	'イメージ　ワン'
+        'name'       =>	'イメージ　ワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2668,
-        'name'       =>	'タビオ'
+        'name'       =>	'タビオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2669,
-        'name'       =>	'カネ美食品'
+        'name'       =>	'カネ美食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2670,
-        'name'       =>	'エービーシー・マート'
+        'name'       =>	'エービーシー・マート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2673,
-        'name'       =>	'夢みつけ隊'
+        'name'       =>	'夢みつけ隊',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2674,
-        'name'       =>	'ハードオフコーポレーション'
+        'name'       =>	'ハードオフコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2675,
-        'name'       =>	'ダイナックホールディングス'
+        'name'       =>	'ダイナックホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2676,
-        'name'       =>	'高千穂交易'
+        'name'       =>	'高千穂交易',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2678,
-        'name'       =>	'アスクル'
+        'name'       =>	'アスクル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2681,
-        'name'       =>	'ゲオホールディングス'
+        'name'       =>	'ゲオホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2683,
-        'name'       =>	'魚喜'
+        'name'       =>	'魚喜',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2685,
-        'name'       =>	'アダストリア'
+        'name'       =>	'アダストリア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2686,
-        'name'       =>	'ジーフット'
+        'name'       =>	'ジーフット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2687,
-        'name'       =>	'シー・ヴイ・エス・ベイエリア'
+        'name'       =>	'シー・ヴイ・エス・ベイエリア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2689,
-        'name'       =>	'カワニシホールディングス'
+        'name'       =>	'カワニシホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2692,
-        'name'       =>	'伊藤忠食品'
+        'name'       =>	'伊藤忠食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2693,
-        'name'       =>	'ＹＫＴ'
+        'name'       =>	'ＹＫＴ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2694,
-        'name'       =>	'ジー・テイスト'
+        'name'       =>	'ジー・テイスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2695,
-        'name'       =>	'くら寿司'
+        'name'       =>	'くら寿司',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2698,
-        'name'       =>	'キャンドゥ'
+        'name'       =>	'キャンドゥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2700,
-        'name'       =>	'木徳神糧'
+        'name'       =>	'木徳神糧',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2702,
-        'name'       =>	'日本マクドナルドホールディングス'
+        'name'       =>	'日本マクドナルドホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2705,
-        'name'       =>	'大戸屋ホールディングス'
+        'name'       =>	'大戸屋ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2706,
-        'name'       =>	'ブロッコリー'
+        'name'       =>	'ブロッコリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2708,
-        'name'       =>	'久世'
+        'name'       =>	'久世',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2714,
-        'name'       =>	'プラマテルズ'
+        'name'       =>	'プラマテルズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2715,
-        'name'       =>	'エレマテック'
+        'name'       =>	'エレマテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2721,
-        'name'       =>	'ジェイホールディングス'
+        'name'       =>	'ジェイホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2722,
-        'name'       =>	'アイケイ'
+        'name'       =>	'アイケイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2726,
-        'name'       =>	'パルグループホールディングス'
+        'name'       =>	'パルグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2729,
-        'name'       =>	'ＪＡＬＵＸ'
+        'name'       =>	'ＪＡＬＵＸ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2730,
-        'name'       =>	'エディオン'
+        'name'       =>	'エディオン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2733,
-        'name'       =>	'あらた'
+        'name'       =>	'あらた',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2734,
-        'name'       =>	'サーラコーポレーション'
+        'name'       =>	'サーラコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2735,
-        'name'       =>	'ワッツ'
+        'name'       =>	'ワッツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2736,
-        'name'       =>	'フェスタリアホールディングス'
+        'name'       =>	'フェスタリアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2737,
-        'name'       =>	'トーメンデバイス'
+        'name'       =>	'トーメンデバイス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2742,
-        'name'       =>	'ハローズ'
+        'name'       =>	'ハローズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2743,
-        'name'       =>	'ピクセルカンパニーズ'
+        'name'       =>	'ピクセルカンパニーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2747,
-        'name'       =>	'北雄ラッキー'
+        'name'       =>	'北雄ラッキー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2749,
-        'name'       =>	'ＪＰホールディングス'
+        'name'       =>	'ＪＰホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2750,
-        'name'       =>	'石光商事'
+        'name'       =>	'石光商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2751,
-        'name'       =>	'テンポスホールディングス'
+        'name'       =>	'テンポスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2752,
-        'name'       =>	'フジオフードシステム'
+        'name'       =>	'フジオフードシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2753,
-        'name'       =>	'あみやき亭'
+        'name'       =>	'あみやき亭',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2754,
-        'name'       =>	'東葛ホールディングス'
+        'name'       =>	'東葛ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2760,
-        'name'       =>	'東京エレクトロン　デバイス'
+        'name'       =>	'東京エレクトロン　デバイス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2761,
-        'name'       =>	'トシン・グループ'
+        'name'       =>	'トシン・グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2762,
-        'name'       =>	'三光マーケティングフーズ'
+        'name'       =>	'三光マーケティングフーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2763,
-        'name'       =>	'エフティグループ'
+        'name'       =>	'エフティグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2764,
-        'name'       =>	'ひらまつ'
+        'name'       =>	'ひらまつ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2767,
-        'name'       =>	'フィールズ'
+        'name'       =>	'フィールズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2768,
-        'name'       =>	'双日'
+        'name'       =>	'双日',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2769,
-        'name'       =>	'ウ゛ィレッジウ゛ァンガードコーポレーション'
+        'name'       =>	'ウ゛ィレッジウ゛ァンガードコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2773,
-        'name'       =>	'ミューチュアル'
+        'name'       =>	'ミューチュアル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2776,
-        'name'       =>	'新都ホールディングス'
+        'name'       =>	'新都ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2777,
-        'name'       =>	'カッシーナ・イクスシー'
+        'name'       =>	'カッシーナ・イクスシー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2778,
-        'name'       =>	'パレモ・ホールディングス'
+        'name'       =>	'パレモ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2780,
-        'name'       =>	'コメ兵'
+        'name'       =>	'コメ兵',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2782,
-        'name'       =>	'セリア'
+        'name'       =>	'セリア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2784,
-        'name'       =>	'アルフレッサ　ホールディングス'
+        'name'       =>	'アルフレッサ　ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2788,
-        'name'       =>	'アップルインターナショナル'
+        'name'       =>	'アップルインターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2789,
-        'name'       =>	'カルラ'
+        'name'       =>	'カルラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2790,
-        'name'       =>	'ナフコ'
+        'name'       =>	'ナフコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2791,
-        'name'       =>	'大黒天物産'
+        'name'       =>	'大黒天物産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2792,
-        'name'       =>	'ハニーズホールディングス'
+        'name'       =>	'ハニーズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2795,
-        'name'       =>	'日本プリメックス'
+        'name'       =>	'日本プリメックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2796,
-        'name'       =>	'ファーマライズホールディングス'
+        'name'       =>	'ファーマライズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2798,
-        'name'       =>	'ワイズテーブルコーポレーション'
+        'name'       =>	'ワイズテーブルコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2801,
-        'name'       =>	'キッコーマン'
+        'name'       =>	'キッコーマン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2802,
-        'name'       =>	'味の素'
+        'name'       =>	'味の素',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2804,
-        'name'       =>	'ブルドックソース'
+        'name'       =>	'ブルドックソース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2805,
-        'name'       =>	'ヱスビー食品'
+        'name'       =>	'ヱスビー食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2806,
-        'name'       =>	'ユタカフーズ'
+        'name'       =>	'ユタカフーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2809,
-        'name'       =>	'キユーピー'
+        'name'       =>	'キユーピー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2810,
-        'name'       =>	'ハウス食品グループ本社'
+        'name'       =>	'ハウス食品グループ本社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2811,
-        'name'       =>	'カゴメ'
+        'name'       =>	'カゴメ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2812,
-        'name'       =>	'焼津水産化学工業'
+        'name'       =>	'焼津水産化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2813,
-        'name'       =>	'和弘食品'
+        'name'       =>	'和弘食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2814,
-        'name'       =>	'佐藤食品工業'
+        'name'       =>	'佐藤食品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2815,
-        'name'       =>	'アリアケジャパン'
+        'name'       =>	'アリアケジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2816,
-        'name'       =>	'ダイショー'
+        'name'       =>	'ダイショー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2818,
-        'name'       =>	'ピエトロ'
+        'name'       =>	'ピエトロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2819,
-        'name'       =>	'エバラ食品工業'
+        'name'       =>	'エバラ食品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2820,
-        'name'       =>	'やまみ'
+        'name'       =>	'やまみ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2830,
-        'name'       =>	'アヲハタ'
+        'name'       =>	'アヲハタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2831,
-        'name'       =>	'はごろもフーズ'
+        'name'       =>	'はごろもフーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2871,
-        'name'       =>	'ニチレイ'
+        'name'       =>	'ニチレイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2872,
-        'name'       =>	'セイヒョー'
+        'name'       =>	'セイヒョー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2874,
-        'name'       =>	'横浜冷凍'
+        'name'       =>	'横浜冷凍',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2875,
-        'name'       =>	'東洋水産'
+        'name'       =>	'東洋水産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2876,
-        'name'       =>	'ジェーシー・コムサ'
+        'name'       =>	'ジェーシー・コムサ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2877,
-        'name'       =>	'日東ベスト'
+        'name'       =>	'日東ベスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2882,
-        'name'       =>	'イートアンド'
+        'name'       =>	'イートアンド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2883,
-        'name'       =>	'大冷'
+        'name'       =>	'大冷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2884,
-        'name'       =>	'ヨシムラ・フード・ホールディングス'
+        'name'       =>	'ヨシムラ・フード・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2892,
-        'name'       =>	'日本食品化工'
+        'name'       =>	'日本食品化工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2894,
-        'name'       =>	'石井食品'
+        'name'       =>	'石井食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2897,
-        'name'       =>	'日清食品ホールディングス'
+        'name'       =>	'日清食品ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2899,
-        'name'       =>	'永谷園ホールディングス'
+        'name'       =>	'永谷園ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2901,
-        'name'       =>	'石垣食品'
+        'name'       =>	'石垣食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2903,
-        'name'       =>	'シノブフーズ'
+        'name'       =>	'シノブフーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2904,
-        'name'       =>	'一正蒲鉾'
+        'name'       =>	'一正蒲鉾',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2905,
-        'name'       =>	'オーケー食品工業'
+        'name'       =>	'オーケー食品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2907,
-        'name'       =>	'あじかん'
+        'name'       =>	'あじかん',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2908,
-        'name'       =>	'フジッコ'
+        'name'       =>	'フジッコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2910,
-        'name'       =>	'ロック・フィールド'
+        'name'       =>	'ロック・フィールド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2911,
-        'name'       =>	'旭松食品'
+        'name'       =>	'旭松食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2914,
-        'name'       =>	'日本たばこ産業'
+        'name'       =>	'日本たばこ産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2915,
-        'name'       =>	'ケンコーマヨネーズ'
+        'name'       =>	'ケンコーマヨネーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2916,
-        'name'       =>	'仙波糖化工業'
+        'name'       =>	'仙波糖化工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2917,
-        'name'       =>	'大森屋'
+        'name'       =>	'大森屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2918,
-        'name'       =>	'わらべや日洋ホールディングス'
+        'name'       =>	'わらべや日洋ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2922,
-        'name'       =>	'なとり'
+        'name'       =>	'なとり',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2923,
-        'name'       =>	'サトウ食品工業'
+        'name'       =>	'サトウ食品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2924,
-        'name'       =>	'イフジ産業'
+        'name'       =>	'イフジ産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2925,
-        'name'       =>	'ピックルスコーポレーション'
+        'name'       =>	'ピックルスコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2926,
-        'name'       =>	'篠崎屋'
+        'name'       =>	'篠崎屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2927,
-        'name'       =>	'ＡＦＣ－ＨＤアムスライフサイエンス'
+        'name'       =>	'ＡＦＣ－ＨＤアムスライフサイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2929,
-        'name'       =>	'ファーマフーズ'
+        'name'       =>	'ファーマフーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2930,
-        'name'       =>	'北の達人コーポレーション'
+        'name'       =>	'北の達人コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2931,
-        'name'       =>	'ユーグレナ'
+        'name'       =>	'ユーグレナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2970,
-        'name'       =>	'グッドライフカンパニー'
+        'name'       =>	'グッドライフカンパニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2971,
-        'name'       =>	'エスコンジャパンリート投資法人'
+        'name'       =>	'エスコンジャパンリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2972,
-        'name'       =>	'サンケイリアルエステート投資法人'
+        'name'       =>	'サンケイリアルエステート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2975,
-        'name'       =>	'スター・マイカ・ホールディングス'
+        'name'       =>	'スター・マイカ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2977,
-        'name'       =>	'Ｌｉｖ－ｕｐ'
+        'name'       =>	'Ｌｉｖ－ｕｐ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2978,
-        'name'       =>	'ツクルバ'
+        'name'       =>	'ツクルバ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2979,
-        'name'       =>	'ＳＯＳｉＬＡ物流リート投資法人'
+        'name'       =>	'ＳＯＳｉＬＡ物流リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2980,
-        'name'       =>	'ＳＲＥホールディングス'
+        'name'       =>	'ＳＲＥホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2981,
-        'name'       =>	'ランディックス'
+        'name'       =>	'ランディックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2982,
-        'name'       =>	'ＡＤワークスグループ'
+        'name'       =>	'ＡＤワークスグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 2985,
-        'name'       =>	'ファーストステージ'
+        'name'       =>	'ファーストステージ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3001,
-        'name'       =>	'片倉工業'
+        'name'       =>	'片倉工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3002,
-        'name'       =>	'グンゼ'
+        'name'       =>	'グンゼ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3003,
-        'name'       =>	'ヒューリック'
+        'name'       =>	'ヒューリック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3004,
-        'name'       =>	'神栄'
+        'name'       =>	'神栄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3010,
-        'name'       =>	'価値開発'
+        'name'       =>	'価値開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3011,
-        'name'       =>	'バナーズ'
+        'name'       =>	'バナーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3020,
-        'name'       =>	'アプライド'
+        'name'       =>	'アプライド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3021,
-        'name'       =>	'パシフィックネット'
+        'name'       =>	'パシフィックネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3023,
-        'name'       =>	'ラサ商事'
+        'name'       =>	'ラサ商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3024,
-        'name'       =>	'クリエイト'
+        'name'       =>	'クリエイト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3028,
-        'name'       =>	'アルペン'
+        'name'       =>	'アルペン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3030,
-        'name'       =>	'ハブ'
+        'name'       =>	'ハブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3031,
-        'name'       =>	'ラクーンホールディングス'
+        'name'       =>	'ラクーンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3034,
-        'name'       =>	'クオールホールディングス'
+        'name'       =>	'クオールホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3035,
-        'name'       =>	'ケイティケイ'
+        'name'       =>	'ケイティケイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3036,
-        'name'       =>	'アルコニックス'
+        'name'       =>	'アルコニックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3038,
-        'name'       =>	'神戸物産'
+        'name'       =>	'神戸物産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3039,
-        'name'       =>	'碧'
+        'name'       =>	'碧',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3040,
-        'name'       =>	'ソリトンシステムズ'
+        'name'       =>	'ソリトンシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3041,
-        'name'       =>	'ビューティ花壇'
+        'name'       =>	'ビューティ花壇',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3042,
-        'name'       =>	'セキュアヴェイル'
+        'name'       =>	'セキュアヴェイル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3045,
-        'name'       =>	'カワサキ'
+        'name'       =>	'カワサキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3046,
-        'name'       =>	'ジンズホールディングス'
+        'name'       =>	'ジンズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3048,
-        'name'       =>	'ビックカメラ'
+        'name'       =>	'ビックカメラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3050,
-        'name'       =>	'ＤＣＭホールディングス'
+        'name'       =>	'ＤＣＭホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3053,
-        'name'       =>	'ペッパーフードサービス'
+        'name'       =>	'ペッパーフードサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3054,
-        'name'       =>	'ハイパー'
+        'name'       =>	'ハイパー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3058,
-        'name'       =>	'三洋堂ホールディングス'
+        'name'       =>	'三洋堂ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3059,
-        'name'       =>	'ヒラキ'
+        'name'       =>	'ヒラキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3063,
-        'name'       =>	'ジェイグループホールディングス'
+        'name'       =>	'ジェイグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3064,
-        'name'       =>	'ＭｏｎｏｔａＲＯ'
+        'name'       =>	'ＭｏｎｏｔａＲＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3065,
-        'name'       =>	'ライフフーズ'
+        'name'       =>	'ライフフーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3067,
-        'name'       =>	'東京一番フーズ'
+        'name'       =>	'東京一番フーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3068,
-        'name'       =>	'ＷＤＩ'
+        'name'       =>	'ＷＤＩ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3069,
-        'name'       =>	'ＪＦＬＡホールディングス'
+        'name'       =>	'ＪＦＬＡホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3070,
-        'name'       =>	'アマガサ'
+        'name'       =>	'アマガサ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3071,
-        'name'       =>	'ストリーム'
+        'name'       =>	'ストリーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3073,
-        'name'       =>	'ＤＤホールディングス'
+        'name'       =>	'ＤＤホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3075,
-        'name'       =>	'銚子丸'
+        'name'       =>	'銚子丸',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3076,
-        'name'       =>	'あい　ホールディングス'
+        'name'       =>	'あい　ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3077,
-        'name'       =>	'ホリイフードサービス'
+        'name'       =>	'ホリイフードサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3079,
-        'name'       =>	'ディーブイエックス'
+        'name'       =>	'ディーブイエックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3080,
-        'name'       =>	'ジェーソン'
+        'name'       =>	'ジェーソン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3082,
-        'name'       =>	'きちりホールディングス'
+        'name'       =>	'きちりホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3083,
-        'name'       =>	'シーズメン'
+        'name'       =>	'シーズメン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3085,
-        'name'       =>	'アークランドサービスホールディングス'
+        'name'       =>	'アークランドサービスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3086,
-        'name'       =>	'Ｊ．フロント　リテイリング'
+        'name'       =>	'Ｊ．フロント　リテイリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3087,
-        'name'       =>	'ドトール・日レスホールディングス'
+        'name'       =>	'ドトール・日レスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3088,
-        'name'       =>	'マツモトキヨシホールディングス'
+        'name'       =>	'マツモトキヨシホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3089,
-        'name'       =>	'テクノアルファ'
+        'name'       =>	'テクノアルファ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3091,
-        'name'       =>	'ブロンコビリー'
+        'name'       =>	'ブロンコビリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3092,
-        'name'       =>	'ＺＯＺＯ'
+        'name'       =>	'ＺＯＺＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3093,
-        'name'       =>	'トレジャー・ファクトリー'
+        'name'       =>	'トレジャー・ファクトリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3094,
-        'name'       =>	'スーパーバリュー'
+        'name'       =>	'スーパーバリュー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3096,
-        'name'       =>	'オーシャンシステム'
+        'name'       =>	'オーシャンシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3097,
-        'name'       =>	'物語コーポレーション'
+        'name'       =>	'物語コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3098,
-        'name'       =>	'ココカラファイン'
+        'name'       =>	'ココカラファイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3099,
-        'name'       =>	'三越伊勢丹ホールディングス'
+        'name'       =>	'三越伊勢丹ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3101,
-        'name'       =>	'東洋紡'
+        'name'       =>	'東洋紡',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3103,
-        'name'       =>	'ユニチカ'
+        'name'       =>	'ユニチカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3104,
-        'name'       =>	'富士紡ホールディングス'
+        'name'       =>	'富士紡ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3105,
-        'name'       =>	'日清紡ホールディングス'
+        'name'       =>	'日清紡ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3106,
-        'name'       =>	'倉敷紡績'
+        'name'       =>	'倉敷紡績',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3107,
-        'name'       =>	'ダイワボウホールディングス'
+        'name'       =>	'ダイワボウホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3109,
-        'name'       =>	'シキボウ'
+        'name'       =>	'シキボウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3110,
-        'name'       =>	'日東紡績'
+        'name'       =>	'日東紡績',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3111,
-        'name'       =>	'オーミケンシ'
+        'name'       =>	'オーミケンシ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3113,
-        'name'       =>	'Ｏａｋ　キャピタル'
+        'name'       =>	'Ｏａｋ　キャピタル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3116,
-        'name'       =>	'トヨタ紡織'
+        'name'       =>	'トヨタ紡織',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3121,
-        'name'       =>	'マーチャント・バンカーズ'
+        'name'       =>	'マーチャント・バンカーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3123,
-        'name'       =>	'サイボー'
+        'name'       =>	'サイボー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3125,
-        'name'       =>	'新内外綿'
+        'name'       =>	'新内外綿',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3131,
-        'name'       =>	'シンデン・ハイテックス'
+        'name'       =>	'シンデン・ハイテックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3132,
-        'name'       =>	'マクニカ・富士エレホールディングス'
+        'name'       =>	'マクニカ・富士エレホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3133,
-        'name'       =>	'海帆'
+        'name'       =>	'海帆',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3134,
-        'name'       =>	'Ｈａｍｅｅ'
+        'name'       =>	'Ｈａｍｅｅ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3135,
-        'name'       =>	'マーケットエンタープライズ'
+        'name'       =>	'マーケットエンタープライズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3137,
-        'name'       =>	'ファンデリー'
+        'name'       =>	'ファンデリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3138,
-        'name'       =>	'富士山マガジンサービス'
+        'name'       =>	'富士山マガジンサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3139,
-        'name'       =>	'ラクト・ジャパン'
+        'name'       =>	'ラクト・ジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3140,
-        'name'       =>	'イデアインターナショナル'
+        'name'       =>	'イデアインターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3141,
-        'name'       =>	'ウエルシアホールディングス'
+        'name'       =>	'ウエルシアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3143,
-        'name'       =>	'オーウイル'
+        'name'       =>	'オーウイル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3148,
-        'name'       =>	'クリエイトＳＤホールディングス'
+        'name'       =>	'クリエイトＳＤホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3150,
-        'name'       =>	'グリムス'
+        'name'       =>	'グリムス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3151,
-        'name'       =>	'バイタルケーエスケー・ホールディングス'
+        'name'       =>	'バイタルケーエスケー・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3153,
-        'name'       =>	'八洲電機'
+        'name'       =>	'八洲電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3154,
-        'name'       =>	'メディアスホールディングス'
+        'name'       =>	'メディアスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3156,
-        'name'       =>	'レスターホールディングス'
+        'name'       =>	'レスターホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3157,
-        'name'       =>	'ジューテックホールディングス'
+        'name'       =>	'ジューテックホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3159,
-        'name'       =>	'丸善ＣＨＩホールディングス'
+        'name'       =>	'丸善ＣＨＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3160,
-        'name'       =>	'大光'
+        'name'       =>	'大光',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3161,
-        'name'       =>	'アゼアス'
+        'name'       =>	'アゼアス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3166,
-        'name'       =>	'ＯＣＨＩホールディングス'
+        'name'       =>	'ＯＣＨＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3167,
-        'name'       =>	'ＴＯＫＡＩホールディングス'
+        'name'       =>	'ＴＯＫＡＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3168,
-        'name'       =>	'黒谷'
+        'name'       =>	'黒谷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3169,
-        'name'       =>	'ミサワ'
+        'name'       =>	'ミサワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3171,
-        'name'       =>	'マックスバリュ九州'
+        'name'       =>	'マックスバリュ九州',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3172,
-        'name'       =>	'ティーライフ'
+        'name'       =>	'ティーライフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3173,
-        'name'       =>	'Ｃｏｍｉｎｉｘ'
+        'name'       =>	'Ｃｏｍｉｎｉｘ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3174,
-        'name'       =>	'ハピネス・アンド・ディ'
+        'name'       =>	'ハピネス・アンド・ディ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3175,
-        'name'       =>	'エー・ピーカンパニー'
+        'name'       =>	'エー・ピーカンパニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3176,
-        'name'       =>	'三洋貿易'
+        'name'       =>	'三洋貿易',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3177,
-        'name'       =>	'ありがとうサービス'
+        'name'       =>	'ありがとうサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3178,
-        'name'       =>	'チムニー'
+        'name'       =>	'チムニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3179,
-        'name'       =>	'シュッピン'
+        'name'       =>	'シュッピン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3180,
-        'name'       =>	'ビューティガレージ'
+        'name'       =>	'ビューティガレージ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3181,
-        'name'       =>	'買取王国'
+        'name'       =>	'買取王国',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3182,
-        'name'       =>	'オイシックス・ラ・大地'
+        'name'       =>	'オイシックス・ラ・大地',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3183,
-        'name'       =>	'ウイン・パートナーズ'
+        'name'       =>	'ウイン・パートナーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3184,
-        'name'       =>	'ＩＣＤＡホールディングス'
+        'name'       =>	'ＩＣＤＡホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3185,
-        'name'       =>	'夢展望'
+        'name'       =>	'夢展望',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3186,
-        'name'       =>	'ネクステージ'
+        'name'       =>	'ネクステージ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3187,
-        'name'       =>	'サンワカンパニー'
+        'name'       =>	'サンワカンパニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3189,
-        'name'       =>	'ＡＮＡＰ'
+        'name'       =>	'ＡＮＡＰ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3190,
-        'name'       =>	'ホットマン'
+        'name'       =>	'ホットマン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3191,
-        'name'       =>	'ジョイフル本田'
+        'name'       =>	'ジョイフル本田',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3192,
-        'name'       =>	'白鳩'
+        'name'       =>	'白鳩',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3193,
-        'name'       =>	'鳥貴族'
+        'name'       =>	'鳥貴族',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3194,
-        'name'       =>	'キリン堂ホールディングス'
+        'name'       =>	'キリン堂ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3195,
-        'name'       =>	'ジェネレーションパス'
+        'name'       =>	'ジェネレーションパス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3196,
-        'name'       =>	'ホットランド'
+        'name'       =>	'ホットランド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3197,
-        'name'       =>	'すかいらーくホールディングス'
+        'name'       =>	'すかいらーくホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3198,
-        'name'       =>	'ＳＦＰホールディングス'
+        'name'       =>	'ＳＦＰホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3199,
-        'name'       =>	'綿半ホールディングス'
+        'name'       =>	'綿半ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3201,
-        'name'       =>	'日本毛織'
+        'name'       =>	'日本毛織',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3202,
-        'name'       =>	'ダイトウボウ'
+        'name'       =>	'ダイトウボウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3204,
-        'name'       =>	'トーア紡コーポレーション'
+        'name'       =>	'トーア紡コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3205,
-        'name'       =>	'ダイドーリミテッド'
+        'name'       =>	'ダイドーリミテッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3221,
-        'name'       =>	'ヨシックス'
+        'name'       =>	'ヨシックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3222,
-        'name'       =>	'ユナイテッド・スーパーマーケット・ホールディングス'
+        'name'       =>	'ユナイテッド・スーパーマーケット・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3223,
-        'name'       =>	'エスエルディー'
+        'name'       =>	'エスエルディー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3224,
-        'name'       =>	'ゼネラル・オイスター'
+        'name'       =>	'ゼネラル・オイスター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3226,
-        'name'       =>	'日本アコモデーションファンド投資法人'
+        'name'       =>	'日本アコモデーションファンド投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3227,
-        'name'       =>	'ＭＣＵＢＳ　ＭｉｄＣｉｔｙ投資法人'
+        'name'       =>	'ＭＣＵＢＳ　ＭｉｄＣｉｔｙ投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3228,
-        'name'       =>	'三栄建築設計'
+        'name'       =>	'三栄建築設計',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3231,
-        'name'       =>	'野村不動産ホールディングス'
+        'name'       =>	'野村不動産ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3232,
-        'name'       =>	'三重交通グループホールディングス'
+        'name'       =>	'三重交通グループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3234,
-        'name'       =>	'森ヒルズリート投資法人'
+        'name'       =>	'森ヒルズリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3236,
-        'name'       =>	'プロパスト'
+        'name'       =>	'プロパスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3237,
-        'name'       =>	'イントランス'
+        'name'       =>	'イントランス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3238,
-        'name'       =>	'セントラル総合開発'
+        'name'       =>	'セントラル総合開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3241,
-        'name'       =>	'ウィル'
+        'name'       =>	'ウィル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3242,
-        'name'       =>	'アーバネットコーポレーション'
+        'name'       =>	'アーバネットコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3244,
-        'name'       =>	'サムティ'
+        'name'       =>	'サムティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3245,
-        'name'       =>	'ディア・ライフ'
+        'name'       =>	'ディア・ライフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3246,
-        'name'       =>	'コーセーアールイー'
+        'name'       =>	'コーセーアールイー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3248,
-        'name'       =>	'アールエイジ'
+        'name'       =>	'アールエイジ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3249,
-        'name'       =>	'産業ファンド投資法人'
+        'name'       =>	'産業ファンド投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3252,
-        'name'       =>	'日本商業開発'
+        'name'       =>	'日本商業開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3254,
-        'name'       =>	'プレサンスコーポレーション'
+        'name'       =>	'プレサンスコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3261,
-        'name'       =>	'グランディーズ'
+        'name'       =>	'グランディーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3264,
-        'name'       =>	'アスコット'
+        'name'       =>	'アスコット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3266,
-        'name'       =>	'ファンドクリエーショングループ'
+        'name'       =>	'ファンドクリエーショングループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3267,
-        'name'       =>	'フィル・カンパニー'
+        'name'       =>	'フィル・カンパニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3269,
-        'name'       =>	'アドバンス・レジデンス投資法人'
+        'name'       =>	'アドバンス・レジデンス投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3271,
-        'name'       =>	'ＴＨＥグローバル社'
+        'name'       =>	'ＴＨＥグローバル社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3275,
-        'name'       =>	'ハウスコム'
+        'name'       =>	'ハウスコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3276,
-        'name'       =>	'日本管理センター'
+        'name'       =>	'日本管理センター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3277,
-        'name'       =>	'サンセイランディック'
+        'name'       =>	'サンセイランディック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3280,
-        'name'       =>	'エストラスト'
+        'name'       =>	'エストラスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3281,
-        'name'       =>	'ＧＬＰ投資法人'
+        'name'       =>	'ＧＬＰ投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3282,
-        'name'       =>	'コンフォリア・レジデンシャル投資法人'
+        'name'       =>	'コンフォリア・レジデンシャル投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3283,
-        'name'       =>	'日本プロロジスリート投資法人'
+        'name'       =>	'日本プロロジスリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3284,
-        'name'       =>	'フージャースホールディングス'
+        'name'       =>	'フージャースホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3286,
-        'name'       =>	'トラストホールディングス'
+        'name'       =>	'トラストホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3287,
-        'name'       =>	'星野リゾート・リート投資法人'
+        'name'       =>	'星野リゾート・リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3288,
-        'name'       =>	'オープンハウス'
+        'name'       =>	'オープンハウス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3289,
-        'name'       =>	'東急不動産ホールディングス'
+        'name'       =>	'東急不動産ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3290,
-        'name'       =>	'Ｏｎｅリート投資法人'
+        'name'       =>	'Ｏｎｅリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3291,
-        'name'       =>	'飯田グループホールディングス'
+        'name'       =>	'飯田グループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3292,
-        'name'       =>	'イオンリート投資法人'
+        'name'       =>	'イオンリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3293,
-        'name'       =>	'アズマハウス'
+        'name'       =>	'アズマハウス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3294,
-        'name'       =>	'イーグランド'
+        'name'       =>	'イーグランド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3295,
-        'name'       =>	'ヒューリックリート投資法人'
+        'name'       =>	'ヒューリックリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3296,
-        'name'       =>	'日本リート投資法人'
+        'name'       =>	'日本リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3297,
-        'name'       =>	'東武住販'
+        'name'       =>	'東武住販',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3298,
-        'name'       =>	'インベスコ・オフィス・ジェイリート投資法人'
+        'name'       =>	'インベスコ・オフィス・ジェイリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3299,
-        'name'       =>	'ムゲンエステート'
+        'name'       =>	'ムゲンエステート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3300,
-        'name'       =>	'ＡＭＢＩＴＩＯＮ'
+        'name'       =>	'ＡＭＢＩＴＩＯＮ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3302,
-        'name'       =>	'帝国繊維'
+        'name'       =>	'帝国繊維',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3306,
-        'name'       =>	'日本製麻'
+        'name'       =>	'日本製麻',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3309,
-        'name'       =>	'積水ハウス・リート投資法人'
+        'name'       =>	'積水ハウス・リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3315,
-        'name'       =>	'日本コークス工業'
+        'name'       =>	'日本コークス工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3316,
-        'name'       =>	'東京日産コンピュータシステム'
+        'name'       =>	'東京日産コンピュータシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3317,
-        'name'       =>	'フライングガーデン'
+        'name'       =>	'フライングガーデン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3319,
-        'name'       =>	'ゴルフダイジェスト・オンライン'
+        'name'       =>	'ゴルフダイジェスト・オンライン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3320,
-        'name'       =>	'クロスプラス'
+        'name'       =>	'クロスプラス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3321,
-        'name'       =>	'ミタチ産業'
+        'name'       =>	'ミタチ産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3322,
-        'name'       =>	'アルファグループ'
+        'name'       =>	'アルファグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3323,
-        'name'       =>	'レカム'
+        'name'       =>	'レカム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3326,
-        'name'       =>	'ランシステム'
+        'name'       =>	'ランシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3328,
-        'name'       =>	'ＢＥＥＮＯＳ'
+        'name'       =>	'ＢＥＥＮＯＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3329,
-        'name'       =>	'東和フードサービス'
+        'name'       =>	'東和フードサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3333,
-        'name'       =>	'あさひ'
+        'name'       =>	'あさひ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3341,
-        'name'       =>	'日本調剤'
+        'name'       =>	'日本調剤',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3344,
-        'name'       =>	'ワンダーコーポレーション'
+        'name'       =>	'ワンダーコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3347,
-        'name'       =>	'トラスト'
+        'name'       =>	'トラスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3349,
-        'name'       =>	'コスモス薬品'
+        'name'       =>	'コスモス薬品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3350,
-        'name'       =>	'レッド・プラネット・ジャパン'
+        'name'       =>	'レッド・プラネット・ジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3352,
-        'name'       =>	'バッファロー'
+        'name'       =>	'バッファロー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3353,
-        'name'       =>	'メディカル一光グループ'
+        'name'       =>	'メディカル一光グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3355,
-        'name'       =>	'クリヤマホールディングス'
+        'name'       =>	'クリヤマホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3356,
-        'name'       =>	'テリロジー'
+        'name'       =>	'テリロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3358,
-        'name'       =>	'ワイエスフード'
+        'name'       =>	'ワイエスフード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3359,
-        'name'       =>	'ｃｏｔｔａ'
+        'name'       =>	'ｃｏｔｔａ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3360,
-        'name'       =>	'シップヘルスケアホールディングス'
+        'name'       =>	'シップヘルスケアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3361,
-        'name'       =>	'トーエル'
+        'name'       =>	'トーエル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3370,
-        'name'       =>	'フジタコーポレーション'
+        'name'       =>	'フジタコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3371,
-        'name'       =>	'ソフトクリエイトホールディングス'
+        'name'       =>	'ソフトクリエイトホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3372,
-        'name'       =>	'関門海'
+        'name'       =>	'関門海',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3374,
-        'name'       =>	'内外テック'
+        'name'       =>	'内外テック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3375,
-        'name'       =>	'ＺＯＡ'
+        'name'       =>	'ＺＯＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3376,
-        'name'       =>	'オンリー'
+        'name'       =>	'オンリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3377,
-        'name'       =>	'バイク王＆カンパニー'
+        'name'       =>	'バイク王＆カンパニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3382,
-        'name'       =>	'セブン＆アイ・ホールディングス'
+        'name'       =>	'セブン＆アイ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3386,
-        'name'       =>	'コスモ・バイオ'
+        'name'       =>	'コスモ・バイオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3387,
-        'name'       =>	'クリエイト・レストランツ・ホールディングス'
+        'name'       =>	'クリエイト・レストランツ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3388,
-        'name'       =>	'明治電機工業'
+        'name'       =>	'明治電機工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3390,
-        'name'       =>	'ＩＮＥＳＴ'
+        'name'       =>	'ＩＮＥＳＴ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3391,
-        'name'       =>	'ツルハホールディングス'
+        'name'       =>	'ツルハホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3392,
-        'name'       =>	'デリカフーズホールディングス'
+        'name'       =>	'デリカフーズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3393,
-        'name'       =>	'スターティアホールディングス'
+        'name'       =>	'スターティアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3395,
-        'name'       =>	'サンマルクホールディングス'
+        'name'       =>	'サンマルクホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3396,
-        'name'       =>	'フェリシモ'
+        'name'       =>	'フェリシモ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3397,
-        'name'       =>	'トリドールホールディングス'
+        'name'       =>	'トリドールホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3399,
-        'name'       =>	'丸千代山岡家'
+        'name'       =>	'丸千代山岡家',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3401,
-        'name'       =>	'帝人'
+        'name'       =>	'帝人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3402,
-        'name'       =>	'東レ'
+        'name'       =>	'東レ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3405,
-        'name'       =>	'クラレ'
+        'name'       =>	'クラレ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3407,
-        'name'       =>	'旭化成'
+        'name'       =>	'旭化成',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3408,
-        'name'       =>	'サカイオーベックス'
+        'name'       =>	'サカイオーベックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3409,
-        'name'       =>	'北日本紡績'
+        'name'       =>	'北日本紡績',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3415,
-        'name'       =>	'ＴＯＫＹＯ　ＢＡＳＥ'
+        'name'       =>	'ＴＯＫＹＯ　ＢＡＳＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3416,
-        'name'       =>	'ピクスタ'
+        'name'       =>	'ピクスタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3417,
-        'name'       =>	'大木ヘルスケアホールディングス'
+        'name'       =>	'大木ヘルスケアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3418,
-        'name'       =>	'バルニバービ'
+        'name'       =>	'バルニバービ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3420,
-        'name'       =>	'ケー・エフ・シー'
+        'name'       =>	'ケー・エフ・シー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3421,
-        'name'       =>	'稲葉製作所'
+        'name'       =>	'稲葉製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3423,
-        'name'       =>	'エスイー'
+        'name'       =>	'エスイー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3424,
-        'name'       =>	'ミヤコ'
+        'name'       =>	'ミヤコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3426,
-        'name'       =>	'アトムリビンテック'
+        'name'       =>	'アトムリビンテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3431,
-        'name'       =>	'宮地エンジニアリンググループ'
+        'name'       =>	'宮地エンジニアリンググループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3433,
-        'name'       =>	'トーカロ'
+        'name'       =>	'トーカロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3434,
-        'name'       =>	'アルファＣｏ'
+        'name'       =>	'アルファＣｏ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3435,
-        'name'       =>	'サンコーテクノ'
+        'name'       =>	'サンコーテクノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3436,
-        'name'       =>	'ＳＵＭＣＯ'
+        'name'       =>	'ＳＵＭＣＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3437,
-        'name'       =>	'特殊電極'
+        'name'       =>	'特殊電極',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3439,
-        'name'       =>	'三ツ知'
+        'name'       =>	'三ツ知',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3440,
-        'name'       =>	'日創プロニティ'
+        'name'       =>	'日創プロニティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3441,
-        'name'       =>	'山王'
+        'name'       =>	'山王',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3443,
-        'name'       =>	'川田テクノロジーズ'
+        'name'       =>	'川田テクノロジーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3444,
-        'name'       =>	'菊池製作所'
+        'name'       =>	'菊池製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3445,
-        'name'       =>	'ＲＳ　Ｔｅｃｈｎｏｌｏｇｉｅｓ'
+        'name'       =>	'ＲＳ　Ｔｅｃｈｎｏｌｏｇｉｅｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3446,
-        'name'       =>	'ジェイテックコーポレーション'
+        'name'       =>	'ジェイテックコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3447,
-        'name'       =>	'信和'
+        'name'       =>	'信和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3448,
-        'name'       =>	'清鋼材'
+        'name'       =>	'清鋼材',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3449,
-        'name'       =>	'テクノフレックス'
+        'name'       =>	'テクノフレックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3451,
-        'name'       =>	'トーセイ・リート投資法人'
+        'name'       =>	'トーセイ・リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3452,
-        'name'       =>	'ビーロット'
+        'name'       =>	'ビーロット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3453,
-        'name'       =>	'ケネディクス商業リート投資法人'
+        'name'       =>	'ケネディクス商業リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3454,
-        'name'       =>	'ファーストブラザーズ'
+        'name'       =>	'ファーストブラザーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3455,
-        'name'       =>	'ヘルスケア＆メディカル投資法人'
+        'name'       =>	'ヘルスケア＆メディカル投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3456,
-        'name'       =>	'ＴＳＯＮ'
+        'name'       =>	'ＴＳＯＮ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3457,
-        'name'       =>	'ハウスドゥ'
+        'name'       =>	'ハウスドゥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3458,
-        'name'       =>	'シーアールイー'
+        'name'       =>	'シーアールイー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3459,
-        'name'       =>	'サムティ・レジデンシャル投資法人'
+        'name'       =>	'サムティ・レジデンシャル投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3461,
-        'name'       =>	'パルマ'
+        'name'       =>	'パルマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3462,
-        'name'       =>	'野村不動産マスターファンド投資法人'
+        'name'       =>	'野村不動産マスターファンド投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3463,
-        'name'       =>	'いちごホテルリート投資法人'
+        'name'       =>	'いちごホテルリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3464,
-        'name'       =>	'プロパティエージェント'
+        'name'       =>	'プロパティエージェント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3465,
-        'name'       =>	'ケイアイスター不動産'
+        'name'       =>	'ケイアイスター不動産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3466,
-        'name'       =>	'ラサールロジポート投資法人'
+        'name'       =>	'ラサールロジポート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3467,
-        'name'       =>	'アグレ都市デザイン'
+        'name'       =>	'アグレ都市デザイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3468,
-        'name'       =>	'スターアジア不動産投資法人'
+        'name'       =>	'スターアジア不動産投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3469,
-        'name'       =>	'デュアルタップ'
+        'name'       =>	'デュアルタップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3470,
-        'name'       =>	'マリモ地方創生リート投資法人'
+        'name'       =>	'マリモ地方創生リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3471,
-        'name'       =>	'三井不動産ロジスティクスパーク投資法人'
+        'name'       =>	'三井不動産ロジスティクスパーク投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3472,
-        'name'       =>	'大江戸温泉リート投資法人'
+        'name'       =>	'大江戸温泉リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3473,
-        'name'       =>	'さくら総合リート投資法人'
+        'name'       =>	'さくら総合リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3474,
-        'name'       =>	'Ｇ－ＦＡＣＴＯＲＹ'
+        'name'       =>	'Ｇ－ＦＡＣＴＯＲＹ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3475,
-        'name'       =>	'グッドコムアセット'
+        'name'       =>	'グッドコムアセット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3476,
-        'name'       =>	'投資法人みらい'
+        'name'       =>	'投資法人みらい',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3477,
-        'name'       =>	'フォーライフ'
+        'name'       =>	'フォーライフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3478,
-        'name'       =>	'森トラスト・ホテルリート投資法人'
+        'name'       =>	'森トラスト・ホテルリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3479,
-        'name'       =>	'ティーケーピー'
+        'name'       =>	'ティーケーピー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3480,
-        'name'       =>	'ジェイ・エス・ビー'
+        'name'       =>	'ジェイ・エス・ビー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3481,
-        'name'       =>	'三菱地所物流リート投資法人'
+        'name'       =>	'三菱地所物流リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3482,
-        'name'       =>	'ロードスターキャピタル'
+        'name'       =>	'ロードスターキャピタル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3483,
-        'name'       =>	'翔栄'
+        'name'       =>	'翔栄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3484,
-        'name'       =>	'テンポイノベーション'
+        'name'       =>	'テンポイノベーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3486,
-        'name'       =>	'グローバル・リンク・マネジメント'
+        'name'       =>	'グローバル・リンク・マネジメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3487,
-        'name'       =>	'ＣＲＥロジスティクスファンド投資法人'
+        'name'       =>	'ＣＲＥロジスティクスファンド投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3488,
-        'name'       =>	'ザイマックス・リート投資法人'
+        'name'       =>	'ザイマックス・リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3489,
-        'name'       =>	'フェイスネットワーク'
+        'name'       =>	'フェイスネットワーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3490,
-        'name'       =>	'アズ企画設計'
+        'name'       =>	'アズ企画設計',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3491,
-        'name'       =>	'ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ'
+        'name'       =>	'ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3492,
-        'name'       =>	'タカラレーベン不動産投資法人'
+        'name'       =>	'タカラレーベン不動産投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3493,
-        'name'       =>	'伊藤忠アドバンス・ロジスティクス投資法人'
+        'name'       =>	'伊藤忠アドバンス・ロジスティクス投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3494,
-        'name'       =>	'マリオン'
+        'name'       =>	'マリオン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3495,
-        'name'       =>	'香陵住販'
+        'name'       =>	'香陵住販',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3496,
-        'name'       =>	'アズーム'
+        'name'       =>	'アズーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3497,
-        'name'       =>	'リーガル不動産'
+        'name'       =>	'リーガル不動産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3498,
-        'name'       =>	'霞ヶ関キャピタル'
+        'name'       =>	'霞ヶ関キャピタル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3501,
-        'name'       =>	'住江織物'
+        'name'       =>	'住江織物',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3512,
-        'name'       =>	'日本フエルト'
+        'name'       =>	'日本フエルト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3513,
-        'name'       =>	'イチカワ'
+        'name'       =>	'イチカワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3515,
-        'name'       =>	'フジコー'
+        'name'       =>	'フジコー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3521,
-        'name'       =>	'エコナックホールディングス'
+        'name'       =>	'エコナックホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3524,
-        'name'       =>	'日東製網'
+        'name'       =>	'日東製網',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3526,
-        'name'       =>	'芦森工業'
+        'name'       =>	'芦森工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3528,
-        'name'       =>	'プロスペクト'
+        'name'       =>	'プロスペクト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3529,
-        'name'       =>	'アツギ'
+        'name'       =>	'アツギ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3536,
-        'name'       =>	'アクサスホールディングス'
+        'name'       =>	'アクサスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3537,
-        'name'       =>	'昭栄薬品'
+        'name'       =>	'昭栄薬品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3538,
-        'name'       =>	'ウイルプラスホールディングス'
+        'name'       =>	'ウイルプラスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3539,
-        'name'       =>	'ＪＭホールディングス'
+        'name'       =>	'ＪＭホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3540,
-        'name'       =>	'歯愛メディカル'
+        'name'       =>	'歯愛メディカル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3541,
-        'name'       =>	'農業総合研究所'
+        'name'       =>	'農業総合研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3542,
-        'name'       =>	'ベガコーポレーション'
+        'name'       =>	'ベガコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3543,
-        'name'       =>	'コメダホールディングス'
+        'name'       =>	'コメダホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3544,
-        'name'       =>	'サツドラホールディングス'
+        'name'       =>	'サツドラホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3546,
-        'name'       =>	'アレンザホールディングス'
+        'name'       =>	'アレンザホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3547,
-        'name'       =>	'串カツ田中ホールディングス'
+        'name'       =>	'串カツ田中ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3548,
-        'name'       =>	'バロックジャパンリミテッド'
+        'name'       =>	'バロックジャパンリミテッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3549,
-        'name'       =>	'クスリのアオキホールディングス'
+        'name'       =>	'クスリのアオキホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3550,
-        'name'       =>	'スタジオアタオ'
+        'name'       =>	'スタジオアタオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3551,
-        'name'       =>	'ダイニック'
+        'name'       =>	'ダイニック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3553,
-        'name'       =>	'共和レザー'
+        'name'       =>	'共和レザー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3556,
-        'name'       =>	'リネットジャパングループ'
+        'name'       =>	'リネットジャパングループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3557,
-        'name'       =>	'ユナイテッド＆コレクティブ'
+        'name'       =>	'ユナイテッド＆コレクティブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3558,
-        'name'       =>	'ロコンド'
+        'name'       =>	'ロコンド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3559,
-        'name'       =>	'ピーバンドットコム'
+        'name'       =>	'ピーバンドットコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3560,
-        'name'       =>	'ほぼ日'
+        'name'       =>	'ほぼ日',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3561,
-        'name'       =>	'力の源ホールディングス'
+        'name'       =>	'力の源ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3562,
-        'name'       =>	'Ｎｏ．１'
+        'name'       =>	'Ｎｏ．１',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3563,
-        'name'       =>	'スシローグローバルホールディングス'
+        'name'       =>	'スシローグローバルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3564,
-        'name'       =>	'ＬＩＸＩＬビバ'
+        'name'       =>	'ＬＩＸＩＬビバ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3565,
-        'name'       =>	'アセンテック'
+        'name'       =>	'アセンテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3566,
-        'name'       =>	'ユニフォームネクスト'
+        'name'       =>	'ユニフォームネクスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3569,
-        'name'       =>	'セーレン'
+        'name'       =>	'セーレン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3571,
-        'name'       =>	'ソトー'
+        'name'       =>	'ソトー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3577,
-        'name'       =>	'東海染工'
+        'name'       =>	'東海染工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3578,
-        'name'       =>	'倉庫精練'
+        'name'       =>	'倉庫精練',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3580,
-        'name'       =>	'小松マテーレ'
+        'name'       =>	'小松マテーレ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3583,
-        'name'       =>	'オーベクス'
+        'name'       =>	'オーベクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3591,
-        'name'       =>	'ワコールホールディングス'
+        'name'       =>	'ワコールホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3593,
-        'name'       =>	'ホギメディカル'
+        'name'       =>	'ホギメディカル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3597,
-        'name'       =>	'自重堂'
+        'name'       =>	'自重堂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3598,
-        'name'       =>	'山喜'
+        'name'       =>	'山喜',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3600,
-        'name'       =>	'フジックス'
+        'name'       =>	'フジックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3604,
-        'name'       =>	'川本産業'
+        'name'       =>	'川本産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3607,
-        'name'       =>	'クラウディアホールディングス'
+        'name'       =>	'クラウディアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3608,
-        'name'       =>	'ＴＳＩホールディングス'
+        'name'       =>	'ＴＳＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3611,
-        'name'       =>	'マツオカコーポレーション'
+        'name'       =>	'マツオカコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3612,
-        'name'       =>	'ワールド'
+        'name'       =>	'ワールド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3622,
-        'name'       =>	'ネットイヤーグループ'
+        'name'       =>	'ネットイヤーグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3623,
-        'name'       =>	'ビリングシステム'
+        'name'       =>	'ビリングシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3624,
-        'name'       =>	'アクセルマーク'
+        'name'       =>	'アクセルマーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3625,
-        'name'       =>	'テックファームホールディングス'
+        'name'       =>	'テックファームホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3626,
-        'name'       =>	'ＴＩＳ'
+        'name'       =>	'ＴＩＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3627,
-        'name'       =>	'ネオス'
+        'name'       =>	'ネオス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3628,
-        'name'       =>	'データホライゾン'
+        'name'       =>	'データホライゾン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3630,
-        'name'       =>	'電算システム'
+        'name'       =>	'電算システム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3632,
-        'name'       =>	'グリー'
+        'name'       =>	'グリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3633,
-        'name'       =>	'ＧＭＯペパボ'
+        'name'       =>	'ＧＭＯペパボ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3634,
-        'name'       =>	'ソケッツ'
+        'name'       =>	'ソケッツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3635,
-        'name'       =>	'コーエーテクモホールディングス'
+        'name'       =>	'コーエーテクモホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3636,
-        'name'       =>	'三菱総合研究所'
+        'name'       =>	'三菱総合研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3639,
-        'name'       =>	'ボルテージ'
+        'name'       =>	'ボルテージ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3640,
-        'name'       =>	'電算'
+        'name'       =>	'電算',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3641,
-        'name'       =>	'パピレス'
+        'name'       =>	'パピレス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3645,
-        'name'       =>	'メディカルネット'
+        'name'       =>	'メディカルネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3646,
-        'name'       =>	'駅探'
+        'name'       =>	'駅探',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3647,
-        'name'       =>	'ジー・スリーホールディングス'
+        'name'       =>	'ジー・スリーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3648,
-        'name'       =>	'ＡＧＳ'
+        'name'       =>	'ＡＧＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3649,
-        'name'       =>	'ファインデックス'
+        'name'       =>	'ファインデックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3652,
-        'name'       =>	'ディジタルメディアプロフェッショナル'
+        'name'       =>	'ディジタルメディアプロフェッショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3653,
-        'name'       =>	'モルフォ'
+        'name'       =>	'モルフォ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3655,
-        'name'       =>	'ブレインパッド'
+        'name'       =>	'ブレインパッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3656,
-        'name'       =>	'ＫＬａｂ'
+        'name'       =>	'ＫＬａｂ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3657,
-        'name'       =>	'ポールトゥウィン・ピットクルーホールディングス'
+        'name'       =>	'ポールトゥウィン・ピットクルーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3658,
-        'name'       =>	'イーブックイニシアティブジャパン'
+        'name'       =>	'イーブックイニシアティブジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3659,
-        'name'       =>	'ネクソン'
+        'name'       =>	'ネクソン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3660,
-        'name'       =>	'アイスタイル'
+        'name'       =>	'アイスタイル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3661,
-        'name'       =>	'エムアップホールディングス'
+        'name'       =>	'エムアップホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3662,
-        'name'       =>	'エイチーム'
+        'name'       =>	'エイチーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3663,
-        'name'       =>	'アートスパークホールディングス'
+        'name'       =>	'アートスパークホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3664,
-        'name'       =>	'モブキャストホールディングス'
+        'name'       =>	'モブキャストホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3665,
-        'name'       =>	'エニグモ'
+        'name'       =>	'エニグモ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3666,
-        'name'       =>	'テクノスジャパン'
+        'name'       =>	'テクノスジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3667,
-        'name'       =>	'ｅｎｉｓｈ'
+        'name'       =>	'ｅｎｉｓｈ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3668,
-        'name'       =>	'コロプラ'
+        'name'       =>	'コロプラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3670,
-        'name'       =>	'協立情報通信'
+        'name'       =>	'協立情報通信',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3671,
-        'name'       =>	'ソフトマックス'
+        'name'       =>	'ソフトマックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3672,
-        'name'       =>	'オルトプラス'
+        'name'       =>	'オルトプラス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3673,
-        'name'       =>	'ブロードリーフ'
+        'name'       =>	'ブロードリーフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3674,
-        'name'       =>	'オークファン'
+        'name'       =>	'オークファン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3675,
-        'name'       =>	'クロス・マーケティンググループ'
+        'name'       =>	'クロス・マーケティンググループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3676,
-        'name'       =>	'デジタルハーツホールディングス'
+        'name'       =>	'デジタルハーツホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3677,
-        'name'       =>	'システム情報'
+        'name'       =>	'システム情報',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3678,
-        'name'       =>	'メディアドゥ'
+        'name'       =>	'メディアドゥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3679,
-        'name'       =>	'じげん'
+        'name'       =>	'じげん',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3680,
-        'name'       =>	'ホットリンク'
+        'name'       =>	'ホットリンク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3681,
-        'name'       =>	'ブイキューブ'
+        'name'       =>	'ブイキューブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3682,
-        'name'       =>	'エンカレッジ・テクノロジ'
+        'name'       =>	'エンカレッジ・テクノロジ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3683,
-        'name'       =>	'サイバーリンクス'
+        'name'       =>	'サイバーリンクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3686,
-        'name'       =>	'ディー・エル・イー'
+        'name'       =>	'ディー・エル・イー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3687,
-        'name'       =>	'フィックスターズ'
+        'name'       =>	'フィックスターズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3688,
-        'name'       =>	'ＣＡＲＴＡ　ＨＯＬＤＩＮＧＳ'
+        'name'       =>	'ＣＡＲＴＡ　ＨＯＬＤＩＮＧＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3689,
-        'name'       =>	'イグニス'
+        'name'       =>	'イグニス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3690,
-        'name'       =>	'イルグルム'
+        'name'       =>	'イルグルム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3691,
-        'name'       =>	'リアルワールド'
+        'name'       =>	'リアルワールド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3692,
-        'name'       =>	'ＦＦＲＩセキュリティ'
+        'name'       =>	'ＦＦＲＩセキュリティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3693,
-        'name'       =>	'イー・カムトゥルー'
+        'name'       =>	'イー・カムトゥルー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3694,
-        'name'       =>	'オプティム'
+        'name'       =>	'オプティム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3695,
-        'name'       =>	'ＧＭＯリサーチ'
+        'name'       =>	'ＧＭＯリサーチ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3696,
-        'name'       =>	'セレス'
+        'name'       =>	'セレス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3697,
-        'name'       =>	'ＳＨＩＦＴ'
+        'name'       =>	'ＳＨＩＦＴ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3698,
-        'name'       =>	'ＣＲＩ・ミドルウェア'
+        'name'       =>	'ＣＲＩ・ミドルウェア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3708,
-        'name'       =>	'特種東海製紙'
+        'name'       =>	'特種東海製紙',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3710,
-        'name'       =>	'ジョルダン'
+        'name'       =>	'ジョルダン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3712,
-        'name'       =>	'情報企画'
+        'name'       =>	'情報企画',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3719,
-        'name'       =>	'ジェクシード'
+        'name'       =>	'ジェクシード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3723,
-        'name'       =>	'日本ファルコム'
+        'name'       =>	'日本ファルコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3726,
-        'name'       =>	'フォーシーズホールディングス'
+        'name'       =>	'フォーシーズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3727,
-        'name'       =>	'アプリックス'
+        'name'       =>	'アプリックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3733,
-        'name'       =>	'ソフトウェア・サービス'
+        'name'       =>	'ソフトウェア・サービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3738,
-        'name'       =>	'ティーガイア'
+        'name'       =>	'ティーガイア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3741,
-        'name'       =>	'セック'
+        'name'       =>	'セック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3744,
-        'name'       =>	'サイオス'
+        'name'       =>	'サイオス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3747,
-        'name'       =>	'インタートレード'
+        'name'       =>	'インタートレード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3750,
-        'name'       =>	'ＦＲＡＣＴＡＬＥ'
+        'name'       =>	'ＦＲＡＣＴＡＬＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3751,
-        'name'       =>	'日本アジアグループ'
+        'name'       =>	'日本アジアグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3753,
-        'name'       =>	'フライトホールディングス'
+        'name'       =>	'フライトホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3758,
-        'name'       =>	'アエリア'
+        'name'       =>	'アエリア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3760,
-        'name'       =>	'ケイブ'
+        'name'       =>	'ケイブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3762,
-        'name'       =>	'テクマトリックス'
+        'name'       =>	'テクマトリックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3763,
-        'name'       =>	'プロシップ'
+        'name'       =>	'プロシップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3765,
-        'name'       =>	'ガンホー・オンライン・エンターテイメント'
+        'name'       =>	'ガンホー・オンライン・エンターテイメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3766,
-        'name'       =>	'システムズ・デザイン'
+        'name'       =>	'システムズ・デザイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3768,
-        'name'       =>	'リスクモンスター'
+        'name'       =>	'リスクモンスター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3769,
-        'name'       =>	'ＧＭＯペイメントゲートウェイ'
+        'name'       =>	'ＧＭＯペイメントゲートウェイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3770,
-        'name'       =>	'ザッパラス'
+        'name'       =>	'ザッパラス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3771,
-        'name'       =>	'システムリサーチ'
+        'name'       =>	'システムリサーチ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3772,
-        'name'       =>	'ウェルス・マネジメント'
+        'name'       =>	'ウェルス・マネジメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3773,
-        'name'       =>	'アドバンスト・メディア'
+        'name'       =>	'アドバンスト・メディア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3774,
-        'name'       =>	'インターネットイニシアティブ'
+        'name'       =>	'インターネットイニシアティブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3776,
-        'name'       =>	'ブロードバンドタワー'
+        'name'       =>	'ブロードバンドタワー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3777,
-        'name'       =>	'ＦＨＴホールディングス'
+        'name'       =>	'ＦＨＴホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3778,
-        'name'       =>	'さくらインターネット'
+        'name'       =>	'さくらインターネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3779,
-        'name'       =>	'ジェイ・エスコムホールディングス'
+        'name'       =>	'ジェイ・エスコムホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3782,
-        'name'       =>	'ディー・ディー・エス'
+        'name'       =>	'ディー・ディー・エス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3784,
-        'name'       =>	'ヴィンクス'
+        'name'       =>	'ヴィンクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3787,
-        'name'       =>	'テクノマセマティカル'
+        'name'       =>	'テクノマセマティカル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3788,
-        'name'       =>	'ＧＭＯクラウド'
+        'name'       =>	'ＧＭＯクラウド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3791,
-        'name'       =>	'ＩＧポート'
+        'name'       =>	'ＩＧポート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3793,
-        'name'       =>	'ドリコム'
+        'name'       =>	'ドリコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3796,
-        'name'       =>	'いい生活'
+        'name'       =>	'いい生活',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3798,
-        'name'       =>	'ＵＬＳグループ'
+        'name'       =>	'ＵＬＳグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3799,
-        'name'       =>	'キーウェアソリューションズ'
+        'name'       =>	'キーウェアソリューションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3800,
-        'name'       =>	'ユニリタ'
+        'name'       =>	'ユニリタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3802,
-        'name'       =>	'エコミック'
+        'name'       =>	'エコミック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3803,
-        'name'       =>	'イメージ情報開発'
+        'name'       =>	'イメージ情報開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3804,
-        'name'       =>	'システム　ディ'
+        'name'       =>	'システム　ディ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3807,
-        'name'       =>	'フィスコ'
+        'name'       =>	'フィスコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3810,
-        'name'       =>	'サイバーステップ'
+        'name'       =>	'サイバーステップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3814,
-        'name'       =>	'アルファクス・フード・システム'
+        'name'       =>	'アルファクス・フード・システム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3815,
-        'name'       =>	'メディア工房'
+        'name'       =>	'メディア工房',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3816,
-        'name'       =>	'大和コンピューター'
+        'name'       =>	'大和コンピューター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3817,
-        'name'       =>	'ＳＲＡホールディングス'
+        'name'       =>	'ＳＲＡホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3823,
-        'name'       =>	'アクロディア'
+        'name'       =>	'アクロディア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3825,
-        'name'       =>	'リミックスポイント'
+        'name'       =>	'リミックスポイント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3826,
-        'name'       =>	'システムインテグレータ'
+        'name'       =>	'システムインテグレータ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3834,
-        'name'       =>	'朝日ネット'
+        'name'       =>	'朝日ネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3835,
-        'name'       =>	'ｅＢＡＳＥ'
+        'name'       =>	'ｅＢＡＳＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3836,
-        'name'       =>	'アバント'
+        'name'       =>	'アバント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3837,
-        'name'       =>	'アドソル日進'
+        'name'       =>	'アドソル日進',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3839,
-        'name'       =>	'ＯＤＫソリューションズ'
+        'name'       =>	'ＯＤＫソリューションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3840,
-        'name'       =>	'パス'
+        'name'       =>	'パス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3841,
-        'name'       =>	'ジーダット'
+        'name'       =>	'ジーダット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3842,
-        'name'       =>	'ネクストジェン'
+        'name'       =>	'ネクストジェン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3843,
-        'name'       =>	'フリービット'
+        'name'       =>	'フリービット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3844,
-        'name'       =>	'コムチュア'
+        'name'       =>	'コムチュア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3845,
-        'name'       =>	'アイフリークモバイル'
+        'name'       =>	'アイフリークモバイル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3847,
-        'name'       =>	'パシフィックシステム'
+        'name'       =>	'パシフィックシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3848,
-        'name'       =>	'データ・アプリケーション'
+        'name'       =>	'データ・アプリケーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3850,
-        'name'       =>	'エヌ・ティ・ティ・データ・イントラマート'
+        'name'       =>	'エヌ・ティ・ティ・データ・イントラマート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3851,
-        'name'       =>	'日本一ソフトウェア'
+        'name'       =>	'日本一ソフトウェア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3852,
-        'name'       =>	'サイバーコム'
+        'name'       =>	'サイバーコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3853,
-        'name'       =>	'アステリア'
+        'name'       =>	'アステリア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3854,
-        'name'       =>	'アイル'
+        'name'       =>	'アイル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3856,
-        'name'       =>	'Ａｂａｌａｎｃｅ'
+        'name'       =>	'Ａｂａｌａｎｃｅ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3857,
-        'name'       =>	'ラック'
+        'name'       =>	'ラック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3858,
-        'name'       =>	'ユビキタスＡＩコーポレーション'
+        'name'       =>	'ユビキタスＡＩコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3861,
-        'name'       =>	'王子ホールディングス'
+        'name'       =>	'王子ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3863,
-        'name'       =>	'日本製紙'
+        'name'       =>	'日本製紙',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3864,
-        'name'       =>	'三菱製紙'
+        'name'       =>	'三菱製紙',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3865,
-        'name'       =>	'北越コーポレーション'
+        'name'       =>	'北越コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3877,
-        'name'       =>	'中越パルプ工業'
+        'name'       =>	'中越パルプ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3878,
-        'name'       =>	'巴川製紙所'
+        'name'       =>	'巴川製紙所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3880,
-        'name'       =>	'大王製紙'
+        'name'       =>	'大王製紙',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3891,
-        'name'       =>	'ニッポン高度紙工業'
+        'name'       =>	'ニッポン高度紙工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3892,
-        'name'       =>	'岡山製紙'
+        'name'       =>	'岡山製紙',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3895,
-        'name'       =>	'ハビックス'
+        'name'       =>	'ハビックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3896,
-        'name'       =>	'阿波製紙'
+        'name'       =>	'阿波製紙',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3900,
-        'name'       =>	'クラウドワークス'
+        'name'       =>	'クラウドワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3901,
-        'name'       =>	'マークラインズ'
+        'name'       =>	'マークラインズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3902,
-        'name'       =>	'メディカル・データ・ビジョン'
+        'name'       =>	'メディカル・データ・ビジョン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3903,
-        'name'       =>	'ｇｕｍｉ'
+        'name'       =>	'ｇｕｍｉ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3904,
-        'name'       =>	'カヤック'
+        'name'       =>	'カヤック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3905,
-        'name'       =>	'データセクション'
+        'name'       =>	'データセクション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3906,
-        'name'       =>	'ＡＬＢＥＲＴ'
+        'name'       =>	'ＡＬＢＥＲＴ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3907,
-        'name'       =>	'シリコンスタジオ'
+        'name'       =>	'シリコンスタジオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3908,
-        'name'       =>	'コラボス'
+        'name'       =>	'コラボス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3909,
-        'name'       =>	'ショーケース'
+        'name'       =>	'ショーケース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3910,
-        'name'       =>	'エムケイシステム'
+        'name'       =>	'エムケイシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3911,
-        'name'       =>	'Ａｉｍｉｎｇ'
+        'name'       =>	'Ａｉｍｉｎｇ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3912,
-        'name'       =>	'モバイルファクトリー'
+        'name'       =>	'モバイルファクトリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3913,
-        'name'       =>	'ｓＭｅｄｉｏ'
+        'name'       =>	'ｓＭｅｄｉｏ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3914,
-        'name'       =>	'ＪＩＧ－ＳＡＷ'
+        'name'       =>	'ＪＩＧ－ＳＡＷ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3915,
-        'name'       =>	'テラスカイ'
+        'name'       =>	'テラスカイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3916,
-        'name'       =>	'デジタル・インフォメーション・テクノロジー'
+        'name'       =>	'デジタル・インフォメーション・テクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3917,
-        'name'       =>	'アイリッジ'
+        'name'       =>	'アイリッジ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3918,
-        'name'       =>	'ＰＣＩホールディングス'
+        'name'       =>	'ＰＣＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3919,
-        'name'       =>	'パイプドＨＤ'
+        'name'       =>	'パイプドＨＤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3920,
-        'name'       =>	'アイビーシー'
+        'name'       =>	'アイビーシー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3921,
-        'name'       =>	'ネオジャパン'
+        'name'       =>	'ネオジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3922,
-        'name'       =>	'ＰＲ　ＴＩＭＥＳ'
+        'name'       =>	'ＰＲ　ＴＩＭＥＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3923,
-        'name'       =>	'ラクス'
+        'name'       =>	'ラクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3924,
-        'name'       =>	'ランドコンピュータ'
+        'name'       =>	'ランドコンピュータ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3925,
-        'name'       =>	'ダブルスタンダード'
+        'name'       =>	'ダブルスタンダード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3926,
-        'name'       =>	'オープンドア'
+        'name'       =>	'オープンドア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3927,
-        'name'       =>	'フーバーブレイン'
+        'name'       =>	'フーバーブレイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3928,
-        'name'       =>	'マイネット'
+        'name'       =>	'マイネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3929,
-        'name'       =>	'ソーシャルワイヤー'
+        'name'       =>	'ソーシャルワイヤー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3930,
-        'name'       =>	'はてな'
+        'name'       =>	'はてな',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3931,
-        'name'       =>	'バリューゴルフ'
+        'name'       =>	'バリューゴルフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3932,
-        'name'       =>	'アカツキ'
+        'name'       =>	'アカツキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3933,
-        'name'       =>	'チエル'
+        'name'       =>	'チエル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3934,
-        'name'       =>	'ベネフィットジャパン'
+        'name'       =>	'ベネフィットジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3935,
-        'name'       =>	'エディア'
+        'name'       =>	'エディア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3936,
-        'name'       =>	'グローバルウェイ'
+        'name'       =>	'グローバルウェイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3937,
-        'name'       =>	'Ｕｂｉｃｏｍホールディングス'
+        'name'       =>	'Ｕｂｉｃｏｍホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3938,
-        'name'       =>	'ＬＩＮＥ'
+        'name'       =>	'ＬＩＮＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3939,
-        'name'       =>	'カナミックネットワーク'
+        'name'       =>	'カナミックネットワーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3940,
-        'name'       =>	'ノムラシステムコーポレーション'
+        'name'       =>	'ノムラシステムコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3941,
-        'name'       =>	'レンゴー'
+        'name'       =>	'レンゴー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3944,
-        'name'       =>	'古林紙工'
+        'name'       =>	'古林紙工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3945,
-        'name'       =>	'スーパーバッグ'
+        'name'       =>	'スーパーバッグ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3946,
-        'name'       =>	'トーモク'
+        'name'       =>	'トーモク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3947,
-        'name'       =>	'ダイナパック'
+        'name'       =>	'ダイナパック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3948,
-        'name'       =>	'光ビジネスフォーム'
+        'name'       =>	'光ビジネスフォーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3950,
-        'name'       =>	'ザ・パック'
+        'name'       =>	'ザ・パック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3951,
-        'name'       =>	'朝日印刷'
+        'name'       =>	'朝日印刷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3953,
-        'name'       =>	'大村紙業'
+        'name'       =>	'大村紙業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3954,
-        'name'       =>	'昭和パックス'
+        'name'       =>	'昭和パックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3955,
-        'name'       =>	'イムラ封筒'
+        'name'       =>	'イムラ封筒',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3956,
-        'name'       =>	'国際チャート'
+        'name'       =>	'国際チャート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3960,
-        'name'       =>	'バリューデザイン'
+        'name'       =>	'バリューデザイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3961,
-        'name'       =>	'シルバーエッグ・テクノロジー'
+        'name'       =>	'シルバーエッグ・テクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3962,
-        'name'       =>	'チェンジ'
+        'name'       =>	'チェンジ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3963,
-        'name'       =>	'シンクロ・フード'
+        'name'       =>	'シンクロ・フード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3964,
-        'name'       =>	'オークネット'
+        'name'       =>	'オークネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3965,
-        'name'       =>	'キャピタル・アセット・プランニング'
+        'name'       =>	'キャピタル・アセット・プランニング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3966,
-        'name'       =>	'ユーザベース'
+        'name'       =>	'ユーザベース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3967,
-        'name'       =>	'エルテス'
+        'name'       =>	'エルテス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3968,
-        'name'       =>	'セグエグループ'
+        'name'       =>	'セグエグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3969,
-        'name'       =>	'エイトレッド'
+        'name'       =>	'エイトレッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3970,
-        'name'       =>	'イノベーション'
+        'name'       =>	'イノベーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3974,
-        'name'       =>	'ティビィシィ・スキヤツト'
+        'name'       =>	'ティビィシィ・スキヤツト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3975,
-        'name'       =>	'ＡＯＩ　ＴＹＯ　Ｈｏｌｄｉｎｇｓ'
+        'name'       =>	'ＡＯＩ　ＴＹＯ　Ｈｏｌｄｉｎｇｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3976,
-        'name'       =>	'シャノン'
+        'name'       =>	'シャノン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3978,
-        'name'       =>	'マクロミル'
+        'name'       =>	'マクロミル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3979,
-        'name'       =>	'うるる'
+        'name'       =>	'うるる',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3981,
-        'name'       =>	'ビーグリー'
+        'name'       =>	'ビーグリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3983,
-        'name'       =>	'オロ'
+        'name'       =>	'オロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3984,
-        'name'       =>	'ユーザーローカル'
+        'name'       =>	'ユーザーローカル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3985,
-        'name'       =>	'テモナ'
+        'name'       =>	'テモナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3986,
-        'name'       =>	'ビーブレイクシステムズ'
+        'name'       =>	'ビーブレイクシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3987,
-        'name'       =>	'エコモット'
+        'name'       =>	'エコモット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3988,
-        'name'       =>	'ＳＹＳホールディングス'
+        'name'       =>	'ＳＹＳホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3989,
-        'name'       =>	'シェアリングテクノロジー'
+        'name'       =>	'シェアリングテクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3990,
-        'name'       =>	'ＵＵＵＭ'
+        'name'       =>	'ＵＵＵＭ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3991,
-        'name'       =>	'ウォンテッドリー'
+        'name'       =>	'ウォンテッドリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3992,
-        'name'       =>	'ニーズウェル'
+        'name'       =>	'ニーズウェル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3993,
-        'name'       =>	'ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ'
+        'name'       =>	'ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3994,
-        'name'       =>	'マネーフォワード'
+        'name'       =>	'マネーフォワード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3995,
-        'name'       =>	'ＳＫＩＹＡＫＩ'
+        'name'       =>	'ＳＫＩＹＡＫＩ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3996,
-        'name'       =>	'サインポスト'
+        'name'       =>	'サインポスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3997,
-        'name'       =>	'トレードワークス'
+        'name'       =>	'トレードワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3998,
-        'name'       =>	'すららネット'
+        'name'       =>	'すららネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 3999,
-        'name'       =>	'ナレッジスイート'
+        'name'       =>	'ナレッジスイート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4004,
-        'name'       =>	'昭和電工'
+        'name'       =>	'昭和電工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4005,
-        'name'       =>	'住友化学'
+        'name'       =>	'住友化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4008,
-        'name'       =>	'住友精化'
+        'name'       =>	'住友精化',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4021,
-        'name'       =>	'日産化学'
+        'name'       =>	'日産化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4022,
-        'name'       =>	'ラサ工業'
+        'name'       =>	'ラサ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4023,
-        'name'       =>	'クレハ'
+        'name'       =>	'クレハ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4025,
-        'name'       =>	'多木化学'
+        'name'       =>	'多木化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4026,
-        'name'       =>	'神島化学工業'
+        'name'       =>	'神島化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4027,
-        'name'       =>	'テイカ'
+        'name'       =>	'テイカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4028,
-        'name'       =>	'石原産業'
+        'name'       =>	'石原産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4031,
-        'name'       =>	'片倉コープアグリ'
+        'name'       =>	'片倉コープアグリ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4041,
-        'name'       =>	'日本曹達'
+        'name'       =>	'日本曹達',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4042,
-        'name'       =>	'東ソー'
+        'name'       =>	'東ソー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4043,
-        'name'       =>	'トクヤマ'
+        'name'       =>	'トクヤマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4044,
-        'name'       =>	'セントラル硝子'
+        'name'       =>	'セントラル硝子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4045,
-        'name'       =>	'東亞合成'
+        'name'       =>	'東亞合成',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4046,
-        'name'       =>	'大阪ソーダ'
+        'name'       =>	'大阪ソーダ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4047,
-        'name'       =>	'関東電化工業'
+        'name'       =>	'関東電化工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4052,
-        'name'       =>	'フィーチャ'
+        'name'       =>	'フィーチャ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4061,
-        'name'       =>	'デンカ'
+        'name'       =>	'デンカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4062,
-        'name'       =>	'イビデン'
+        'name'       =>	'イビデン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4063,
-        'name'       =>	'信越化学工業'
+        'name'       =>	'信越化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4064,
-        'name'       =>	'日本カーバイド工業'
+        'name'       =>	'日本カーバイド工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4078,
-        'name'       =>	'堺化学工業'
+        'name'       =>	'堺化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4080,
-        'name'       =>	'田中化学研究所'
+        'name'       =>	'田中化学研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4082,
-        'name'       =>	'第一稀元素化学工業'
+        'name'       =>	'第一稀元素化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4088,
-        'name'       =>	'エア・ウォーター'
+        'name'       =>	'エア・ウォーター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4091,
-        'name'       =>	'大陽日酸'
+        'name'       =>	'大陽日酸',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4092,
-        'name'       =>	'日本化学工業'
+        'name'       =>	'日本化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4093,
-        'name'       =>	'東邦アセチレン'
+        'name'       =>	'東邦アセチレン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4094,
-        'name'       =>	'日本化学産業'
+        'name'       =>	'日本化学産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4095,
-        'name'       =>	'日本パーカライジング'
+        'name'       =>	'日本パーカライジング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4097,
-        'name'       =>	'高圧ガス工業'
+        'name'       =>	'高圧ガス工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4098,
-        'name'       =>	'チタン工業'
+        'name'       =>	'チタン工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4099,
-        'name'       =>	'四国化成工業'
+        'name'       =>	'四国化成工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4100,
-        'name'       =>	'戸田工業'
+        'name'       =>	'戸田工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4102,
-        'name'       =>	'丸尾カルシウム'
+        'name'       =>	'丸尾カルシウム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4107,
-        'name'       =>	'伊勢化学工業'
+        'name'       =>	'伊勢化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4109,
-        'name'       =>	'ステラ　ケミファ'
+        'name'       =>	'ステラ　ケミファ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4112,
-        'name'       =>	'保土谷化学工業'
+        'name'       =>	'保土谷化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4113,
-        'name'       =>	'田岡化学工業'
+        'name'       =>	'田岡化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4114,
-        'name'       =>	'日本触媒'
+        'name'       =>	'日本触媒',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4115,
-        'name'       =>	'本州化学工業'
+        'name'       =>	'本州化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4116,
-        'name'       =>	'大日精化工業'
+        'name'       =>	'大日精化工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4118,
-        'name'       =>	'カネカ'
+        'name'       =>	'カネカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4119,
-        'name'       =>	'日本ピグメント'
+        'name'       =>	'日本ピグメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4120,
-        'name'       =>	'スガイ化学工業'
+        'name'       =>	'スガイ化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4124,
-        'name'       =>	'大阪油化工業'
+        'name'       =>	'大阪油化工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4151,
-        'name'       =>	'協和キリン'
+        'name'       =>	'協和キリン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4182,
-        'name'       =>	'三菱瓦斯化学'
+        'name'       =>	'三菱瓦斯化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4183,
-        'name'       =>	'三井化学'
+        'name'       =>	'三井化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4185,
-        'name'       =>	'ＪＳＲ'
+        'name'       =>	'ＪＳＲ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4186,
-        'name'       =>	'東京応化工業'
+        'name'       =>	'東京応化工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4187,
-        'name'       =>	'大阪有機化学工業'
+        'name'       =>	'大阪有機化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4188,
-        'name'       =>	'三菱ケミカルホールディングス'
+        'name'       =>	'三菱ケミカルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4189,
-        'name'       =>	'ＫＨネオケム'
+        'name'       =>	'ＫＨネオケム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4202,
-        'name'       =>	'ダイセル'
+        'name'       =>	'ダイセル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4203,
-        'name'       =>	'住友ベークライト'
+        'name'       =>	'住友ベークライト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4204,
-        'name'       =>	'積水化学工業'
+        'name'       =>	'積水化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4205,
-        'name'       =>	'日本ゼオン'
+        'name'       =>	'日本ゼオン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4206,
-        'name'       =>	'アイカ工業'
+        'name'       =>	'アイカ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4208,
-        'name'       =>	'宇部興産'
+        'name'       =>	'宇部興産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4212,
-        'name'       =>	'積水樹脂'
+        'name'       =>	'積水樹脂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4215,
-        'name'       =>	'タキロンシーアイ'
+        'name'       =>	'タキロンシーアイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4216,
-        'name'       =>	'旭有機材'
+        'name'       =>	'旭有機材',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4218,
-        'name'       =>	'ニチバン'
+        'name'       =>	'ニチバン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4220,
-        'name'       =>	'リケンテクノス'
+        'name'       =>	'リケンテクノス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4221,
-        'name'       =>	'大倉工業'
+        'name'       =>	'大倉工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4222,
-        'name'       =>	'児玉化学工業'
+        'name'       =>	'児玉化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4224,
-        'name'       =>	'ロンシール工業'
+        'name'       =>	'ロンシール工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4228,
-        'name'       =>	'積水化成品工業'
+        'name'       =>	'積水化成品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4229,
-        'name'       =>	'群栄化学工業'
+        'name'       =>	'群栄化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4231,
-        'name'       =>	'タイガースポリマー'
+        'name'       =>	'タイガースポリマー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4234,
-        'name'       =>	'サンエー化研'
+        'name'       =>	'サンエー化研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4235,
-        'name'       =>	'ウルトラファブリックス・ホールディングス'
+        'name'       =>	'ウルトラファブリックス・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4237,
-        'name'       =>	'フジプレアム'
+        'name'       =>	'フジプレアム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4238,
-        'name'       =>	'ミライアル'
+        'name'       =>	'ミライアル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4240,
-        'name'       =>	'クラスターテクノロジー'
+        'name'       =>	'クラスターテクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4241,
-        'name'       =>	'アテクト'
+        'name'       =>	'アテクト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4242,
-        'name'       =>	'タカギセイコー'
+        'name'       =>	'タカギセイコー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4243,
-        'name'       =>	'ニックス'
+        'name'       =>	'ニックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4245,
-        'name'       =>	'ダイキアクシス'
+        'name'       =>	'ダイキアクシス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4246,
-        'name'       =>	'ダイキョーニシカワ'
+        'name'       =>	'ダイキョーニシカワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4248,
-        'name'       =>	'竹本容器'
+        'name'       =>	'竹本容器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4249,
-        'name'       =>	'森六ホールディングス'
+        'name'       =>	'森六ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4250,
-        'name'       =>	'フロンティア'
+        'name'       =>	'フロンティア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4251,
-        'name'       =>	'恵和'
+        'name'       =>	'恵和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4272,
-        'name'       =>	'日本化薬'
+        'name'       =>	'日本化薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4274,
-        'name'       =>	'細谷火工'
+        'name'       =>	'細谷火工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4275,
-        'name'       =>	'カーリットホールディングス'
+        'name'       =>	'カーリットホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4282,
-        'name'       =>	'ＥＰＳホールディングス'
+        'name'       =>	'ＥＰＳホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4284,
-        'name'       =>	'ソルクシーズ'
+        'name'       =>	'ソルクシーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4286,
-        'name'       =>	'レッグス'
+        'name'       =>	'レッグス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4287,
-        'name'       =>	'ジャストプランニング'
+        'name'       =>	'ジャストプランニング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4288,
-        'name'       =>	'アズジェント'
+        'name'       =>	'アズジェント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4290,
-        'name'       =>	'プレステージ・インターナショナル'
+        'name'       =>	'プレステージ・インターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4293,
-        'name'       =>	'セプテーニ・ホールディングス'
+        'name'       =>	'セプテーニ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4295,
-        'name'       =>	'フェイス'
+        'name'       =>	'フェイス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4298,
-        'name'       =>	'プロトコーポレーション'
+        'name'       =>	'プロトコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4299,
-        'name'       =>	'ハイマックス'
+        'name'       =>	'ハイマックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4301,
-        'name'       =>	'アミューズ'
+        'name'       =>	'アミューズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4304,
-        'name'       =>	'Ｅストアー'
+        'name'       =>	'Ｅストアー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4307,
-        'name'       =>	'野村総合研究所'
+        'name'       =>	'野村総合研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4308,
-        'name'       =>	'Ｊストリーム'
+        'name'       =>	'Ｊストリーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4310,
-        'name'       =>	'ドリームインキュベータ'
+        'name'       =>	'ドリームインキュベータ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4312,
-        'name'       =>	'サイバネットシステム'
+        'name'       =>	'サイバネットシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4316,
-        'name'       =>	'ビーマップ'
+        'name'       =>	'ビーマップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4317,
-        'name'       =>	'レイ'
+        'name'       =>	'レイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4318,
-        'name'       =>	'クイック'
+        'name'       =>	'クイック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4319,
-        'name'       =>	'ＴＡＣ'
+        'name'       =>	'ＴＡＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4320,
-        'name'       =>	'ＣＥホールディングス'
+        'name'       =>	'ＣＥホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4321,
-        'name'       =>	'ケネディクス'
+        'name'       =>	'ケネディクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4323,
-        'name'       =>	'日本システム技術'
+        'name'       =>	'日本システム技術',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4324,
-        'name'       =>	'電通グループ'
+        'name'       =>	'電通グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4326,
-        'name'       =>	'インテージホールディングス'
+        'name'       =>	'インテージホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4327,
-        'name'       =>	'日本エス・エイチ・エル'
+        'name'       =>	'日本エス・エイチ・エル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4331,
-        'name'       =>	'テイクアンドギヴ・ニーズ'
+        'name'       =>	'テイクアンドギヴ・ニーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4333,
-        'name'       =>	'東邦システムサイエンス'
+        'name'       =>	'東邦システムサイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4334,
-        'name'       =>	'ユークス'
+        'name'       =>	'ユークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4335,
-        'name'       =>	'アイ・ピー・エス'
+        'name'       =>	'アイ・ピー・エス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4336,
-        'name'       =>	'クリエアナブキ'
+        'name'       =>	'クリエアナブキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4337,
-        'name'       =>	'ぴあ'
+        'name'       =>	'ぴあ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4341,
-        'name'       =>	'西菱電機'
+        'name'       =>	'西菱電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4342,
-        'name'       =>	'セコム上信越'
+        'name'       =>	'セコム上信越',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4343,
-        'name'       =>	'イオンファンタジー'
+        'name'       =>	'イオンファンタジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4344,
-        'name'       =>	'ソースネクスト'
+        'name'       =>	'ソースネクスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4345,
-        'name'       =>	'シーティーエス'
+        'name'       =>	'シーティーエス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4346,
-        'name'       =>	'ネクシィーズグループ'
+        'name'       =>	'ネクシィーズグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4347,
-        'name'       =>	'ブロードメディア'
+        'name'       =>	'ブロードメディア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4348,
-        'name'       =>	'インフォコム'
+        'name'       =>	'インフォコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4350,
-        'name'       =>	'メディカルシステムネットワーク'
+        'name'       =>	'メディカルシステムネットワーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4351,
-        'name'       =>	'山田債権回収管理総合事務所'
+        'name'       =>	'山田債権回収管理総合事務所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4355,
-        'name'       =>	'ロングライフホールディング'
+        'name'       =>	'ロングライフホールディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4356,
-        'name'       =>	'応用技術'
+        'name'       =>	'応用技術',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4361,
-        'name'       =>	'川口化学工業'
+        'name'       =>	'川口化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4362,
-        'name'       =>	'日本精化'
+        'name'       =>	'日本精化',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4364,
-        'name'       =>	'マナック'
+        'name'       =>	'マナック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4365,
-        'name'       =>	'松本油脂製薬'
+        'name'       =>	'松本油脂製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4366,
-        'name'       =>	'ダイトーケミックス'
+        'name'       =>	'ダイトーケミックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4367,
-        'name'       =>	'広栄化学工業'
+        'name'       =>	'広栄化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4368,
-        'name'       =>	'扶桑化学工業'
+        'name'       =>	'扶桑化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4369,
-        'name'       =>	'トリケミカル研究所'
+        'name'       =>	'トリケミカル研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4380,
-        'name'       =>	'Ｍマート'
+        'name'       =>	'Ｍマート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4381,
-        'name'       =>	'ビープラッツ'
+        'name'       =>	'ビープラッツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4382,
-        'name'       =>	'ＨＥＲＯＺ'
+        'name'       =>	'ＨＥＲＯＺ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4383,
-        'name'       =>	'ビズライト・テクノロジー'
+        'name'       =>	'ビズライト・テクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4384,
-        'name'       =>	'ラクスル'
+        'name'       =>	'ラクスル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4385,
-        'name'       =>	'メルカリ'
+        'name'       =>	'メルカリ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4386,
-        'name'       =>	'ＳＩＧ'
+        'name'       =>	'ＳＩＧ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4387,
-        'name'       =>	'ＺＵＵ'
+        'name'       =>	'ＺＵＵ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4388,
-        'name'       =>	'エーアイ'
+        'name'       =>	'エーアイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4389,
-        'name'       =>	'プロパティデータバンク'
+        'name'       =>	'プロパティデータバンク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4390,
-        'name'       =>	'ＩＰＳ'
+        'name'       =>	'ＩＰＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4391,
-        'name'       =>	'ロジザード'
+        'name'       =>	'ロジザード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4392,
-        'name'       =>	'ＦＩＧ'
+        'name'       =>	'ＦＩＧ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4393,
-        'name'       =>	'バンク・オブ・イノベーション'
+        'name'       =>	'バンク・オブ・イノベーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4394,
-        'name'       =>	'エクスモーション'
+        'name'       =>	'エクスモーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4395,
-        'name'       =>	'アクリート'
+        'name'       =>	'アクリート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4396,
-        'name'       =>	'システムサポート'
+        'name'       =>	'システムサポート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4397,
-        'name'       =>	'チームスピリット'
+        'name'       =>	'チームスピリット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4398,
-        'name'       =>	'ブロードバンドセキュリティ'
+        'name'       =>	'ブロードバンドセキュリティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4399,
-        'name'       =>	'くふうカンパニー'
+        'name'       =>	'くふうカンパニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4401,
-        'name'       =>	'ＡＤＥＫＡ'
+        'name'       =>	'ＡＤＥＫＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4403,
-        'name'       =>	'日油'
+        'name'       =>	'日油',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4404,
-        'name'       =>	'ミヨシ油脂'
+        'name'       =>	'ミヨシ油脂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4406,
-        'name'       =>	'新日本理化'
+        'name'       =>	'新日本理化',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4409,
-        'name'       =>	'東邦化学工業'
+        'name'       =>	'東邦化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4410,
-        'name'       =>	'ハリマ化成グループ'
+        'name'       =>	'ハリマ化成グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4420,
-        'name'       =>	'イーソル'
+        'name'       =>	'イーソル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4421,
-        'name'       =>	'ディ・アイ・システム'
+        'name'       =>	'ディ・アイ・システム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4422,
-        'name'       =>	'ＶＡＬＵＥＮＥＸ'
+        'name'       =>	'ＶＡＬＵＥＮＥＸ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4423,
-        'name'       =>	'アルテリア・ネットワークス'
+        'name'       =>	'アルテリア・ネットワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4424,
-        'name'       =>	'Ａｍａｚｉａ'
+        'name'       =>	'Ａｍａｚｉａ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4425,
-        'name'       =>	'Ｋｕｄａｎ'
+        'name'       =>	'Ｋｕｄａｎ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4426,
-        'name'       =>	'パスロジ'
+        'name'       =>	'パスロジ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4427,
-        'name'       =>	'ＥｄｕＬａｂ'
+        'name'       =>	'ＥｄｕＬａｂ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4428,
-        'name'       =>	'シノプス'
+        'name'       =>	'シノプス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4429,
-        'name'       =>	'リックソフト'
+        'name'       =>	'リックソフト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4430,
-        'name'       =>	'東海ソフト'
+        'name'       =>	'東海ソフト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4431,
-        'name'       =>	'スマレジ'
+        'name'       =>	'スマレジ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4433,
-        'name'       =>	'ヒト・コミュニケーションズ・ホールディングス'
+        'name'       =>	'ヒト・コミュニケーションズ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4434,
-        'name'       =>	'サーバーワークス'
+        'name'       =>	'サーバーワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4435,
-        'name'       =>	'カオナビ'
+        'name'       =>	'カオナビ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4436,
-        'name'       =>	'ミンカブ・ジ・インフォノイド'
+        'name'       =>	'ミンカブ・ジ・インフォノイド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4437,
-        'name'       =>	'ｇｏｏｄｄａｙｓホールディングス'
+        'name'       =>	'ｇｏｏｄｄａｙｓホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4438,
-        'name'       =>	'Ｗｅｌｂｙ'
+        'name'       =>	'Ｗｅｌｂｙ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4439,
-        'name'       =>	'東名'
+        'name'       =>	'東名',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4440,
-        'name'       =>	'ヴィッツ'
+        'name'       =>	'ヴィッツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4441,
-        'name'       =>	'トビラシステムズ'
+        'name'       =>	'トビラシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4442,
-        'name'       =>	'バルテス'
+        'name'       =>	'バルテス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4443,
-        'name'       =>	'Ｓａｎｓａｎ'
+        'name'       =>	'Ｓａｎｓａｎ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4444,
-        'name'       =>	'インフォネット'
+        'name'       =>	'インフォネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4445,
-        'name'       =>	'リビン・テクノロジーズ'
+        'name'       =>	'リビン・テクノロジーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4446,
-        'name'       =>	'Ｌｉｎｋ－Ｕ'
+        'name'       =>	'Ｌｉｎｋ－Ｕ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4448,
-        'name'       =>	'Ｃｈａｔｗｏｒｋ'
+        'name'       =>	'Ｃｈａｔｗｏｒｋ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4449,
-        'name'       =>	'ギフティ'
+        'name'       =>	'ギフティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4450,
-        'name'       =>	'パワーソリューションズ'
+        'name'       =>	'パワーソリューションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4452,
-        'name'       =>	'花王'
+        'name'       =>	'花王',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4461,
-        'name'       =>	'第一工業製薬'
+        'name'       =>	'第一工業製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4462,
-        'name'       =>	'石原ケミカル'
+        'name'       =>	'石原ケミカル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4463,
-        'name'       =>	'日華化学'
+        'name'       =>	'日華化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4464,
-        'name'       =>	'ソフト９９コーポレーション'
+        'name'       =>	'ソフト９９コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4465,
-        'name'       =>	'ニイタカ'
+        'name'       =>	'ニイタカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4471,
-        'name'       =>	'三洋化成工業'
+        'name'       =>	'三洋化成工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4475,
-        'name'       =>	'ＨＥＮＮＧＥ'
+        'name'       =>	'ＨＥＮＮＧＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4476,
-        'name'       =>	'ＡＩ　ＣＲＯＳＳ'
+        'name'       =>	'ＡＩ　ＣＲＯＳＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4477,
-        'name'       =>	'ＢＡＳＥ'
+        'name'       =>	'ＢＡＳＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4478,
-        'name'       =>	'フリー'
+        'name'       =>	'フリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4479,
-        'name'       =>	'マクアケ'
+        'name'       =>	'マクアケ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4480,
-        'name'       =>	'メドレー'
+        'name'       =>	'メドレー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4481,
-        'name'       =>	'ベース'
+        'name'       =>	'ベース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4482,
-        'name'       =>	'ウィルズ'
+        'name'       =>	'ウィルズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4483,
-        'name'       =>	'ＪＭＤＣ'
+        'name'       =>	'ＪＭＤＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4484,
-        'name'       =>	'ランサーズ'
+        'name'       =>	'ランサーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4485,
-        'name'       =>	'ＪＴＯＷＥＲ'
+        'name'       =>	'ＪＴＯＷＥＲ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4486,
-        'name'       =>	'ユナイトアンドグロウ'
+        'name'       =>	'ユナイトアンドグロウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4487,
-        'name'       =>	'スペースマーケット'
+        'name'       =>	'スペースマーケット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4488,
-        'name'       =>	'ＡＩ　ｉｎｓｉｄｅ'
+        'name'       =>	'ＡＩ　ｉｎｓｉｄｅ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4490,
-        'name'       =>	'ビザスク'
+        'name'       =>	'ビザスク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4491,
-        'name'       =>	'コンピューターマネージメント'
+        'name'       =>	'コンピューターマネージメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4492,
-        'name'       =>	'ゼネテック'
+        'name'       =>	'ゼネテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4493,
-        'name'       =>	'サイバーセキュリティクラウド'
+        'name'       =>	'サイバーセキュリティクラウド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4496,
-        'name'       =>	'コマースＯｎｅホールディングス'
+        'name'       =>	'コマースＯｎｅホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4497,
-        'name'       =>	'ロコガイド'
+        'name'       =>	'ロコガイド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4502,
-        'name'       =>	'武田薬品工業'
+        'name'       =>	'武田薬品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4503,
-        'name'       =>	'アステラス製薬'
+        'name'       =>	'アステラス製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4506,
-        'name'       =>	'大日本住友製薬'
+        'name'       =>	'大日本住友製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4507,
-        'name'       =>	'塩野義製薬'
+        'name'       =>	'塩野義製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4512,
-        'name'       =>	'わかもと製薬'
+        'name'       =>	'わかもと製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4514,
-        'name'       =>	'あすか製薬'
+        'name'       =>	'あすか製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4516,
-        'name'       =>	'日本新薬'
+        'name'       =>	'日本新薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4517,
-        'name'       =>	'ビオフェルミン製薬'
+        'name'       =>	'ビオフェルミン製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4519,
-        'name'       =>	'中外製薬'
+        'name'       =>	'中外製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4521,
-        'name'       =>	'科研製薬'
+        'name'       =>	'科研製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4523,
-        'name'       =>	'エーザイ'
+        'name'       =>	'エーザイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4524,
-        'name'       =>	'森下仁丹'
+        'name'       =>	'森下仁丹',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4526,
-        'name'       =>	'理研ビタミン'
+        'name'       =>	'理研ビタミン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4527,
-        'name'       =>	'ロート製薬'
+        'name'       =>	'ロート製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4528,
-        'name'       =>	'小野薬品工業'
+        'name'       =>	'小野薬品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4530,
-        'name'       =>	'久光製薬'
+        'name'       =>	'久光製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4531,
-        'name'       =>	'有機合成薬品工業'
+        'name'       =>	'有機合成薬品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4534,
-        'name'       =>	'持田製薬'
+        'name'       =>	'持田製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4536,
-        'name'       =>	'参天製薬'
+        'name'       =>	'参天製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4538,
-        'name'       =>	'扶桑薬品工業'
+        'name'       =>	'扶桑薬品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4539,
-        'name'       =>	'日本ケミファ'
+        'name'       =>	'日本ケミファ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4540,
-        'name'       =>	'ツムラ'
+        'name'       =>	'ツムラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4541,
-        'name'       =>	'日医工'
+        'name'       =>	'日医工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4543,
-        'name'       =>	'テルモ'
+        'name'       =>	'テルモ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4544,
-        'name'       =>	'みらかホールディングス'
+        'name'       =>	'みらかホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4547,
-        'name'       =>	'キッセイ薬品工業'
+        'name'       =>	'キッセイ薬品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4548,
-        'name'       =>	'生化学工業'
+        'name'       =>	'生化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4549,
-        'name'       =>	'栄研化学'
+        'name'       =>	'栄研化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4550,
-        'name'       =>	'日水製薬'
+        'name'       =>	'日水製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4551,
-        'name'       =>	'鳥居薬品'
+        'name'       =>	'鳥居薬品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4552,
-        'name'       =>	'ＪＣＲファーマ'
+        'name'       =>	'ＪＣＲファーマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4553,
-        'name'       =>	'東和薬品'
+        'name'       =>	'東和薬品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4554,
-        'name'       =>	'富士製薬工業'
+        'name'       =>	'富士製薬工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4555,
-        'name'       =>	'沢井製薬'
+        'name'       =>	'沢井製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4556,
-        'name'       =>	'カイノス'
+        'name'       =>	'カイノス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4557,
-        'name'       =>	'医学生物学研究所'
+        'name'       =>	'医学生物学研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4558,
-        'name'       =>	'中京医薬品'
+        'name'       =>	'中京医薬品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4559,
-        'name'       =>	'ゼリア新薬工業'
+        'name'       =>	'ゼリア新薬工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4563,
-        'name'       =>	'アンジェス'
+        'name'       =>	'アンジェス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4564,
-        'name'       =>	'オンコセラピー・サイエンス'
+        'name'       =>	'オンコセラピー・サイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4565,
-        'name'       =>	'そーせいグループ'
+        'name'       =>	'そーせいグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4568,
-        'name'       =>	'第一三共'
+        'name'       =>	'第一三共',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4569,
-        'name'       =>	'キョーリン製薬ホールディングス'
+        'name'       =>	'キョーリン製薬ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4570,
-        'name'       =>	'免疫生物研究所'
+        'name'       =>	'免疫生物研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4571,
-        'name'       =>	'ナノキャリア'
+        'name'       =>	'ナノキャリア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4572,
-        'name'       =>	'カルナバイオサイエンス'
+        'name'       =>	'カルナバイオサイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4574,
-        'name'       =>	'大幸薬品'
+        'name'       =>	'大幸薬品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4575,
-        'name'       =>	'キャンバス'
+        'name'       =>	'キャンバス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4576,
-        'name'       =>	'デ・ウエスタン・セラピテクス研究所'
+        'name'       =>	'デ・ウエスタン・セラピテクス研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4577,
-        'name'       =>	'ダイト'
+        'name'       =>	'ダイト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4578,
-        'name'       =>	'大塚ホールディングス'
+        'name'       =>	'大塚ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4579,
-        'name'       =>	'ラクオリア創薬'
+        'name'       =>	'ラクオリア創薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4581,
-        'name'       =>	'大正製薬ホールディングス'
+        'name'       =>	'大正製薬ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4582,
-        'name'       =>	'シンバイオ製薬'
+        'name'       =>	'シンバイオ製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4583,
-        'name'       =>	'カイオム・バイオサイエンス'
+        'name'       =>	'カイオム・バイオサイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4584,
-        'name'       =>	'ジーンテクノサイエンス'
+        'name'       =>	'ジーンテクノサイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4586,
-        'name'       =>	'メドレックス'
+        'name'       =>	'メドレックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4587,
-        'name'       =>	'ペプチドリーム'
+        'name'       =>	'ペプチドリーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4588,
-        'name'       =>	'オンコリスバイオファーマ'
+        'name'       =>	'オンコリスバイオファーマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4591,
-        'name'       =>	'リボミック'
+        'name'       =>	'リボミック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4592,
-        'name'       =>	'サンバイオ'
+        'name'       =>	'サンバイオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4593,
-        'name'       =>	'ヘリオス'
+        'name'       =>	'ヘリオス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4594,
-        'name'       =>	'ブライトパス・バイオ'
+        'name'       =>	'ブライトパス・バイオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4595,
-        'name'       =>	'ミズホメディー'
+        'name'       =>	'ミズホメディー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4596,
-        'name'       =>	'窪田製薬ホールディングス'
+        'name'       =>	'窪田製薬ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4597,
-        'name'       =>	'ソレイジア・ファーマ'
+        'name'       =>	'ソレイジア・ファーマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4598,
-        'name'       =>	'Ｄｅｌｔａ－Ｆｌｙ　Ｐｈａｒｍａ'
+        'name'       =>	'Ｄｅｌｔａ－Ｆｌｙ　Ｐｈａｒｍａ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4599,
-        'name'       =>	'ステムリム'
+        'name'       =>	'ステムリム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4611,
-        'name'       =>	'大日本塗料'
+        'name'       =>	'大日本塗料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4612,
-        'name'       =>	'日本ペイントホールディングス'
+        'name'       =>	'日本ペイントホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4613,
-        'name'       =>	'関西ペイント'
+        'name'       =>	'関西ペイント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4615,
-        'name'       =>	'神東塗料'
+        'name'       =>	'神東塗料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4616,
-        'name'       =>	'川上塗料'
+        'name'       =>	'川上塗料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4617,
-        'name'       =>	'中国塗料'
+        'name'       =>	'中国塗料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4619,
-        'name'       =>	'日本特殊塗料'
+        'name'       =>	'日本特殊塗料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4620,
-        'name'       =>	'藤倉化成'
+        'name'       =>	'藤倉化成',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4621,
-        'name'       =>	'ロックペイント'
+        'name'       =>	'ロックペイント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4623,
-        'name'       =>	'アサヒペン'
+        'name'       =>	'アサヒペン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4624,
-        'name'       =>	'イサム塗料'
+        'name'       =>	'イサム塗料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4625,
-        'name'       =>	'アトミクス'
+        'name'       =>	'アトミクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4626,
-        'name'       =>	'太陽ホールディングス'
+        'name'       =>	'太陽ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4627,
-        'name'       =>	'ナトコ'
+        'name'       =>	'ナトコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4628,
-        'name'       =>	'エスケー化研'
+        'name'       =>	'エスケー化研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4629,
-        'name'       =>	'大伸化学'
+        'name'       =>	'大伸化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4631,
-        'name'       =>	'ＤＩＣ'
+        'name'       =>	'ＤＩＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4633,
-        'name'       =>	'サカタインクス'
+        'name'       =>	'サカタインクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4634,
-        'name'       =>	'東洋インキＳＣホールディングス'
+        'name'       =>	'東洋インキＳＣホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4635,
-        'name'       =>	'東京インキ'
+        'name'       =>	'東京インキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4636,
-        'name'       =>	'Ｔ＆Ｋ　ＴＯＫＡ'
+        'name'       =>	'Ｔ＆Ｋ　ＴＯＫＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4640,
-        'name'       =>	'アンドール'
+        'name'       =>	'アンドール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4641,
-        'name'       =>	'アルプス技研'
+        'name'       =>	'アルプス技研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4642,
-        'name'       =>	'オリジナル設計'
+        'name'       =>	'オリジナル設計',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4644,
-        'name'       =>	'イマジニア'
+        'name'       =>	'イマジニア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4645,
-        'name'       =>	'市進ホールディングス'
+        'name'       =>	'市進ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4650,
-        'name'       =>	'ＳＤエンターテイメント'
+        'name'       =>	'ＳＤエンターテイメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4651,
-        'name'       =>	'サニックス'
+        'name'       =>	'サニックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4653,
-        'name'       =>	'ダイオーズ'
+        'name'       =>	'ダイオーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4657,
-        'name'       =>	'環境管理センター'
+        'name'       =>	'環境管理センター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4658,
-        'name'       =>	'日本空調サービス'
+        'name'       =>	'日本空調サービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4659,
-        'name'       =>	'エイジス'
+        'name'       =>	'エイジス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4661,
-        'name'       =>	'オリエンタルランド'
+        'name'       =>	'オリエンタルランド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4662,
-        'name'       =>	'フォーカスシステムズ'
+        'name'       =>	'フォーカスシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4664,
-        'name'       =>	'アール・エス・シー'
+        'name'       =>	'アール・エス・シー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4665,
-        'name'       =>	'ダスキン'
+        'name'       =>	'ダスキン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4666,
-        'name'       =>	'パーク２４'
+        'name'       =>	'パーク２４',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4667,
-        'name'       =>	'アイサンテクノロジー'
+        'name'       =>	'アイサンテクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4668,
-        'name'       =>	'明光ネットワークジャパン'
+        'name'       =>	'明光ネットワークジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4669,
-        'name'       =>	'ニッパンレンタル'
+        'name'       =>	'ニッパンレンタル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4671,
-        'name'       =>	'ファルコホールディングス'
+        'name'       =>	'ファルコホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4673,
-        'name'       =>	'川崎地質'
+        'name'       =>	'川崎地質',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4674,
-        'name'       =>	'クレスコ'
+        'name'       =>	'クレスコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4676,
-        'name'       =>	'フジ・メディア・ホールディングス'
+        'name'       =>	'フジ・メディア・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4678,
-        'name'       =>	'秀英予備校'
+        'name'       =>	'秀英予備校',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4679,
-        'name'       =>	'田谷'
+        'name'       =>	'田谷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4680,
-        'name'       =>	'ラウンドワン'
+        'name'       =>	'ラウンドワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4681,
-        'name'       =>	'リゾートトラスト'
+        'name'       =>	'リゾートトラスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4684,
-        'name'       =>	'オービック'
+        'name'       =>	'オービック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4685,
-        'name'       =>	'菱友システムズ'
+        'name'       =>	'菱友システムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4686,
-        'name'       =>	'ジャストシステム'
+        'name'       =>	'ジャストシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4687,
-        'name'       =>	'ＴＤＣソフト'
+        'name'       =>	'ＴＤＣソフト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4689,
-        'name'       =>	'Ｚホールディングス'
+        'name'       =>	'Ｚホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4690,
-        'name'       =>	'日本パレットプール'
+        'name'       =>	'日本パレットプール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4691,
-        'name'       =>	'ワシントンホテル'
+        'name'       =>	'ワシントンホテル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4694,
-        'name'       =>	'ビー・エム・エル'
+        'name'       =>	'ビー・エム・エル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4696,
-        'name'       =>	'ワタベウェディング'
+        'name'       =>	'ワタベウェディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4699,
-        'name'       =>	'ウチダエスコ'
+        'name'       =>	'ウチダエスコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4704,
-        'name'       =>	'トレンドマイクロ'
+        'name'       =>	'トレンドマイクロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4705,
-        'name'       =>	'クリップコーポレーション'
+        'name'       =>	'クリップコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4707,
-        'name'       =>	'キタック'
+        'name'       =>	'キタック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4708,
-        'name'       =>	'りらいあコミュニケーションズ'
+        'name'       =>	'りらいあコミュニケーションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4709,
-        'name'       =>	'ＩＤホールディングス'
+        'name'       =>	'ＩＤホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4712,
-        'name'       =>	'ＫｅｙＨｏｌｄｅｒ'
+        'name'       =>	'ＫｅｙＨｏｌｄｅｒ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4714,
-        'name'       =>	'リソー教育'
+        'name'       =>	'リソー教育',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4716,
-        'name'       =>	'日本オラクル'
+        'name'       =>	'日本オラクル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4718,
-        'name'       =>	'早稲田アカデミー'
+        'name'       =>	'早稲田アカデミー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4719,
-        'name'       =>	'アルファシステムズ'
+        'name'       =>	'アルファシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4720,
-        'name'       =>	'城南進学研究社'
+        'name'       =>	'城南進学研究社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4722,
-        'name'       =>	'フューチャー'
+        'name'       =>	'フューチャー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4725,
-        'name'       =>	'ＣＡＣ　Ｈｏｌｄｉｎｇｓ'
+        'name'       =>	'ＣＡＣ　Ｈｏｌｄｉｎｇｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4726,
-        'name'       =>	'ＳＢテクノロジー'
+        'name'       =>	'ＳＢテクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4728,
-        'name'       =>	'トーセ'
+        'name'       =>	'トーセ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4732,
-        'name'       =>	'ユー・エス・エス'
+        'name'       =>	'ユー・エス・エス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4733,
-        'name'       =>	'オービックビジネスコンサルタント'
+        'name'       =>	'オービックビジネスコンサルタント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4734,
-        'name'       =>	'ビーイング'
+        'name'       =>	'ビーイング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4735,
-        'name'       =>	'京進'
+        'name'       =>	'京進',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4736,
-        'name'       =>	'日本ラッド'
+        'name'       =>	'日本ラッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4739,
-        'name'       =>	'伊藤忠テクノソリューションズ'
+        'name'       =>	'伊藤忠テクノソリューションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4743,
-        'name'       =>	'アイティフォー'
+        'name'       =>	'アイティフォー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4745,
-        'name'       =>	'東京個別指導学院'
+        'name'       =>	'東京個別指導学院',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4746,
-        'name'       =>	'東計電算'
+        'name'       =>	'東計電算',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4748,
-        'name'       =>	'構造計画研究所'
+        'name'       =>	'構造計画研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4750,
-        'name'       =>	'ダイサン'
+        'name'       =>	'ダイサン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4751,
-        'name'       =>	'サイバーエージェント'
+        'name'       =>	'サイバーエージェント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4752,
-        'name'       =>	'昭和システムエンジニアリング'
+        'name'       =>	'昭和システムエンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4754,
-        'name'       =>	'トスネット'
+        'name'       =>	'トスネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4755,
-        'name'       =>	'楽天'
+        'name'       =>	'楽天',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4760,
-        'name'       =>	'アルファ'
+        'name'       =>	'アルファ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4761,
-        'name'       =>	'さくらケーシーエス'
+        'name'       =>	'さくらケーシーエス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4762,
-        'name'       =>	'エックスネット'
+        'name'       =>	'エックスネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4763,
-        'name'       =>	'クリーク・アンド・リバー社'
+        'name'       =>	'クリーク・アンド・リバー社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4764,
-        'name'       =>	'ＳＡＭＵＲＡＩ＆Ｊ　ＰＡＲＴＮＥＲＳ'
+        'name'       =>	'ＳＡＭＵＲＡＩ＆Ｊ　ＰＡＲＴＮＥＲＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4765,
-        'name'       =>	'モーニングスター'
+        'name'       =>	'モーニングスター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4766,
-        'name'       =>	'ピーエイ'
+        'name'       =>	'ピーエイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4767,
-        'name'       =>	'テー・オー・ダブリュー'
+        'name'       =>	'テー・オー・ダブリュー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4768,
-        'name'       =>	'大塚商会'
+        'name'       =>	'大塚商会',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4769,
-        'name'       =>	'インフォメーションクリエーティブ'
+        'name'       =>	'インフォメーションクリエーティブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4770,
-        'name'       =>	'図研エルミック'
+        'name'       =>	'図研エルミック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4771,
-        'name'       =>	'エフアンドエム'
+        'name'       =>	'エフアンドエム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4772,
-        'name'       =>	'ストリームメディアコーポレーション'
+        'name'       =>	'ストリームメディアコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4776,
-        'name'       =>	'サイボウズ'
+        'name'       =>	'サイボウズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4777,
-        'name'       =>	'ガーラ'
+        'name'       =>	'ガーラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4779,
-        'name'       =>	'ソフトブレーン'
+        'name'       =>	'ソフトブレーン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4781,
-        'name'       =>	'日本ハウズイング'
+        'name'       =>	'日本ハウズイング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4783,
-        'name'       =>	'日本コンピュータ・ダイナミクス'
+        'name'       =>	'日本コンピュータ・ダイナミクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4784,
-        'name'       =>	'ＧＭＯアドパートナーズ'
+        'name'       =>	'ＧＭＯアドパートナーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4792,
-        'name'       =>	'山田コンサルティンググループ'
+        'name'       =>	'山田コンサルティンググループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4800,
-        'name'       =>	'オリコン'
+        'name'       =>	'オリコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4801,
-        'name'       =>	'セントラルスポーツ'
+        'name'       =>	'セントラルスポーツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4809,
-        'name'       =>	'パラカ'
+        'name'       =>	'パラカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4812,
-        'name'       =>	'電通国際情報サービス'
+        'name'       =>	'電通国際情報サービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4813,
-        'name'       =>	'ＡＣＣＥＳＳ'
+        'name'       =>	'ＡＣＣＥＳＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4814,
-        'name'       =>	'ネクストウェア'
+        'name'       =>	'ネクストウェア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4816,
-        'name'       =>	'東映アニメーション'
+        'name'       =>	'東映アニメーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4819,
-        'name'       =>	'デジタルガレージ'
+        'name'       =>	'デジタルガレージ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4820,
-        'name'       =>	'イーエムシステムズ'
+        'name'       =>	'イーエムシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4824,
-        'name'       =>	'メディアシーク'
+        'name'       =>	'メディアシーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4825,
-        'name'       =>	'ウェザーニューズ'
+        'name'       =>	'ウェザーニューズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4826,
-        'name'       =>	'ＣＩＪ'
+        'name'       =>	'ＣＩＪ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4828,
-        'name'       =>	'ビジネスエンジニアリング'
+        'name'       =>	'ビジネスエンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4829,
-        'name'       =>	'日本エンタープライズ'
+        'name'       =>	'日本エンタープライズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4832,
-        'name'       =>	'ＪＦＥシステムズ'
+        'name'       =>	'ＪＦＥシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4833,
-        'name'       =>	'ぱど'
+        'name'       =>	'ぱど',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4837,
-        'name'       =>	'シダックス'
+        'name'       =>	'シダックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4838,
-        'name'       =>	'スペースシャワーネットワーク'
+        'name'       =>	'スペースシャワーネットワーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4839,
-        'name'       =>	'ＷＯＷＯＷ'
+        'name'       =>	'ＷＯＷＯＷ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4840,
-        'name'       =>	'トライアイズ'
+        'name'       =>	'トライアイズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4845,
-        'name'       =>	'スカラ'
+        'name'       =>	'スカラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4847,
-        'name'       =>	'インテリジェント　ウェイブ'
+        'name'       =>	'インテリジェント　ウェイブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4848,
-        'name'       =>	'フルキャストホールディングス'
+        'name'       =>	'フルキャストホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4849,
-        'name'       =>	'エン・ジャパン'
+        'name'       =>	'エン・ジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4875,
-        'name'       =>	'メディシノバ・インク'
+        'name'       =>	'メディシノバ・インク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4880,
-        'name'       =>	'セルソース'
+        'name'       =>	'セルソース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4901,
-        'name'       =>	'富士フイルムホールディングス'
+        'name'       =>	'富士フイルムホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4902,
-        'name'       =>	'コニカミノルタ'
+        'name'       =>	'コニカミノルタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4911,
-        'name'       =>	'資生堂'
+        'name'       =>	'資生堂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4912,
-        'name'       =>	'ライオン'
+        'name'       =>	'ライオン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4914,
-        'name'       =>	'高砂香料工業'
+        'name'       =>	'高砂香料工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4917,
-        'name'       =>	'マンダム'
+        'name'       =>	'マンダム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4918,
-        'name'       =>	'アイビー化粧品'
+        'name'       =>	'アイビー化粧品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4919,
-        'name'       =>	'ミルボン'
+        'name'       =>	'ミルボン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4920,
-        'name'       =>	'日本色材工業研究所'
+        'name'       =>	'日本色材工業研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4921,
-        'name'       =>	'ファンケル'
+        'name'       =>	'ファンケル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4922,
-        'name'       =>	'コーセー'
+        'name'       =>	'コーセー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4923,
-        'name'       =>	'コタ'
+        'name'       =>	'コタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4925,
-        'name'       =>	'ハーバー研究所'
+        'name'       =>	'ハーバー研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4926,
-        'name'       =>	'シーボン'
+        'name'       =>	'シーボン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4927,
-        'name'       =>	'ポーラ・オルビスホールディングス'
+        'name'       =>	'ポーラ・オルビスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4928,
-        'name'       =>	'ノエビアホールディングス'
+        'name'       =>	'ノエビアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4929,
-        'name'       =>	'アジュバンコスメジャパン'
+        'name'       =>	'アジュバンコスメジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4931,
-        'name'       =>	'新日本製薬'
+        'name'       =>	'新日本製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4951,
-        'name'       =>	'エステー'
+        'name'       =>	'エステー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4952,
-        'name'       =>	'エス・ディー・エス　バイオテック'
+        'name'       =>	'エス・ディー・エス　バイオテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4955,
-        'name'       =>	'アグロ　カネショウ'
+        'name'       =>	'アグロ　カネショウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4956,
-        'name'       =>	'コニシ'
+        'name'       =>	'コニシ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4957,
-        'name'       =>	'ヤスハラケミカル'
+        'name'       =>	'ヤスハラケミカル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4958,
-        'name'       =>	'長谷川香料'
+        'name'       =>	'長谷川香料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4960,
-        'name'       =>	'ケミプロ化成'
+        'name'       =>	'ケミプロ化成',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4962,
-        'name'       =>	'互応化学工業'
+        'name'       =>	'互応化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4963,
-        'name'       =>	'星光ＰＭＣ'
+        'name'       =>	'星光ＰＭＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4966,
-        'name'       =>	'上村工業'
+        'name'       =>	'上村工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4967,
-        'name'       =>	'小林製薬'
+        'name'       =>	'小林製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4968,
-        'name'       =>	'荒川化学工業'
+        'name'       =>	'荒川化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4970,
-        'name'       =>	'東洋合成工業'
+        'name'       =>	'東洋合成工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4971,
-        'name'       =>	'メック'
+        'name'       =>	'メック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4972,
-        'name'       =>	'綜研化学'
+        'name'       =>	'綜研化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4973,
-        'name'       =>	'日本高純度化学'
+        'name'       =>	'日本高純度化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4974,
-        'name'       =>	'タカラバイオ'
+        'name'       =>	'タカラバイオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4975,
-        'name'       =>	'ＪＣＵ'
+        'name'       =>	'ＪＣＵ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4976,
-        'name'       =>	'東洋ドライルーブ'
+        'name'       =>	'東洋ドライルーブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4977,
-        'name'       =>	'新田ゼラチン'
+        'name'       =>	'新田ゼラチン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4978,
-        'name'       =>	'リプロセル'
+        'name'       =>	'リプロセル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4979,
-        'name'       =>	'ＯＡＴアグリオ'
+        'name'       =>	'ＯＡＴアグリオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4980,
-        'name'       =>	'デクセリアルズ'
+        'name'       =>	'デクセリアルズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4985,
-        'name'       =>	'アース製薬'
+        'name'       =>	'アース製薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4987,
-        'name'       =>	'寺岡製作所'
+        'name'       =>	'寺岡製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4990,
-        'name'       =>	'昭和化学工業'
+        'name'       =>	'昭和化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4992,
-        'name'       =>	'北興化学工業'
+        'name'       =>	'北興化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4994,
-        'name'       =>	'大成ラミック'
+        'name'       =>	'大成ラミック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4996,
-        'name'       =>	'クミアイ化学工業'
+        'name'       =>	'クミアイ化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4997,
-        'name'       =>	'日本農薬'
+        'name'       =>	'日本農薬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4998,
-        'name'       =>	'フマキラー'
+        'name'       =>	'フマキラー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 4999,
-        'name'       =>	'セメダイン'
+        'name'       =>	'セメダイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5008,
-        'name'       =>	'東亜石油'
+        'name'       =>	'東亜石油',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5009,
-        'name'       =>	'富士興産'
+        'name'       =>	'富士興産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5010,
-        'name'       =>	'日本精蝋'
+        'name'       =>	'日本精蝋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5011,
-        'name'       =>	'ニチレキ'
+        'name'       =>	'ニチレキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5013,
-        'name'       =>	'ユシロ化学工業'
+        'name'       =>	'ユシロ化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5015,
-        'name'       =>	'ビーピー・カストロール'
+        'name'       =>	'ビーピー・カストロール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5017,
-        'name'       =>	'富士石油'
+        'name'       =>	'富士石油',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5018,
-        'name'       =>	'ＭＯＲＥＳＣＯ'
+        'name'       =>	'ＭＯＲＥＳＣＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5019,
-        'name'       =>	'出光興産'
+        'name'       =>	'出光興産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5020,
-        'name'       =>	'ＥＮＥＯＳホールディングス'
+        'name'       =>	'ＥＮＥＯＳホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5021,
-        'name'       =>	'コスモエネルギーホールディングス'
+        'name'       =>	'コスモエネルギーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5070,
-        'name'       =>	'ドラフト'
+        'name'       =>	'ドラフト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5071,
-        'name'       =>	'ヴィス'
+        'name'       =>	'ヴィス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5101,
-        'name'       =>	'横浜ゴム'
+        'name'       =>	'横浜ゴム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5103,
-        'name'       =>	'昭和ホールディングス'
+        'name'       =>	'昭和ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5104,
-        'name'       =>	'日東化工'
+        'name'       =>	'日東化工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5105,
-        'name'       =>	'ＴＯＹＯ　ＴＩＲＥ'
+        'name'       =>	'ＴＯＹＯ　ＴＩＲＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5108,
-        'name'       =>	'ブリヂストン'
+        'name'       =>	'ブリヂストン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5110,
-        'name'       =>	'住友ゴム工業'
+        'name'       =>	'住友ゴム工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5121,
-        'name'       =>	'藤倉コンポジット'
+        'name'       =>	'藤倉コンポジット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5122,
-        'name'       =>	'オカモト'
+        'name'       =>	'オカモト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5142,
-        'name'       =>	'アキレス'
+        'name'       =>	'アキレス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5161,
-        'name'       =>	'西川ゴム工業'
+        'name'       =>	'西川ゴム工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5162,
-        'name'       =>	'朝日ラバー'
+        'name'       =>	'朝日ラバー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5184,
-        'name'       =>	'ニチリン'
+        'name'       =>	'ニチリン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5185,
-        'name'       =>	'フコク'
+        'name'       =>	'フコク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5186,
-        'name'       =>	'ニッタ'
+        'name'       =>	'ニッタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5187,
-        'name'       =>	'クリエートメディック'
+        'name'       =>	'クリエートメディック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5189,
-        'name'       =>	'櫻護謨'
+        'name'       =>	'櫻護謨',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5191,
-        'name'       =>	'住友理工'
+        'name'       =>	'住友理工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5192,
-        'name'       =>	'三ツ星ベルト'
+        'name'       =>	'三ツ星ベルト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5194,
-        'name'       =>	'相模ゴム工業'
+        'name'       =>	'相模ゴム工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5195,
-        'name'       =>	'バンドー化学'
+        'name'       =>	'バンドー化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5199,
-        'name'       =>	'不二ラテックス'
+        'name'       =>	'不二ラテックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5201,
-        'name'       =>	'ＡＧＣ'
+        'name'       =>	'ＡＧＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5202,
-        'name'       =>	'日本板硝子'
+        'name'       =>	'日本板硝子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5204,
-        'name'       =>	'石塚硝子'
+        'name'       =>	'石塚硝子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5208,
-        'name'       =>	'有沢製作所'
+        'name'       =>	'有沢製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5210,
-        'name'       =>	'日本山村硝子'
+        'name'       =>	'日本山村硝子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5212,
-        'name'       =>	'不二硝子'
+        'name'       =>	'不二硝子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5214,
-        'name'       =>	'日本電気硝子'
+        'name'       =>	'日本電気硝子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5216,
-        'name'       =>	'倉元製作所'
+        'name'       =>	'倉元製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5217,
-        'name'       =>	'テクノクオーツ'
+        'name'       =>	'テクノクオーツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5218,
-        'name'       =>	'オハラ'
+        'name'       =>	'オハラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5232,
-        'name'       =>	'住友大阪セメント'
+        'name'       =>	'住友大阪セメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5233,
-        'name'       =>	'太平洋セメント'
+        'name'       =>	'太平洋セメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5237,
-        'name'       =>	'ノザワ'
+        'name'       =>	'ノザワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5261,
-        'name'       =>	'リソルホールディングス'
+        'name'       =>	'リソルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5262,
-        'name'       =>	'日本ヒューム'
+        'name'       =>	'日本ヒューム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5268,
-        'name'       =>	'旭コンクリート工業'
+        'name'       =>	'旭コンクリート工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5269,
-        'name'       =>	'日本コンクリート工業'
+        'name'       =>	'日本コンクリート工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5271,
-        'name'       =>	'トーヨーアサノ'
+        'name'       =>	'トーヨーアサノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5273,
-        'name'       =>	'三谷セキサン'
+        'name'       =>	'三谷セキサン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5277,
-        'name'       =>	'スパンクリートコーポレーション'
+        'name'       =>	'スパンクリートコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5279,
-        'name'       =>	'日本興業'
+        'name'       =>	'日本興業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5280,
-        'name'       =>	'ヨシコン'
+        'name'       =>	'ヨシコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5282,
-        'name'       =>	'ジオスター'
+        'name'       =>	'ジオスター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5283,
-        'name'       =>	'高見澤'
+        'name'       =>	'高見澤',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5284,
-        'name'       =>	'ヤマウ'
+        'name'       =>	'ヤマウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5285,
-        'name'       =>	'ヤマックス'
+        'name'       =>	'ヤマックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5287,
-        'name'       =>	'イトーヨーギョー'
+        'name'       =>	'イトーヨーギョー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5288,
-        'name'       =>	'アジアパイルホールディングス'
+        'name'       =>	'アジアパイルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5290,
-        'name'       =>	'ベルテクスコーポレーション'
+        'name'       =>	'ベルテクスコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5301,
-        'name'       =>	'東海カーボン'
+        'name'       =>	'東海カーボン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5302,
-        'name'       =>	'日本カーボン'
+        'name'       =>	'日本カーボン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5304,
-        'name'       =>	'ＳＥＣカーボン'
+        'name'       =>	'ＳＥＣカーボン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5310,
-        'name'       =>	'東洋炭素'
+        'name'       =>	'東洋炭素',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5331,
-        'name'       =>	'ノリタケカンパニーリミテド'
+        'name'       =>	'ノリタケカンパニーリミテド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5332,
-        'name'       =>	'ＴＯＴＯ'
+        'name'       =>	'ＴＯＴＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5333,
-        'name'       =>	'日本碍子'
+        'name'       =>	'日本碍子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5334,
-        'name'       =>	'日本特殊陶業'
+        'name'       =>	'日本特殊陶業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5337,
-        'name'       =>	'ダントーホールディングス'
+        'name'       =>	'ダントーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5341,
-        'name'       =>	'アサヒ衛陶'
+        'name'       =>	'アサヒ衛陶',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5344,
-        'name'       =>	'ＭＡＲＵＷＡ'
+        'name'       =>	'ＭＡＲＵＷＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5351,
-        'name'       =>	'品川リフラクトリーズ'
+        'name'       =>	'品川リフラクトリーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5352,
-        'name'       =>	'黒崎播磨'
+        'name'       =>	'黒崎播磨',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5355,
-        'name'       =>	'日本坩堝'
+        'name'       =>	'日本坩堝',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5357,
-        'name'       =>	'ヨータイ'
+        'name'       =>	'ヨータイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5358,
-        'name'       =>	'イソライト工業'
+        'name'       =>	'イソライト工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5363,
-        'name'       =>	'東京窯業'
+        'name'       =>	'東京窯業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5367,
-        'name'       =>	'ニッカトー'
+        'name'       =>	'ニッカトー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5368,
-        'name'       =>	'日本インシュレーション'
+        'name'       =>	'日本インシュレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5380,
-        'name'       =>	'新東'
+        'name'       =>	'新東',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5381,
-        'name'       =>	'Ｍｉｐｏｘ'
+        'name'       =>	'Ｍｉｐｏｘ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5384,
-        'name'       =>	'フジミインコーポレーテッド'
+        'name'       =>	'フジミインコーポレーテッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5386,
-        'name'       =>	'鶴弥'
+        'name'       =>	'鶴弥',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5387,
-        'name'       =>	'チヨダウーテ'
+        'name'       =>	'チヨダウーテ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5388,
-        'name'       =>	'クニミネ工業'
+        'name'       =>	'クニミネ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5391,
-        'name'       =>	'エーアンドエーマテリアル'
+        'name'       =>	'エーアンドエーマテリアル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5393,
-        'name'       =>	'ニチアス'
+        'name'       =>	'ニチアス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5395,
-        'name'       =>	'理研コランダム'
+        'name'       =>	'理研コランダム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5401,
-        'name'       =>	'日本製鉄'
+        'name'       =>	'日本製鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5406,
-        'name'       =>	'神戸製鋼所'
+        'name'       =>	'神戸製鋼所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5408,
-        'name'       =>	'中山製鋼所'
+        'name'       =>	'中山製鋼所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5410,
-        'name'       =>	'合同製鐵'
+        'name'       =>	'合同製鐵',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5411,
-        'name'       =>	'ジェイ　エフ　イー　ホールディングス'
+        'name'       =>	'ジェイ　エフ　イー　ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5423,
-        'name'       =>	'東京製鐵'
+        'name'       =>	'東京製鐵',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5440,
-        'name'       =>	'共英製鋼'
+        'name'       =>	'共英製鋼',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5444,
-        'name'       =>	'大和工業'
+        'name'       =>	'大和工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5445,
-        'name'       =>	'東京鐵鋼'
+        'name'       =>	'東京鐵鋼',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5446,
-        'name'       =>	'北越メタル'
+        'name'       =>	'北越メタル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5449,
-        'name'       =>	'大阪製鐵'
+        'name'       =>	'大阪製鐵',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5451,
-        'name'       =>	'淀川製鋼所'
+        'name'       =>	'淀川製鋼所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5458,
-        'name'       =>	'高砂鐵工'
+        'name'       =>	'高砂鐵工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5463,
-        'name'       =>	'丸一鋼管'
+        'name'       =>	'丸一鋼管',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5464,
-        'name'       =>	'モリ工業'
+        'name'       =>	'モリ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5471,
-        'name'       =>	'大同特殊鋼'
+        'name'       =>	'大同特殊鋼',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5476,
-        'name'       =>	'日本高周波鋼業'
+        'name'       =>	'日本高周波鋼業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5480,
-        'name'       =>	'日本冶金工業'
+        'name'       =>	'日本冶金工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5481,
-        'name'       =>	'山陽特殊製鋼'
+        'name'       =>	'山陽特殊製鋼',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5482,
-        'name'       =>	'愛知製鋼'
+        'name'       =>	'愛知製鋼',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5484,
-        'name'       =>	'東北特殊鋼'
+        'name'       =>	'東北特殊鋼',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5486,
-        'name'       =>	'日立金属'
+        'name'       =>	'日立金属',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5491,
-        'name'       =>	'日本金属'
+        'name'       =>	'日本金属',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5541,
-        'name'       =>	'大平洋金属'
+        'name'       =>	'大平洋金属',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5542,
-        'name'       =>	'新報国製鉄'
+        'name'       =>	'新報国製鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5563,
-        'name'       =>	'新日本電工'
+        'name'       =>	'新日本電工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5602,
-        'name'       =>	'栗本鐵工所'
+        'name'       =>	'栗本鐵工所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5603,
-        'name'       =>	'虹技'
+        'name'       =>	'虹技',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5609,
-        'name'       =>	'日本鋳造'
+        'name'       =>	'日本鋳造',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5610,
-        'name'       =>	'大和重工'
+        'name'       =>	'大和重工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5612,
-        'name'       =>	'日本鋳鉄管'
+        'name'       =>	'日本鋳鉄管',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5614,
-        'name'       =>	'川金ホールディングス'
+        'name'       =>	'川金ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5631,
-        'name'       =>	'日本製鋼所'
+        'name'       =>	'日本製鋼所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5632,
-        'name'       =>	'三菱製鋼'
+        'name'       =>	'三菱製鋼',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5644,
-        'name'       =>	'メタルアート'
+        'name'       =>	'メタルアート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5658,
-        'name'       =>	'日亜鋼業'
+        'name'       =>	'日亜鋼業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5659,
-        'name'       =>	'日本精線'
+        'name'       =>	'日本精線',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5660,
-        'name'       =>	'神鋼鋼線工業'
+        'name'       =>	'神鋼鋼線工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5690,
-        'name'       =>	'リバーホールディングス'
+        'name'       =>	'リバーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5695,
-        'name'       =>	'パウダーテック'
+        'name'       =>	'パウダーテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5697,
-        'name'       =>	'サンユウ'
+        'name'       =>	'サンユウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5698,
-        'name'       =>	'エンビプロ・ホールディングス'
+        'name'       =>	'エンビプロ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5699,
-        'name'       =>	'イボキン'
+        'name'       =>	'イボキン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5702,
-        'name'       =>	'大紀アルミニウム工業所'
+        'name'       =>	'大紀アルミニウム工業所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5703,
-        'name'       =>	'日本軽金属ホールディングス'
+        'name'       =>	'日本軽金属ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5704,
-        'name'       =>	'ＪＭＣ'
+        'name'       =>	'ＪＭＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5706,
-        'name'       =>	'三井金属鉱業'
+        'name'       =>	'三井金属鉱業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5707,
-        'name'       =>	'東邦亜鉛'
+        'name'       =>	'東邦亜鉛',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5711,
-        'name'       =>	'三菱マテリアル'
+        'name'       =>	'三菱マテリアル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5713,
-        'name'       =>	'住友金属鉱山'
+        'name'       =>	'住友金属鉱山',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5714,
-        'name'       =>	'ＤＯＷＡホールディングス'
+        'name'       =>	'ＤＯＷＡホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5715,
-        'name'       =>	'古河機械金属'
+        'name'       =>	'古河機械金属',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5721,
-        'name'       =>	'エス・サイエンス'
+        'name'       =>	'エス・サイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5724,
-        'name'       =>	'アサカ理研'
+        'name'       =>	'アサカ理研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5726,
-        'name'       =>	'大阪チタニウムテクノロジーズ'
+        'name'       =>	'大阪チタニウムテクノロジーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5727,
-        'name'       =>	'東邦チタニウム'
+        'name'       =>	'東邦チタニウム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5729,
-        'name'       =>	'日本精鉱'
+        'name'       =>	'日本精鉱',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5741,
-        'name'       =>	'ＵＡＣＪ'
+        'name'       =>	'ＵＡＣＪ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5742,
-        'name'       =>	'エヌアイシ・オートテック'
+        'name'       =>	'エヌアイシ・オートテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5753,
-        'name'       =>	'日本伸銅'
+        'name'       =>	'日本伸銅',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5757,
-        'name'       =>	'ＣＫサンエツ'
+        'name'       =>	'ＣＫサンエツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5781,
-        'name'       =>	'東邦金属'
+        'name'       =>	'東邦金属',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5801,
-        'name'       =>	'古河電気工業'
+        'name'       =>	'古河電気工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5802,
-        'name'       =>	'住友電気工業'
+        'name'       =>	'住友電気工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5803,
-        'name'       =>	'フジクラ'
+        'name'       =>	'フジクラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5805,
-        'name'       =>	'昭和電線ホールディングス'
+        'name'       =>	'昭和電線ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5807,
-        'name'       =>	'東京特殊電線'
+        'name'       =>	'東京特殊電線',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5809,
-        'name'       =>	'タツタ電線'
+        'name'       =>	'タツタ電線',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5816,
-        'name'       =>	'オーナンバ'
+        'name'       =>	'オーナンバ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5817,
-        'name'       =>	'ＪＭＡＣＳ'
+        'name'       =>	'ＪＭＡＣＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5819,
-        'name'       =>	'カナレ電気'
+        'name'       =>	'カナレ電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5820,
-        'name'       =>	'三ッ星'
+        'name'       =>	'三ッ星',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5821,
-        'name'       =>	'平河ヒューテック'
+        'name'       =>	'平河ヒューテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5851,
-        'name'       =>	'リョービ'
+        'name'       =>	'リョービ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5852,
-        'name'       =>	'アーレスティ'
+        'name'       =>	'アーレスティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5856,
-        'name'       =>	'エルアイイーエイチ'
+        'name'       =>	'エルアイイーエイチ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5857,
-        'name'       =>	'アサヒホールディングス'
+        'name'       =>	'アサヒホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5858,
-        'name'       =>	'ＳＴＧ'
+        'name'       =>	'ＳＴＧ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5900,
-        'name'       =>	'ダイケン'
+        'name'       =>	'ダイケン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5901,
-        'name'       =>	'東洋製罐グループホールディングス'
+        'name'       =>	'東洋製罐グループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5902,
-        'name'       =>	'ホッカンホールディングス'
+        'name'       =>	'ホッカンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5903,
-        'name'       =>	'シンポ'
+        'name'       =>	'シンポ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5905,
-        'name'       =>	'日本製罐'
+        'name'       =>	'日本製罐',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5906,
-        'name'       =>	'エムケー精工'
+        'name'       =>	'エムケー精工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5907,
-        'name'       =>	'ＪＦＥコンテイナー'
+        'name'       =>	'ＪＦＥコンテイナー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5909,
-        'name'       =>	'コロナ'
+        'name'       =>	'コロナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5911,
-        'name'       =>	'横河ブリッジホールディングス'
+        'name'       =>	'横河ブリッジホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5912,
-        'name'       =>	'ＯＳＪＢホールディングス'
+        'name'       =>	'ＯＳＪＢホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5915,
-        'name'       =>	'駒井ハルテック'
+        'name'       =>	'駒井ハルテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5918,
-        'name'       =>	'瀧上工業'
+        'name'       =>	'瀧上工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5921,
-        'name'   	 => '川岸工業'
+        'name'   	 => '川岸工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5922,
-        'name'   	 => '那須電機鉄工'
+        'name'   	 => '那須電機鉄工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5923,
-        'name'   	 => '高田機工'
+        'name'   	 => '高田機工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5928,
-        'name'   	 => 'アルメタックス'
+        'name'   	 => 'アルメタックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5929,
-        'name'   	 => '三和ホールディングス'
+        'name'   	 => '三和ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5930,
-        'name'   	 => '文化シヤッター'
+        'name'   	 => '文化シヤッター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5932,
-        'name'   	 => '三協立山'
+        'name'   	 => '三協立山',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5933,
-        'name'   	 => 'アルインコ'
+        'name'   	 => 'アルインコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5935,
-        'name'   	 => '元旦ビューティ工業'
+        'name'   	 => '元旦ビューティ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5936,
-        'name'   	 => '東洋シヤッター'
+        'name'   	 => '東洋シヤッター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5938,
-        'name'   	 => 'ＬＩＸＩＬグループ'
+        'name'   	 => 'ＬＩＸＩＬグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5939,
-        'name'   	 => '大谷工業'
+        'name'   	 => '大谷工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5940,
-        'name'   	 => '不二サッシ'
+        'name'   	 => '不二サッシ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5941,
-        'name'   	 => '中西製作所'
+        'name'   	 => '中西製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5942,
-        'name'   	 => '日本フイルコン'
+        'name'   	 => '日本フイルコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5943,
-        'name'   	 => 'ノーリツ'
+        'name'   	 => 'ノーリツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5945,
-        'name'   	 => '天龍製鋸'
+        'name'   	 => '天龍製鋸',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5946,
-        'name'   	 => '長府製作所'
+        'name'   	 => '長府製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5947,
-        'name'   	 => 'リンナイ'
+        'name'   	 => 'リンナイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5949,
-        'name'   	 => 'ユニプレス'
+        'name'   	 => 'ユニプレス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5950,
-        'name'   	 => '日本パワーファスニング'
+        'name'   	 => '日本パワーファスニング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5951,
-        'name'   	 => 'ダイニチ工業'
+        'name'   	 => 'ダイニチ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5952,
-        'name'   	 => 'アマテイ'
+        'name'   	 => 'アマテイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5955,
-        'name'   	 => 'ヤマシナ'
+        'name'   	 => 'ヤマシナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5956,
-        'name'   	 => 'トーソー'
+        'name'   	 => 'トーソー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5957,
-        'name'   	 => '日東精工'
+        'name'   	 => '日東精工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5958,
-        'name'   	 => '三洋工業'
+        'name'   	 => '三洋工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5959,
-        'name'   	 => '岡部'
+        'name'   	 => '岡部',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5962,
-        'name'   	 => '浅香工業'
+        'name'   	 => '浅香工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5964,
-        'name'   	 => '東洋刃物'
+        'name'   	 => '東洋刃物',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5965,
-        'name'   	 => 'フジマック'
+        'name'   	 => 'フジマック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5966,
-        'name'   	 => '京都機械工具'
+        'name'   	 => '京都機械工具',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5967,
-        'name'   	 => 'ＴＯＮＥ'
+        'name'   	 => 'ＴＯＮＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5969,
-        'name'   	 => 'ロブテックス'
+        'name'   	 => 'ロブテックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5970,
-        'name'   	 => 'ジーテクト'
+        'name'   	 => 'ジーテクト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5971,
-        'name'   	 => '共和工業所'
+        'name'   	 => '共和工業所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5973,
-        'name'   	 => 'トーアミ'
+        'name'   	 => 'トーアミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5974,
-        'name'   	 => '中国工業'
+        'name'   	 => '中国工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5975,
-        'name'   	 => '東プレ'
+        'name'   	 => '東プレ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5976,
-        'name'   	 => '高周波熱錬'
+        'name'   	 => '高周波熱錬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5981,
-        'name'   	 => '東京製綱'
+        'name'   	 => '東京製綱',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5982,
-        'name'   	 => 'マルゼン'
+        'name'   	 => 'マルゼン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5983,
-        'name'   	 => 'イワブチ'
+        'name'   	 => 'イワブチ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5984,
-        'name'   	 => '兼房'
+        'name'   	 => '兼房',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5985,
-        'name'   	 => 'サンコール'
+        'name'   	 => 'サンコール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5986,
-        'name'   	 => 'モリテック　スチール'
+        'name'   	 => 'モリテック　スチール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5987,
-        'name'   	 => 'オーネックス'
+        'name'   	 => 'オーネックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5988,
-        'name'   	 => 'パイオラックス'
+        'name'   	 => 'パイオラックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5989,
-        'name'   	 => 'エイチワン'
+        'name'   	 => 'エイチワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5990,
-        'name'   	 => 'スーパーツール'
+        'name'   	 => 'スーパーツール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5991,
-        'name'   	 => '日本発條'
+        'name'   	 => '日本発條',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5992,
-        'name'   	 => '中央発條'
+        'name'   	 => '中央発條',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5994,
-        'name'   	 => 'ファインシンター'
+        'name'   	 => 'ファインシンター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5997,
-        'name'   	 => '協立エアテック'
+        'name'   	 => '協立エアテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5998,
-        'name'   	 => 'アドバネクス'
+        'name'   	 => 'アドバネクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 5999,
-        'name'   	 => 'イハラサイエンス'
+        'name'   	 => 'イハラサイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6005,
-        'name'   	 => '三浦工業'
+        'name'   	 => '三浦工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6013,
-        'name'   	 => 'タクマ'
+        'name'   	 => 'タクマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6016,
-        'name'   	 => 'ジャパンエンジンコーポレーション'
+        'name'   	 => 'ジャパンエンジンコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6018,
-        'name'   	 => '阪神内燃機工業'
+        'name'   	 => '阪神内燃機工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6022,
-        'name'   	 => '赤阪鐵工所'
+        'name'   	 => '赤阪鐵工所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6023,
-        'name'   	 => 'ダイハツディーゼル'
+        'name'   	 => 'ダイハツディーゼル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6026,
-        'name'   	 => 'ＧＭＯ　ＴＥＣＨ'
+        'name'   	 => 'ＧＭＯ　ＴＥＣＨ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6027,
-        'name'   	 => '弁護士ドットコム'
+        'name'   	 => '弁護士ドットコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6028,
-        'name'   	 => 'テクノプロ・ホールディングス'
+        'name'   	 => 'テクノプロ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6029,
-        'name'   	 => 'アトラ'
+        'name'   	 => 'アトラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6030,
-        'name'   	 => 'アドベンチャー'
+        'name'   	 => 'アドベンチャー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6031,
-        'name'   	 => 'サイジニア'
+        'name'   	 => 'サイジニア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6032,
-        'name'   	 => 'インターワークス'
+        'name'   	 => 'インターワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6033,
-        'name'   	 => 'エクストリーム'
+        'name'   	 => 'エクストリーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6034,
-        'name'   	 => 'ＭＲＴ'
+        'name'   	 => 'ＭＲＴ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6035,
-        'name'   	 => 'アイ・アールジャパンホールディングス'
+        'name'   	 => 'アイ・アールジャパンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6036,
-        'name'   	 => 'ＫｅｅＰｅｒ技研'
+        'name'   	 => 'ＫｅｅＰｅｒ技研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6037,
-        'name'   	 => 'ファーストロジック'
+        'name'   	 => 'ファーストロジック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6038,
-        'name'   	 => 'イード'
+        'name'   	 => 'イード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6039,
-        'name'   	 => '日本動物高度医療センター'
+        'name'   	 => '日本動物高度医療センター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6040,
-        'name'   	 => '日本スキー場開発'
+        'name'   	 => '日本スキー場開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6042,
-        'name'   	 => 'ニッキ'
+        'name'   	 => 'ニッキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6044,
-        'name'   	 => '三機サービス'
+        'name'   	 => '三機サービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6045,
-        'name'   	 => 'レントラックス'
+        'name'   	 => 'レントラックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6046,
-        'name'   	 => 'リンクバル'
+        'name'   	 => 'リンクバル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6047,
-        'name'   	 => 'Ｇｕｎｏｓｙ'
+        'name'   	 => 'Ｇｕｎｏｓｙ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6048,
-        'name'   	 => 'デザインワン・ジャパン'
+        'name'   	 => 'デザインワン・ジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6049,
-        'name'   	 => 'イトクロ'
+        'name'   	 => 'イトクロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6050,
-        'name'   	 => 'イー・ガーディアン'
+        'name'   	 => 'イー・ガーディアン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6054,
-        'name'   	 => 'リブセンス'
+        'name'   	 => 'リブセンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6055,
-        'name'   	 => 'ジャパンマテリアル'
+        'name'   	 => 'ジャパンマテリアル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6058,
-        'name'   	 => 'ベクトル'
+        'name'   	 => 'ベクトル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6059,
-        'name'   	 => 'ウチヤマホールディングス'
+        'name'   	 => 'ウチヤマホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6060,
-        'name'   	 => 'こころネット'
+        'name'   	 => 'こころネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6061,
-        'name'   	 => 'ユニバーサル園芸社'
+        'name'   	 => 'ユニバーサル園芸社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6062,
-        'name'   	 => 'チャーム・ケア・コーポレーション'
+        'name'   	 => 'チャーム・ケア・コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6063,
-        'name'   	 => '日本エマージェンシーアシスタンス'
+        'name'   	 => '日本エマージェンシーアシスタンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6064,
-        'name'   	 => 'アクトコール'
+        'name'   	 => 'アクトコール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6065,
-        'name'   	 => 'ライクキッズ'
+        'name'   	 => 'ライクキッズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6066,
-        'name'   	 => '新東京グループ'
+        'name'   	 => '新東京グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6067,
-        'name'   	 => 'インパクトホールディングス'
+        'name'   	 => 'インパクトホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6069,
-        'name'   	 => 'トレンダーズ'
+        'name'   	 => 'トレンダーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6070,
-        'name'   	 => 'キャリアリンク'
+        'name'   	 => 'キャリアリンク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6071,
-        'name'   	 => 'ＩＢＪ'
+        'name'   	 => 'ＩＢＪ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6072,
-        'name'   	 => '地盤ネットホールディングス'
+        'name'   	 => '地盤ネットホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6073,
-        'name'   	 => 'アサンテ'
+        'name'   	 => 'アサンテ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6074,
-        'name'   	 => 'ジェイエスエス'
+        'name'   	 => 'ジェイエスエス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6077,
-        'name'   	 => 'Ｎ・フィールド'
+        'name'   	 => 'Ｎ・フィールド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6078,
-        'name'   	 => 'バリューＨＲ'
+        'name'   	 => 'バリューＨＲ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6080,
-        'name'   	 => 'Ｍ＆Ａキャピタルパートナーズ'
+        'name'   	 => 'Ｍ＆Ａキャピタルパートナーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6081,
-        'name'   	 => 'アライドアーキテクツ'
+        'name'   	 => 'アライドアーキテクツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6082,
-        'name'   	 => 'ライドオンエクスプレスホールディングス'
+        'name'   	 => 'ライドオンエクスプレスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6083,
-        'name'   	 => 'ＥＲＩホールディングス'
+        'name'   	 => 'ＥＲＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6085,
-        'name'   	 => 'アーキテクツ・スタジオ・ジャパン'
+        'name'   	 => 'アーキテクツ・スタジオ・ジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6086,
-        'name'   	 => 'シンメンテホールディングス'
+        'name'   	 => 'シンメンテホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6087,
-        'name'   	 => 'アビスト'
+        'name'   	 => 'アビスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6088,
-        'name'   	 => 'シグマクシス'
+        'name'   	 => 'シグマクシス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6089,
-        'name'   	 => 'ウィルグループ'
+        'name'   	 => 'ウィルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6090,
-        'name'   	 => 'ヒューマン・メタボローム・テクノロジーズ'
+        'name'   	 => 'ヒューマン・メタボローム・テクノロジーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6091,
-        'name'   	 => 'ウエスコホールディングス'
+        'name'   	 => 'ウエスコホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6092,
-        'name'   	 => 'エンバイオ・ホールディングス'
+        'name'   	 => 'エンバイオ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6093,
-        'name'   	 => 'エスクロー・エージェント・ジャパン'
+        'name'   	 => 'エスクロー・エージェント・ジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6094,
-        'name'   	 => 'フリークアウト・ホールディングス'
+        'name'   	 => 'フリークアウト・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6095,
-        'name'   	 => 'メドピア'
+        'name'   	 => 'メドピア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6096,
-        'name'   	 => 'レアジョブ'
+        'name'   	 => 'レアジョブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6098,
-        'name'   	 => 'リクルートホールディングス'
+        'name'   	 => 'リクルートホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6099,
-        'name'   	 => 'エラン'
+        'name'   	 => 'エラン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6101,
-        'name'   	 => 'ツガミ'
+        'name'   	 => 'ツガミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6103,
-        'name'   	 => 'オークマ'
+        'name'   	 => 'オークマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6104,
-        'name'   	 => '芝浦機械'
+        'name'   	 => '芝浦機械',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6113,
-        'name'   	 => 'アマダ'
+        'name'   	 => 'アマダ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6118,
-        'name'   	 => 'アイダエンジニアリング'
+        'name'   	 => 'アイダエンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6121,
-        'name'   	 => '滝澤鉄工所'
+        'name'   	 => '滝澤鉄工所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6125,
-        'name'   	 => '岡本工作機械製作所'
+        'name'   	 => '岡本工作機械製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6131,
-        'name'   	 => '浜井産業'
+        'name'   	 => '浜井産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6134,
-        'name'   	 => 'ＦＵＪＩ'
+        'name'   	 => 'ＦＵＪＩ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6135,
-        'name'   	 => '牧野フライス製作所'
+        'name'   	 => '牧野フライス製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6136,
-        'name'   	 => 'オーエスジー'
+        'name'   	 => 'オーエスジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6137,
-        'name'   	 => '小池酸素工業'
+        'name'   	 => '小池酸素工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6138,
-        'name'   	 => 'ダイジェット工業'
+        'name'   	 => 'ダイジェット工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6140,
-        'name'   	 => '旭ダイヤモンド工業'
+        'name'   	 => '旭ダイヤモンド工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6141,
-        'name'   	 => 'ＤＭＧ森精機'
+        'name'   	 => 'ＤＭＧ森精機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6143,
-        'name'   	 => 'ソディック'
+        'name'   	 => 'ソディック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6144,
-        'name'   	 => '西部電機'
+        'name'   	 => '西部電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6145,
-        'name'   	 => 'ＮＩＴＴＯＫＵ'
+        'name'   	 => 'ＮＩＴＴＯＫＵ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6146,
-        'name'   	 => 'ディスコ'
+        'name'   	 => 'ディスコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6147,
-        'name'   	 => 'ヤマザキ'
+        'name'   	 => 'ヤマザキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6149,
-        'name'   	 => '小田原エンジニアリング'
+        'name'   	 => '小田原エンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6150,
-        'name'   	 => 'タケダ機械'
+        'name'   	 => 'タケダ機械',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6151,
-        'name'   	 => '日東工器'
+        'name'   	 => '日東工器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6155,
-        'name'   	 => '高松機械工業'
+        'name'   	 => '高松機械工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6156,
-        'name'   	 => 'エーワン精密'
+        'name'   	 => 'エーワン精密',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6157,
-        'name'   	 => '日進工具'
+        'name'   	 => '日進工具',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6158,
-        'name'   	 => '和井田製作所'
+        'name'   	 => '和井田製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6159,
-        'name'   	 => 'ミクロン精密'
+        'name'   	 => 'ミクロン精密',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6161,
-        'name'   	 => 'エスティック'
+        'name'   	 => 'エスティック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6164,
-        'name'   	 => '太陽工機'
+        'name'   	 => '太陽工機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6165,
-        'name'   	 => 'パンチ工業'
+        'name'   	 => 'パンチ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6166,
-        'name'   	 => '中村超硬'
+        'name'   	 => '中村超硬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6167,
-        'name'   	 => '冨士ダイス'
+        'name'   	 => '冨士ダイス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6171,
-        'name'   	 => '土木管理総合試験所'
+        'name'   	 => '土木管理総合試験所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6172,
-        'name'   	 => 'メタップス'
+        'name'   	 => 'メタップス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6173,
-        'name'   	 => 'アクアライン'
+        'name'   	 => 'アクアライン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6174,
-        'name'   	 => 'デンタス'
+        'name'   	 => 'デンタス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6175,
-        'name'   	 => 'ネットマーケティング'
+        'name'   	 => 'ネットマーケティング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6176,
-        'name'   	 => 'ブランジスタ'
+        'name'   	 => 'ブランジスタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6177,
-        'name'   	 => 'ＡｐｐＢａｎｋ'
+        'name'   	 => 'ＡｐｐＢａｎｋ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6178,
-        'name'   	 => '日本郵政'
+        'name'   	 => '日本郵政',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6180,
-        'name'   	 => 'ＧＭＯメディア'
+        'name'   	 => 'ＧＭＯメディア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6181,
-        'name'   	 => 'パートナーエージェント'
+        'name'   	 => 'パートナーエージェント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6182,
-        'name'   	 => 'ロゼッタ'
+        'name'   	 => 'ロゼッタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6183,
-        'name'   	 => 'ベルシステム２４ホールディングス'
+        'name'   	 => 'ベルシステム２４ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6184,
-        'name'   	 => '鎌倉新書'
+        'name'   	 => '鎌倉新書',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6185,
-        'name'   	 => 'ＳＭＮ'
+        'name'   	 => 'ＳＭＮ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6186,
-        'name'   	 => '一蔵'
+        'name'   	 => '一蔵',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6187,
-        'name'   	 => 'ＬＩＴＡＬＩＣＯ'
+        'name'   	 => 'ＬＩＴＡＬＩＣＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6188,
-        'name'   	 => '富士ソフトサービスビューロ'
+        'name'   	 => '富士ソフトサービスビューロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6189,
-        'name'   	 => 'グローバルキッズＣＯＭＰＡＮＹ'
+        'name'   	 => 'グローバルキッズＣＯＭＰＡＮＹ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6190,
-        'name'   	 => 'フェニックスバイオ'
+        'name'   	 => 'フェニックスバイオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6191,
-        'name'   	 => 'エアトリ'
+        'name'   	 => 'エアトリ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6192,
-        'name'   	 => 'ハイアス・アンド・カンパニー'
+        'name'   	 => 'ハイアス・アンド・カンパニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6193,
-        'name'   	 => 'バーチャレクス・ホールディングス'
+        'name'   	 => 'バーチャレクス・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6194,
-        'name'   	 => 'アトラエ'
+        'name'   	 => 'アトラエ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6195,
-        'name'   	 => 'ホープ'
+        'name'   	 => 'ホープ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6196,
-        'name'   	 => 'ストライク'
+        'name'   	 => 'ストライク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6197,
-        'name'   	 => 'ソラスト'
+        'name'   	 => 'ソラスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6198,
-        'name'   	 => 'キャリア'
+        'name'   	 => 'キャリア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6199,
-        'name'   	 => 'セラク'
+        'name'   	 => 'セラク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6200,
-        'name'   	 => 'インソース'
+        'name'   	 => 'インソース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6201,
-        'name'   	 => '豊田自動織機'
+        'name'   	 => '豊田自動織機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6203,
-        'name'   	 => '豊和工業'
+        'name'   	 => '豊和工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6205,
-        'name'   	 => 'ＯＫＫ'
+        'name'   	 => 'ＯＫＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6208,
-        'name'   	 => '石川製作所'
+        'name'   	 => '石川製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6210,
-        'name'   	 => '東洋機械金属'
+        'name'   	 => '東洋機械金属',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6217,
-        'name'   	 => '津田駒工業'
+        'name'   	 => '津田駒工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6218,
-        'name'   	 => 'エンシュウ'
+        'name'   	 => 'エンシュウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6222,
-        'name'   	 => '島精機製作所'
+        'name'   	 => '島精機製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6231,
-        'name'   	 => '木村工機'
+        'name'   	 => '木村工機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6232,
-        'name'   	 => '自律制御システム研究所'
+        'name'   	 => '自律制御システム研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6233,
-        'name'   	 => '極東産機'
+        'name'   	 => '極東産機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6235,
-        'name'   	 => 'オプトラン'
+        'name'   	 => 'オプトラン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6236,
-        'name'   	 => 'ＮＣホールディングス'
+        'name'   	 => 'ＮＣホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6237,
-        'name'   	 => 'イワキポンプ'
+        'name'   	 => 'イワキポンプ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6238,
-        'name'   	 => 'フリュー'
+        'name'   	 => 'フリュー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6239,
-        'name'   	 => 'ナガオカ'
+        'name'   	 => 'ナガオカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6240,
-        'name'   	 => 'ヤマシンフィルタ'
+        'name'   	 => 'ヤマシンフィルタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6245,
-        'name'   	 => 'ヒラノテクシード'
+        'name'   	 => 'ヒラノテクシード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6246,
-        'name'   	 => 'テクノスマート'
+        'name'   	 => 'テクノスマート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6247,
-        'name'   	 => '日阪製作所'
+        'name'   	 => '日阪製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6248,
-        'name'   	 => '横田製作所'
+        'name'   	 => '横田製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6249,
-        'name'   	 => 'ゲームカード・ジョイコホールディングス'
+        'name'   	 => 'ゲームカード・ジョイコホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6250,
-        'name'   	 => 'やまびこ'
+        'name'   	 => 'やまびこ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6254,
-        'name'   	 => '野村マイクロ・サイエンス'
+        'name'   	 => '野村マイクロ・サイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6255,
-        'name'   	 => 'エヌ・ピー・シー'
+        'name'   	 => 'エヌ・ピー・シー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6257,
-        'name'   	 => '藤商事'
+        'name'   	 => '藤商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6258,
-        'name'   	 => '平田機工'
+        'name'   	 => '平田機工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6262,
-        'name'   	 => 'ペガサスミシン製造'
+        'name'   	 => 'ペガサスミシン製造',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6264,
-        'name'   	 => 'マルマエ'
+        'name'   	 => 'マルマエ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6265,
-        'name'   	 => '妙徳'
+        'name'   	 => '妙徳',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6266,
-        'name'   	 => 'タツモ'
+        'name'   	 => 'タツモ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6267,
-        'name'   	 => 'ゼネラルパッカー'
+        'name'   	 => 'ゼネラルパッカー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6268,
-        'name'   	 => 'ナブテスコ'
+        'name'   	 => 'ナブテスコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6269,
-        'name'   	 => '三井海洋開発'
+        'name'   	 => '三井海洋開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6271,
-        'name'   	 => 'ニッセイ'
+        'name'   	 => 'ニッセイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6272,
-        'name'   	 => 'レオン自動機'
+        'name'   	 => 'レオン自動機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6273,
-        'name'   	 => 'ＳＭＣ'
+        'name'   	 => 'ＳＭＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6276,
-        'name'   	 => 'ナビタス'
+        'name'   	 => 'ナビタス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6277,
-        'name'   	 => 'ホソカワミクロン'
+        'name'   	 => 'ホソカワミクロン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6278,
-        'name'   	 => 'ユニオンツール'
+        'name'   	 => 'ユニオンツール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6279,
-        'name'   	 => '瑞光'
+        'name'   	 => '瑞光',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6281,
-        'name'   	 => '前田製作所'
+        'name'   	 => '前田製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6282,
-        'name'   	 => 'オイレス工業'
+        'name'   	 => 'オイレス工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6284,
-        'name'   	 => '日精エー・エス・ビー機械'
+        'name'   	 => '日精エー・エス・ビー機械',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6286,
-        'name'   	 => '靜甲'
+        'name'   	 => '靜甲',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6287,
-        'name'   	 => 'サトーホールディングス'
+        'name'   	 => 'サトーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6289,
-        'name'   	 => '技研製作所'
+        'name'   	 => '技研製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6291,
-        'name'   	 => '日本エアーテック'
+        'name'   	 => '日本エアーテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6292,
-        'name'   	 => 'カワタ'
+        'name'   	 => 'カワタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6293,
-        'name'   	 => '日精樹脂工業'
+        'name'   	 => '日精樹脂工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6294,
-        'name'   	 => 'オカダアイヨン'
+        'name'   	 => 'オカダアイヨン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6297,
-        'name'   	 => '鉱研工業'
+        'name'   	 => '鉱研工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6298,
-        'name'   	 => 'ワイエイシイホールディングス'
+        'name'   	 => 'ワイエイシイホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6299,
-        'name'   	 => '神鋼環境ソリューション'
+        'name'   	 => '神鋼環境ソリューション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6301,
-        'name'   	 => '小松製作所'
+        'name'   	 => '小松製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6302,
-        'name'   	 => '住友重機械工業'
+        'name'   	 => '住友重機械工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6303,
-        'name'   	 => 'ササクラ'
+        'name'   	 => 'ササクラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6305,
-        'name'   	 => '日立建機'
+        'name'   	 => '日立建機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6306,
-        'name'   	 => '日工'
+        'name'   	 => '日工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6307,
-        'name'   	 => 'サンセイ'
+        'name'   	 => 'サンセイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6309,
-        'name'   	 => '巴工業'
+        'name'   	 => '巴工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6310,
-        'name'   	 => '井関農機'
+        'name'   	 => '井関農機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6312,
-        'name'   	 => 'フロイント産業'
+        'name'   	 => 'フロイント産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6315,
-        'name'   	 => 'ＴＯＷＡ'
+        'name'   	 => 'ＴＯＷＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6316,
-        'name'   	 => '丸山製作所'
+        'name'   	 => '丸山製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6317,
-        'name'   	 => '北川鉄工所'
+        'name'   	 => '北川鉄工所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6319,
-        'name'   	 => 'シンニッタン'
+        'name'   	 => 'シンニッタン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6322,
-        'name'   	 => 'タクミナ'
+        'name'   	 => 'タクミナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6323,
-        'name'   	 => 'ローツェ'
+        'name'   	 => 'ローツェ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6324,
-        'name'   	 => 'ハーモニック・ドライブ・システムズ'
+        'name'   	 => 'ハーモニック・ドライブ・システムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6325,
-        'name'   	 => 'タカキタ'
+        'name'   	 => 'タカキタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6326,
-        'name'   	 => 'クボタ'
+        'name'   	 => 'クボタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6327,
-        'name'   	 => '北川精機'
+        'name'   	 => '北川精機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6328,
-        'name'   	 => '荏原実業'
+        'name'   	 => '荏原実業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6330,
-        'name'   	 => '東洋エンジニアリング'
+        'name'   	 => '東洋エンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6331,
-        'name'   	 => '三菱化工機'
+        'name'   	 => '三菱化工機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6332,
-        'name'   	 => '月島機械'
+        'name'   	 => '月島機械',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6333,
-        'name'   	 => '帝国電機製作所'
+        'name'   	 => '帝国電機製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6334,
-        'name'   	 => '明治機械'
+        'name'   	 => '明治機械',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6335,
-        'name'   	 => '東京機械製作所'
+        'name'   	 => '東京機械製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6336,
-        'name'   	 => '石井表記'
+        'name'   	 => '石井表記',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6337,
-        'name'   	 => 'テセック'
+        'name'   	 => 'テセック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6338,
-        'name'   	 => 'タカトリ'
+        'name'   	 => 'タカトリ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6339,
-        'name'   	 => '新東工業'
+        'name'   	 => '新東工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6340,
-        'name'   	 => '澁谷工業'
+        'name'   	 => '澁谷工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6342,
-        'name'   	 => '太平製作所'
+        'name'   	 => '太平製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6343,
-        'name'   	 => 'フリージア・マクロス'
+        'name'   	 => 'フリージア・マクロス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6345,
-        'name'   	 => 'アイチ　コーポレーション'
+        'name'   	 => 'アイチ　コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6346,
-        'name'   	 => 'キクカワエンタープライズ'
+        'name'   	 => 'キクカワエンタープライズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6347,
-        'name'   	 => 'プラコー'
+        'name'   	 => 'プラコー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6349,
-        'name'   	 => '小森コーポレーション'
+        'name'   	 => '小森コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6351,
-        'name'   	 => '鶴見製作所'
+        'name'   	 => '鶴見製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6355,
-        'name'   	 => '住友精密工業'
+        'name'   	 => '住友精密工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6356,
-        'name'   	 => '日本ギア工業'
+        'name'   	 => '日本ギア工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6357,
-        'name'   	 => '三精テクノロジーズ'
+        'name'   	 => '三精テクノロジーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6358,
-        'name'   	 => '酒井重工業'
+        'name'   	 => '酒井重工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6360,
-        'name'   	 => '東京自働機械製作所'
+        'name'   	 => '東京自働機械製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6361,
-        'name'   	 => '荏原製作所'
+        'name'   	 => '荏原製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6362,
-        'name'   	 => '石井鐵工所'
+        'name'   	 => '石井鐵工所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6363,
-        'name'   	 => '酉島製作所'
+        'name'   	 => '酉島製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6364,
-        'name'   	 => '北越工業'
+        'name'   	 => '北越工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6365,
-        'name'   	 => '電業社機械製作所'
+        'name'   	 => '電業社機械製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6366,
-        'name'   	 => '千代田化工建設'
+        'name'   	 => '千代田化工建設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6367,
-        'name'   	 => 'ダイキン工業'
+        'name'   	 => 'ダイキン工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6368,
-        'name'   	 => 'オルガノ'
+        'name'   	 => 'オルガノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6369,
-        'name'   	 => 'トーヨーカネツ'
+        'name'   	 => 'トーヨーカネツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6370,
-        'name'   	 => '栗田工業'
+        'name'   	 => '栗田工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6371,
-        'name'   	 => '椿本チエイン'
+        'name'   	 => '椿本チエイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6373,
-        'name'   	 => '大同工業'
+        'name'   	 => '大同工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6376,
-        'name'   	 => '日機装'
+        'name'   	 => '日機装',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6378,
-        'name'   	 => '木村化工機'
+        'name'   	 => '木村化工機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6379,
-        'name'   	 => 'レイズネクスト'
+        'name'   	 => 'レイズネクスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6380,
-        'name'   	 => 'オリエンタルチエン工業'
+        'name'   	 => 'オリエンタルチエン工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6381,
-        'name'   	 => 'アネスト岩田'
+        'name'   	 => 'アネスト岩田',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6382,
-        'name'   	 => 'トリニティ工業'
+        'name'   	 => 'トリニティ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6383,
-        'name'   	 => 'ダイフク'
+        'name'   	 => 'ダイフク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6384,
-        'name'   	 => '昭和真空'
+        'name'   	 => '昭和真空',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6387,
-        'name'   	 => 'サムコ'
+        'name'   	 => 'サムコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6390,
-        'name'   	 => '加藤製作所'
+        'name'   	 => '加藤製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6391,
-        'name'   	 => '加地テック'
+        'name'   	 => '加地テック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6392,
-        'name'   	 => 'ヤマダコーポレーション'
+        'name'   	 => 'ヤマダコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6393,
-        'name'   	 => '油研工業'
+        'name'   	 => '油研工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6395,
-        'name'   	 => 'タダノ'
+        'name'   	 => 'タダノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6396,
-        'name'   	 => '宇野澤組鐵工所'
+        'name'   	 => '宇野澤組鐵工所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6400,
-        'name'   	 => '不二精機'
+        'name'   	 => '不二精機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6402,
-        'name'   	 => '兼松エンジニアリング'
+        'name'   	 => '兼松エンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6403,
-        'name'   	 => '水道機工'
+        'name'   	 => '水道機工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6405,
-        'name'   	 => '鈴茂器工'
+        'name'   	 => '鈴茂器工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6406,
-        'name'   	 => 'フジテック'
+        'name'   	 => 'フジテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6407,
-        'name'   	 => 'ＣＫＤ'
+        'name'   	 => 'ＣＫＤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6408,
-        'name'   	 => '小倉クラッチ'
+        'name'   	 => '小倉クラッチ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6409,
-        'name'   	 => 'キトー'
+        'name'   	 => 'キトー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6411,
-        'name'   	 => '中野冷機'
+        'name'   	 => '中野冷機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6412,
-        'name'   	 => '平和'
+        'name'   	 => '平和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6413,
-        'name'   	 => '理想科学工業'
+        'name'   	 => '理想科学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6414,
-        'name'   	 => '川重冷熱工業'
+        'name'   	 => '川重冷熱工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6416,
-        'name'   	 => '桂川電機'
+        'name'   	 => '桂川電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6417,
-        'name'   	 => 'ＳＡＮＫＹＯ'
+        'name'   	 => 'ＳＡＮＫＹＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6418,
-        'name'   	 => '日本金銭機械'
+        'name'   	 => '日本金銭機械',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6419,
-        'name'   	 => 'マースグループホールディングス'
+        'name'   	 => 'マースグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6420,
-        'name'   	 => 'フクシマガリレイ'
+        'name'   	 => 'フクシマガリレイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6424,
-        'name'   	 => '高見沢サイバネティックス'
+        'name'   	 => '高見沢サイバネティックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6425,
-        'name'   	 => 'ユニバーサルエンターテインメント'
+        'name'   	 => 'ユニバーサルエンターテインメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6428,
-        'name'   	 => 'オーイズミ'
+        'name'   	 => 'オーイズミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6430,
-        'name'   	 => 'ダイコク電機'
+        'name'   	 => 'ダイコク電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6432,
-        'name'   	 => '竹内製作所'
+        'name'   	 => '竹内製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6433,
-        'name'   	 => 'ヒーハイスト精工'
+        'name'   	 => 'ヒーハイスト精工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6436,
-        'name'   	 => 'アマノ'
+        'name'   	 => 'アマノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6440,
-        'name'   	 => 'ＪＵＫＩ'
+        'name'   	 => 'ＪＵＫＩ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6444,
-        'name'   	 => 'サンデンホールディングス'
+        'name'   	 => 'サンデンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6445,
-        'name'   	 => '蛇の目ミシン工業'
+        'name'   	 => '蛇の目ミシン工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6448,
-        'name'   	 => 'ブラザー工業'
+        'name'   	 => 'ブラザー工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6454,
-        'name'   	 => 'マックス'
+        'name'   	 => 'マックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6455,
-        'name'   	 => 'モリタホールディングス'
+        'name'   	 => 'モリタホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6457,
-        'name'   	 => 'グローリー'
+        'name'   	 => 'グローリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6458,
-        'name'   	 => '新晃工業'
+        'name'   	 => '新晃工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6459,
-        'name'   	 => '大和冷機工業'
+        'name'   	 => '大和冷機工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6460,
-        'name'   	 => 'セガサミーホールディングス'
+        'name'   	 => 'セガサミーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6461,
-        'name'   	 => '日本ピストンリング'
+        'name'   	 => '日本ピストンリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6462,
-        'name'   	 => 'リケン'
+        'name'   	 => 'リケン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6463,
-        'name'   	 => 'ＴＰＲ'
+        'name'   	 => 'ＴＰＲ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6464,
-        'name'   	 => 'ツバキ・ナカシマ'
+        'name'   	 => 'ツバキ・ナカシマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6465,
-        'name'   	 => 'ホシザキ'
+        'name'   	 => 'ホシザキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6466,
-        'name'   	 => '東亜バルブエンジニアリング'
+        'name'   	 => '東亜バルブエンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6467,
-        'name'   	 => 'ニチダイ'
+        'name'   	 => 'ニチダイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6469,
-        'name'   	 => '放電精密加工研究所'
+        'name'   	 => '放電精密加工研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6470,
-        'name'   	 => '大豊工業'
+        'name'   	 => '大豊工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6471,
-        'name'   	 => '日本精工'
+        'name'   	 => '日本精工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6472,
-        'name'   	 => 'ＮＴＮ'
+        'name'   	 => 'ＮＴＮ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6473,
-        'name'   	 => 'ジェイテクト'
+        'name'   	 => 'ジェイテクト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6474,
-        'name'   	 => '不二越'
+        'name'   	 => '不二越',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6479,
-        'name'   	 => 'ミネベアミツミ'
+        'name'   	 => 'ミネベアミツミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6480,
-        'name'   	 => '日本トムソン'
+        'name'   	 => '日本トムソン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6481,
-        'name'   	 => 'ＴＨＫ'
+        'name'   	 => 'ＴＨＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6482,
-        'name'   	 => 'ユーシン精機'
+        'name'   	 => 'ユーシン精機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6484,
-        'name'   	 => 'ＫＶＫ'
+        'name'   	 => 'ＫＶＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6485,
-        'name'   	 => '前澤給装工業'
+        'name'   	 => '前澤給装工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6486,
-        'name'   	 => 'イーグル工業'
+        'name'   	 => 'イーグル工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6488,
-        'name'   	 => 'ヨシタケ'
+        'name'   	 => 'ヨシタケ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6489,
-        'name'   	 => '前澤工業'
+        'name'   	 => '前澤工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6490,
-        'name'   	 => '日本ピラー工業'
+        'name'   	 => '日本ピラー工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6492,
-        'name'   	 => '岡野バルブ製造'
+        'name'   	 => '岡野バルブ製造',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6493,
-        'name'   	 => '日鍛バルブ'
+        'name'   	 => '日鍛バルブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6494,
-        'name'   	 => 'ＮＦＫホールディングス'
+        'name'   	 => 'ＮＦＫホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6495,
-        'name'   	 => '宮入バルブ製作所'
+        'name'   	 => '宮入バルブ製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6496,
-        'name'   	 => '中北製作所'
+        'name'   	 => '中北製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6497,
-        'name'   	 => 'ハマイ'
+        'name'   	 => 'ハマイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6498,
-        'name'   	 => 'キッツ'
+        'name'   	 => 'キッツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6501,
-        'name'   	 => '日立製作所'
+        'name'   	 => '日立製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6502,
-        'name'   	 => '東芝'
+        'name'   	 => '東芝',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6503,
-        'name'   	 => '三菱電機'
+        'name'   	 => '三菱電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6504,
-        'name'   	 => '富士電機'
+        'name'   	 => '富士電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6505,
-        'name'   	 => '東洋電機製造'
+        'name'   	 => '東洋電機製造',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6506,
-        'name'   	 => '安川電機'
+        'name'   	 => '安川電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6507,
-        'name'   	 => 'シンフォニアテクノロジー'
+        'name'   	 => 'シンフォニアテクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6508,
-        'name'   	 => '明電舎'
+        'name'   	 => '明電舎',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6513,
-        'name'   	 => 'オリジン'
+        'name'   	 => 'オリジン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6516,
-        'name'   	 => '山洋電気'
+        'name'   	 => '山洋電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6517,
-        'name'   	 => 'デンヨー'
+        'name'   	 => 'デンヨー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6518,
-        'name'   	 => '三相電機'
+        'name'   	 => '三相電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6531,
-        'name'   	 => 'リファインバース'
+        'name'   	 => 'リファインバース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6532,
-        'name'   	 => 'ベイカレント・コンサルティング'
+        'name'   	 => 'ベイカレント・コンサルティング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6533,
-        'name'   	 => 'Ｏｒｃｈｅｓｔｒａ　Ｈｏｌｄｉｎｇｓ'
+        'name'   	 => 'Ｏｒｃｈｅｓｔｒａ　Ｈｏｌｄｉｎｇｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6535,
-        'name'   	 => 'アイモバイル'
+        'name'   	 => 'アイモバイル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6537,
-        'name'   	 => 'ＷＡＳＨハウス'
+        'name'   	 => 'ＷＡＳＨハウス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6538,
-        'name'   	 => 'キャリアインデックス'
+        'name'   	 => 'キャリアインデックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6539,
-        'name'   	 => 'ＭＳ－Ｊａｐａｎ'
+        'name'   	 => 'ＭＳ－Ｊａｐａｎ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6540,
-        'name'   	 => '船場'
+        'name'   	 => '船場',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6541,
-        'name'   	 => 'グレイステクノロジー'
+        'name'   	 => 'グレイステクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6542,
-        'name'   	 => 'ＦＣホールディングス'
+        'name'   	 => 'ＦＣホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6543,
-        'name'   	 => '日宣'
+        'name'   	 => '日宣',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6544,
-        'name'   	 => 'ジャパンエレベーターサービスホールディングス'
+        'name'   	 => 'ジャパンエレベーターサービスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6545,
-        'name'   	 => 'インターネットインフィニティー'
+        'name'   	 => 'インターネットインフィニティー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6546,
-        'name'   	 => 'フルテック'
+        'name'   	 => 'フルテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6547,
-        'name'   	 => 'グリーンズ'
+        'name'   	 => 'グリーンズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6548,
-        'name'   	 => '旅工房'
+        'name'   	 => '旅工房',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6549,
-        'name'   	 => 'ディーエムソリューションズ'
+        'name'   	 => 'ディーエムソリューションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6550,
-        'name'   	 => 'Ｆｒｉｎｇｅ８１'
+        'name'   	 => 'Ｆｒｉｎｇｅ８１',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6551,
-        'name'   	 => 'ツナググループ・ホールディングス'
+        'name'   	 => 'ツナググループ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6552,
-        'name'   	 => 'ＧａｍｅＷｉｔｈ'
+        'name'   	 => 'ＧａｍｅＷｉｔｈ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6553,
-        'name'   	 => 'ソウルドアウト'
+        'name'   	 => 'ソウルドアウト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6554,
-        'name'   	 => 'エスユーエス'
+        'name'   	 => 'エスユーエス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6555,
-        'name'   	 => 'ＭＳ＆Ｃｏｎｓｕｌｔｉｎｇ'
+        'name'   	 => 'ＭＳ＆Ｃｏｎｓｕｌｔｉｎｇ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6556,
-        'name'   	 => 'ウェルビー'
+        'name'   	 => 'ウェルビー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6557,
-        'name'   	 => 'ｇｌｏｂａｌ　ｂｒｉｄｇｅ　ＨＯＬＤＩＮＧＳ'
+        'name'   	 => 'ｇｌｏｂａｌ　ｂｒｉｄｇｅ　ＨＯＬＤＩＮＧＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6558,
-        'name'   	 => 'クックビズ'
+        'name'   	 => 'クックビズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6560,
-        'name'   	 => 'エル・ティー・エス'
+        'name'   	 => 'エル・ティー・エス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6561,
-        'name'   	 => 'ＨＡＮＡＴＯＵＲ　ＪＡＰＡＮ'
+        'name'   	 => 'ＨＡＮＡＴＯＵＲ　ＪＡＰＡＮ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6562,
-        'name'   	 => 'ジーニー'
+        'name'   	 => 'ジーニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6563,
-        'name'   	 => 'みらいワークス'
+        'name'   	 => 'みらいワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6564,
-        'name'   	 => 'ミダック'
+        'name'   	 => 'ミダック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6565,
-        'name'   	 => 'ＡＢホテル'
+        'name'   	 => 'ＡＢホテル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6566,
-        'name'   	 => '要興業'
+        'name'   	 => '要興業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6567,
-        'name'   	 => 'ＳＥＲＩＯホールディングス'
+        'name'   	 => 'ＳＥＲＩＯホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6568,
-        'name'   	 => '神戸天然物化学'
+        'name'   	 => '神戸天然物化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6569,
-        'name'   	 => '日総工産'
+        'name'   	 => '日総工産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6570,
-        'name'   	 => '共和コーポレーション'
+        'name'   	 => '共和コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6571,
-        'name'   	 => 'キュービーネットホールディングス'
+        'name'   	 => 'キュービーネットホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6572,
-        'name'   	 => 'ＲＰＡホールディングス'
+        'name'   	 => 'ＲＰＡホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6573,
-        'name'   	 => 'アジャイルメディア・ネットワーク'
+        'name'   	 => 'アジャイルメディア・ネットワーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6574,
-        'name'   	 => 'コンヴァノ'
+        'name'   	 => 'コンヴァノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6575,
-        'name'   	 => 'ヒューマン・アソシエイツ・ホールディングス'
+        'name'   	 => 'ヒューマン・アソシエイツ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6576,
-        'name'   	 => '揚工舎'
+        'name'   	 => '揚工舎',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6577,
-        'name'   	 => 'ベストワンドットコム'
+        'name'   	 => 'ベストワンドットコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6578,
-        'name'   	 => 'エヌリンクス'
+        'name'   	 => 'エヌリンクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6579,
-        'name'   	 => 'ログリー'
+        'name'   	 => 'ログリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6580,
-        'name'   	 => 'ライトアップ'
+        'name'   	 => 'ライトアップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6584,
-        'name'   	 => '三櫻工業'
+        'name'   	 => '三櫻工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6586,
-        'name'   	 => 'マキタ'
+        'name'   	 => 'マキタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6588,
-        'name'   	 => '東芝テック'
+        'name'   	 => '東芝テック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6590,
-        'name'   	 => '芝浦メカトロニクス'
+        'name'   	 => '芝浦メカトロニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6592,
-        'name'   	 => 'マブチモーター'
+        'name'   	 => 'マブチモーター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6594,
-        'name'   	 => '日本電産'
+        'name'   	 => '日本電産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6596,
-        'name'   	 => '筑波精工'
+        'name'   	 => '筑波精工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6597,
-        'name'   	 => 'ＨＰＣシステムズ'
+        'name'   	 => 'ＨＰＣシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6599,
-        'name'   	 => 'エブレン'
+        'name'   	 => 'エブレン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6615,
-        'name'   	 => 'ユー・エム・シー・エレクトロニクス'
+        'name'   	 => 'ユー・エム・シー・エレクトロニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6616,
-        'name'   	 => 'トレックス・セミコンダクター'
+        'name'   	 => 'トレックス・セミコンダクター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6617,
-        'name'   	 => '東光高岳'
+        'name'   	 => '東光高岳',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6618,
-        'name'   	 => '大泉製作所'
+        'name'   	 => '大泉製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6619,
-        'name'   	 => 'ダブル・スコープ'
+        'name'   	 => 'ダブル・スコープ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6620,
-        'name'   	 => '宮越ホールディングス'
+        'name'   	 => '宮越ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6622,
-        'name'   	 => 'ダイヘン'
+        'name'   	 => 'ダイヘン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6625,
-        'name'   	 => 'ＪＡＬＣＯホールディングス'
+        'name'   	 => 'ＪＡＬＣＯホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6626,
-        'name'   	 => 'ＳＥＭＩＴＥＣ'
+        'name'   	 => 'ＳＥＭＩＴＥＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6627,
-        'name'   	 => 'テラプローブ'
+        'name'   	 => 'テラプローブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6628,
-        'name'   	 => 'オンキヨー'
+        'name'   	 => 'オンキヨー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6629,
-        'name'   	 => 'テクノホライゾン・ホールディングス'
+        'name'   	 => 'テクノホライゾン・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6630,
-        'name'   	 => 'ヤーマン'
+        'name'   	 => 'ヤーマン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6632,
-        'name'   	 => 'ＪＶＣケンウッド'
+        'name'   	 => 'ＪＶＣケンウッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6633,
-        'name'   	 => 'Ｃ＆Ｇシステムズ'
+        'name'   	 => 'Ｃ＆Ｇシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6634,
-        'name'   	 => 'ネクスグループ'
+        'name'   	 => 'ネクスグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6635,
-        'name'   	 => '大日光・エンジニアリング'
+        'name'   	 => '大日光・エンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6637,
-        'name'   	 => '寺崎電気産業'
+        'name'   	 => '寺崎電気産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6638,
-        'name'   	 => 'ミマキエンジニアリング'
+        'name'   	 => 'ミマキエンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6639,
-        'name'   	 => 'コンテック'
+        'name'   	 => 'コンテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6640,
-        'name'   	 => '第一精工'
+        'name'   	 => '第一精工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6641,
-        'name'   	 => '日新電機'
+        'name'   	 => '日新電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6643,
-        'name'   	 => '戸上電機製作所'
+        'name'   	 => '戸上電機製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6644,
-        'name'   	 => '大崎電気工業'
+        'name'   	 => '大崎電気工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6645,
-        'name'   	 => 'オムロン'
+        'name'   	 => 'オムロン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6647,
-        'name'   	 => '森尾電機'
+        'name'   	 => '森尾電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6648,
-        'name'   	 => 'かわでん'
+        'name'   	 => 'かわでん',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6651,
-        'name'   	 => '日東工業'
+        'name'   	 => '日東工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6652,
-        'name'   	 => 'ＩＤＥＣ'
+        'name'   	 => 'ＩＤＥＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6653,
-        'name'   	 => '正興電機製作所'
+        'name'   	 => '正興電機製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6654,
-        'name'   	 => '不二電機工業'
+        'name'   	 => '不二電機工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6656,
-        'name'   	 => 'インスペック'
+        'name'   	 => 'インスペック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6658,
-        'name'   	 => 'シライ電子工業'
+        'name'   	 => 'シライ電子工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6659,
-        'name'   	 => 'メディアリンクス'
+        'name'   	 => 'メディアリンクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6662,
-        'name'   	 => 'ユビテック'
+        'name'   	 => 'ユビテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6663,
-        'name'   	 => '太洋工業'
+        'name'   	 => '太洋工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6664,
-        'name'   	 => 'オプトエレクトロニクス'
+        'name'   	 => 'オプトエレクトロニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6666,
-        'name'   	 => 'リバーエレテック'
+        'name'   	 => 'リバーエレテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6668,
-        'name'   	 => 'アドテック　プラズマ　テクノロジー'
+        'name'   	 => 'アドテック　プラズマ　テクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6670,
-        'name'   	 => 'ＭＣＪ'
+        'name'   	 => 'ＭＣＪ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6674,
-        'name'   	 => 'ジーエス・ユアサ　コーポレーション'
+        'name'   	 => 'ジーエス・ユアサ　コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6675,
-        'name'   	 => 'サクサホールディングス'
+        'name'   	 => 'サクサホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6676,
-        'name'   	 => 'メルコホールディングス'
+        'name'   	 => 'メルコホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6677,
-        'name'   	 => 'エスケーエレクトロニクス'
+        'name'   	 => 'エスケーエレクトロニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6678,
-        'name'   	 => 'テクノメディカ'
+        'name'   	 => 'テクノメディカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6694,
-        'name'   	 => 'ズーム'
+        'name'   	 => 'ズーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6695,
-        'name'   	 => 'トリプルワン'
+        'name'   	 => 'トリプルワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6696,
-        'name'   	 => 'ピースリー'
+        'name'   	 => 'ピースリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6697,
-        'name'   	 => 'テックポイント・インク　ＪＤＲ'
+        'name'   	 => 'テックポイント・インク　ＪＤＲ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6698,
-        'name'   	 => 'ヴィスコ・テクノロジーズ'
+        'name'   	 => 'ヴィスコ・テクノロジーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6699,
-        'name'   	 => 'ダイヤモンドエレクトリックホールディングス'
+        'name'   	 => 'ダイヤモンドエレクトリックホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6701,
-        'name'   	 => '日本電気'
+        'name'   	 => '日本電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6702,
-        'name'   	 => '富士通'
+        'name'   	 => '富士通',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6703,
-        'name'   	 => '沖電気工業'
+        'name'   	 => '沖電気工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6704,
-        'name'   	 => '岩崎通信機'
+        'name'   	 => '岩崎通信機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6706,
-        'name'   	 => '電気興業'
+        'name'   	 => '電気興業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6707,
-        'name'   	 => 'サンケン電気'
+        'name'   	 => 'サンケン電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6709,
-        'name'   	 => '明星電気'
+        'name'   	 => '明星電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6715,
-        'name'   	 => 'ナカヨ'
+        'name'   	 => 'ナカヨ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6718,
-        'name'   	 => 'アイホン'
+        'name'   	 => 'アイホン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6721,
-        'name'   	 => 'ウインテスト'
+        'name'   	 => 'ウインテスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6722,
-        'name'   	 => 'エイアンドティー'
+        'name'   	 => 'エイアンドティー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6723,
-        'name'   	 => 'ルネサスエレクトロニクス'
+        'name'   	 => 'ルネサスエレクトロニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6724,
-        'name'   	 => 'セイコーエプソン'
+        'name'   	 => 'セイコーエプソン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6727,
-        'name'   	 => 'ワコム'
+        'name'   	 => 'ワコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6728,
-        'name'   	 => 'アルバック'
+        'name'   	 => 'アルバック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6730,
-        'name'   	 => 'アクセル'
+        'name'   	 => 'アクセル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6731,
-        'name'   	 => 'ピクセラ'
+        'name'   	 => 'ピクセラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6734,
-        'name'   	 => 'ニューテック'
+        'name'   	 => 'ニューテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6736,
-        'name'   	 => 'サン電子'
+        'name'   	 => 'サン電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6737,
-        'name'   	 => 'ＥＩＺＯ'
+        'name'   	 => 'ＥＩＺＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6740,
-        'name'   	 => 'ジャパンディスプレイ'
+        'name'   	 => 'ジャパンディスプレイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6741,
-        'name'   	 => '日本信号'
+        'name'   	 => '日本信号',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6742,
-        'name'   	 => '京三製作所'
+        'name'   	 => '京三製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6743,
-        'name'   	 => '大同信号'
+        'name'   	 => '大同信号',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6744,
-        'name'   	 => '能美防災'
+        'name'   	 => '能美防災',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6745,
-        'name'   	 => 'ホーチキ'
+        'name'   	 => 'ホーチキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6748,
-        'name'   	 => '星和電機'
+        'name'   	 => '星和電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6750,
-        'name'   	 => 'エレコム'
+        'name'   	 => 'エレコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6752,
-        'name'   	 => 'パナソニック'
+        'name'   	 => 'パナソニック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6753,
-        'name'   	 => 'シャープ'
+        'name'   	 => 'シャープ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6754,
-        'name'   	 => 'アンリツ'
+        'name'   	 => 'アンリツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6755,
-        'name'   	 => '富士通ゼネラル'
+        'name'   	 => '富士通ゼネラル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6757,
-        'name'   	 => 'ＯＳＧコーポレーション'
+        'name'   	 => 'ＯＳＧコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6758,
-        'name'   	 => 'ソニー'
+        'name'   	 => 'ソニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6762,
-        'name'   	 => 'ＴＤＫ'
+        'name'   	 => 'ＴＤＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6763,
-        'name'   	 => '帝国通信工業'
+        'name'   	 => '帝国通信工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6768,
-        'name'   	 => 'タムラ製作所'
+        'name'   	 => 'タムラ製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6769,
-        'name'   	 => 'ザインエレクトロニクス'
+        'name'   	 => 'ザインエレクトロニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6770,
-        'name'   	 => 'アルプスアルパイン'
+        'name'   	 => 'アルプスアルパイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6771,
-        'name'   	 => '池上通信機'
+        'name'   	 => '池上通信機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6772,
-        'name'   	 => '東京コスモス電機'
+        'name'   	 => '東京コスモス電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6775,
-        'name'   	 => 'ＴＢグループ'
+        'name'   	 => 'ＴＢグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6776,
-        'name'   	 => '天昇電気工業'
+        'name'   	 => '天昇電気工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6777,
-        'name'   	 => 'ｓａｎｔｅｃ'
+        'name'   	 => 'ｓａｎｔｅｃ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6778,
-        'name'   	 => 'アルチザネットワークス'
+        'name'   	 => 'アルチザネットワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6779,
-        'name'   	 => '日本電波工業'
+        'name'   	 => '日本電波工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6785,
-        'name'   	 => '鈴木'
+        'name'   	 => '鈴木',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6786,
-        'name'   	 => 'ＲＶＨ'
+        'name'   	 => 'ＲＶＨ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6787,
-        'name'   	 => 'メイコー'
+        'name'   	 => 'メイコー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6788,
-        'name'   	 => '日本トリム'
+        'name'   	 => '日本トリム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6789,
-        'name'   	 => 'ローランド　ディー．ジー．'
+        'name'   	 => 'ローランド　ディー．ジー．',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6794,
-        'name'   	 => 'フォスター電機'
+        'name'   	 => 'フォスター電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6798,
-        'name'   	 => 'ＳＭＫ'
+        'name'   	 => 'ＳＭＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6800,
-        'name'   	 => 'ヨコオ'
+        'name'   	 => 'ヨコオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6803,
-        'name'   	 => 'ティアック'
+        'name'   	 => 'ティアック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6804,
-        'name'   	 => 'ホシデン'
+        'name'   	 => 'ホシデン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6806,
-        'name'   	 => 'ヒロセ電機'
+        'name'   	 => 'ヒロセ電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6807,
-        'name'   	 => '日本航空電子工業'
+        'name'   	 => '日本航空電子工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6809,
-        'name'   	 => 'ＴＯＡ'
+        'name'   	 => 'ＴＯＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6810,
-        'name'   	 => 'マクセルホールディングス'
+        'name'   	 => 'マクセルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6814,
-        'name'   	 => '古野電気'
+        'name'   	 => '古野電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6815,
-        'name'   	 => 'ユニデンホールディングス'
+        'name'   	 => 'ユニデンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6817,
-        'name'   	 => 'スミダコーポレーション'
+        'name'   	 => 'スミダコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6819,
-        'name'   	 => '伊豆シャボテンリゾート'
+        'name'   	 => '伊豆シャボテンリゾート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6820,
-        'name'   	 => 'アイコム'
+        'name'   	 => 'アイコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6822,
-        'name'   	 => '大井電気'
+        'name'   	 => '大井電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6823,
-        'name'   	 => 'リオン'
+        'name'   	 => 'リオン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6824,
-        'name'   	 => '新コスモス電機'
+        'name'   	 => '新コスモス電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6826,
-        'name'   	 => '本多通信工業'
+        'name'   	 => '本多通信工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6832,
-        'name'   	 => 'アオイ電子'
+        'name'   	 => 'アオイ電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6834,
-        'name'   	 => '精工技研'
+        'name'   	 => '精工技研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6835,
-        'name'   	 => 'アライドテレシスホールディングス'
+        'name'   	 => 'アライドテレシスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6836,
-        'name'   	 => 'ぷらっとホーム'
+        'name'   	 => 'ぷらっとホーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6837,
-        'name'   	 => '京写'
+        'name'   	 => '京写',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6838,
-        'name'   	 => '多摩川ホールディングス'
+        'name'   	 => '多摩川ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6839,
-        'name'   	 => '船井電機'
+        'name'   	 => '船井電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6840,
-        'name'   	 => 'ＡＫＩＢＡホールディングス'
+        'name'   	 => 'ＡＫＩＢＡホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6841,
-        'name'   	 => '横河電機'
+        'name'   	 => '横河電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6844,
-        'name'   	 => '新電元工業'
+        'name'   	 => '新電元工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6845,
-        'name'   	 => 'アズビル'
+        'name'   	 => 'アズビル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6848,
-        'name'   	 => '東亜ディーケーケー'
+        'name'   	 => '東亜ディーケーケー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6849,
-        'name'   	 => '日本光電工業'
+        'name'   	 => '日本光電工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6850,
-        'name'   	 => 'チノー'
+        'name'   	 => 'チノー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6852,
-        'name'   	 => 'テクノ・セブン'
+        'name'   	 => 'テクノ・セブン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6853,
-        'name'   	 => '共和電業'
+        'name'   	 => '共和電業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6855,
-        'name'   	 => '日本電子材料'
+        'name'   	 => '日本電子材料',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6856,
-        'name'   	 => '堀場製作所'
+        'name'   	 => '堀場製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6857,
-        'name'   	 => 'アドバンテスト'
+        'name'   	 => 'アドバンテスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6858,
-        'name'   	 => '小野測器'
+        'name'   	 => '小野測器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6859,
-        'name'   	 => 'エスペック'
+        'name'   	 => 'エスペック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6861,
-        'name'   	 => 'キーエンス'
+        'name'   	 => 'キーエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6862,
-        'name'   	 => 'ミナトホールディングス'
+        'name'   	 => 'ミナトホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6863,
-        'name'   	 => 'ニレコ'
+        'name'   	 => 'ニレコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6864,
-        'name'   	 => 'エヌエフ回路設計ブロック'
+        'name'   	 => 'エヌエフ回路設計ブロック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6866,
-        'name'   	 => '日置電機'
+        'name'   	 => '日置電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6867,
-        'name'   	 => 'リーダー電子'
+        'name'   	 => 'リーダー電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6869,
-        'name'   	 => 'シスメックス'
+        'name'   	 => 'シスメックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6870,
-        'name'   	 => '日本フェンオール'
+        'name'   	 => '日本フェンオール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6871,
-        'name'   	 => '日本マイクロニクス'
+        'name'   	 => '日本マイクロニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6874,
-        'name'   	 => '協立電機'
+        'name'   	 => '協立電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6875,
-        'name'   	 => 'メガチップス'
+        'name'   	 => 'メガチップス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6877,
-        'name'   	 => 'ＯＢＡＲＡ　ＧＲＯＵＰ'
+        'name'   	 => 'ＯＢＡＲＡ　ＧＲＯＵＰ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6879,
-        'name'   	 => 'ＩＭＡＧＩＣＡ　ＧＲＯＵＰ'
+        'name'   	 => 'ＩＭＡＧＩＣＡ　ＧＲＯＵＰ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6881,
-        'name'   	 => 'キョウデン'
+        'name'   	 => 'キョウデン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6882,
-        'name'   	 => '三社電機製作所'
+        'name'   	 => '三社電機製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6888,
-        'name'   	 => 'アクモス'
+        'name'   	 => 'アクモス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6890,
-        'name'   	 => 'フェローテックホールディングス'
+        'name'   	 => 'フェローテックホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6894,
-        'name'   	 => 'パルステック工業'
+        'name'   	 => 'パルステック工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6897,
-        'name'   	 => 'ツインバード工業'
+        'name'   	 => 'ツインバード工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6898,
-        'name'   	 => 'トミタ電機'
+        'name'   	 => 'トミタ電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6899,
-        'name'   	 => 'ＡＳＴＩ'
+        'name'   	 => 'ＡＳＴＩ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6901,
-        'name'   	 => '澤藤電機'
+        'name'   	 => '澤藤電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6902,
-        'name'   	 => 'デンソー'
+        'name'   	 => 'デンソー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6904,
-        'name'   	 => '原田工業'
+        'name'   	 => '原田工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6905,
-        'name'   	 => 'コーセル'
+        'name'   	 => 'コーセル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6907,
-        'name'   	 => 'ジオマテック'
+        'name'   	 => 'ジオマテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6908,
-        'name'   	 => 'イリソ電子工業'
+        'name'   	 => 'イリソ電子工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6912,
-        'name'   	 => '菊水電子工業'
+        'name'   	 => '菊水電子工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6914,
-        'name'   	 => 'オプテックスグループ'
+        'name'   	 => 'オプテックスグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6915,
-        'name'   	 => '千代田インテグレ'
+        'name'   	 => '千代田インテグレ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6916,
-        'name'   	 => 'アイ・オー・データ機器'
+        'name'   	 => 'アイ・オー・データ機器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6918,
-        'name'   	 => 'アバールデータ'
+        'name'   	 => 'アバールデータ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6919,
-        'name'   	 => 'ケル'
+        'name'   	 => 'ケル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6920,
-        'name'   	 => 'レーザーテック'
+        'name'   	 => 'レーザーテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6923,
-        'name'   	 => 'スタンレー電気'
+        'name'   	 => 'スタンレー電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6924,
-        'name'   	 => '岩崎電気'
+        'name'   	 => '岩崎電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6925,
-        'name'   	 => 'ウシオ電機'
+        'name'   	 => 'ウシオ電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6926,
-        'name'   	 => '岡谷電機産業'
+        'name'   	 => '岡谷電機産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6927,
-        'name'   	 => 'ヘリオス　テクノ　ホールディング'
+        'name'   	 => 'ヘリオス　テクノ　ホールディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6928,
-        'name'   	 => 'エノモト'
+        'name'   	 => 'エノモト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6929,
-        'name'   	 => '日本セラミック'
+        'name'   	 => '日本セラミック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6930,
-        'name'   	 => '日本アンテナ'
+        'name'   	 => '日本アンテナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6932,
-        'name'   	 => '遠藤照明'
+        'name'   	 => '遠藤照明',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6937,
-        'name'   	 => '古河電池'
+        'name'   	 => '古河電池',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6938,
-        'name'   	 => '双信電機'
+        'name'   	 => '双信電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6941,
-        'name'   	 => '山一電機'
+        'name'   	 => '山一電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6942,
-        'name'   	 => 'ソフィアホールディングス'
+        'name'   	 => 'ソフィアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6943,
-        'name'   	 => 'ＮＫＫスイッチズ'
+        'name'   	 => 'ＮＫＫスイッチズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6944,
-        'name'   	 => 'アイレックス'
+        'name'   	 => 'アイレックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6945,
-        'name'   	 => '富士通フロンテック'
+        'name'   	 => '富士通フロンテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6946,
-        'name'   	 => '日本アビオニクス'
+        'name'   	 => '日本アビオニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6947,
-        'name'   	 => '図研'
+        'name'   	 => '図研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6951,
-        'name'   	 => '日本電子'
+        'name'   	 => '日本電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6952,
-        'name'   	 => 'カシオ計算機'
+        'name'   	 => 'カシオ計算機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6954,
-        'name'   	 => 'ファナック'
+        'name'   	 => 'ファナック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6955,
-        'name'   	 => 'ＦＤＫ'
+        'name'   	 => 'ＦＤＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6957,
-        'name'   	 => '芝浦電子'
+        'name'   	 => '芝浦電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6958,
-        'name'   	 => '日本シイエムケイ'
+        'name'   	 => '日本シイエムケイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6960,
-        'name'   	 => 'フクダ電子'
+        'name'   	 => 'フクダ電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6961,
-        'name'   	 => 'エンプラス'
+        'name'   	 => 'エンプラス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6962,
-        'name'   	 => '大真空'
+        'name'   	 => '大真空',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6963,
-        'name'   	 => 'ローム'
+        'name'   	 => 'ローム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6964,
-        'name'   	 => 'サンコー'
+        'name'   	 => 'サンコー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6965,
-        'name'   	 => '浜松ホトニクス'
+        'name'   	 => '浜松ホトニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6966,
-        'name'   	 => '三井ハイテック'
+        'name'   	 => '三井ハイテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6967,
-        'name'   	 => '新光電気工業'
+        'name'   	 => '新光電気工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6969,
-        'name'   	 => '松尾電機'
+        'name'   	 => '松尾電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6971,
-        'name'   	 => '京セラ'
+        'name'   	 => '京セラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6973,
-        'name'   	 => '協栄産業'
+        'name'   	 => '協栄産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6976,
-        'name'   	 => '太陽誘電'
+        'name'   	 => '太陽誘電',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6977,
-        'name'   	 => '日本抵抗器製作所'
+        'name'   	 => '日本抵抗器製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6981,
-        'name'   	 => '村田製作所'
+        'name'   	 => '村田製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6982,
-        'name'   	 => 'リード'
+        'name'   	 => 'リード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6986,
-        'name'   	 => '双葉電子工業'
+        'name'   	 => '双葉電子工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6988,
-        'name'   	 => '日東電工'
+        'name'   	 => '日東電工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6989,
-        'name'   	 => '北陸電気工業'
+        'name'   	 => '北陸電気工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6993,
-        'name'   	 => '大黒屋ホールディングス'
+        'name'   	 => '大黒屋ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6994,
-        'name'   	 => '指月電機製作所'
+        'name'   	 => '指月電機製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6995,
-        'name'   	 => '東海理化電機製作所'
+        'name'   	 => '東海理化電機製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6996,
-        'name'   	 => 'ニチコン'
+        'name'   	 => 'ニチコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6997,
-        'name'   	 => '日本ケミコン'
+        'name'   	 => '日本ケミコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6998,
-        'name'   	 => '日本タングステン'
+        'name'   	 => '日本タングステン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 6999,
-        'name'   	 => 'ＫＯＡ'
+        'name'   	 => 'ＫＯＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7003,
-        'name'   	 => '三井Ｅ＆Ｓホールディングス'
+        'name'   	 => '三井Ｅ＆Ｓホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7004,
-        'name'   	 => '日立造船'
+        'name'   	 => '日立造船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7011,
-        'name'   	 => '三菱重工業'
+        'name'   	 => '三菱重工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7012,
-        'name'   	 => '川崎重工業'
+        'name'   	 => '川崎重工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7013,
-        'name'   	 => 'ＩＨＩ'
+        'name'   	 => 'ＩＨＩ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7014,
-        'name'   	 => '名村造船所'
+        'name'   	 => '名村造船所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7018,
-        'name'   	 => '内海造船'
+        'name'   	 => '内海造船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7021,
-        'name'   	 => 'ニッチツ'
+        'name'   	 => 'ニッチツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7022,
-        'name'   	 => 'サノヤスホールディングス'
+        'name'   	 => 'サノヤスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7030,
-        'name'   	 => 'スプリックス'
+        'name'   	 => 'スプリックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7033,
-        'name'   	 => 'マネジメントソリューションズ'
+        'name'   	 => 'マネジメントソリューションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7034,
-        'name'   	 => 'プロレド・パートナーズ'
+        'name'   	 => 'プロレド・パートナーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7035,
-        'name'   	 => 'ａｎｄ　ｆａｃｔｏｒｙ'
+        'name'   	 => 'ａｎｄ　ｆａｃｔｏｒｙ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7036,
-        'name'   	 => 'イーエムネットジャパン'
+        'name'   	 => 'イーエムネットジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7037,
-        'name'   	 => 'テノ．ホールディングス'
+        'name'   	 => 'テノ．ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7038,
-        'name'   	 => 'フロンティア・マネジメント'
+        'name'   	 => 'フロンティア・マネジメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7039,
-        'name'   	 => 'ブリッジインターナショナル'
+        'name'   	 => 'ブリッジインターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7040,
-        'name'   	 => 'サン・ライフホールディング'
+        'name'   	 => 'サン・ライフホールディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7041,
-        'name'   	 => 'ＣＲＧホールディングス'
+        'name'   	 => 'ＣＲＧホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7042,
-        'name'   	 => 'アクセスグループ・ホールディングス'
+        'name'   	 => 'アクセスグループ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7043,
-        'name'   	 => 'アルー'
+        'name'   	 => 'アルー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7044,
-        'name'   	 => 'ピアラ'
+        'name'   	 => 'ピアラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7045,
-        'name'   	 => 'ツクイスタッフ'
+        'name'   	 => 'ツクイスタッフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7046,
-        'name'   	 => 'テクノスデータサイエンス・エンジニアリング'
+        'name'   	 => 'テクノスデータサイエンス・エンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7047,
-        'name'   	 => 'ポート'
+        'name'   	 => 'ポート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7048,
-        'name'   	 => 'ベルトラ'
+        'name'   	 => 'ベルトラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7049,
-        'name'   	 => '識学'
+        'name'   	 => '識学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7050,
-        'name'   	 => 'フロンティアインターナショナル'
+        'name'   	 => 'フロンティアインターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7056,
-        'name'   	 => 'マルク'
+        'name'   	 => 'マルク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7057,
-        'name'   	 => 'エヌ・シー・エヌ'
+        'name'   	 => 'エヌ・シー・エヌ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7058,
-        'name'   	 => '共栄セキュリティーサービス'
+        'name'   	 => '共栄セキュリティーサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7059,
-        'name'   	 => 'コプロ・ホールディングス'
+        'name'   	 => 'コプロ・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7060,
-        'name'   	 => 'ギークス'
+        'name'   	 => 'ギークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7061,
-        'name'   	 => '日本ホスピスホールディングス'
+        'name'   	 => '日本ホスピスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7062,
-        'name'   	 => 'フレアス'
+        'name'   	 => 'フレアス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7063,
-        'name'   	 => 'エードット'
+        'name'   	 => 'エードット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7064,
-        'name'   	 => 'ハウテレビジョン'
+        'name'   	 => 'ハウテレビジョン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7065,
-        'name'   	 => 'ユーピーアール'
+        'name'   	 => 'ユーピーアール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7066,
-        'name'   	 => 'ピアズ'
+        'name'   	 => 'ピアズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7067,
-        'name'   	 => 'ブランディングテクノロジー'
+        'name'   	 => 'ブランディングテクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7068,
-        'name'   	 => 'フィードフォース'
+        'name'   	 => 'フィードフォース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7069,
-        'name'   	 => 'サイバー・バズ'
+        'name'   	 => 'サイバー・バズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7070,
-        'name'   	 => 'ＳＩホールディングス'
+        'name'   	 => 'ＳＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7071,
-        'name'   	 => 'アンビスホールディングス'
+        'name'   	 => 'アンビスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7072,
-        'name'   	 => 'インティメート・マージャー'
+        'name'   	 => 'インティメート・マージャー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7073,
-        'name'   	 => 'ジェイック'
+        'name'   	 => 'ジェイック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7074,
-        'name'   	 => 'トゥエンティーフォーセブン'
+        'name'   	 => 'トゥエンティーフォーセブン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7075,
-        'name'   	 => 'ＱＬＳホールディングス'
+        'name'   	 => 'ＱＬＳホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7077,
-        'name'   	 => 'ＡＬｉＮＫインターネット'
+        'name'   	 => 'ＡＬｉＮＫインターネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7078,
-        'name'   	 => 'ＩＮＣＬＵＳＩＶＥ'
+        'name'   	 => 'ＩＮＣＬＵＳＩＶＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7079,
-        'name'   	 => 'ＷＤＢココ'
+        'name'   	 => 'ＷＤＢココ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7080,
-        'name'   	 => 'スポーツフィールド'
+        'name'   	 => 'スポーツフィールド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7081,
-        'name'   	 => 'コーユーレンティア'
+        'name'   	 => 'コーユーレンティア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7082,
-        'name'   	 => 'ジモティー'
+        'name'   	 => 'ジモティー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7083,
-        'name'   	 => 'ＡＨＣグループ'
+        'name'   	 => 'ＡＨＣグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7084,
-        'name'   	 => 'Ｋｉｄｓ　Ｓｍｉｌｅ　Ｈｏｌｄｉｎｇｓ'
+        'name'   	 => 'Ｋｉｄｓ　Ｓｍｉｌｅ　Ｈｏｌｄｉｎｇｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7085,
-        'name'   	 => 'カーブスホールディングス'
+        'name'   	 => 'カーブスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7086,
-        'name'   	 => 'きずなホールディングス'
+        'name'   	 => 'きずなホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7087,
-        'name'   	 => 'ウイルテック'
+        'name'   	 => 'ウイルテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7088,
-        'name'   	 => 'フォーラムエンジニアリング'
+        'name'   	 => 'フォーラムエンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7089,
-        'name'   	 => 'フォースタートアップス'
+        'name'   	 => 'フォースタートアップス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7090,
-        'name'   	 => 'リグア'
+        'name'   	 => 'リグア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7091,
-        'name'   	 => 'リビングプラットフォーム'
+        'name'   	 => 'リビングプラットフォーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7093,
-        'name'   	 => 'アディッシュ'
+        'name'   	 => 'アディッシュ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7094,
-        'name'   	 => 'ＮｅｘＴｏｎｅ'
+        'name'   	 => 'ＮｅｘＴｏｎｅ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7095,
-        'name'   	 => 'Ｍａｃｂｅｅ　Ｐｌａｎｅｔ'
+        'name'   	 => 'Ｍａｃｂｅｅ　Ｐｌａｎｅｔ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7098,
-        'name'   	 => 'エージェント'
+        'name'   	 => 'エージェント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7102,
-        'name'   	 => '日本車輌製造'
+        'name'   	 => '日本車輌製造',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7105,
-        'name'   	 => '三菱ロジスネクスト'
+        'name'   	 => '三菱ロジスネクスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7122,
-        'name'   	 => '近畿車輛'
+        'name'   	 => '近畿車輛',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7148,
-        'name'   	 => 'ＦＰＧ'
+        'name'   	 => 'ＦＰＧ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7150,
-        'name'   	 => '島根銀行'
+        'name'   	 => '島根銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7157,
-        'name'   	 => 'ライフネット生命保険'
+        'name'   	 => 'ライフネット生命保険',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7161,
-        'name'   	 => 'じもとホールディングス'
+        'name'   	 => 'じもとホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7162,
-        'name'   	 => 'アストマックス'
+        'name'   	 => 'アストマックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7164,
-        'name'   	 => '全国保証'
+        'name'   	 => '全国保証',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7167,
-        'name'   	 => 'めぶきフィナンシャルグループ'
+        'name'   	 => 'めぶきフィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7169,
-        'name'   	 => 'ＮＦＣホールディングス'
+        'name'   	 => 'ＮＦＣホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7170,
-        'name'   	 => '中央インターナショナルグループ'
+        'name'   	 => '中央インターナショナルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7172,
-        'name'   	 => 'ジャパンインベストメントアドバイザー'
+        'name'   	 => 'ジャパンインベストメントアドバイザー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7173,
-        'name'   	 => '東京きらぼしフィナンシャルグループ'
+        'name'   	 => '東京きらぼしフィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7175,
-        'name'   	 => '今村証券'
+        'name'   	 => '今村証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7176,
-        'name'   	 => 'シンプレクス・ファイナンシャル・ホールディングス'
+        'name'   	 => 'シンプレクス・ファイナンシャル・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7177,
-        'name'   	 => 'ＧＭＯフィナンシャルホールディングス'
+        'name'   	 => 'ＧＭＯフィナンシャルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7180,
-        'name'   	 => '九州フィナンシャルグループ'
+        'name'   	 => '九州フィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7181,
-        'name'   	 => 'かんぽ生命保険'
+        'name'   	 => 'かんぽ生命保険',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7182,
-        'name'   	 => 'ゆうちょ銀行'
+        'name'   	 => 'ゆうちょ銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7183,
-        'name'   	 => 'あんしん保証'
+        'name'   	 => 'あんしん保証',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7184,
-        'name'   	 => '富山第一銀行'
+        'name'   	 => '富山第一銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7185,
-        'name'   	 => 'ヒロセ通商'
+        'name'   	 => 'ヒロセ通商',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7186,
-        'name'   	 => 'コンコルディア・フィナンシャルグループ'
+        'name'   	 => 'コンコルディア・フィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7187,
-        'name'   	 => 'ジェイリース'
+        'name'   	 => 'ジェイリース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7189,
-        'name'   	 => '西日本フィナンシャルホールディングス'
+        'name'   	 => '西日本フィナンシャルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7190,
-        'name'   	 => 'マーキュリアインベストメント'
+        'name'   	 => 'マーキュリアインベストメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7191,
-        'name'   	 => 'イントラスト'
+        'name'   	 => 'イントラスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7192,
-        'name'   	 => '日本モーゲージサービス'
+        'name'   	 => '日本モーゲージサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7196,
-        'name'   	 => 'Ｃａｓａ'
+        'name'   	 => 'Ｃａｓａ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7198,
-        'name'   	 => 'アルヒ'
+        'name'   	 => 'アルヒ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7199,
-        'name'   	 => 'プレミアグループ'
+        'name'   	 => 'プレミアグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7201,
-        'name'   	 => '日産自動車'
+        'name'   	 => '日産自動車',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7202,
-        'name'   	 => 'いすゞ自動車'
+        'name'   	 => 'いすゞ自動車',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7203,
-        'name'   	 => 'トヨタ自動車'
+        'name'   	 => 'トヨタ自動車',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7205,
-        'name'   	 => '日野自動車'
+        'name'   	 => '日野自動車',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7208,
-        'name'   	 => 'カネミツ'
+        'name'   	 => 'カネミツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7211,
-        'name'   	 => '三菱自動車工業'
+        'name'   	 => '三菱自動車工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7212,
-        'name'   	 => 'エフテック'
+        'name'   	 => 'エフテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7213,
-        'name'   	 => 'レシップホールディングス'
+        'name'   	 => 'レシップホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7214,
-        'name'   	 => 'ＧＭＢ'
+        'name'   	 => 'ＧＭＢ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7215,
-        'name'   	 => 'ファルテック'
+        'name'   	 => 'ファルテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7217,
-        'name'   	 => 'テイン'
+        'name'   	 => 'テイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7218,
-        'name'   	 => '田中精密工業'
+        'name'   	 => '田中精密工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7219,
-        'name'   	 => 'エッチ・ケー・エス'
+        'name'   	 => 'エッチ・ケー・エス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7220,
-        'name'   	 => '武蔵精密工業'
+        'name'   	 => '武蔵精密工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7222,
-        'name'   	 => '日産車体'
+        'name'   	 => '日産車体',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7224,
-        'name'   	 => '新明和工業'
+        'name'   	 => '新明和工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7226,
-        'name'   	 => '極東開発工業'
+        'name'   	 => '極東開発工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7228,
-        'name'   	 => 'デイトナ'
+        'name'   	 => 'デイトナ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7229,
-        'name'   	 => 'ユタカ技研'
+        'name'   	 => 'ユタカ技研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7230,
-        'name'   	 => '日信工業'
+        'name'   	 => '日信工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7231,
-        'name'   	 => 'トピー工業'
+        'name'   	 => 'トピー工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7235,
-        'name'   	 => '東京ラヂエーター製造'
+        'name'   	 => '東京ラヂエーター製造',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7236,
-        'name'   	 => 'ティラド'
+        'name'   	 => 'ティラド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7238,
-        'name'   	 => '曙ブレーキ工業'
+        'name'   	 => '曙ブレーキ工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7239,
-        'name'   	 => 'タチエス'
+        'name'   	 => 'タチエス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7240,
-        'name'   	 => 'ＮＯＫ'
+        'name'   	 => 'ＮＯＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7241,
-        'name'   	 => 'フタバ産業'
+        'name'   	 => 'フタバ産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7242,
-        'name'   	 => 'ＫＹＢ'
+        'name'   	 => 'ＫＹＢ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7244,
-        'name'   	 => '市光工業'
+        'name'   	 => '市光工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7245,
-        'name'   	 => '大同メタル工業'
+        'name'   	 => '大同メタル工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7246,
-        'name'   	 => 'プレス工業'
+        'name'   	 => 'プレス工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7247,
-        'name'   	 => 'ミクニ'
+        'name'   	 => 'ミクニ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7250,
-        'name'   	 => '太平洋工業'
+        'name'   	 => '太平洋工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7251,
-        'name'   	 => 'ケーヒン'
+        'name'   	 => 'ケーヒン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7254,
-        'name'   	 => 'ユニバンス'
+        'name'   	 => 'ユニバンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7255,
-        'name'   	 => '桜井製作所'
+        'name'   	 => '桜井製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7256,
-        'name'   	 => '河西工業'
+        'name'   	 => '河西工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7259,
-        'name'   	 => 'アイシン精機'
+        'name'   	 => 'アイシン精機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7261,
-        'name'   	 => 'マツダ'
+        'name'   	 => 'マツダ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7264,
-        'name'   	 => 'ムロコーポレーション'
+        'name'   	 => 'ムロコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7265,
-        'name'   	 => 'エイケン工業'
+        'name'   	 => 'エイケン工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7266,
-        'name'   	 => '今仙電機製作所'
+        'name'   	 => '今仙電機製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7267,
-        'name'   	 => '本田技研工業'
+        'name'   	 => '本田技研工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7268,
-        'name'   	 => 'タツミ'
+        'name'   	 => 'タツミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7269,
-        'name'   	 => 'スズキ'
+        'name'   	 => 'スズキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7270,
-        'name'   	 => 'ＳＵＢＡＲＵ'
+        'name'   	 => 'ＳＵＢＡＲＵ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7271,
-        'name'   	 => '安永'
+        'name'   	 => '安永',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7272,
-        'name'   	 => 'ヤマハ発動機'
+        'name'   	 => 'ヤマハ発動機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7273,
-        'name'   	 => 'イクヨ'
+        'name'   	 => 'イクヨ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7274,
-        'name'   	 => 'ショーワ'
+        'name'   	 => 'ショーワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7276,
-        'name'   	 => '小糸製作所'
+        'name'   	 => '小糸製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7277,
-        'name'   	 => 'ＴＢＫ'
+        'name'   	 => 'ＴＢＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7278,
-        'name'   	 => 'エクセディ'
+        'name'   	 => 'エクセディ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7279,
-        'name'   	 => 'ハイレックスコーポレーション'
+        'name'   	 => 'ハイレックスコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7280,
-        'name'   	 => 'ミツバ'
+        'name'   	 => 'ミツバ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7282,
-        'name'   	 => '豊田合成'
+        'name'   	 => '豊田合成',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7283,
-        'name'   	 => '愛三工業'
+        'name'   	 => '愛三工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7284,
-        'name'   	 => '盟和産業'
+        'name'   	 => '盟和産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7287,
-        'name'   	 => '日本精機'
+        'name'   	 => '日本精機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7291,
-        'name'   	 => '日本プラスト'
+        'name'   	 => '日本プラスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7292,
-        'name'   	 => '村上開明堂'
+        'name'   	 => '村上開明堂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7294,
-        'name'   	 => 'ヨロズ'
+        'name'   	 => 'ヨロズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7296,
-        'name'   	 => 'エフ・シー・シー'
+        'name'   	 => 'エフ・シー・シー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7297,
-        'name'   	 => 'カーメイト'
+        'name'   	 => 'カーメイト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7298,
-        'name'   	 => '八千代工業'
+        'name'   	 => '八千代工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7299,
-        'name'   	 => 'フジオーゼックス'
+        'name'   	 => 'フジオーゼックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7305,
-        'name'   	 => '新家工業'
+        'name'   	 => '新家工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7309,
-        'name'   	 => 'シマノ'
+        'name'   	 => 'シマノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7313,
-        'name'   	 => 'テイ・エス　テック'
+        'name'   	 => 'テイ・エス　テック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7314,
-        'name'   	 => '小田原機器'
+        'name'   	 => '小田原機器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7315,
-        'name'   	 => 'ＩＪＴＴ'
+        'name'   	 => 'ＩＪＴＴ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7317,
-        'name'   	 => '松屋アールアンドディ'
+        'name'   	 => '松屋アールアンドディ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7320,
-        'name'   	 => '日本リビング保証'
+        'name'   	 => '日本リビング保証',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7321,
-        'name'   	 => '関西みらいフィナンシャルグループ'
+        'name'   	 => '関西みらいフィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7322,
-        'name'   	 => '三十三フィナンシャルグループ'
+        'name'   	 => '三十三フィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7323,
-        'name'   	 => 'アイペット損害保険'
+        'name'   	 => 'アイペット損害保険',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7325,
-        'name'   	 => 'アイリックコーポレーション'
+        'name'   	 => 'アイリックコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7326,
-        'name'   	 => 'ＳＢＩインシュアランスグループ'
+        'name'   	 => 'ＳＢＩインシュアランスグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7327,
-        'name'   	 => '第四北越フィナンシャルグループ'
+        'name'   	 => '第四北越フィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7351,
-        'name'   	 => 'グッドパッチ'
+        'name'   	 => 'グッドパッチ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7399,
-        'name'   	 => 'ナンシン'
+        'name'   	 => 'ナンシン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7408,
-        'name'   	 => 'ジャムコ'
+        'name'   	 => 'ジャムコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7412,
-        'name'   	 => 'アトム'
+        'name'   	 => 'アトム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7413,
-        'name'   	 => '創健社'
+        'name'   	 => '創健社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7414,
-        'name'   	 => '小野建'
+        'name'   	 => '小野建',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7416,
-        'name'   	 => 'はるやまホールディングス'
+        'name'   	 => 'はるやまホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7417,
-        'name'   	 => '南陽'
+        'name'   	 => '南陽',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7419,
-        'name'   	 => 'ノジマ'
+        'name'   	 => 'ノジマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7420,
-        'name'   	 => '佐鳥電機'
+        'name'   	 => '佐鳥電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7421,
-        'name'   	 => 'カッパ・クリエイト'
+        'name'   	 => 'カッパ・クリエイト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7422,
-        'name'   	 => '東邦レマック'
+        'name'   	 => '東邦レマック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7425,
-        'name'   	 => '初穂商事'
+        'name'   	 => '初穂商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7426,
-        'name'   	 => '山大'
+        'name'   	 => '山大',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7427,
-        'name'   	 => 'エコートレーディング'
+        'name'   	 => 'エコートレーディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7433,
-        'name'   	 => '伯東'
+        'name'   	 => '伯東',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7434,
-        'name'   	 => 'オータケ'
+        'name'   	 => 'オータケ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7435,
-        'name'   	 => 'ナ・デックス'
+        'name'   	 => 'ナ・デックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7438,
-        'name'   	 => 'コンドーテック'
+        'name'   	 => 'コンドーテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7442,
-        'name'   	 => '中山福'
+        'name'   	 => '中山福',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7443,
-        'name'   	 => '横浜魚類'
+        'name'   	 => '横浜魚類',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7444,
-        'name'   	 => 'ハリマ共和物産'
+        'name'   	 => 'ハリマ共和物産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7445,
-        'name'   	 => 'ライトオン'
+        'name'   	 => 'ライトオン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7446,
-        'name'   	 => '東北化学薬品'
+        'name'   	 => '東北化学薬品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7447,
-        'name'   	 => 'ナガイレーベン'
+        'name'   	 => 'ナガイレーベン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7448,
-        'name'   	 => 'ジーンズメイト'
+        'name'   	 => 'ジーンズメイト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7450,
-        'name'   	 => 'サンデー'
+        'name'   	 => 'サンデー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7451,
-        'name'   	 => '三菱食品'
+        'name'   	 => '三菱食品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7453,
-        'name'   	 => '良品計画'
+        'name'   	 => '良品計画',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7455,
-        'name'   	 => '三城ホールディングス'
+        'name'   	 => '三城ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7456,
-        'name'   	 => '松田産業'
+        'name'   	 => '松田産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7458,
-        'name'   	 => '第一興商'
+        'name'   	 => '第一興商',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7459,
-        'name'   	 => 'メディパルホールディングス'
+        'name'   	 => 'メディパルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7460,
-        'name'   	 => 'ヤギ'
+        'name'   	 => 'ヤギ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7461,
-        'name'   	 => 'キムラ'
+        'name'   	 => 'キムラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7462,
-        'name'   	 => 'ダイヤ通商'
+        'name'   	 => 'ダイヤ通商',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7463,
-        'name'   	 => 'アドヴァン'
+        'name'   	 => 'アドヴァン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7464,
-        'name'   	 => 'セフテック'
+        'name'   	 => 'セフテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7466,
-        'name'   	 => 'ＳＰＫ'
+        'name'   	 => 'ＳＰＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7467,
-        'name'   	 => '萩原電気ホールディングス'
+        'name'   	 => '萩原電気ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7472,
-        'name'   	 => '鳥羽洋行'
+        'name'   	 => '鳥羽洋行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7475,
-        'name'   	 => 'アルビス'
+        'name'   	 => 'アルビス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7476,
-        'name'   	 => 'アズワン'
+        'name'   	 => 'アズワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7477,
-        'name'   	 => 'ムラキ'
+        'name'   	 => 'ムラキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7480,
-        'name'   	 => 'スズデン'
+        'name'   	 => 'スズデン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7481,
-        'name'   	 => '尾家産業'
+        'name'   	 => '尾家産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7482,
-        'name'   	 => 'シモジマ'
+        'name'   	 => 'シモジマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7483,
-        'name'   	 => 'ドウシシャ'
+        'name'   	 => 'ドウシシャ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7486,
-        'name'   	 => 'サンリン'
+        'name'   	 => 'サンリン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7487,
-        'name'   	 => '小津産業'
+        'name'   	 => '小津産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7490,
-        'name'   	 => '日新商事'
+        'name'   	 => '日新商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7494,
-        'name'   	 => 'コナカ'
+        'name'   	 => 'コナカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7500,
-        'name'   	 => '西川計測'
+        'name'   	 => '西川計測',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7501,
-        'name'   	 => 'ティムコ'
+        'name'   	 => 'ティムコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7502,
-        'name'   	 => 'プラザクリエイト本社'
+        'name'   	 => 'プラザクリエイト本社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7504,
-        'name'   	 => '高速'
+        'name'   	 => '高速',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7505,
-        'name'   	 => '扶桑電通'
+        'name'   	 => '扶桑電通',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7506,
-        'name'   	 => 'ハウス　オブ　ローゼ'
+        'name'   	 => 'ハウス　オブ　ローゼ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7508,
-        'name'   	 => 'Ｇ－７ホールディングス'
+        'name'   	 => 'Ｇ－７ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7509,
-        'name'   	 => 'アイエーグループ'
+        'name'   	 => 'アイエーグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7510,
-        'name'   	 => 'たけびし'
+        'name'   	 => 'たけびし',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7512,
-        'name'   	 => 'イオン北海道'
+        'name'   	 => 'イオン北海道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7513,
-        'name'   	 => 'コジマ'
+        'name'   	 => 'コジマ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7514,
-        'name'   	 => 'ヒマラヤ'
+        'name'   	 => 'ヒマラヤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7515,
-        'name'   	 => 'マルヨシセンター'
+        'name'   	 => 'マルヨシセンター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7516,
-        'name'   	 => 'コーナン商事'
+        'name'   	 => 'コーナン商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7518,
-        'name'   	 => 'ネットワンシステムズ'
+        'name'   	 => 'ネットワンシステムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7519,
-        'name'   	 => '五洋インテックス'
+        'name'   	 => '五洋インテックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7520,
-        'name'   	 => 'エコス'
+        'name'   	 => 'エコス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7521,
-        'name'   	 => 'ムサシ'
+        'name'   	 => 'ムサシ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7522,
-        'name'   	 => 'ワタミ'
+        'name'   	 => 'ワタミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7523,
-        'name'   	 => 'アールビバン'
+        'name'   	 => 'アールビバン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7524,
-        'name'   	 => 'マルシェ'
+        'name'   	 => 'マルシェ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7525,
-        'name'   	 => 'リックス'
+        'name'   	 => 'リックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7527,
-        'name'   	 => 'システムソフト'
+        'name'   	 => 'システムソフト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7531,
-        'name'   	 => '清和中央ホールディングス'
+        'name'   	 => '清和中央ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7532,
-        'name'   	 => 'パン・パシフィック・インターナショナルホールディングス'
+        'name'   	 => 'パン・パシフィック・インターナショナルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7537,
-        'name'   	 => '丸文'
+        'name'   	 => '丸文',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7538,
-        'name'   	 => '大水'
+        'name'   	 => '大水',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7539,
-        'name'   	 => 'アイナボホールディングス'
+        'name'   	 => 'アイナボホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7544,
-        'name'   	 => 'スリーエフ'
+        'name'   	 => 'スリーエフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7545,
-        'name'   	 => '西松屋チェーン'
+        'name'   	 => '西松屋チェーン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7550,
-        'name'   	 => 'ゼンショーホールディングス'
+        'name'   	 => 'ゼンショーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7551,
-        'name'   	 => 'ウェッズ'
+        'name'   	 => 'ウェッズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7552,
-        'name'   	 => 'ハピネット'
+        'name'   	 => 'ハピネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7554,
-        'name'   	 => '幸楽苑ホールディングス'
+        'name'   	 => '幸楽苑ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7555,
-        'name'   	 => '大田花き'
+        'name'   	 => '大田花き',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7559,
-        'name'   	 => 'ジーエフシー'
+        'name'   	 => 'ジーエフシー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7561,
-        'name'   	 => 'ハークスレイ'
+        'name'   	 => 'ハークスレイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7562,
-        'name'   	 => '安楽亭'
+        'name'   	 => '安楽亭',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7564,
-        'name'   	 => 'ワークマン'
+        'name'   	 => 'ワークマン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7565,
-        'name'   	 => '萬世電機'
+        'name'   	 => '萬世電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7567,
-        'name'   	 => '栄電子'
+        'name'   	 => '栄電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7570,
-        'name'   	 => '橋本総業ホールディングス'
+        'name'   	 => '橋本総業ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7571,
-        'name'   	 => 'ヤマノホールディングス'
+        'name'   	 => 'ヤマノホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7575,
-        'name'   	 => '日本ライフライン'
+        'name'   	 => '日本ライフライン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7577,
-        'name'   	 => 'ＨＡＰｉＮＳ'
+        'name'   	 => 'ＨＡＰｉＮＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7578,
-        'name'   	 => 'ニチリョク'
+        'name'   	 => 'ニチリョク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7581,
-        'name'   	 => 'サイゼリヤ'
+        'name'   	 => 'サイゼリヤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7585,
-        'name'   	 => 'かんなん丸'
+        'name'   	 => 'かんなん丸',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7587,
-        'name'   	 => 'ＰＡＬＴＥＫ'
+        'name'   	 => 'ＰＡＬＴＥＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7590,
-        'name'   	 => 'タカショー'
+        'name'   	 => 'タカショー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7593,
-        'name'   	 => 'ＶＴホールディングス'
+        'name'   	 => 'ＶＴホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7594,
-        'name'   	 => 'マルカ'
+        'name'   	 => 'マルカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7595,
-        'name'   	 => 'アルゴグラフィックス'
+        'name'   	 => 'アルゴグラフィックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7596,
-        'name'   	 => '魚力'
+        'name'   	 => '魚力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7597,
-        'name'   	 => '東京貴宝'
+        'name'   	 => '東京貴宝',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7599,
-        'name'   	 => 'ＩＤＯＭ'
+        'name'   	 => 'ＩＤＯＭ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7600,
-        'name'   	 => '日本エム・ディ・エム'
+        'name'   	 => '日本エム・ディ・エム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7601,
-        'name'   	 => 'ポプラ'
+        'name'   	 => 'ポプラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7602,
-        'name'   	 => 'カーチスホールディングス'
+        'name'   	 => 'カーチスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7603,
-        'name'   	 => 'マックハウス'
+        'name'   	 => 'マックハウス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7604,
-        'name'   	 => '梅の花'
+        'name'   	 => '梅の花',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7605,
-        'name'   	 => 'フジ・コーポレーション'
+        'name'   	 => 'フジ・コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7606,
-        'name'   	 => 'ユナイテッドアローズ'
+        'name'   	 => 'ユナイテッドアローズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7607,
-        'name'   	 => '進和'
+        'name'   	 => '進和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7608,
-        'name'   	 => 'エスケイジャパン'
+        'name'   	 => 'エスケイジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7609,
-        'name'   	 => 'ダイトロン'
+        'name'   	 => 'ダイトロン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7610,
-        'name'   	 => 'テイツー'
+        'name'   	 => 'テイツー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7611,
-        'name'   	 => 'ハイデイ日高'
+        'name'   	 => 'ハイデイ日高',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7612,
-        'name'   	 => 'Ｎｕｔｓ'
+        'name'   	 => 'Ｎｕｔｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7613,
-        'name'   	 => 'シークス'
+        'name'   	 => 'シークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7614,
-        'name'   	 => 'オーエムツーネットワーク'
+        'name'   	 => 'オーエムツーネットワーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7615,
-        'name'   	 => '京都きもの友禅'
+        'name'   	 => '京都きもの友禅',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7616,
-        'name'   	 => 'コロワイド'
+        'name'   	 => 'コロワイド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7618,
-        'name'   	 => 'ピーシーデポコーポレーション'
+        'name'   	 => 'ピーシーデポコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7619,
-        'name'   	 => '田中商事'
+        'name'   	 => '田中商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7621,
-        'name'   	 => 'うかい'
+        'name'   	 => 'うかい',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7623,
-        'name'   	 => 'サンオータス'
+        'name'   	 => 'サンオータス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7624,
-        'name'   	 => 'ＮａＩＴＯ'
+        'name'   	 => 'ＮａＩＴＯ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7625,
-        'name'   	 => 'グローバルダイニング'
+        'name'   	 => 'グローバルダイニング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7628,
-        'name'   	 => 'オーハシテクニカ'
+        'name'   	 => 'オーハシテクニカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7630,
-        'name'   	 => '壱番屋'
+        'name'   	 => '壱番屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7634,
-        'name'   	 => '星医療酸器'
+        'name'   	 => '星医療酸器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7635,
-        'name'   	 => '杉田エース'
+        'name'   	 => '杉田エース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7636,
-        'name'   	 => 'ハンズマン'
+        'name'   	 => 'ハンズマン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7637,
-        'name'   	 => '白銅'
+        'name'   	 => '白銅',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7638,
-        'name'   	 => 'ＮＥＷ　ＡＲＴ　ＨＯＬＤＩＮＧＳ'
+        'name'   	 => 'ＮＥＷ　ＡＲＴ　ＨＯＬＤＩＮＧＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7640,
-        'name'   	 => 'トップカルチャー'
+        'name'   	 => 'トップカルチャー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7643,
-        'name'   	 => 'ダイイチ'
+        'name'   	 => 'ダイイチ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7646,
-        'name'   	 => 'ＰＬＡＮＴ'
+        'name'   	 => 'ＰＬＡＮＴ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7647,
-        'name'   	 => '音通'
+        'name'   	 => '音通',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7649,
-        'name'   	 => 'スギホールディングス'
+        'name'   	 => 'スギホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7670,
-        'name'   	 => 'オーウエル'
+        'name'   	 => 'オーウエル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7671,
-        'name'   	 => 'ＡｍｉｄＡホールディングス'
+        'name'   	 => 'ＡｍｉｄＡホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7672,
-        'name'   	 => 'タカネットサービス'
+        'name'   	 => 'タカネットサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7673,
-        'name'   	 => 'ダイコー通産'
+        'name'   	 => 'ダイコー通産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7674,
-        'name'   	 => 'ＮＡＴＴＹ　ＳＷＡＮＫＹ'
+        'name'   	 => 'ＮＡＴＴＹ　ＳＷＡＮＫＹ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7676,
-        'name'   	 => 'グッドスピード'
+        'name'   	 => 'グッドスピード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7677,
-        'name'   	 => 'ヤシマキザイ'
+        'name'   	 => 'ヤシマキザイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7678,
-        'name'   	 => 'あさくま'
+        'name'   	 => 'あさくま',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7679,
-        'name'   	 => '薬王堂ホールディングス'
+        'name'   	 => '薬王堂ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7680,
-        'name'   	 => '軽自動車館'
+        'name'   	 => '軽自動車館',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7681,
-        'name'   	 => 'レオクラン'
+        'name'   	 => 'レオクラン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7682,
-        'name'   	 => '浜木綿'
+        'name'   	 => '浜木綿',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7683,
-        'name'   	 => 'ダブルエー'
+        'name'   	 => 'ダブルエー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7684,
-        'name'   	 => '太知ホールディングス'
+        'name'   	 => '太知ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7685,
-        'name'   	 => 'ＢｕｙＳｅｌｌ　Ｔｅｃｈｎｏｌｏｇｉｅｓ'
+        'name'   	 => 'ＢｕｙＳｅｌｌ　Ｔｅｃｈｎｏｌｏｇｉｅｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7686,
-        'name'   	 => 'カクヤス'
+        'name'   	 => 'カクヤス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7687,
-        'name'   	 => 'ミクリード'
+        'name'   	 => 'ミクリード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7688,
-        'name'   	 => 'ミアヘルサ'
+        'name'   	 => 'ミアヘルサ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7689,
-        'name'   	 => 'コパ・コーポレーション'
+        'name'   	 => 'コパ・コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7690,
-        'name'   	 => 'カレント自動車'
+        'name'   	 => 'カレント自動車',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7691,
-        'name'   	 => 'Ｃ　Ｃｈａｎｎｅｌ'
+        'name'   	 => 'Ｃ　Ｃｈａｎｎｅｌ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7701,
-        'name'   	 => '島津製作所'
+        'name'   	 => '島津製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7702,
-        'name'   	 => 'ＪＭＳ'
+        'name'   	 => 'ＪＭＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7703,
-        'name'   	 => '川澄化学工業'
+        'name'   	 => '川澄化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7705,
-        'name'   	 => 'ジーエルサイエンス'
+        'name'   	 => 'ジーエルサイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7707,
-        'name'   	 => 'プレシジョン・システム・サイエンス'
+        'name'   	 => 'プレシジョン・システム・サイエンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7709,
-        'name'   	 => 'クボテック'
+        'name'   	 => 'クボテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7711,
-        'name'   	 => '助川電気工業'
+        'name'   	 => '助川電気工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7713,
-        'name'   	 => 'シグマ光機'
+        'name'   	 => 'シグマ光機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7715,
-        'name'   	 => '長野計器'
+        'name'   	 => '長野計器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7716,
-        'name'   	 => 'ナカニシ'
+        'name'   	 => 'ナカニシ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7717,
-        'name'   	 => 'ブイ・テクノロジー'
+        'name'   	 => 'ブイ・テクノロジー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7718,
-        'name'   	 => 'スター精密'
+        'name'   	 => 'スター精密',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7719,
-        'name'   	 => '東京衡機'
+        'name'   	 => '東京衡機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7721,
-        'name'   	 => '東京計器'
+        'name'   	 => '東京計器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7722,
-        'name'   	 => '国際計測器'
+        'name'   	 => '国際計測器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7723,
-        'name'   	 => '愛知時計電機'
+        'name'   	 => '愛知時計電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7725,
-        'name'   	 => 'インターアクション'
+        'name'   	 => 'インターアクション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7726,
-        'name'   	 => '黒田精工'
+        'name'   	 => '黒田精工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7727,
-        'name'   	 => 'オーバル'
+        'name'   	 => 'オーバル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7729,
-        'name'   	 => '東京精密'
+        'name'   	 => '東京精密',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7730,
-        'name'   	 => 'マニー'
+        'name'   	 => 'マニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7731,
-        'name'   	 => 'ニコン'
+        'name'   	 => 'ニコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7732,
-        'name'   	 => 'トプコン'
+        'name'   	 => 'トプコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7733,
-        'name'   	 => 'オリンパス'
+        'name'   	 => 'オリンパス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7734,
-        'name'   	 => '理研計器'
+        'name'   	 => '理研計器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7735,
-        'name'   	 => 'ＳＣＲＥＥＮホールディングス'
+        'name'   	 => 'ＳＣＲＥＥＮホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7739,
-        'name'   	 => 'キヤノン電子'
+        'name'   	 => 'キヤノン電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7740,
-        'name'   	 => 'タムロン'
+        'name'   	 => 'タムロン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7741,
-        'name'   	 => 'ＨＯＹＡ'
+        'name'   	 => 'ＨＯＹＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7743,
-        'name'   	 => 'シード'
+        'name'   	 => 'シード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7744,
-        'name'   	 => 'ノーリツ鋼機'
+        'name'   	 => 'ノーリツ鋼機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7745,
-        'name'   	 => 'エー・アンド・デイ'
+        'name'   	 => 'エー・アンド・デイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7746,
-        'name'   	 => '岡本硝子'
+        'name'   	 => '岡本硝子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7747,
-        'name'   	 => '朝日インテック'
+        'name'   	 => '朝日インテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7748,
-        'name'   	 => 'ホロン'
+        'name'   	 => 'ホロン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7749,
-        'name'   	 => 'メディキット'
+        'name'   	 => 'メディキット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7751,
-        'name'   	 => 'キヤノン'
+        'name'   	 => 'キヤノン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7752,
-        'name'   	 => 'リコー'
+        'name'   	 => 'リコー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7758,
-        'name'   	 => 'セコニック'
+        'name'   	 => 'セコニック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7760,
-        'name'   	 => 'ＩＭＶ'
+        'name'   	 => 'ＩＭＶ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7762,
-        'name'   	 => 'シチズン時計'
+        'name'   	 => 'シチズン時計',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7768,
-        'name'   	 => 'ジェコー'
+        'name'   	 => 'ジェコー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7769,
-        'name'   	 => 'リズム時計工業'
+        'name'   	 => 'リズム時計工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7771,
-        'name'   	 => '日本精密'
+        'name'   	 => '日本精密',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7774,
-        'name'   	 => 'ジャパン・ティッシュ・エンジニアリング'
+        'name'   	 => 'ジャパン・ティッシュ・エンジニアリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7775,
-        'name'   	 => '大研医器'
+        'name'   	 => '大研医器',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7776,
-        'name'   	 => 'セルシード'
+        'name'   	 => 'セルシード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7777,
-        'name'   	 => 'スリー・ディー・マトリックス'
+        'name'   	 => 'スリー・ディー・マトリックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7779,
-        'name'   	 => 'ＣＹＢＥＲＤＹＮＥ'
+        'name'   	 => 'ＣＹＢＥＲＤＹＮＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7780,
-        'name'   	 => 'メニコン'
+        'name'   	 => 'メニコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7781,
-        'name'   	 => '平山ホールディングス'
+        'name'   	 => '平山ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7782,
-        'name'   	 => 'シンシア'
+        'name'   	 => 'シンシア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7800,
-        'name'   	 => 'アミファ'
+        'name'   	 => 'アミファ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7803,
-        'name'   	 => 'ブシロード'
+        'name'   	 => 'ブシロード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7804,
-        'name'   	 => 'ビーアンドピー'
+        'name'   	 => 'ビーアンドピー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7805,
-        'name'   	 => 'プリントネット'
+        'name'   	 => 'プリントネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7806,
-        'name'   	 => 'ＭＴＧ'
+        'name'   	 => 'ＭＴＧ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7807,
-        'name'   	 => '幸和製作所'
+        'name'   	 => '幸和製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7808,
-        'name'   	 => 'シー・エス・ランバー'
+        'name'   	 => 'シー・エス・ランバー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7809,
-        'name'   	 => '壽屋'
+        'name'   	 => '壽屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7810,
-        'name'   	 => 'クロスフォー'
+        'name'   	 => 'クロスフォー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7811,
-        'name'   	 => '中本パックス'
+        'name'   	 => '中本パックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7812,
-        'name'   	 => 'クレステック'
+        'name'   	 => 'クレステック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7813,
-        'name'   	 => 'プラッツ'
+        'name'   	 => 'プラッツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7814,
-        'name'   	 => '日本創発グループ'
+        'name'   	 => '日本創発グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7815,
-        'name'   	 => '東京ボード工業'
+        'name'   	 => '東京ボード工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7816,
-        'name'   	 => 'スノーピーク'
+        'name'   	 => 'スノーピーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7817,
-        'name'   	 => 'パラマウントベッドホールディングス'
+        'name'   	 => 'パラマウントベッドホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7818,
-        'name'   	 => 'トランザクション'
+        'name'   	 => 'トランザクション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7819,
-        'name'   	 => '粧美堂'
+        'name'   	 => '粧美堂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7820,
-        'name'   	 => 'ニホンフラッシュ'
+        'name'   	 => 'ニホンフラッシュ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7821,
-        'name'   	 => '前田工繊'
+        'name'   	 => '前田工繊',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7822,
-        'name'   	 => '永大産業'
+        'name'   	 => '永大産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7823,
-        'name'   	 => 'アートネイチャー'
+        'name'   	 => 'アートネイチャー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7826,
-        'name'   	 => 'フルヤ金属'
+        'name'   	 => 'フルヤ金属',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7827,
-        'name'   	 => 'オービス'
+        'name'   	 => 'オービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7829,
-        'name'   	 => 'サマンサタバサジャパンリミテッド'
+        'name'   	 => 'サマンサタバサジャパンリミテッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7831,
-        'name'   	 => 'ウイルコホールディングス'
+        'name'   	 => 'ウイルコホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7832,
-        'name'   	 => 'バンダイナムコホールディングス'
+        'name'   	 => 'バンダイナムコホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7833,
-        'name'   	 => 'アイフィスジャパン'
+        'name'   	 => 'アイフィスジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7836,
-        'name'   	 => 'アビックス'
+        'name'   	 => 'アビックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7837,
-        'name'   	 => 'アールシーコア'
+        'name'   	 => 'アールシーコア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7838,
-        'name'   	 => '共立印刷'
+        'name'   	 => '共立印刷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7839,
-        'name'   	 => 'ＳＨＯＥＩ'
+        'name'   	 => 'ＳＨＯＥＩ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7840,
-        'name'   	 => 'フランスベッドホールディングス'
+        'name'   	 => 'フランスベッドホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7841,
-        'name'   	 => '遠藤製作所'
+        'name'   	 => '遠藤製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7844,
-        'name'   	 => 'マーベラス'
+        'name'   	 => 'マーベラス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7846,
-        'name'   	 => 'パイロットコーポレーション'
+        'name'   	 => 'パイロットコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7847,
-        'name'   	 => 'グラファイトデザイン'
+        'name'   	 => 'グラファイトデザイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7849,
-        'name'   	 => 'スターツ出版'
+        'name'   	 => 'スターツ出版',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7850,
-        'name'   	 => '総合商研'
+        'name'   	 => '総合商研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7851,
-        'name'   	 => 'カワセコンピュータサプライ'
+        'name'   	 => 'カワセコンピュータサプライ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7855,
-        'name'   	 => 'カーディナル'
+        'name'   	 => 'カーディナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7856,
-        'name'   	 => '萩原工業'
+        'name'   	 => '萩原工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7857,
-        'name'   	 => 'セキ'
+        'name'   	 => 'セキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7859,
-        'name'   	 => 'アルメディオ'
+        'name'   	 => 'アルメディオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7860,
-        'name'   	 => 'エイベックス'
+        'name'   	 => 'エイベックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7862,
-        'name'   	 => 'トッパン・フォームズ'
+        'name'   	 => 'トッパン・フォームズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7863,
-        'name'   	 => '平賀'
+        'name'   	 => '平賀',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7864,
-        'name'   	 => 'フジシールインターナショナル'
+        'name'   	 => 'フジシールインターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7865,
-        'name'   	 => 'ピープル'
+        'name'   	 => 'ピープル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7867,
-        'name'   	 => 'タカラトミー'
+        'name'   	 => 'タカラトミー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7868,
-        'name'   	 => '廣済堂'
+        'name'   	 => '廣済堂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7869,
-        'name'   	 => '日本フォームサービス'
+        'name'   	 => '日本フォームサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7871,
-        'name'   	 => 'フクビ化学工業'
+        'name'   	 => 'フクビ化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7872,
-        'name'   	 => 'エステールホールディングス'
+        'name'   	 => 'エステールホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7873,
-        'name'   	 => 'アーク'
+        'name'   	 => 'アーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7874,
-        'name'   	 => 'レック'
+        'name'   	 => 'レック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7875,
-        'name'   	 => '竹田印刷'
+        'name'   	 => '竹田印刷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7877,
-        'name'   	 => '永大化工'
+        'name'   	 => '永大化工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7878,
-        'name'   	 => '光・彩'
+        'name'   	 => '光・彩',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7879,
-        'name'   	 => 'ノダ'
+        'name'   	 => 'ノダ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7883,
-        'name'   	 => 'サンメッセ'
+        'name'   	 => 'サンメッセ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7885,
-        'name'   	 => 'タカノ'
+        'name'   	 => 'タカノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7886,
-        'name'   	 => 'ヤマト・インダストリー'
+        'name'   	 => 'ヤマト・インダストリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7887,
-        'name'   	 => '南海プライウッド'
+        'name'   	 => '南海プライウッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7888,
-        'name'   	 => '三光合成'
+        'name'   	 => '三光合成',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7891,
-        'name'   	 => '日本ユピカ'
+        'name'   	 => '日本ユピカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7893,
-        'name'   	 => 'プロネクサス'
+        'name'   	 => 'プロネクサス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7895,
-        'name'   	 => '中央化学'
+        'name'   	 => '中央化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7896,
-        'name'   	 => 'セブン工業'
+        'name'   	 => 'セブン工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7897,
-        'name'   	 => 'ホクシン'
+        'name'   	 => 'ホクシン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7898,
-        'name'   	 => 'ウッドワン'
+        'name'   	 => 'ウッドワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7899,
-        'name'   	 => 'ＭＩＣＳ化学'
+        'name'   	 => 'ＭＩＣＳ化学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7901,
-        'name'   	 => 'マツモト'
+        'name'   	 => 'マツモト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7902,
-        'name'   	 => 'ソノコム'
+        'name'   	 => 'ソノコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7905,
-        'name'   	 => '大建工業'
+        'name'   	 => '大建工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7906,
-        'name'   	 => 'ヨネックス'
+        'name'   	 => 'ヨネックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7908,
-        'name'   	 => 'きもと'
+        'name'   	 => 'きもと',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7911,
-        'name'   	 => '凸版印刷'
+        'name'   	 => '凸版印刷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7912,
-        'name'   	 => '大日本印刷'
+        'name'   	 => '大日本印刷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7914,
-        'name'   	 => '共同印刷'
+        'name'   	 => '共同印刷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7915,
-        'name'   	 => 'ＮＩＳＳＨＡ'
+        'name'   	 => 'ＮＩＳＳＨＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7916,
-        'name'   	 => '光村印刷'
+        'name'   	 => '光村印刷',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7917,
-        'name'   	 => '藤森工業'
+        'name'   	 => '藤森工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7918,
-        'name'   	 => 'ヴィア・ホールディングス'
+        'name'   	 => 'ヴィア・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7919,
-        'name'   	 => '野崎印刷紙業'
+        'name'   	 => '野崎印刷紙業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7921,
-        'name'   	 => 'ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ'
+        'name'   	 => 'ＴＡＫＡＲＡ　＆　ＣＯＭＰＡＮＹ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7922,
-        'name'   	 => '三光産業'
+        'name'   	 => '三光産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7923,
-        'name'   	 => 'トーイン'
+        'name'   	 => 'トーイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7925,
-        'name'   	 => '前澤化成工業'
+        'name'   	 => '前澤化成工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7927,
-        'name'   	 => 'ムトー精工'
+        'name'   	 => 'ムトー精工',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7928,
-        'name'   	 => '旭化学工業'
+        'name'   	 => '旭化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7931,
-        'name'   	 => '未来工業'
+        'name'   	 => '未来工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7932,
-        'name'   	 => 'ニッピ'
+        'name'   	 => 'ニッピ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7936,
-        'name'   	 => 'アシックス'
+        'name'   	 => 'アシックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7937,
-        'name'   	 => 'ツツミ'
+        'name'   	 => 'ツツミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7938,
-        'name'   	 => 'リーガルコーポレーション'
+        'name'   	 => 'リーガルコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7939,
-        'name'   	 => '研創'
+        'name'   	 => '研創',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7940,
-        'name'   	 => 'ウェーブロックホールディングス'
+        'name'   	 => 'ウェーブロックホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7942,
-        'name'   	 => 'ＪＳＰ'
+        'name'   	 => 'ＪＳＰ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7943,
-        'name'   	 => 'ニチハ'
+        'name'   	 => 'ニチハ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7945,
-        'name'   	 => 'コマニー'
+        'name'   	 => 'コマニー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7946,
-        'name'   	 => '光陽社'
+        'name'   	 => '光陽社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7947,
-        'name'   	 => 'エフピコ'
+        'name'   	 => 'エフピコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7949,
-        'name'   	 => '小松ウオール工業'
+        'name'   	 => '小松ウオール工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7951,
-        'name'   	 => 'ヤマハ'
+        'name'   	 => 'ヤマハ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7952,
-        'name'   	 => '河合楽器製作所'
+        'name'   	 => '河合楽器製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7953,
-        'name'   	 => '菊水化学工業'
+        'name'   	 => '菊水化学工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7955,
-        'name'   	 => 'クリナップ'
+        'name'   	 => 'クリナップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7956,
-        'name'   	 => 'ピジョン'
+        'name'   	 => 'ピジョン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7957,
-        'name'   	 => 'フジコピアン'
+        'name'   	 => 'フジコピアン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7958,
-        'name'   	 => '天馬'
+        'name'   	 => '天馬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7959,
-        'name'   	 => 'オリバー'
+        'name'   	 => 'オリバー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7961,
-        'name'   	 => '兼松サステック'
+        'name'   	 => '兼松サステック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7962,
-        'name'   	 => 'キングジム'
+        'name'   	 => 'キングジム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7963,
-        'name'   	 => '興研'
+        'name'   	 => '興研',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7965,
-        'name'   	 => '象印マホービン'
+        'name'   	 => '象印マホービン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7966,
-        'name'   	 => 'リンテック'
+        'name'   	 => 'リンテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7970,
-        'name'   	 => '信越ポリマー'
+        'name'   	 => '信越ポリマー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7971,
-        'name'   	 => '東リ'
+        'name'   	 => '東リ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7972,
-        'name'   	 => 'イトーキ'
+        'name'   	 => 'イトーキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7974,
-        'name'   	 => '任天堂'
+        'name'   	 => '任天堂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7975,
-        'name'   	 => 'リヒトラブ'
+        'name'   	 => 'リヒトラブ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7976,
-        'name'   	 => '三菱鉛筆'
+        'name'   	 => '三菱鉛筆',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7979,
-        'name'   	 => '松風'
+        'name'   	 => '松風',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7980,
-        'name'   	 => '重松製作所'
+        'name'   	 => '重松製作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7981,
-        'name'   	 => 'タカラスタンダード'
+        'name'   	 => 'タカラスタンダード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7983,
-        'name'   	 => 'ミロク'
+        'name'   	 => 'ミロク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7984,
-        'name'   	 => 'コクヨ'
+        'name'   	 => 'コクヨ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7985,
-        'name'   	 => 'ネポン'
+        'name'   	 => 'ネポン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7986,
-        'name'   	 => '日本アイ・エス・ケイ'
+        'name'   	 => '日本アイ・エス・ケイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7987,
-        'name'   	 => 'ナカバヤシ'
+        'name'   	 => 'ナカバヤシ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7988,
-        'name'   	 => 'ニフコ'
+        'name'   	 => 'ニフコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7989,
-        'name'   	 => '立川ブラインド工業'
+        'name'   	 => '立川ブラインド工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7990,
-        'name'   	 => 'グローブライド'
+        'name'   	 => 'グローブライド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7991,
-        'name'   	 => 'マミヤ・オーピー'
+        'name'   	 => 'マミヤ・オーピー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7992,
-        'name'   	 => 'セーラー万年筆'
+        'name'   	 => 'セーラー万年筆',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7994,
-        'name'   	 => 'オカムラ'
+        'name'   	 => 'オカムラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7995,
-        'name'   	 => 'バルカー'
+        'name'   	 => 'バルカー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7997,
-        'name'   	 => 'くろがね工作所'
+        'name'   	 => 'くろがね工作所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 7999,
-        'name'   	 => 'ＭＵＴＯＨホールディングス'
+        'name'   	 => 'ＭＵＴＯＨホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8001,
-        'name'   	 => '伊藤忠商事'
+        'name'   	 => '伊藤忠商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8002,
-        'name'   	 => '丸紅'
+        'name'   	 => '丸紅',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8005,
-        'name'   	 => 'スクロール'
+        'name'   	 => 'スクロール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8006,
-        'name'   	 => 'ユアサ・フナショク'
+        'name'   	 => 'ユアサ・フナショク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8007,
-        'name'   	 => '高島'
+        'name'   	 => '高島',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8008,
-        'name'   	 => 'ヨンドシーホールディングス'
+        'name'   	 => 'ヨンドシーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8011,
-        'name'   	 => '三陽商会'
+        'name'   	 => '三陽商会',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8012,
-        'name'   	 => '長瀬産業'
+        'name'   	 => '長瀬産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8013,
-        'name'   	 => 'ナイガイ'
+        'name'   	 => 'ナイガイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8014,
-        'name'   	 => '蝶理'
+        'name'   	 => '蝶理',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8015,
-        'name'   	 => '豊田通商'
+        'name'   	 => '豊田通商',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8016,
-        'name'   	 => 'オンワードホールディングス'
+        'name'   	 => 'オンワードホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8018,
-        'name'   	 => '三共生興'
+        'name'   	 => '三共生興',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8020,
-        'name'   	 => '兼松'
+        'name'   	 => '兼松',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8022,
-        'name'   	 => '美津濃'
+        'name'   	 => '美津濃',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8023,
-        'name'   	 => '大興電子通信'
+        'name'   	 => '大興電子通信',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8025,
-        'name'   	 => 'ツカモトコーポレーション'
+        'name'   	 => 'ツカモトコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8028,
-        'name'   	 => 'ファミリーマート'
+        'name'   	 => 'ファミリーマート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8029,
-        'name'   	 => 'ルックホールディングス'
+        'name'   	 => 'ルックホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8030,
-        'name'   	 => '中央魚類'
+        'name'   	 => '中央魚類',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8031,
-        'name'   	 => '三井物産'
+        'name'   	 => '三井物産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8032,
-        'name'   	 => '日本紙パルプ商事'
+        'name'   	 => '日本紙パルプ商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8035,
-        'name'   	 => '東京エレクトロン'
+        'name'   	 => '東京エレクトロン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8037,
-        'name'   	 => 'カメイ'
+        'name'   	 => 'カメイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8038,
-        'name'   	 => '東都水産'
+        'name'   	 => '東都水産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8039,
-        'name'   	 => '築地魚市場'
+        'name'   	 => '築地魚市場',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8040,
-        'name'   	 => '東京ソワール'
+        'name'   	 => '東京ソワール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8041,
-        'name'   	 => 'ＯＵＧホールディングス'
+        'name'   	 => 'ＯＵＧホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8043,
-        'name'   	 => 'スターゼン'
+        'name'   	 => 'スターゼン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8045,
-        'name'   	 => '横浜丸魚'
+        'name'   	 => '横浜丸魚',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8046,
-        'name'   	 => '丸藤シートパイル'
+        'name'   	 => '丸藤シートパイル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8050,
-        'name'   	 => 'セイコーホールディングス'
+        'name'   	 => 'セイコーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8051,
-        'name'   	 => '山善'
+        'name'   	 => '山善',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8052,
-        'name'   	 => '椿本興業'
+        'name'   	 => '椿本興業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8053,
-        'name'   	 => '住友商事'
+        'name'   	 => '住友商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8056,
-        'name'   	 => '日本ユニシス'
+        'name'   	 => '日本ユニシス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8057,
-        'name'   	 => '内田洋行'
+        'name'   	 => '内田洋行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8058,
-        'name'   	 => '三菱商事'
+        'name'   	 => '三菱商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8059,
-        'name'   	 => '第一実業'
+        'name'   	 => '第一実業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8060,
-        'name'   	 => 'キヤノンマーケティングジャパン'
+        'name'   	 => 'キヤノンマーケティングジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8061,
-        'name'   	 => '西華産業'
+        'name'   	 => '西華産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8065,
-        'name'   	 => '佐藤商事'
+        'name'   	 => '佐藤商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8066,
-        'name'   	 => '三谷商事'
+        'name'   	 => '三谷商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8068,
-        'name'   	 => '菱洋エレクトロ'
+        'name'   	 => '菱洋エレクトロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8070,
-        'name'   	 => '東京産業'
+        'name'   	 => '東京産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8072,
-        'name'   	 => '日本出版貿易'
+        'name'   	 => '日本出版貿易',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8074,
-        'name'   	 => 'ユアサ商事'
+        'name'   	 => 'ユアサ商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8075,
-        'name'   	 => '神鋼商事'
+        'name'   	 => '神鋼商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8077,
-        'name'   	 => 'トルク'
+        'name'   	 => 'トルク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8078,
-        'name'   	 => '阪和興業'
+        'name'   	 => '阪和興業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8079,
-        'name'   	 => '正栄食品工業'
+        'name'   	 => '正栄食品工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8081,
-        'name'   	 => 'カナデン'
+        'name'   	 => 'カナデン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8084,
-        'name'   	 => '菱電商事'
+        'name'   	 => '菱電商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8085,
-        'name'   	 => 'ナラサキ産業'
+        'name'   	 => 'ナラサキ産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8086,
-        'name'   	 => 'ニプロ'
+        'name'   	 => 'ニプロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8087,
-        'name'   	 => 'フルサト工業'
+        'name'   	 => 'フルサト工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8088,
-        'name'   	 => '岩谷産業'
+        'name'   	 => '岩谷産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8089,
-        'name'   	 => 'ナイス'
+        'name'   	 => 'ナイス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8090,
-        'name'   	 => '昭光通商'
+        'name'   	 => '昭光通商',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8091,
-        'name'   	 => 'ニチモウ'
+        'name'   	 => 'ニチモウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8093,
-        'name'   	 => '極東貿易'
+        'name'   	 => '極東貿易',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8095,
-        'name'   	 => 'イワキ'
+        'name'   	 => 'イワキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8096,
-        'name'   	 => '兼松エレクトロニクス'
+        'name'   	 => '兼松エレクトロニクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8097,
-        'name'   	 => '三愛石油'
+        'name'   	 => '三愛石油',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8098,
-        'name'   	 => '稲畑産業'
+        'name'   	 => '稲畑産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8101,
-        'name'   	 => 'ＧＳＩクレオス'
+        'name'   	 => 'ＧＳＩクレオス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8103,
-        'name'   	 => '明和産業'
+        'name'   	 => '明和産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8104,
-        'name'   	 => 'クワザワ'
+        'name'   	 => 'クワザワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8105,
-        'name'   	 => '堀田丸正'
+        'name'   	 => '堀田丸正',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8107,
-        'name'   	 => 'キムラタン'
+        'name'   	 => 'キムラタン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8108,
-        'name'   	 => 'ヤマエ久野'
+        'name'   	 => 'ヤマエ久野',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8111,
-        'name'   	 => 'ゴールドウイン'
+        'name'   	 => 'ゴールドウイン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8113,
-        'name'   	 => 'ユニ・チャーム'
+        'name'   	 => 'ユニ・チャーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8114,
-        'name'   	 => 'デサント'
+        'name'   	 => 'デサント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8115,
-        'name'   	 => 'ムーンバット'
+        'name'   	 => 'ムーンバット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8117,
-        'name'   	 => '中央自動車工業'
+        'name'   	 => '中央自動車工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8118,
-        'name'   	 => 'キング'
+        'name'   	 => 'キング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8119,
-        'name'   	 => '三栄コーポレーション'
+        'name'   	 => '三栄コーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8123,
-        'name'   	 => '川辺'
+        'name'   	 => '川辺',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8125,
-        'name'   	 => 'ワキタ'
+        'name'   	 => 'ワキタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8127,
-        'name'   	 => 'ヤマトインターナショナル'
+        'name'   	 => 'ヤマトインターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8129,
-        'name'   	 => '東邦ホールディングス'
+        'name'   	 => '東邦ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8130,
-        'name'   	 => 'サンゲツ'
+        'name'   	 => 'サンゲツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8131,
-        'name'   	 => 'ミツウロコグループホールディングス'
+        'name'   	 => 'ミツウロコグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8132,
-        'name'   	 => 'シナネンホールディングス'
+        'name'   	 => 'シナネンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8133,
-        'name'   	 => '伊藤忠エネクス'
+        'name'   	 => '伊藤忠エネクス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8135,
-        'name'   	 => 'ゼット'
+        'name'   	 => 'ゼット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8136,
-        'name'   	 => 'サンリオ'
+        'name'   	 => 'サンリオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8137,
-        'name'   	 => 'サンワテクノス'
+        'name'   	 => 'サンワテクノス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8138,
-        'name'   	 => '三京化成'
+        'name'   	 => '三京化成',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8139,
-        'name'   	 => 'ナガホリ'
+        'name'   	 => 'ナガホリ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8140,
-        'name'   	 => 'リョーサン'
+        'name'   	 => 'リョーサン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8141,
-        'name'   	 => '新光商事'
+        'name'   	 => '新光商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8142,
-        'name'   	 => 'トーホー'
+        'name'   	 => 'トーホー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8143,
-        'name'   	 => 'ラピーヌ'
+        'name'   	 => 'ラピーヌ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8144,
-        'name'   	 => '電響社'
+        'name'   	 => '電響社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8147,
-        'name'   	 => 'トミタ'
+        'name'   	 => 'トミタ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8150,
-        'name'   	 => '三信電気'
+        'name'   	 => '三信電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8151,
-        'name'   	 => '東陽テクニカ'
+        'name'   	 => '東陽テクニカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8152,
-        'name'   	 => 'ソマール'
+        'name'   	 => 'ソマール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8153,
-        'name'   	 => 'モスフードサービス'
+        'name'   	 => 'モスフードサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8154,
-        'name'   	 => '加賀電子'
+        'name'   	 => '加賀電子',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8155,
-        'name'   	 => '三益半導体工業'
+        'name'   	 => '三益半導体工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8157,
-        'name'   	 => '都築電気'
+        'name'   	 => '都築電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8158,
-        'name'   	 => 'ソーダニッカ'
+        'name'   	 => 'ソーダニッカ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8159,
-        'name'   	 => '立花エレテック'
+        'name'   	 => '立花エレテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8160,
-        'name'   	 => '木曽路'
+        'name'   	 => '木曽路',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8163,
-        'name'   	 => 'ＳＲＳホールディングス'
+        'name'   	 => 'ＳＲＳホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8165,
-        'name'   	 => '千趣会'
+        'name'   	 => '千趣会',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8166,
-        'name'   	 => 'タカキュー'
+        'name'   	 => 'タカキュー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8167,
-        'name'   	 => 'リテールパートナーズ'
+        'name'   	 => 'リテールパートナーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8168,
-        'name'   	 => 'ケーヨー'
+        'name'   	 => 'ケーヨー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8173,
-        'name'   	 => '上新電機'
+        'name'   	 => '上新電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8174,
-        'name'   	 => '日本瓦斯'
+        'name'   	 => '日本瓦斯',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8179,
-        'name'   	 => 'ロイヤルホールディングス'
+        'name'   	 => 'ロイヤルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8181,
-        'name'   	 => '東天紅'
+        'name'   	 => '東天紅',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8182,
-        'name'   	 => 'いなげや'
+        'name'   	 => 'いなげや',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8184,
-        'name'   	 => '島忠'
+        'name'   	 => '島忠',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8185,
-        'name'   	 => 'チヨダ'
+        'name'   	 => 'チヨダ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8186,
-        'name'   	 => '大塚家具'
+        'name'   	 => '大塚家具',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8194,
-        'name'   	 => 'ライフコーポレーション'
+        'name'   	 => 'ライフコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8198,
-        'name'   	 => 'マックスバリュ東海'
+        'name'   	 => 'マックスバリュ東海',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8200,
-        'name'   	 => 'リンガーハット'
+        'name'   	 => 'リンガーハット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8202,
-        'name'   	 => 'ラオックス'
+        'name'   	 => 'ラオックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8203,
-        'name'   	 => 'ＭｒＭａｘＨＤ'
+        'name'   	 => 'ＭｒＭａｘＨＤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8207,
-        'name'   	 => 'テンアライド'
+        'name'   	 => 'テンアライド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8208,
-        'name'   	 => 'エンチョー'
+        'name'   	 => 'エンチョー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8209,
-        'name'   	 => 'フレンドリー'
+        'name'   	 => 'フレンドリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8214,
-        'name'   	 => 'ＡＯＫＩホールディングス'
+        'name'   	 => 'ＡＯＫＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8215,
-        'name'   	 => '銀座山形屋'
+        'name'   	 => '銀座山形屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8217,
-        'name'   	 => 'オークワ'
+        'name'   	 => 'オークワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8218,
-        'name'   	 => 'コメリ'
+        'name'   	 => 'コメリ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8219,
-        'name'   	 => '青山商事'
+        'name'   	 => '青山商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8225,
-        'name'   	 => 'タカチホ'
+        'name'   	 => 'タカチホ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8226,
-        'name'   	 => '理経'
+        'name'   	 => '理経',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8227,
-        'name'   	 => 'しまむら'
+        'name'   	 => 'しまむら',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8230,
-        'name'   	 => 'はせがわ'
+        'name'   	 => 'はせがわ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8233,
-        'name'   	 => '高島屋'
+        'name'   	 => '高島屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8237,
-        'name'   	 => '松屋'
+        'name'   	 => '松屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8242,
-        'name'   	 => 'エイチ・ツー・オー　リテイリング'
+        'name'   	 => 'エイチ・ツー・オー　リテイリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8244,
-        'name'   	 => '近鉄百貨店'
+        'name'   	 => '近鉄百貨店',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8247,
-        'name'   	 => '大和'
+        'name'   	 => '大和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8249,
-        'name'   	 => 'テクノアソシエ'
+        'name'   	 => 'テクノアソシエ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8252,
-        'name'   	 => '丸井グループ'
+        'name'   	 => '丸井グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8253,
-        'name'   	 => 'クレディセゾン'
+        'name'   	 => 'クレディセゾン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8254,
-        'name'   	 => 'さいか屋'
+        'name'   	 => 'さいか屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8255,
-        'name'   	 => 'アクシアル　リテイリング'
+        'name'   	 => 'アクシアル　リテイリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8256,
-        'name'   	 => 'プロルート丸光'
+        'name'   	 => 'プロルート丸光',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8257,
-        'name'   	 => '山陽百貨店'
+        'name'   	 => '山陽百貨店',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8260,
-        'name'   	 => '井筒屋'
+        'name'   	 => '井筒屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8267,
-        'name'   	 => 'イオン'
+        'name'   	 => 'イオン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8273,
-        'name'   	 => 'イズミ'
+        'name'   	 => 'イズミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8275,
-        'name'   	 => 'フォーバル'
+        'name'   	 => 'フォーバル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8276,
-        'name'   	 => '平和堂'
+        'name'   	 => '平和堂',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8278,
-        'name'   	 => 'フジ'
+        'name'   	 => 'フジ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8279,
-        'name'   	 => 'ヤオコー'
+        'name'   	 => 'ヤオコー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8281,
-        'name'   	 => 'ゼビオホールディングス'
+        'name'   	 => 'ゼビオホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8282,
-        'name'   	 => 'ケーズホールディングス'
+        'name'   	 => 'ケーズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8283,
-        'name'   	 => 'ＰＡＬＴＡＣ'
+        'name'   	 => 'ＰＡＬＴＡＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8285,
-        'name'   	 => '三谷産業'
+        'name'   	 => '三谷産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8287,
-        'name'   	 => 'マックスバリュ西日本'
+        'name'   	 => 'マックスバリュ西日本',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8289,
-        'name'   	 => 'Ｏｌｙｍｐｉｃグループ'
+        'name'   	 => 'Ｏｌｙｍｐｉｃグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8291,
-        'name'   	 => '日産東京販売ホールディングス'
+        'name'   	 => '日産東京販売ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8298,
-        'name'   	 => 'ファミリー'
+        'name'   	 => 'ファミリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8301,
-        'name'   	 => '日本銀行　出資証券'
+        'name'   	 => '日本銀行　出資証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8303,
-        'name'   	 => '新生銀行'
+        'name'   	 => '新生銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8304,
-        'name'   	 => 'あおぞら銀行'
+        'name'   	 => 'あおぞら銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8306,
-        'name'   	 => '三菱ＵＦＪフィナンシャル・グループ'
+        'name'   	 => '三菱ＵＦＪフィナンシャル・グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8308,
-        'name'   	 => 'りそなホールディングス'
+        'name'   	 => 'りそなホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8309,
-        'name'   	 => '三井住友トラスト・ホールディングス'
+        'name'   	 => '三井住友トラスト・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8316,
-        'name'   	 => '三井住友フィナンシャルグループ'
+        'name'   	 => '三井住友フィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8331,
-        'name'   	 => '千葉銀行'
+        'name'   	 => '千葉銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8334,
-        'name'   	 => '群馬銀行'
+        'name'   	 => '群馬銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8336,
-        'name'   	 => '武蔵野銀行'
+        'name'   	 => '武蔵野銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8337,
-        'name'   	 => '千葉興業銀行'
+        'name'   	 => '千葉興業銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8338,
-        'name'   	 => '筑波銀行'
+        'name'   	 => '筑波銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8341,
-        'name'   	 => '七十七銀行'
+        'name'   	 => '七十七銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8342,
-        'name'   	 => '青森銀行'
+        'name'   	 => '青森銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8343,
-        'name'   	 => '秋田銀行'
+        'name'   	 => '秋田銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8344,
-        'name'   	 => '山形銀行'
+        'name'   	 => '山形銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8345,
-        'name'   	 => '岩手銀行'
+        'name'   	 => '岩手銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8346,
-        'name'   	 => '東邦銀行'
+        'name'   	 => '東邦銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8349,
-        'name'   	 => '東北銀行'
+        'name'   	 => '東北銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8350,
-        'name'   	 => 'みちのく銀行'
+        'name'   	 => 'みちのく銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8354,
-        'name'   	 => 'ふくおかフィナンシャルグループ'
+        'name'   	 => 'ふくおかフィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8355,
-        'name'   	 => '静岡銀行'
+        'name'   	 => '静岡銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8356,
-        'name'   	 => '十六銀行'
+        'name'   	 => '十六銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8358,
-        'name'   	 => 'スルガ銀行'
+        'name'   	 => 'スルガ銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8359,
-        'name'   	 => '八十二銀行'
+        'name'   	 => '八十二銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8360,
-        'name'   	 => '山梨中央銀行'
+        'name'   	 => '山梨中央銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8361,
-        'name'   	 => '大垣共立銀行'
+        'name'   	 => '大垣共立銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8362,
-        'name'   	 => '福井銀行'
+        'name'   	 => '福井銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8363,
-        'name'   	 => '北國銀行'
+        'name'   	 => '北國銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8364,
-        'name'   	 => '清水銀行'
+        'name'   	 => '清水銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8365,
-        'name'   	 => '富山銀行'
+        'name'   	 => '富山銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8366,
-        'name'   	 => '滋賀銀行'
+        'name'   	 => '滋賀銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8367,
-        'name'   	 => '南都銀行'
+        'name'   	 => '南都銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8368,
-        'name'   	 => '百五銀行'
+        'name'   	 => '百五銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8369,
-        'name'   	 => '京都銀行'
+        'name'   	 => '京都銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8370,
-        'name'   	 => '紀陽銀行'
+        'name'   	 => '紀陽銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8377,
-        'name'   	 => 'ほくほくフィナンシャルグループ'
+        'name'   	 => 'ほくほくフィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8379,
-        'name'   	 => '広島銀行'
+        'name'   	 => '広島銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8381,
-        'name'   	 => '山陰合同銀行'
+        'name'   	 => '山陰合同銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8382,
-        'name'   	 => '中国銀行'
+        'name'   	 => '中国銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8383,
-        'name'   	 => '鳥取銀行'
+        'name'   	 => '鳥取銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8385,
-        'name'   	 => '伊予銀行'
+        'name'   	 => '伊予銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8386,
-        'name'   	 => '百十四銀行'
+        'name'   	 => '百十四銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8387,
-        'name'   	 => '四国銀行'
+        'name'   	 => '四国銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8388,
-        'name'   	 => '阿波銀行'
+        'name'   	 => '阿波銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8392,
-        'name'   	 => '大分銀行'
+        'name'   	 => '大分銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8393,
-        'name'   	 => '宮崎銀行'
+        'name'   	 => '宮崎銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8395,
-        'name'   	 => '佐賀銀行'
+        'name'   	 => '佐賀銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8397,
-        'name'   	 => '沖縄銀行'
+        'name'   	 => '沖縄銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8399,
-        'name'   	 => '琉球銀行'
+        'name'   	 => '琉球銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8410,
-        'name'   	 => 'セブン銀行'
+        'name'   	 => 'セブン銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8411,
-        'name'   	 => 'みずほフィナンシャルグループ'
+        'name'   	 => 'みずほフィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8416,
-        'name'   	 => '高知銀行'
+        'name'   	 => '高知銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8418,
-        'name'   	 => '山口フィナンシャルグループ'
+        'name'   	 => '山口フィナンシャルグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8421,
-        'name'   	 => '信金中央金庫　優先出資証券'
+        'name'   	 => '信金中央金庫　優先出資証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8424,
-        'name'   	 => '芙蓉総合リース'
+        'name'   	 => '芙蓉総合リース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8425,
-        'name'   	 => 'みずほリース'
+        'name'   	 => 'みずほリース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8439,
-        'name'   	 => '東京センチュリー'
+        'name'   	 => '東京センチュリー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8462,
-        'name'   	 => 'フューチャーベンチャーキャピタル'
+        'name'   	 => 'フューチャーベンチャーキャピタル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8473,
-        'name'   	 => 'ＳＢＩホールディングス'
+        'name'   	 => 'ＳＢＩホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8508,
-        'name'   	 => 'Ｊトラスト'
+        'name'   	 => 'Ｊトラスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8511,
-        'name'   	 => '日本証券金融'
+        'name'   	 => '日本証券金融',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8515,
-        'name'   	 => 'アイフル'
+        'name'   	 => 'アイフル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8518,
-        'name'   	 => '日本アジア投資'
+        'name'   	 => '日本アジア投資',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8521,
-        'name'   	 => '長野銀行'
+        'name'   	 => '長野銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8522,
-        'name'   	 => '名古屋銀行'
+        'name'   	 => '名古屋銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8524,
-        'name'   	 => '北洋銀行'
+        'name'   	 => '北洋銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8527,
-        'name'   	 => '愛知銀行'
+        'name'   	 => '愛知銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8530,
-        'name'   	 => '中京銀行'
+        'name'   	 => '中京銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8537,
-        'name'   	 => '大光銀行'
+        'name'   	 => '大光銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8541,
-        'name'   	 => '愛媛銀行'
+        'name'   	 => '愛媛銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8542,
-        'name'   	 => 'トマト銀行'
+        'name'   	 => 'トマト銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8544,
-        'name'   	 => '京葉銀行'
+        'name'   	 => '京葉銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8550,
-        'name'   	 => '栃木銀行'
+        'name'   	 => '栃木銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8551,
-        'name'   	 => '北日本銀行'
+        'name'   	 => '北日本銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8558,
-        'name'   	 => '東和銀行'
+        'name'   	 => '東和銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8562,
-        'name'   	 => '福島銀行'
+        'name'   	 => '福島銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8563,
-        'name'   	 => '大東銀行'
+        'name'   	 => '大東銀行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8566,
-        'name'   	 => 'リコーリース'
+        'name'   	 => 'リコーリース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8570,
-        'name'   	 => 'イオンフィナンシャルサービス'
+        'name'   	 => 'イオンフィナンシャルサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8572,
-        'name'   	 => 'アコム'
+        'name'   	 => 'アコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8584,
-        'name'   	 => 'ジャックス'
+        'name'   	 => 'ジャックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8585,
-        'name'   	 => 'オリエントコーポレーション'
+        'name'   	 => 'オリエントコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8586,
-        'name'   	 => '日立キャピタル'
+        'name'   	 => '日立キャピタル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8589,
-        'name'   	 => 'アプラスフィナンシャル'
+        'name'   	 => 'アプラスフィナンシャル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8591,
-        'name'   	 => 'オリックス'
+        'name'   	 => 'オリックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8593,
-        'name'   	 => '三菱ＵＦＪリース'
+        'name'   	 => '三菱ＵＦＪリース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8595,
-        'name'   	 => 'ジャフコ'
+        'name'   	 => 'ジャフコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8596,
-        'name'   	 => '九州リースサービス'
+        'name'   	 => '九州リースサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8600,
-        'name'   	 => 'トモニホールディングス'
+        'name'   	 => 'トモニホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8601,
-        'name'   	 => '大和証券グループ本社'
+        'name'   	 => '大和証券グループ本社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8604,
-        'name'   	 => '野村ホールディングス'
+        'name'   	 => '野村ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8609,
-        'name'   	 => '岡三証券グループ'
+        'name'   	 => '岡三証券グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8613,
-        'name'   	 => '丸三証券'
+        'name'   	 => '丸三証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8614,
-        'name'   	 => '東洋証券'
+        'name'   	 => '東洋証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8616,
-        'name'   	 => '東海東京フィナンシャル・ホールディングス'
+        'name'   	 => '東海東京フィナンシャル・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8617,
-        'name'   	 => '光世証券'
+        'name'   	 => '光世証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8622,
-        'name'   	 => '水戸証券'
+        'name'   	 => '水戸証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8624,
-        'name'   	 => 'いちよし証券'
+        'name'   	 => 'いちよし証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8628,
-        'name'   	 => '松井証券'
+        'name'   	 => '松井証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8630,
-        'name'   	 => 'ＳＯＭＰＯホールディングス'
+        'name'   	 => 'ＳＯＭＰＯホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8692,
-        'name'   	 => 'だいこう証券ビジネス'
+        'name'   	 => 'だいこう証券ビジネス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8697,
-        'name'   	 => '日本取引所グループ'
+        'name'   	 => '日本取引所グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8698,
-        'name'   	 => 'マネックスグループ'
+        'name'   	 => 'マネックスグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8699,
-        'name'   	 => '澤田ホールディングス'
+        'name'   	 => '澤田ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8700,
-        'name'   	 => '丸八証券'
+        'name'   	 => '丸八証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8704,
-        'name'   	 => 'トレイダーズホールディングス'
+        'name'   	 => 'トレイダーズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8705,
-        'name'   	 => '岡藤ホールディングス'
+        'name'   	 => '岡藤ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8706,
-        'name'   	 => '極東証券'
+        'name'   	 => '極東証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8707,
-        'name'   	 => '岩井コスモホールディングス'
+        'name'   	 => '岩井コスモホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8708,
-        'name'   	 => '藍澤證券'
+        'name'   	 => '藍澤證券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8709,
-        'name'   	 => 'インヴァスト証券'
+        'name'   	 => 'インヴァスト証券',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8713,
-        'name'   	 => 'フィデアホールディングス'
+        'name'   	 => 'フィデアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8714,
-        'name'   	 => '池田泉州ホールディングス'
+        'name'   	 => '池田泉州ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8715,
-        'name'   	 => 'アニコム　ホールディングス'
+        'name'   	 => 'アニコム　ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8725,
-        'name'   	 => 'ＭＳ＆ＡＤインシュアランスグループホールディングス'
+        'name'   	 => 'ＭＳ＆ＡＤインシュアランスグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8729,
-        'name'   	 => 'ソニーフィナンシャルホールディングス'
+        'name'   	 => 'ソニーフィナンシャルホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8732,
-        'name'   	 => 'マネーパートナーズグループ'
+        'name'   	 => 'マネーパートナーズグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8737,
-        'name'   	 => 'あかつき本社'
+        'name'   	 => 'あかつき本社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8739,
-        'name'   	 => 'スパークス・グループ'
+        'name'   	 => 'スパークス・グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8740,
-        'name'   	 => 'フジトミ'
+        'name'   	 => 'フジトミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8742,
-        'name'   	 => '小林洋行'
+        'name'   	 => '小林洋行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8746,
-        'name'   	 => '第一商品'
+        'name'   	 => '第一商品',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8747,
-        'name'   	 => '豊商事'
+        'name'   	 => '豊商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8750,
-        'name'   	 => '第一生命ホールディングス'
+        'name'   	 => '第一生命ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8766,
-        'name'   	 => '東京海上ホールディングス'
+        'name'   	 => '東京海上ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8769,
-        'name'   	 => 'アドバンテッジリスクマネジメント'
+        'name'   	 => 'アドバンテッジリスクマネジメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8771,
-        'name'   	 => 'イー・ギャランティ'
+        'name'   	 => 'イー・ギャランティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8772,
-        'name'   	 => 'アサックス'
+        'name'   	 => 'アサックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8783,
-        'name'   	 => 'ＧＦＡ'
+        'name'   	 => 'ＧＦＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8789,
-        'name'   	 => 'フィンテック　グローバル'
+        'name'   	 => 'フィンテック　グローバル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8793,
-        'name'   	 => 'ＮＥＣキャピタルソリューション'
+        'name'   	 => 'ＮＥＣキャピタルソリューション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8795,
-        'name'   	 => 'Ｔ＆Ｄホールディングス'
+        'name'   	 => 'Ｔ＆Ｄホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8798,
-        'name'   	 => 'アドバンスクリエイト'
+        'name'   	 => 'アドバンスクリエイト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8801,
-        'name'   	 => '三井不動産'
+        'name'   	 => '三井不動産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8802,
-        'name'   	 => '三菱地所'
+        'name'   	 => '三菱地所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8803,
-        'name'   	 => '平和不動産'
+        'name'   	 => '平和不動産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8804,
-        'name'   	 => '東京建物'
+        'name'   	 => '東京建物',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8806,
-        'name'   	 => 'ダイビル'
+        'name'   	 => 'ダイビル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8818,
-        'name'   	 => '京阪神ビルディング'
+        'name'   	 => '京阪神ビルディング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8830,
-        'name'   	 => '住友不動産'
+        'name'   	 => '住友不動産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8835,
-        'name'   	 => '太平洋興発'
+        'name'   	 => '太平洋興発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8836,
-        'name'   	 => 'ＲＩＳＥ'
+        'name'   	 => 'ＲＩＳＥ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8841,
-        'name'   	 => 'テーオーシー'
+        'name'   	 => 'テーオーシー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8842,
-        'name'   	 => '東京楽天地'
+        'name'   	 => '東京楽天地',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8844,
-        'name'   	 => 'コスモスイニシア'
+        'name'   	 => 'コスモスイニシア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8848,
-        'name'   	 => 'レオパレス２１'
+        'name'   	 => 'レオパレス２１',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8850,
-        'name'   	 => 'スターツコーポレーション'
+        'name'   	 => 'スターツコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8854,
-        'name'   	 => '日住サービス'
+        'name'   	 => '日住サービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8860,
-        'name'   	 => 'フジ住宅'
+        'name'   	 => 'フジ住宅',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8864,
-        'name'   	 => '空港施設'
+        'name'   	 => '空港施設',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8869,
-        'name'   	 => '明和地所'
+        'name'   	 => '明和地所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8871,
-        'name'   	 => 'ゴールドクレスト'
+        'name'   	 => 'ゴールドクレスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8876,
-        'name'   	 => 'リログループ'
+        'name'   	 => 'リログループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8877,
-        'name'   	 => 'エスリード'
+        'name'   	 => 'エスリード',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8881,
-        'name'   	 => '日神グループホールディングス'
+        'name'   	 => '日神グループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8886,
-        'name'   	 => 'ウッドフレンズ'
+        'name'   	 => 'ウッドフレンズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8887,
-        'name'   	 => 'リベレステ'
+        'name'   	 => 'リベレステ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8889,
-        'name'   	 => 'ＡＰＡＭＡＮ'
+        'name'   	 => 'ＡＰＡＭＡＮ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8890,
-        'name'   	 => 'レーサム'
+        'name'   	 => 'レーサム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8891,
-        'name'   	 => 'エムジーホーム'
+        'name'   	 => 'エムジーホーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8892,
-        'name'   	 => '日本エスコン'
+        'name'   	 => '日本エスコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8893,
-        'name'   	 => '新日本建物'
+        'name'   	 => '新日本建物',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8894,
-        'name'   	 => 'ＲＥＶＯＬＵＴＩＯＮ'
+        'name'   	 => 'ＲＥＶＯＬＵＴＩＯＮ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8897,
-        'name'   	 => 'タカラレーベン'
+        'name'   	 => 'タカラレーベン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8898,
-        'name'   	 => 'センチュリー２１・ジャパン'
+        'name'   	 => 'センチュリー２１・ジャパン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8903,
-        'name'   	 => 'サンウッド'
+        'name'   	 => 'サンウッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8904,
-        'name'   	 => 'ＡＶＡＮＴＩＡ'
+        'name'   	 => 'ＡＶＡＮＴＩＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8905,
-        'name'   	 => 'イオンモール'
+        'name'   	 => 'イオンモール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8908,
-        'name'   	 => '毎日コムネット'
+        'name'   	 => '毎日コムネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8909,
-        'name'   	 => 'シノケングループ'
+        'name'   	 => 'シノケングループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8912,
-        'name'   	 => 'エリアクエスト'
+        'name'   	 => 'エリアクエスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8914,
-        'name'   	 => 'エリアリンク'
+        'name'   	 => 'エリアリンク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8917,
-        'name'   	 => 'ファースト住建'
+        'name'   	 => 'ファースト住建',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8918,
-        'name'   	 => 'ランド'
+        'name'   	 => 'ランド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8919,
-        'name'   	 => 'カチタス'
+        'name'   	 => 'カチタス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8920,
-        'name'   	 => '東祥'
+        'name'   	 => '東祥',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8922,
-        'name'   	 => '日本アセットマーケティング'
+        'name'   	 => '日本アセットマーケティング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8923,
-        'name'   	 => 'トーセイ'
+        'name'   	 => 'トーセイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8925,
-        'name'   	 => 'アルデプロ'
+        'name'   	 => 'アルデプロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8927,
-        'name'   	 => '明豊エンタープライズ'
+        'name'   	 => '明豊エンタープライズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8928,
-        'name'   	 => '穴吹興産'
+        'name'   	 => '穴吹興産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8929,
-        'name'   	 => '青山財産ネットワークス'
+        'name'   	 => '青山財産ネットワークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8931,
-        'name'   	 => '和田興産'
+        'name'   	 => '和田興産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8934,
-        'name'   	 => 'サンフロンティア不動産'
+        'name'   	 => 'サンフロンティア不動産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8935,
-        'name'   	 => 'エフ・ジェー・ネクスト'
+        'name'   	 => 'エフ・ジェー・ネクスト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8938,
-        'name'   	 => 'グローム・ホールディングス'
+        'name'   	 => 'グローム・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8940,
-        'name'   	 => 'インテリックス'
+        'name'   	 => 'インテリックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8944,
-        'name'   	 => 'ランドビジネス'
+        'name'   	 => 'ランドビジネス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8945,
-        'name'   	 => '日本社宅サービス'
+        'name'   	 => '日本社宅サービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8946,
-        'name'   	 => 'ＡＳＩＡＮ　ＳＴＡＲ'
+        'name'   	 => 'ＡＳＩＡＮ　ＳＴＡＲ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8951,
-        'name'   	 => '日本ビルファンド投資法人'
+        'name'   	 => '日本ビルファンド投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8952,
-        'name'   	 => 'ジャパンリアルエステイト投資法人'
+        'name'   	 => 'ジャパンリアルエステイト投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8953,
-        'name'   	 => '日本リテールファンド投資法人'
+        'name'   	 => '日本リテールファンド投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8954,
-        'name'   	 => 'オリックス不動産投資法人'
+        'name'   	 => 'オリックス不動産投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8955,
-        'name'   	 => '日本プライムリアルティ投資法人'
+        'name'   	 => '日本プライムリアルティ投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8956,
-        'name'   	 => 'プレミア投資法人'
+        'name'   	 => 'プレミア投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8957,
-        'name'   	 => '東急リアル・エステート投資法人'
+        'name'   	 => '東急リアル・エステート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8958,
-        'name'   	 => 'グローバル・ワン不動産投資法人'
+        'name'   	 => 'グローバル・ワン不動産投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8960,
-        'name'   	 => 'ユナイテッド・アーバン投資法人'
+        'name'   	 => 'ユナイテッド・アーバン投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8961,
-        'name'   	 => '森トラスト総合リート投資法人'
+        'name'   	 => '森トラスト総合リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8963,
-        'name'   	 => 'インヴィンシブル投資法人'
+        'name'   	 => 'インヴィンシブル投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8964,
-        'name'   	 => 'フロンティア不動産投資法人'
+        'name'   	 => 'フロンティア不動産投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8966,
-        'name'   	 => '平和不動産リート投資法人'
+        'name'   	 => '平和不動産リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8967,
-        'name'   	 => '日本ロジスティクスファンド投資法人'
+        'name'   	 => '日本ロジスティクスファンド投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8968,
-        'name'   	 => '福岡リート投資法人'
+        'name'   	 => '福岡リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8972,
-        'name'   	 => 'ケネディクス・オフィス投資法人'
+        'name'   	 => 'ケネディクス・オフィス投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8975,
-        'name'   	 => 'いちごオフィスリート投資法人'
+        'name'   	 => 'いちごオフィスリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8976,
-        'name'   	 => '大和証券オフィス投資法人'
+        'name'   	 => '大和証券オフィス投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8977,
-        'name'   	 => '阪急阪神リート投資法人'
+        'name'   	 => '阪急阪神リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8979,
-        'name'   	 => 'スターツプロシード投資法人'
+        'name'   	 => 'スターツプロシード投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8984,
-        'name'   	 => '大和ハウスリート投資法人'
+        'name'   	 => '大和ハウスリート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8985,
-        'name'   	 => 'ジャパン・ホテル・リート投資法人'
+        'name'   	 => 'ジャパン・ホテル・リート投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8986,
-        'name'   	 => '大和証券リビング投資法人'
+        'name'   	 => '大和証券リビング投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8987,
-        'name'   	 => 'ジャパンエクセレント投資法人'
+        'name'   	 => 'ジャパンエクセレント投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8995,
-        'name'   	 => '誠建設工業'
+        'name'   	 => '誠建設工業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 8999,
-        'name'   	 => 'グランディハウス'
+        'name'   	 => 'グランディハウス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9001,
-        'name'   	 => '東武鉄道'
+        'name'   	 => '東武鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9003,
-        'name'   	 => '相鉄ホールディングス'
+        'name'   	 => '相鉄ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9005,
-        'name'   	 => '東急'
+        'name'   	 => '東急',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9006,
-        'name'   	 => '京浜急行電鉄'
+        'name'   	 => '京浜急行電鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9007,
-        'name'   	 => '小田急電鉄'
+        'name'   	 => '小田急電鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9008,
-        'name'   	 => '京王電鉄'
+        'name'   	 => '京王電鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9009,
-        'name'   	 => '京成電鉄'
+        'name'   	 => '京成電鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9010,
-        'name'   	 => '富士急行'
+        'name'   	 => '富士急行',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9012,
-        'name'   	 => '秩父鉄道'
+        'name'   	 => '秩父鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9014,
-        'name'   	 => '新京成電鉄'
+        'name'   	 => '新京成電鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9017,
-        'name'   	 => '新潟交通'
+        'name'   	 => '新潟交通',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9020,
-        'name'   	 => '東日本旅客鉄道'
+        'name'   	 => '東日本旅客鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9021,
-        'name'   	 => '西日本旅客鉄道'
+        'name'   	 => '西日本旅客鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9022,
-        'name'   	 => '東海旅客鉄道'
+        'name'   	 => '東海旅客鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9024,
-        'name'   	 => '西武ホールディングス'
+        'name'   	 => '西武ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9025,
-        'name'   	 => '鴻池運輸'
+        'name'   	 => '鴻池運輸',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9028,
-        'name'   	 => 'ゼロ'
+        'name'   	 => 'ゼロ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9029,
-        'name'   	 => 'ヒガシトゥエンティワン'
+        'name'   	 => 'ヒガシトゥエンティワン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9031,
-        'name'   	 => '西日本鉄道'
+        'name'   	 => '西日本鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9033,
-        'name'   	 => '広島電鉄'
+        'name'   	 => '広島電鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9034,
-        'name'   	 => '南総通運'
+        'name'   	 => '南総通運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9036,
-        'name'   	 => '東部ネットワーク'
+        'name'   	 => '東部ネットワーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9037,
-        'name'   	 => 'ハマキョウレックス'
+        'name'   	 => 'ハマキョウレックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9039,
-        'name'   	 => 'サカイ引越センター'
+        'name'   	 => 'サカイ引越センター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9041,
-        'name'   	 => '近鉄グループホールディングス'
+        'name'   	 => '近鉄グループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9042,
-        'name'   	 => '阪急阪神ホールディングス'
+        'name'   	 => '阪急阪神ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9044,
-        'name'   	 => '南海電気鉄道'
+        'name'   	 => '南海電気鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9045,
-        'name'   	 => '京阪ホールディングス'
+        'name'   	 => '京阪ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9046,
-        'name'   	 => '神戸電鉄'
+        'name'   	 => '神戸電鉄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9048,
-        'name'   	 => '名古屋鉄道'
+        'name'   	 => '名古屋鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9049,
-        'name'   	 => '京福電気鉄道'
+        'name'   	 => '京福電気鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9051,
-        'name'   	 => 'センコン物流'
+        'name'   	 => 'センコン物流',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9052,
-        'name'   	 => '山陽電気鉄道'
+        'name'   	 => '山陽電気鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9055,
-        'name'   	 => 'アルプス物流'
+        'name'   	 => 'アルプス物流',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9057,
-        'name'   	 => '遠州トラック'
+        'name'   	 => '遠州トラック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9058,
-        'name'   	 => 'トランコム'
+        'name'   	 => 'トランコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9059,
-        'name'   	 => 'カンダホールディングス'
+        'name'   	 => 'カンダホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9060,
-        'name'   	 => '日本ロジテム'
+        'name'   	 => '日本ロジテム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9062,
-        'name'   	 => '日本通運'
+        'name'   	 => '日本通運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9063,
-        'name'   	 => '岡山県貨物運送'
+        'name'   	 => '岡山県貨物運送',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9064,
-        'name'   	 => 'ヤマトホールディングス'
+        'name'   	 => 'ヤマトホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9065,
-        'name'   	 => '山九'
+        'name'   	 => '山九',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9066,
-        'name'   	 => '日新'
+        'name'   	 => '日新',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9067,
-        'name'   	 => '丸運'
+        'name'   	 => '丸運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9068,
-        'name'   	 => '丸全昭和運輸'
+        'name'   	 => '丸全昭和運輸',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9069,
-        'name'   	 => 'センコーグループホールディングス'
+        'name'   	 => 'センコーグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9070,
-        'name'   	 => 'トナミホールディングス'
+        'name'   	 => 'トナミホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9072,
-        'name'   	 => 'ニッコンホールディングス'
+        'name'   	 => 'ニッコンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9073,
-        'name'   	 => '京極運輸商事'
+        'name'   	 => '京極運輸商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9074,
-        'name'   	 => '日本石油輸送'
+        'name'   	 => '日本石油輸送',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9075,
-        'name'   	 => '福山通運'
+        'name'   	 => '福山通運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9076,
-        'name'   	 => 'セイノーホールディングス'
+        'name'   	 => 'セイノーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9078,
-        'name'   	 => 'エスライン'
+        'name'   	 => 'エスライン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9081,
-        'name'   	 => '神奈川中央交通'
+        'name'   	 => '神奈川中央交通',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9082,
-        'name'   	 => '大和自動車交通'
+        'name'   	 => '大和自動車交通',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9083,
-        'name'   	 => '神姫バス'
+        'name'   	 => '神姫バス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9086,
-        'name'   	 => '日立物流'
+        'name'   	 => '日立物流',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9087,
-        'name'   	 => 'タカセ'
+        'name'   	 => 'タカセ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9090,
-        'name'   	 => '丸和運輸機関'
+        'name'   	 => '丸和運輸機関',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9099,
-        'name'   	 => 'Ｃ＆Ｆロジホールディングス'
+        'name'   	 => 'Ｃ＆Ｆロジホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9101,
-        'name'   	 => '日本郵船'
+        'name'   	 => '日本郵船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9104,
-        'name'   	 => '商船三井'
+        'name'   	 => '商船三井',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9107,
-        'name'   	 => '川崎汽船'
+        'name'   	 => '川崎汽船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9110,
-        'name'   	 => 'ＮＳユナイテッド海運'
+        'name'   	 => 'ＮＳユナイテッド海運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9115,
-        'name'   	 => '明治海運'
+        'name'   	 => '明治海運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9119,
-        'name'   	 => '飯野海運'
+        'name'   	 => '飯野海運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9127,
-        'name'   	 => '玉井商船'
+        'name'   	 => '玉井商船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9130,
-        'name'   	 => '共栄タンカー'
+        'name'   	 => '共栄タンカー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9142,
-        'name'   	 => '九州旅客鉄道'
+        'name'   	 => '九州旅客鉄道',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9143,
-        'name'   	 => 'ＳＧホールディングス'
+        'name'   	 => 'ＳＧホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9171,
-        'name'   	 => '栗林商船'
+        'name'   	 => '栗林商船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9173,
-        'name'   	 => '東海汽船'
+        'name'   	 => '東海汽船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9176,
-        'name'   	 => '佐渡汽船'
+        'name'   	 => '佐渡汽船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9179,
-        'name'   	 => '川崎近海汽船'
+        'name'   	 => '川崎近海汽船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9193,
-        'name'   	 => '東京汽船'
+        'name'   	 => '東京汽船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9201,
-        'name'   	 => '日本航空'
+        'name'   	 => '日本航空',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9202,
-        'name'   	 => 'ＡＮＡホールディングス'
+        'name'   	 => 'ＡＮＡホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9206,
-        'name'   	 => 'スターフライヤー'
+        'name'   	 => 'スターフライヤー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9232,
-        'name'   	 => 'パスコ'
+        'name'   	 => 'パスコ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9233,
-        'name'   	 => 'アジア航測'
+        'name'   	 => 'アジア航測',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9260,
-        'name'   	 => '西本Ｗｉｓｍｅｔｔａｃホールディングス'
+        'name'   	 => '西本Ｗｉｓｍｅｔｔａｃホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9261,
-        'name'   	 => 'クボデラ'
+        'name'   	 => 'クボデラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9262,
-        'name'   	 => 'シルバーライフ'
+        'name'   	 => 'シルバーライフ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9263,
-        'name'   	 => 'ビジョナリーホールディングス'
+        'name'   	 => 'ビジョナリーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9264,
-        'name'   	 => 'ポエック'
+        'name'   	 => 'ポエック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9265,
-        'name'   	 => 'ヤマシタヘルスケアホールディングス'
+        'name'   	 => 'ヤマシタヘルスケアホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9266,
-        'name'   	 => '一家ダイニングプロジェクト'
+        'name'   	 => '一家ダイニングプロジェクト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9267,
-        'name'   	 => 'Ｇｅｎｋｙ　ＤｒｕｇＳｔｏｒｅｓ'
+        'name'   	 => 'Ｇｅｎｋｙ　ＤｒｕｇＳｔｏｒｅｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9268,
-        'name'   	 => 'オプティマスグループ'
+        'name'   	 => 'オプティマスグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9270,
-        'name'   	 => 'バリュエンスホールディングス'
+        'name'   	 => 'バリュエンスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9271,
-        'name'   	 => '和心'
+        'name'   	 => '和心',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9272,
-        'name'   	 => 'ブティックス'
+        'name'   	 => 'ブティックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9273,
-        'name'   	 => 'コーア商事ホールディングス'
+        'name'   	 => 'コーア商事ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9274,
-        'name'   	 => '国際紙パルプ商事'
+        'name'   	 => '国際紙パルプ商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9275,
-        'name'   	 => 'ナルミヤ・インターナショナル'
+        'name'   	 => 'ナルミヤ・インターナショナル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9276,
-        'name'   	 => 'アザース'
+        'name'   	 => 'アザース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9278,
-        'name'   	 => 'ブックオフグループホールディングス'
+        'name'   	 => 'ブックオフグループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9279,
-        'name'   	 => 'ギフト'
+        'name'   	 => 'ギフト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9281,
-        'name'   	 => 'タカラレーベン・インフラ投資法人'
+        'name'   	 => 'タカラレーベン・インフラ投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9282,
-        'name'   	 => 'いちごグリーンインフラ投資法人'
+        'name'   	 => 'いちごグリーンインフラ投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9283,
-        'name'   	 => '日本再生可能エネルギーインフラ投資法人'
+        'name'   	 => '日本再生可能エネルギーインフラ投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9284,
-        'name'   	 => 'カナディアン・ソーラー・インフラ投資法人'
+        'name'   	 => 'カナディアン・ソーラー・インフラ投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9285,
-        'name'   	 => '東京インフラ・エネルギー投資法人'
+        'name'   	 => '東京インフラ・エネルギー投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9286,
-        'name'   	 => 'エネクス・インフラ投資法人'
+        'name'   	 => 'エネクス・インフラ投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9287,
-        'name'   	 => 'ジャパン・インフラファンド投資法人'
+        'name'   	 => 'ジャパン・インフラファンド投資法人',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9301,
-        'name'   	 => '三菱倉庫'
+        'name'   	 => '三菱倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9302,
-        'name'   	 => '三井倉庫ホールディングス'
+        'name'   	 => '三井倉庫ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9303,
-        'name'   	 => '住友倉庫'
+        'name'   	 => '住友倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9304,
-        'name'   	 => '澁澤倉庫'
+        'name'   	 => '澁澤倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9305,
-        'name'   	 => 'ヤマタネ'
+        'name'   	 => 'ヤマタネ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9306,
-        'name'   	 => '東陽倉庫'
+        'name'   	 => '東陽倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9307,
-        'name'   	 => '杉村倉庫'
+        'name'   	 => '杉村倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9308,
-        'name'   	 => '乾汽船'
+        'name'   	 => '乾汽船',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9310,
-        'name'   	 => '日本トランスシティ'
+        'name'   	 => '日本トランスシティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9311,
-        'name'   	 => 'アサガミ'
+        'name'   	 => 'アサガミ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9312,
-        'name'   	 => 'ケイヒン'
+        'name'   	 => 'ケイヒン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9313,
-        'name'   	 => '丸八倉庫'
+        'name'   	 => '丸八倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9318,
-        'name'   	 => 'アジア開発キャピタル'
+        'name'   	 => 'アジア開発キャピタル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9319,
-        'name'   	 => '中央倉庫'
+        'name'   	 => '中央倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9322,
-        'name'   	 => '川西倉庫'
+        'name'   	 => '川西倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9324,
-        'name'   	 => '安田倉庫'
+        'name'   	 => '安田倉庫',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9325,
-        'name'   	 => 'ファイズホールディングス'
+        'name'   	 => 'ファイズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9326,
-        'name'   	 => '関通'
+        'name'   	 => '関通',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9351,
-        'name'   	 => '東洋埠頭'
+        'name'   	 => '東洋埠頭',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9353,
-        'name'   	 => '櫻島埠頭'
+        'name'   	 => '櫻島埠頭',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9355,
-        'name'   	 => 'リンコーコーポレーション'
+        'name'   	 => 'リンコーコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9358,
-        'name'   	 => '宇徳'
+        'name'   	 => '宇徳',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9360,
-        'name'   	 => '鈴与シンワート'
+        'name'   	 => '鈴与シンワート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9361,
-        'name'   	 => '伏木海陸運送'
+        'name'   	 => '伏木海陸運送',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9362,
-        'name'   	 => '兵機海運'
+        'name'   	 => '兵機海運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9363,
-        'name'   	 => '大運'
+        'name'   	 => '大運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9364,
-        'name'   	 => '上組'
+        'name'   	 => '上組',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9365,
-        'name'   	 => 'トレーディア'
+        'name'   	 => 'トレーディア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9366,
-        'name'   	 => 'サンリツ'
+        'name'   	 => 'サンリツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9367,
-        'name'   	 => '大東港運'
+        'name'   	 => '大東港運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9368,
-        'name'   	 => 'キムラユニティー'
+        'name'   	 => 'キムラユニティー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9369,
-        'name'   	 => 'キユーソー流通システム'
+        'name'   	 => 'キユーソー流通システム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9375,
-        'name'   	 => '近鉄エクスプレス'
+        'name'   	 => '近鉄エクスプレス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9376,
-        'name'   	 => 'ユーラシア旅行社'
+        'name'   	 => 'ユーラシア旅行社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9377,
-        'name'   	 => 'エージーピー'
+        'name'   	 => 'エージーピー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9380,
-        'name'   	 => '東海運'
+        'name'   	 => '東海運',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9381,
-        'name'   	 => 'エーアイテイー'
+        'name'   	 => 'エーアイテイー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9384,
-        'name'   	 => '内外トランスライン'
+        'name'   	 => '内外トランスライン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9385,
-        'name'   	 => 'ショーエイコーポレーション'
+        'name'   	 => 'ショーエイコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9386,
-        'name'   	 => '日本コンセプト'
+        'name'   	 => '日本コンセプト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9388,
-        'name'   	 => 'パパネッツ'
+        'name'   	 => 'パパネッツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9399,
-        'name'   	 => 'ビート・ホールディングス・リミテッド'
+        'name'   	 => 'ビート・ホールディングス・リミテッド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9401,
-        'name'   	 => '東京放送ホールディングス'
+        'name'   	 => '東京放送ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9404,
-        'name'   	 => '日本テレビホールディングス'
+        'name'   	 => '日本テレビホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9405,
-        'name'   	 => '朝日放送グループホールディングス'
+        'name'   	 => '朝日放送グループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9408,
-        'name'   	 => '新潟放送'
+        'name'   	 => '新潟放送',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9409,
-        'name'   	 => 'テレビ朝日ホールディングス'
+        'name'   	 => 'テレビ朝日ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9412,
-        'name'   	 => 'スカパーＪＳＡＴホールディングス'
+        'name'   	 => 'スカパーＪＳＡＴホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9413,
-        'name'   	 => 'テレビ東京ホールディングス'
+        'name'   	 => 'テレビ東京ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9414,
-        'name'   	 => '日本ＢＳ放送'
+        'name'   	 => '日本ＢＳ放送',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9416,
-        'name'   	 => 'ビジョン'
+        'name'   	 => 'ビジョン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9417,
-        'name'   	 => 'スマートバリュー'
+        'name'   	 => 'スマートバリュー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9418,
-        'name'   	 => 'ＵＳＥＮ－ＮＥＸＴ　ＨＯＬＤＩＮＧＳ'
+        'name'   	 => 'ＵＳＥＮ－ＮＥＸＴ　ＨＯＬＤＩＮＧＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9419,
-        'name'   	 => 'ワイヤレスゲート'
+        'name'   	 => 'ワイヤレスゲート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9421,
-        'name'   	 => 'エヌジェイホールディングス'
+        'name'   	 => 'エヌジェイホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9422,
-        'name'   	 => 'コネクシオ'
+        'name'   	 => 'コネクシオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9423,
-        'name'   	 => 'フォーバル・リアルストレート'
+        'name'   	 => 'フォーバル・リアルストレート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9424,
-        'name'   	 => '日本通信'
+        'name'   	 => '日本通信',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9425,
-        'name'   	 => '日本テレホン'
+        'name'   	 => '日本テレホン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9428,
-        'name'   	 => 'クロップス'
+        'name'   	 => 'クロップス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9432,
-        'name'   	 => '日本電信電話'
+        'name'   	 => '日本電信電話',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9433,
-        'name'   	 => 'ＫＤＤＩ'
+        'name'   	 => 'ＫＤＤＩ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9434,
-        'name'   	 => 'ソフトバンク'
+        'name'   	 => 'ソフトバンク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9435,
-        'name'   	 => '光通信'
+        'name'   	 => '光通信',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9436,
-        'name'   	 => '沖縄セルラー電話'
+        'name'   	 => '沖縄セルラー電話',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9437,
-        'name'   	 => 'ＮＴＴドコモ'
+        'name'   	 => 'ＮＴＴドコモ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9438,
-        'name'   	 => 'エムティーアイ'
+        'name'   	 => 'エムティーアイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9439,
-        'name'   	 => 'エム・エイチ・グループ'
+        'name'   	 => 'エム・エイチ・グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9441,
-        'name'   	 => 'ベルパーク'
+        'name'   	 => 'ベルパーク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9444,
-        'name'   	 => 'トーシンホールディングス'
+        'name'   	 => 'トーシンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9445,
-        'name'   	 => 'フォーバルテレコム'
+        'name'   	 => 'フォーバルテレコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9446,
-        'name'   	 => 'サカイホールディングス'
+        'name'   	 => 'サカイホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9449,
-        'name'   	 => 'ＧＭＯインターネット'
+        'name'   	 => 'ＧＭＯインターネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9450,
-        'name'   	 => 'ファイバーゲート'
+        'name'   	 => 'ファイバーゲート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9465,
-        'name'   	 => 'Ｋｉｐｓ'
+        'name'   	 => 'Ｋｉｐｓ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9466,
-        'name'   	 => 'アイドママーケティングコミュニケーション'
+        'name'   	 => 'アイドママーケティングコミュニケーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9467,
-        'name'   	 => 'アルファポリス'
+        'name'   	 => 'アルファポリス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9468,
-        'name'   	 => 'ＫＡＤＯＫＡＷＡ'
+        'name'   	 => 'ＫＡＤＯＫＡＷＡ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9470,
-        'name'   	 => '学研ホールディングス'
+        'name'   	 => '学研ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9474,
-        'name'   	 => 'ゼンリン'
+        'name'   	 => 'ゼンリン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9475,
-        'name'   	 => '昭文社ホールディングス'
+        'name'   	 => '昭文社ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9476,
-        'name'   	 => '中央経済社ホールディングス'
+        'name'   	 => '中央経済社ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9478,
-        'name'   	 => 'ＳＥホールディングス・アンド・インキュベーションズ'
+        'name'   	 => 'ＳＥホールディングス・アンド・インキュベーションズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9479,
-        'name'   	 => 'インプレスホールディングス'
+        'name'   	 => 'インプレスホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9501,
-        'name'   	 => '東京電力ホールディングス'
+        'name'   	 => '東京電力ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9502,
-        'name'   	 => '中部電力'
+        'name'   	 => '中部電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9503,
-        'name'   	 => '関西電力'
+        'name'   	 => '関西電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9504,
-        'name'   	 => '中国電力'
+        'name'   	 => '中国電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9505,
-        'name'   	 => '北陸電力'
+        'name'   	 => '北陸電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9506,
-        'name'   	 => '東北電力'
+        'name'   	 => '東北電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9507,
-        'name'   	 => '四国電力'
+        'name'   	 => '四国電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9508,
-        'name'   	 => '九州電力'
+        'name'   	 => '九州電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9509,
-        'name'   	 => '北海道電力'
+        'name'   	 => '北海道電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9511,
-        'name'   	 => '沖縄電力'
+        'name'   	 => '沖縄電力',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9513,
-        'name'   	 => '電源開発'
+        'name'   	 => '電源開発',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9514,
-        'name'   	 => 'エフオン'
+        'name'   	 => 'エフオン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9517,
-        'name'   	 => 'イーレックス'
+        'name'   	 => 'イーレックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9519,
-        'name'   	 => 'レノバ'
+        'name'   	 => 'レノバ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9531,
-        'name'   	 => '東京瓦斯'
+        'name'   	 => '東京瓦斯',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9532,
-        'name'   	 => '大阪瓦斯'
+        'name'   	 => '大阪瓦斯',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9533,
-        'name'   	 => '東邦瓦斯'
+        'name'   	 => '東邦瓦斯',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9534,
-        'name'   	 => '北海道瓦斯'
+        'name'   	 => '北海道瓦斯',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9535,
-        'name'   	 => '広島ガス'
+        'name'   	 => '広島ガス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9536,
-        'name'   	 => '西部瓦斯'
+        'name'   	 => '西部瓦斯',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9537,
-        'name'   	 => '北陸瓦斯'
+        'name'   	 => '北陸瓦斯',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9539,
-        'name'   	 => '京葉瓦斯'
+        'name'   	 => '京葉瓦斯',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9543,
-        'name'   	 => '静岡ガス'
+        'name'   	 => '静岡ガス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9551,
-        'name'   	 => 'メタウォーター'
+        'name'   	 => 'メタウォーター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9600,
-        'name'   	 => 'アイネット'
+        'name'   	 => 'アイネット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9601,
-        'name'   	 => '松竹'
+        'name'   	 => '松竹',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9602,
-        'name'   	 => '東宝'
+        'name'   	 => '東宝',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9603,
-        'name'   	 => 'エイチ・アイ・エス'
+        'name'   	 => 'エイチ・アイ・エス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9605,
-        'name'   	 => '東映'
+        'name'   	 => '東映',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9610,
-        'name'   	 => 'ウィルソン・ラーニング　ワールドワイド'
+        'name'   	 => 'ウィルソン・ラーニング　ワールドワイド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9612,
-        'name'   	 => 'ラックランド'
+        'name'   	 => 'ラックランド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9613,
-        'name'   	 => 'エヌ・ティ・ティ・データ'
+        'name'   	 => 'エヌ・ティ・ティ・データ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9616,
-        'name'   	 => '共立メンテナンス'
+        'name'   	 => '共立メンテナンス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9619,
-        'name'   	 => 'イチネンホールディングス'
+        'name'   	 => 'イチネンホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9621,
-        'name'   	 => '建設技術研究所'
+        'name'   	 => '建設技術研究所',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9622,
-        'name'   	 => 'スペース'
+        'name'   	 => 'スペース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9624,
-        'name'   	 => '長大'
+        'name'   	 => '長大',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9625,
-        'name'   	 => 'セレスポ'
+        'name'   	 => 'セレスポ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9627,
-        'name'   	 => 'アインホールディングス'
+        'name'   	 => 'アインホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9628,
-        'name'   	 => '燦ホールディングス'
+        'name'   	 => '燦ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9629,
-        'name'   	 => 'ピー・シー・エー'
+        'name'   	 => 'ピー・シー・エー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9631,
-        'name'   	 => '東急レクリエーション'
+        'name'   	 => '東急レクリエーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9632,
-        'name'   	 => 'スバル興業'
+        'name'   	 => 'スバル興業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9633,
-        'name'   	 => '東京テアトル'
+        'name'   	 => '東京テアトル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9635,
-        'name'   	 => '武蔵野興業'
+        'name'   	 => '武蔵野興業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9636,
-        'name'   	 => 'きんえい'
+        'name'   	 => 'きんえい',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9637,
-        'name'   	 => 'オーエス'
+        'name'   	 => 'オーエス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9639,
-        'name'   	 => '三協フロンテア'
+        'name'   	 => '三協フロンテア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9640,
-        'name'   	 => 'セゾン情報システムズ'
+        'name'   	 => 'セゾン情報システムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9641,
-        'name'   	 => 'サコス'
+        'name'   	 => 'サコス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9644,
-        'name'   	 => 'タナベ経営'
+        'name'   	 => 'タナベ経営',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9647,
-        'name'   	 => '協和コンサルタンツ'
+        'name'   	 => '協和コンサルタンツ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9651,
-        'name'   	 => '日本プロセス'
+        'name'   	 => '日本プロセス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9656,
-        'name'   	 => 'グリーンランドリゾート'
+        'name'   	 => 'グリーンランドリゾート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9658,
-        'name'   	 => 'ビジネスブレイン太田昭和'
+        'name'   	 => 'ビジネスブレイン太田昭和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9661,
-        'name'   	 => '歌舞伎座'
+        'name'   	 => '歌舞伎座',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9663,
-        'name'   	 => 'ナガワ'
+        'name'   	 => 'ナガワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9671,
-        'name'   	 => 'よみうりランド'
+        'name'   	 => 'よみうりランド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9672,
-        'name'   	 => '東京都競馬'
+        'name'   	 => '東京都競馬',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9675,
-        'name'   	 => '常磐興産'
+        'name'   	 => '常磐興産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9678,
-        'name'   	 => 'カナモト'
+        'name'   	 => 'カナモト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9679,
-        'name'   	 => 'ホウライ'
+        'name'   	 => 'ホウライ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9681,
-        'name'   	 => '東京ドーム'
+        'name'   	 => '東京ドーム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9682,
-        'name'   	 => 'ＤＴＳ'
+        'name'   	 => 'ＤＴＳ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9684,
-        'name'   	 => 'スクウェア・エニックス・ホールディングス'
+        'name'   	 => 'スクウェア・エニックス・ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9685,
-        'name'   	 => 'ＫＹＣＯＭホールディングス'
+        'name'   	 => 'ＫＹＣＯＭホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9686,
-        'name'   	 => '東洋テック'
+        'name'   	 => '東洋テック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9687,
-        'name'   	 => 'ＫＳＫ'
+        'name'   	 => 'ＫＳＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9691,
-        'name'   	 => '両毛システムズ'
+        'name'   	 => '両毛システムズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9692,
-        'name'   	 => 'シーイーシー'
+        'name'   	 => 'シーイーシー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9695,
-        'name'   	 => '鴨川グランドホテル'
+        'name'   	 => '鴨川グランドホテル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9696,
-        'name'   	 => 'ウィザス'
+        'name'   	 => 'ウィザス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9697,
-        'name'   	 => 'カプコン'
+        'name'   	 => 'カプコン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9698,
-        'name'   	 => 'クレオ'
+        'name'   	 => 'クレオ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9699,
-        'name'   	 => '西尾レントオール'
+        'name'   	 => '西尾レントオール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9701,
-        'name'   	 => '東京會舘'
+        'name'   	 => '東京會舘',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9702,
-        'name'   	 => 'アイ・エス・ビー'
+        'name'   	 => 'アイ・エス・ビー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9704,
-        'name'   	 => 'アゴーラ・ホスピタリティー・グループ'
+        'name'   	 => 'アゴーラ・ホスピタリティー・グループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9706,
-        'name'   	 => '日本空港ビルデング'
+        'name'   	 => '日本空港ビルデング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9707,
-        'name'   	 => 'ユニマット　リタイアメント・コミュニティ'
+        'name'   	 => 'ユニマット　リタイアメント・コミュニティ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9708,
-        'name'   	 => '帝国ホテル'
+        'name'   	 => '帝国ホテル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9709,
-        'name'   	 => 'ＮＣＳ＆Ａ'
+        'name'   	 => 'ＮＣＳ＆Ａ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9713,
-        'name'   	 => 'ロイヤルホテル'
+        'name'   	 => 'ロイヤルホテル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9715,
-        'name'   	 => 'トランス・コスモス'
+        'name'   	 => 'トランス・コスモス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9716,
-        'name'   	 => '乃村工藝社'
+        'name'   	 => '乃村工藝社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9717,
-        'name'   	 => 'ジャステック'
+        'name'   	 => 'ジャステック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9719,
-        'name'   	 => 'ＳＣＳＫ'
+        'name'   	 => 'ＳＣＳＫ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9720,
-        'name'   	 => 'ホテル、ニューグランド'
+        'name'   	 => 'ホテル、ニューグランド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9722,
-        'name'   	 => '藤田観光'
+        'name'   	 => '藤田観光',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9723,
-        'name'   	 => '京都ホテル'
+        'name'   	 => '京都ホテル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9726,
-        'name'   	 => 'ＫＮＴ－ＣＴホールディングス'
+        'name'   	 => 'ＫＮＴ－ＣＴホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9728,
-        'name'   	 => '日本管財'
+        'name'   	 => '日本管財',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9729,
-        'name'   	 => 'トーカイ'
+        'name'   	 => 'トーカイ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9731,
-        'name'   	 => '白洋舎'
+        'name'   	 => '白洋舎',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9733,
-        'name'   	 => 'ナガセ'
+        'name'   	 => 'ナガセ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9734,
-        'name'   	 => '精養軒'
+        'name'   	 => '精養軒',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9735,
-        'name'   	 => 'セコム'
+        'name'   	 => 'セコム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9739,
-        'name'   	 => '日本システムウエア'
+        'name'   	 => '日本システムウエア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9740,
-        'name'   	 => 'セントラル警備保障'
+        'name'   	 => 'セントラル警備保障',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9742,
-        'name'   	 => 'アイネス'
+        'name'   	 => 'アイネス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9743,
-        'name'   	 => '丹青社'
+        'name'   	 => '丹青社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9744,
-        'name'   	 => 'メイテック'
+        'name'   	 => 'メイテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9746,
-        'name'   	 => 'ＴＫＣ'
+        'name'   	 => 'ＴＫＣ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9749,
-        'name'   	 => '富士ソフト'
+        'name'   	 => '富士ソフト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9753,
-        'name'   	 => 'アイエックス・ナレッジ'
+        'name'   	 => 'アイエックス・ナレッジ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9755,
-        'name'   	 => '応用地質'
+        'name'   	 => '応用地質',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9757,
-        'name'   	 => '船井総研ホールディングス'
+        'name'   	 => '船井総研ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9758,
-        'name'   	 => 'ジャパンシステム'
+        'name'   	 => 'ジャパンシステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9759,
-        'name'   	 => 'ＮＳＤ'
+        'name'   	 => 'ＮＳＤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9760,
-        'name'   	 => '進学会ホールディングス'
+        'name'   	 => '進学会ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9761,
-        'name'   	 => '東海リース'
+        'name'   	 => '東海リース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9763,
-        'name'   	 => '丸紅建材リース'
+        'name'   	 => '丸紅建材リース',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9765,
-        'name'   	 => 'オオバ'
+        'name'   	 => 'オオバ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9766,
-        'name'   	 => 'コナミホールディングス'
+        'name'   	 => 'コナミホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9767,
-        'name'   	 => '日建工学'
+        'name'   	 => '日建工学',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9768,
-        'name'   	 => 'いであ'
+        'name'   	 => 'いであ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9769,
-        'name'   	 => '学究社'
+        'name'   	 => '学究社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9776,
-        'name'   	 => '札幌臨床検査センター'
+        'name'   	 => '札幌臨床検査センター',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9778,
-        'name'   	 => '昴'
+        'name'   	 => '昴',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9780,
-        'name'   	 => 'ハリマビステム'
+        'name'   	 => 'ハリマビステム',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9782,
-        'name'   	 => 'ディーエムエス'
+        'name'   	 => 'ディーエムエス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9783,
-        'name'   	 => 'ベネッセホールディングス'
+        'name'   	 => 'ベネッセホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9787,
-        'name'   	 => 'イオンディライト'
+        'name'   	 => 'イオンディライト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9788,
-        'name'   	 => 'ナック'
+        'name'   	 => 'ナック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9790,
-        'name'   	 => '福井コンピュータホールディングス'
+        'name'   	 => '福井コンピュータホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9791,
-        'name'   	 => 'ビケンテクノ'
+        'name'   	 => 'ビケンテクノ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9792,
-        'name'   	 => 'ニチイ学館'
+        'name'   	 => 'ニチイ学館',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9793,
-        'name'   	 => 'ダイセキ'
+        'name'   	 => 'ダイセキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9795,
-        'name'   	 => 'ステップ'
+        'name'   	 => 'ステップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9797,
-        'name'   	 => '大日本コンサルタント'
+        'name'   	 => '大日本コンサルタント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9799,
-        'name'   	 => '旭情報サービス'
+        'name'   	 => '旭情報サービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9810,
-        'name'   	 => '日鉄物産'
+        'name'   	 => '日鉄物産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9812,
-        'name'   	 => 'テーオーホールディングス'
+        'name'   	 => 'テーオーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9816,
-        'name'   	 => 'ストライダーズ'
+        'name'   	 => 'ストライダーズ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9818,
-        'name'   	 => '大丸エナウィン'
+        'name'   	 => '大丸エナウィン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9820,
-        'name'   	 => 'エムティジェネックス'
+        'name'   	 => 'エムティジェネックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9823,
-        'name'   	 => 'マミーマート'
+        'name'   	 => 'マミーマート',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9824,
-        'name'   	 => '泉州電業'
+        'name'   	 => '泉州電業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9827,
-        'name'   	 => 'リリカラ'
+        'name'   	 => 'リリカラ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9828,
-        'name'   	 => '元気寿司'
+        'name'   	 => '元気寿司',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9829,
-        'name'   	 => 'ながの東急百貨店'
+        'name'   	 => 'ながの東急百貨店',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9830,
-        'name'   	 => 'トラスコ中山'
+        'name'   	 => 'トラスコ中山',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9831,
-        'name'   	 => 'ヤマダ電機'
+        'name'   	 => 'ヤマダ電機',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9832,
-        'name'   	 => 'オートバックスセブン'
+        'name'   	 => 'オートバックスセブン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9835,
-        'name'   	 => 'ジュンテンドー'
+        'name'   	 => 'ジュンテンドー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9837,
-        'name'   	 => 'モリト'
+        'name'   	 => 'モリト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9842,
-        'name'   	 => 'アークランドサカモト'
+        'name'   	 => 'アークランドサカモト',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9843,
-        'name'   	 => 'ニトリホールディングス'
+        'name'   	 => 'ニトリホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9845,
-        'name'   	 => 'パーカーコーポレーション'
+        'name'   	 => 'パーカーコーポレーション',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9846,
-        'name'   	 => '天満屋ストア'
+        'name'   	 => '天満屋ストア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9849,
-        'name'   	 => '共同紙販ホールディングス'
+        'name'   	 => '共同紙販ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9850,
-        'name'   	 => 'グルメ杵屋'
+        'name'   	 => 'グルメ杵屋',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9852,
-        'name'   	 => 'ＣＢグループマネジメント'
+        'name'   	 => 'ＣＢグループマネジメント',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9853,
-        'name'   	 => '銀座ルノアール'
+        'name'   	 => '銀座ルノアール',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9854,
-        'name'   	 => '愛眼'
+        'name'   	 => '愛眼',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9856,
-        'name'   	 => 'ケーユーホールディングス'
+        'name'   	 => 'ケーユーホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9857,
-        'name'   	 => '英和'
+        'name'   	 => '英和',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9861,
-        'name'   	 => '吉野家ホールディングス'
+        'name'   	 => '吉野家ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9867,
-        'name'   	 => 'ソレキア'
+        'name'   	 => 'ソレキア',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9869,
-        'name'   	 => '加藤産業'
+        'name'   	 => '加藤産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9872,
-        'name'   	 => '北恵'
+        'name'   	 => '北恵',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9873,
-        'name'   	 => '日本ＫＦＣホールディングス'
+        'name'   	 => '日本ＫＦＣホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9876,
-        'name'   	 => 'コックス'
+        'name'   	 => 'コックス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9878,
-        'name'   	 => 'セキド'
+        'name'   	 => 'セキド',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9880,
-        'name'   	 => 'イノテック'
+        'name'   	 => 'イノテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9882,
-        'name'   	 => 'イエローハット'
+        'name'   	 => 'イエローハット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9885,
-        'name'   	 => 'シャルレ'
+        'name'   	 => 'シャルレ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9887,
-        'name'   	 => '松屋フーズホールディングス'
+        'name'   	 => '松屋フーズホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9888,
-        'name'   	 => 'ＵＥＸ'
+        'name'   	 => 'ＵＥＸ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9889,
-        'name'   	 => 'ＪＢＣＣホールディングス'
+        'name'   	 => 'ＪＢＣＣホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9890,
-        'name'   	 => 'マキヤ'
+        'name'   	 => 'マキヤ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9895,
-        'name'   	 => 'コンセック'
+        'name'   	 => 'コンセック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9896,
-        'name'   	 => 'ＪＫホールディングス'
+        'name'   	 => 'ＪＫホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9900,
-        'name'   	 => 'サガミホールディングス'
+        'name'   	 => 'サガミホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9902,
-        'name'   	 => '日伝'
+        'name'   	 => '日伝',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9903,
-        'name'   	 => 'カンセキ'
+        'name'   	 => 'カンセキ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9904,
-        'name'   	 => 'ベリテ'
+        'name'   	 => 'ベリテ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9906,
-        'name'   	 => '藤井産業'
+        'name'   	 => '藤井産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9908,
-        'name'   	 => '日本電計'
+        'name'   	 => '日本電計',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9909,
-        'name'   	 => '愛光電気'
+        'name'   	 => '愛光電気',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9913,
-        'name'   	 => '日邦産業'
+        'name'   	 => '日邦産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9914,
-        'name'   	 => '植松商会'
+        'name'   	 => '植松商会',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9919,
-        'name'   	 => '関西スーパーマーケット'
+        'name'   	 => '関西スーパーマーケット',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9927,
-        'name'   	 => 'ワットマン'
+        'name'   	 => 'ワットマン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9928,
-        'name'   	 => 'ミロク情報サービス'
+        'name'   	 => 'ミロク情報サービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9929,
-        'name'   	 => '平和紙業'
+        'name'   	 => '平和紙業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9930,
-        'name'   	 => '北沢産業'
+        'name'   	 => '北沢産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9932,
-        'name'   	 => '杉本商事'
+        'name'   	 => '杉本商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9934,
-        'name'   	 => '因幡電機産業'
+        'name'   	 => '因幡電機産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9936,
-        'name'   	 => '王将フードサービス'
+        'name'   	 => '王将フードサービス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9941,
-        'name'   	 => '太洋物産'
+        'name'   	 => '太洋物産',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9945,
-        'name'   	 => 'プレナス'
+        'name'   	 => 'プレナス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9946,
-        'name'   	 => 'ミニストップ'
+        'name'   	 => 'ミニストップ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9948,
-        'name'   	 => 'アークス'
+        'name'   	 => 'アークス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9950,
-        'name'   	 => 'ハチバン'
+        'name'   	 => 'ハチバン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9955,
-        'name'   	 => 'ヨンキュウ'
+        'name'   	 => 'ヨンキュウ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9956,
-        'name'   	 => 'バローホールディングス'
+        'name'   	 => 'バローホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9959,
-        'name'   	 => 'アシードホールディングス'
+        'name'   	 => 'アシードホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9960,
-        'name'   	 => '東テク'
+        'name'   	 => '東テク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9962,
-        'name'   	 => 'ミスミグループ本社'
+        'name'   	 => 'ミスミグループ本社',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9964,
-        'name'   	 => 'アイ・テック'
+        'name'   	 => 'アイ・テック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9966,
-        'name'   	 => '藤久'
+        'name'   	 => '藤久',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9967,
-        'name'   	 => '堺商事'
+        'name'   	 => '堺商事',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9969,
-        'name'   	 => 'ショクブン'
+        'name'   	 => 'ショクブン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9972,
-        'name'   	 => 'アルテック'
+        'name'   	 => 'アルテック',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9973,
-        'name'   	 => '小僧寿し'
+        'name'   	 => '小僧寿し',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9974,
-        'name'   	 => 'ベルク'
+        'name'   	 => 'ベルク',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9976,
-        'name'   	 => 'セキチュー'
+        'name'   	 => 'セキチュー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9977,
-        'name'   	 => 'アオキスーパー'
+        'name'   	 => 'アオキスーパー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9978,
-        'name'   	 => '文教堂グループホールディングス'
+        'name'   	 => '文教堂グループホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9979,
-        'name'   	 => '大庄'
+        'name'   	 => '大庄',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9980,
-        'name'   	 => 'ＭＲＫホールディングス'
+        'name'   	 => 'ＭＲＫホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9982,
-        'name'   	 => 'タキヒヨー'
+        'name'   	 => 'タキヒヨー',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9983,
-        'name'   	 => 'ファーストリテイリング'
+        'name'   	 => 'ファーストリテイリング',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9984,
-        'name'   	 => 'ソフトバンクグループ'
+        'name'   	 => 'ソフトバンクグループ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9986,
-        'name'   	 => '蔵王産業'
+        'name'   	 => '蔵王産業',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9987,
-        'name'   	 => 'スズケン'
+        'name'   	 => 'スズケン',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9989,
-        'name'   	 => 'サンドラッグ'
+        'name'   	 => 'サンドラッグ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9990,
-        'name'   	 => 'サックスバー　ホールディングス'
+        'name'   	 => 'サックスバー　ホールディングス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9991,
-        'name'   	 => 'ジェコス'
+        'name'   	 => 'ジェコス',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9993,
-        'name'   	 => 'ヤマザワ'
+        'name'   	 => 'ヤマザワ',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9994,
-        'name'   	 => 'やまや'
+        'name'   	 => 'やまや',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9995,
-        'name'   	 => 'グローセル'
+        'name'   	 => 'グローセル',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9996,
-        'name'   	 => 'サトー商会'
+        'name'   	 => 'サトー商会',
+        'status'     => 'disable',
     ],
     [
         'stock_code' => 9997,
-        'name'   	 => 'ベルーナ'
+        'name'   	 => 'ベルーナ',
+        'status'     => 'disable',
     ]
 ];

@@ -2,7 +2,6 @@
 
 namespace App\Domain\Qualitative\UseCase;
 
-use Illuminate\Support\Carbon;
 use App\Repository\RegionRepository;
 use App\Repository\CompanyRepository;
 use App\Repository\HistoryRepository;
@@ -11,7 +10,6 @@ use App\Repository\HistoryTagRepository;
 use App\Repository\CompanyDetailRepository;
 use App\Repository\LongPerformanceRepository;
 use App\Domain\Utility\ReadCompanyJsonUtility;
-use App\Models\LongPerformance;
 
 class ImportCompanyUseCase
 {

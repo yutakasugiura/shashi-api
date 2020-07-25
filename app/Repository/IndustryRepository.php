@@ -2,7 +2,7 @@
 
 namespace App\Repository;
 
-use App\Models\industry;
+use App\Models\Industry;
 
 class industryRepository
 {

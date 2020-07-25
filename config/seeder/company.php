@@ -2,6 +2,12 @@
 
 return [
     [
+        //テスト表示用データ
+        'stock_code' => 1000,
+        'name'       => '企業表示テスト',
+        'status'     => 'enable',
+    ],
+    [
         'stock_code' => 1301,
         'name'       => '極洋',
         'status'     => 'disable',

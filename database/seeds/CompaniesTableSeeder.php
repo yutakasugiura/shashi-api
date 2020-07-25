@@ -18,7 +18,7 @@ class CompaniesTableSeeder extends Seeder
     {
         $now = Carbon::now()->toDateString();
 
-        $companies = config('company');
+        $companies = config('seeder.company');
 
         DB::table('companies')->truncate();
 

@@ -5,17 +5,17 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
-class Region extends Model
+class Industry extends Model
 {
     protected $guarded = ['id'];
 
     /**
-     * 沿革とのリレーション
+     * 企業詳細とのリレーション
      *
      * @return HasMany
      */
-    public function histories(): HasMany
+    public function companyDetails(): HasMany
     {
-        return $this->hasMany(History::class);
+        return $this->hasMany(CompanyDetail::class);
     }
 }

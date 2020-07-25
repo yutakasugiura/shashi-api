@@ -10,13 +10,13 @@ class Performance extends Model
 {
     protected $guarded = ['id'];
 
+    /**
+     * 企業とのリレーション（Phase1暫定）
+     *
+     * @return BelongsTo
+     */
     public function company(): BelongsTo
     {
         return $this->belongsTo(Company::class);
-    }
-
-    public function sales(): HasMany
-    {
-        return $this->hasMany(Sale::class);
     }
 }

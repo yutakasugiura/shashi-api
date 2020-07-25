@@ -2,7 +2,7 @@
 
 namespace App\Repository;
 
-use App\Models\companyDetail;
+use App\Models\CompanyDetail;
 
 class companyDetailRepository
 {

@@ -44,4 +44,11 @@ class companyDetailRepository
             'person_img_path' => $person_img_path
         ]);
     }
+
+    public function findCompanyDetail(int $companyId)
+    {
+        return $this->eloquentCompanyDetail
+            ->where('company_id', $companyId)
+            ->first();
+    }
 }

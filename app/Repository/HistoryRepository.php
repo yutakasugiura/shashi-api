@@ -68,6 +68,7 @@ class HistoryRepository
                     'histories.summary',
                     'histories.detail',
                     'history_tags.name as history_tag_name',
+                    'history_tags.classification as history_tag_classification',
                     'regions.name as region'
                 )
                 ->where('company_id', $companyId)

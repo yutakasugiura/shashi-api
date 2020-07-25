@@ -39,4 +39,11 @@ class LongPerformanceRepository
             'background_color' => $backgroundColor
         ]);
     }
+
+    public function findPerformance(int $companyId)
+    {
+        return $this->eloquentLongPerformance
+            ->where('company_id', $companyId)
+            ->get();
+    }
 }

@@ -17,13 +17,10 @@ class CreateHistoriesTable extends Migration
             $table->bigIncrements('id');
             $table->unsignedBigInteger('company_id')
                 ->comment('企業id');
-            $table->unsignedBigInteger('tag_id')
+            $table->unsignedBigInteger('history_tag_id')
                 ->comment('種別id');
             $table->unsignedBigInteger('region_id')
                 ->comment('地域');
-            //TODO: 後日追加
-            // $table->unsignedBigInteger('key_person_id')
-            //     ->comment('重要人物');
             $table->date('year')
                 ->comment('年');
             $table->string('summary')
@@ -32,20 +29,19 @@ class CreateHistoriesTable extends Migration
                 ->comment('詳細');
             $table->timestamps();
 
+            //企業削除時に消去（合併など）
             $table->foreign('company_id')
                 ->references('id')
                 ->on('companies')
                 ->onDelete('cascade');
 
-            $table->foreign('tag_id')
+            $table->foreign('history_tag_id')
                 ->references('id')
-                ->on('tags')
-                ->onDelete('cascade');
+                ->on('history_tags');
 
             $table->foreign('region_id')
                 ->references('id')
-                ->on('regions')
-                ->onDelete('cascade');
+                ->on('regions');
         });
     }
 

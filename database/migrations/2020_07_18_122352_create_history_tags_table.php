@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateTagsTable extends Migration
+class CreateHistoryTagsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,12 +13,12 @@ class CreateTagsTable extends Migration
      */
     public function up()
     {
-        Schema::create('tags', function (Blueprint $table) {
+        Schema::create('history_tags', function (Blueprint $table) {
             $table->id();
             $table->string('name')
                 ->comment('名前');
-            $table->string('status')
-                ->comment('イベントタグ');
+            $table->string('classification')
+                ->comment('分類');
             $table->timestamps();
         });
     }
@@ -30,6 +30,6 @@ class CreateTagsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('tags');
+        Schema::dropIfExists('history_tags');
     }
 }

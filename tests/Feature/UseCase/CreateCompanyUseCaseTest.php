@@ -5,6 +5,7 @@ namespace Tests\Feature;
 use Tests\TestCase;
 use App\Models\Region;
 use App\Models\Company;
+use App\Models\Industry;
 use App\Models\HistoryTag;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use App\Domain\Qualitative\UseCase\ImportCompanyUseCase;
@@ -51,13 +52,22 @@ class CreateCompanyUseCaseTest extends TestCase
             ]);
         }
 
+        //Create Industry
+        $industries = config('seeder.industry');
+        foreach ($industries as $industry) {
+            Industry::create([
+                'name'           => $industry['name'],
+                'classification' => $industry['classification']
+            ]);
+        }
+
         //Create Company
         $companies = config('seeder.company');
         foreach ($companies as $company) {
             Company::create([
                 'name' => $company['name'],
                 'stock_code' => $company['stock_code'],
-                'status' => $company['status'],
+                'status'     => $company['status'],
             ]);
         }
 

@@ -68,7 +68,7 @@
                 社史API
             </div>
             <form action="store" method="post">
-                <input type="input" name="stockCode" placeholder="8011">
+                <input type="input" name="stockCode" placeholder="6758">
                 <input type="submit" value="保存" class="button">
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">

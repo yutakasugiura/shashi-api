@@ -195,17 +195,14 @@ package 定量ドメイン {
         + 億ドル
         end note
 
-        entity "performances" {
+        entity "long_performances" {
         # id [PK]
         # company_id [FK]
         --
+        - label [varchar]
         - closing_year [varchar]
-        - sales [varchar]
-        - profit [varchar]
-        - sales_type [varchar]
-        - profit_type [varchar]
-        - sales_rgba [varchar]
-        - profit_rgba [varchar]
+        - data [varchar]
+        - background_color [varchar]
         --
         }
         note left
@@ -237,7 +234,7 @@ package 認証ドメイン {
 ' リレーションの定義
 companies ||--o| company_details
 companies ||--o{ performances_pahse2
-companies ||--o{ performances
+companies ||--o{ long_performances
 companies ||--o{ histories
 companies ||--o{ company_exective
 histories }o--|| company_exective

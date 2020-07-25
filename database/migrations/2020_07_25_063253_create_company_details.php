@@ -21,11 +21,13 @@ class CreateCompanyDetails extends Migration
                 ->comment('産業種別id');
             $table->string('summary')
                 ->comment('要旨');
-            $table->string('detail')
+            $table->text('detail')
                 ->comment('本文');
             $table->string('founder')
                 ->comment('創業者');
-            $table->date('found_year')
+            $table->string('found_year')
+                ->comment('創業年');
+            $table->string('found_type')
                 ->comment('創業年');
             $table->string('found_region')
                 ->comment('創業地');

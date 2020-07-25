@@ -52,10 +52,21 @@
 
         a {
             color: #666;
+            text-decoration: none;
         }
 
         .m-b-md {
             margin-bottom: 30px;
+        }
+
+        .btn-square-pop {
+            padding: 0.25em 0.5em;
+            text-decoration: none;
+            color: #FFF;
+            background: #fd9535;/*背景色*/
+            border-radius: 4px;/*角の丸み*/
+            font-weight: bold;
+            border: none;  /* 枠線を消す */
         }
 
     </style>
@@ -70,7 +81,7 @@
             <form action="store" method="post">
                 <input type="input" name="stockCode" placeholder="証券コード例）6758" autocomplete=off>
                 <input type="password" name="jsonKey" placeholder="json_password" autocomplete=off>
-                <input type="submit" value="json保存" class="button">
+                <input type="submit" value="json保存" class="btn-square-pop">
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
             </form>

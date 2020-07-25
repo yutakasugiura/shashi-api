@@ -4,6 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <META http-equiv="Refresh" content="0.5;URL=http://localhost:8000">
+
 
     <title>Laravel</title>
 
@@ -73,7 +75,6 @@
                 　保存に<span class="bad">失敗</span>しました
                 <p>YOU NEED JSON SECRET KEY</p>
             </div>
-            <p><a href="/">管理画面に戻る</a></p>
         </div>
     </div>
 </body>

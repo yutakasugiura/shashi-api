@@ -22,6 +22,14 @@ class CompanyRepository
         $this->eloquentHistory = $eloquentHistory;
     }
 
+    /**
+     * 企業を生成する
+     *
+     * @param string $stockCode
+     * @param string $companyName
+     * @param string $status
+     * @return Company
+     */
     public function createCompany(
         string $stockCode,
         string $companyName,
@@ -34,6 +42,12 @@ class CompanyRepository
         ]);
     }
 
+    /**
+     * 企業を取得する
+     *
+     * @param string $stockCode
+     * @return Company|null
+     */
     public function findCompany(
         string $stockCode
     ): ?Company {
@@ -55,10 +69,17 @@ class CompanyRepository
             ->get();
     }
 
+    /**
+     * 表示ステータスの更新
+     *
+     * @param string $stockCode
+     * @param string $status
+     * @return void
+     */
     public function updateCompanyStatus(string $stockCode, string $status): void
     {
         $this->eloquentCompany
-            ->where('status', $status)
+            ->where('stock_code', $stockCode)
             ->update(['status' => $status]);
     }
 }

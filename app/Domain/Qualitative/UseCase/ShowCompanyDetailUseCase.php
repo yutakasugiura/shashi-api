@@ -35,6 +35,13 @@ class ShowCompanyDetailUseCase
      */
     public function execute($stockCode)
     {
-        return $this->historyRepository->findCompanyHistory($stockCode);
+        //企業を取得
+        $company = $this->companyRepository->findCompany($stockCode);
+
+        //沿革詳細を取得
+        $histories = $this->historyRepository->findCompanyHistory($company->id);
+
+        //企業詳細を取得
+        // $companyDetail = $this->companyRepository->findCompanyDetail($company->id);
     }
 }

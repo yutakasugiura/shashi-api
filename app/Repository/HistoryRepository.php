@@ -51,29 +51,26 @@ class HistoryRepository
     }
 
     /**
-     * 沿革を取得（企業名単位）
+     * 沿革を取得（企業単位）
      *
-     * @param string $stockCode
+     * @param int $stockCode
      * @return Collection
      */
-    public function findCompanyHistory(string $stockCode): Collection
+    public function findCompanyHistory(int $companyId): Collection
     {
         return  $this->eloquentHistory
-                ->join('companies', 'histories.company_id', '=', 'companies.id')
                 ->join('history_tags', 'histories.history_tag_id', '=', 'history_tags.id')
                 ->join('regions', 'histories.region_id', '=', 'regions.id')
                 ->select(
                     'histories.id',
                     'histories.company_id',
-                    'companies.name as company_name',
-                    'companies.stock_code',
                     'histories.year',
                     'histories.summary',
                     'histories.detail',
                     'history_tags.name as history_tag_name',
                     'regions.name as region'
                 )
-                ->where('stock_code', $stockCode)
+                ->where('company_id', $companyId)
                 ->get();
     }
 

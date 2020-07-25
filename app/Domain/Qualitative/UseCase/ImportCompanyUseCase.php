@@ -2,11 +2,13 @@
 
 namespace App\Domain\Qualitative\UseCase;
 
-use Illuminate\Support\Carbon;
 use App\Repository\RegionRepository;
 use App\Repository\CompanyRepository;
 use App\Repository\HistoryRepository;
+use App\Repository\IndustryRepository;
 use App\Repository\HistoryTagRepository;
+use App\Repository\CompanyDetailRepository;
+use App\Repository\LongPerformanceRepository;
 use App\Domain\Utility\ReadCompanyJsonUtility;
 
 class ImportCompanyUseCase
@@ -26,18 +28,33 @@ class ImportCompanyUseCase
     /** @var RegionRepository */
     private $regionRepository;
 
+    /** @var IndustryRepository */
+    private $industryRepository;
+
+    /** @var CompanyDetailRepository */
+    private $companyDetailRepository;
+
+    /** @var LongPerformanceRepository */
+    private $longPerformanceRepository;
+
     public function __construct(
         ReadCompanyJsonUtility $readCompanyJsonUtility,
         CompanyRepository $companyRepository,
         HistoryRepository $historyRepository,
         HistoryTagRepository $historyTagRepository,
-        RegionRepository $regionRepository
+        RegionRepository $regionRepository,
+        IndustryRepository $industryRepository,
+        CompanyDetailRepository $companyDetailRepository,
+        LongPerformanceRepository $longPerformanceRepository
     ) {
         $this->readCompanyJsonUtility = $readCompanyJsonUtility;
         $this->companyRepository = $companyRepository;
         $this->historyRepository = $historyRepository;
         $this->historyTagRepository = $historyTagRepository;
         $this->regionRepository = $regionRepository;
+        $this->industryRepository = $industryRepository;
+        $this->companyDetailRepository = $companyDetailRepository;
+        $this->longPerformanceRepository = $longPerformanceRepository;
     }
 
     /**
@@ -57,17 +74,34 @@ class ImportCompanyUseCase
         $status = config('company_status.enable');
         $this->companyRepository->updateCompanyStatus($stockCode, $status);
 
-        //企業の外部キーを取得
+        //企業idを取得
         $companyId = $this->companyRepository->findCompany($stockCode)->id;
 
         //産業タグの取得
+        $industryId = $this->industryRepository->findIndustry($company->get('industry'));
 
-        //沿革の削除（過去分がある場合）
+        //企業詳細の保存
+        $this->companyDetailRepository->createCompanyDetail(
+            $companyId,
+            $industryId,
+            $company->get('summary'),
+            $company->get('detail'),
+            $company->get('founder'),
+            $company->get('found_year'),
+            $company->get('found_type'),
+            $company->get('found_region'),
+            $company->get('ipo_year'),
+            $company->get('ipo_type'),
+            $company->get('top_img_path'),
+            $company->get('person_img_path'),
+            $company->get('person_img_path')
+        );
+
+        //沿革の削除（重複保存を避ける）
         $this->historyRepository->deleteHistory($companyId);
 
         //沿革を永続化
         $histories = $company->get('histories');
-
         if (isset($histories)) {
             foreach ($histories as $history) {
                 //沿革タグの取得
@@ -91,6 +125,24 @@ class ImportCompanyUseCase
         }
 
         //業績を永続化
-        //TODO: 後日実装
+        $longPerformances = $company->get('long_performances');
+
+        foreach ($longPerformances as $performance) {
+            //決算年を文字列に変換
+            $performanceArray = $performance['closing_year'];
+            $closingYear = implode(",", $performanceArray);
+
+            //業績数値を文字列に変換
+            $dataArray = $performance['data'];
+            $data = implode(",", $dataArray);
+
+            $this->longPerformanceRepository->updateOrCreateLongPerformance(
+                $companyId,
+                $performance['label'],
+                $closingYear,
+                $data,
+                $performance['background_color'],
+            );
+        }
     }
 }

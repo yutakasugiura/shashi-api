@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Company extends Model
@@ -12,11 +13,11 @@ class Company extends Model
     /**
      * 企業詳細とのリレーション
      *
-     * @return HasMany
+     * @return HasOne
      */
-    public function companyDetails(): HasMany
+    public function companyDetail(): HasOne
     {
-        return $this->hasMany(CompanyDetail::class);
+        return $this->hasOne(CompanyDetail::class);
     }
 
     /**
@@ -37,5 +38,15 @@ class Company extends Model
     public function histories(): HasMany
     {
         return $this->hasMany(History::class);
+    }
+
+    /**
+     * 業績とのリレーション
+     *
+     * @return HasMany
+     */
+    public function longPerformances(): HasMany
+    {
+        return $this->hasMany(LongPerformance::class);
     }
 }

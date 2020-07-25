@@ -25,7 +25,7 @@ class CreateHistoriesTable extends Migration
                 ->comment('年');
             $table->string('summary')
                 ->comment('見出し');
-            $table->string('detail')
+            $table->text('detail')
                 ->comment('詳細');
             $table->timestamps();
 

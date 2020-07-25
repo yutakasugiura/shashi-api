@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreatePerformancesTable extends Migration
+class CreateLongPerformances extends Migration
 {
     /**
      * Run the migrations.
@@ -13,24 +13,19 @@ class CreatePerformancesTable extends Migration
      */
     public function up()
     {
-        Schema::create('performances', function (Blueprint $table) {
-            $table->bigIncrements('id');
+        Schema::create('long_performances', function (Blueprint $table) {
+            $table->id();
             $table->unsignedBigInteger('company_id')
                 ->comment('企業id');
+            $table->string('label')
+                ->comment('決算区分');
             $table->string('closing_year')
                 ->comment('決算年');
-            $table->string('sales')
-                ->comment('売上高');
-            $table->string('profit')
-                ->comment('利益');
-            $table->string('sales_type')
-                ->comment('売上高名');
-            $table->string('profit_type')
-                ->comment('利益名');
-            $table->string('sales_rgba')
-                ->comment('売上カラー');
-            $table->string('profit_rgba')
-                ->comment('利益カラー');
+            $table->string('data')
+                ->comment('決算数値');
+            $table->string('background_color')
+                ->comment('背景色');
+            $table->timestamps();
 
             $table->foreign('company_id')
                 ->references('id')
@@ -46,6 +41,6 @@ class CreatePerformancesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('performances');
+        Schema::dropIfExists('long_performances');
     }
 }

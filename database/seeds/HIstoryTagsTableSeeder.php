@@ -13,6 +13,8 @@ class HistoryTagsTableSeeder extends Seeder
     {
         $registerData = config('seeder.history_tag');
 
+        DB::table('history_tags')->truncate();
+
         DB::table('history_tags')->insert($registerData);
     }
 }

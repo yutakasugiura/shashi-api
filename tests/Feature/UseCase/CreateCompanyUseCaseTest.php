@@ -62,19 +62,18 @@ class CreateCompanyUseCaseTest extends TestCase
         }
 
         //Create Company & Histories etc...
-        $stockCode = '8011'; //NOTE: 三陽商会を生成
+        $stockCode = '6758'; //NOTE: ソニーを生成
         $this->importCompanyUseCase->execute($stockCode);
 
         //Check The Companies Table
         $this->assertDatabaseHas('companies', [
-            'stock_code' => '8011',
-            'name'       => '三陽商会'
+            'stock_code' => '6758',
+            'name'       => 'ソニー'
         ]);
 
         //Check The Histories Table
         $this->assertDatabaseHas('histories', [
-            'year' => '1943-01-01',
-            'summary' => '三陽商会を設立'
+            'summary' => '社名を「ソニー」に変更'
         ]);
     }
 }

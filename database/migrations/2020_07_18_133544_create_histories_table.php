@@ -21,7 +21,7 @@ class CreateHistoriesTable extends Migration
                 ->comment('種別id');
             $table->unsignedBigInteger('region_id')
                 ->comment('地域');
-            $table->date('year')
+            $table->string('year')
                 ->comment('年');
             $table->string('summary')
                 ->comment('見出し');

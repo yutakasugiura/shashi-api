@@ -80,6 +80,9 @@ class ImportCompanyUseCase
         //産業タグの取得
         $industryId = $this->industryRepository->findIndustry($company->get('industry'));
 
+        //企業詳細の削除
+        $this->companyDetailRepository->delete($companyId);
+
         //企業詳細の保存
         $this->companyDetailRepository->createCompanyDetail(
             $companyId,

@@ -51,4 +51,11 @@ class companyDetailRepository
             ->where('company_id', $companyId)
             ->first();
     }
+
+    public function delete(int $companyId)
+    {
+        return $this->eloquentCompanyDetail
+            ->where('company_id', $companyId)
+            ->delete();
+    }
 }

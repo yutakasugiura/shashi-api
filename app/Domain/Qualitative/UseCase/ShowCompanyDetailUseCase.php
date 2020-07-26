@@ -72,14 +72,11 @@ class ShowCompanyDetailUseCase
         $convertedPerformance = array(
             'closing_year' => $closingYear,
             'datasets' => array(
-                'label' => $performance['sales_label'],
-                'data'  => $sales,
-                'backgroundColor' => 'rgba(0, 0, 0, 0)',
+                'sales_label'  => $performance['sales_label'],
+                'profit_label' => $performance['profit_label'],
+                'sales'        => $sales,
+                'profit'       => $profit,
             )
-            // 'sales'        => $sales,
-            // 'profit'       => $profit,
-            // 'sales_label'  => $performance['sales_label'],
-            // 'profit_label' => $performance['profit_label'],
         );
 
         $convertedHistory = array('histories' => $histories);

@@ -37,12 +37,5 @@ class ImportPerformanceUseCase
             'sales' => $performance[1],
             'profit' => $performance[2]
         );
-
-        $result = $this->performanceRepository->createPerformance(
-            1,
-            'テスト',
-            $performances['sales']
-        );
-        dd($result);
     }
 }

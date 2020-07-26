@@ -18,4 +18,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'ImportController@index')->name('import.index');
 
 //Json経由で企業情報を一括で永続化
-Route::put('store', 'ImportController@store')->name('import.store');
+Route::put('import_json', 'ImportController@store')->name('import.store');
+
+//CSVで業績データを保存
+Route::put('import_csv', 'CsvController@store')->name('csv.store');

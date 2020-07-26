@@ -78,13 +78,20 @@
             <div class="title m-b-md">
                 社史API
             </div>
-            <form action="store" method="post">
+            <form action="import_json" method="post">
                 <input type="input" name="stockCode" placeholder="証券コード例）6758" autocomplete=off>
                 <input type="password" name="jsonKey" placeholder="json_password" autocomplete=off>
                 <input type="submit" value="json保存" class="btn-square-pop">
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
             </form>
+
+            <!-- <form action="import_csv" method="post">
+                <input type="input" name="stockCode" placeholder="証券コード例）6758">
+                <input type="submit" value="csv保存" class="btn-square-pop">
+                <input type="hidden" name="_method" value="put">
+                <input type="hidden" name="_token" value="{{csrf_token()}}">
+            </form> -->
             <p><a href="./api/company/6758">ソニーの企業詳細をAPIで取得</a></p>
             <h2><a href="http://localhost:3000/">Nuxt.js - localhost:3000</a></h2>
             <p><a href="http://localhost:3000/tse/6758/">Nuxt.js - SONY</a></p>

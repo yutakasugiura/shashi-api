@@ -17,14 +17,16 @@ class CreateLongPerformances extends Migration
             $table->id();
             $table->unsignedBigInteger('company_id')
                 ->comment('企業id');
-            $table->string('label')
-                ->comment('決算区分');
             $table->string('closing_year')
                 ->comment('決算年');
-            $table->string('data')
-                ->comment('決算数値');
-            $table->string('background_color')
-                ->comment('背景色');
+            $table->string('sales')
+                ->comment('売上推移');
+            $table->string('profit')
+                ->comment('利益推移');
+            $table->string('sales_label')
+                ->comment('売上高区分');
+            $table->string('profit_label')
+                ->comment('利益区分');
             $table->timestamps();
 
             $table->foreign('company_id')

@@ -18,32 +18,48 @@ class LongPerformanceRepository
      * 業績を永続化する
      *
      * @param integer $companyId
-     * @param string $label
      * @param string $closingYear
-     * @param string $data
-     * @param string $backgroundColor
+     * @param string $sales
+     * @param string $profit
+     * @param string $salesLabel
+     * @param string $profitLabel
      * @return LongPerformance
      */
     public function updateOrCreateLongPerformance(
         int $companyId,
-        string $label,
         string $closingYear,
-        string $data,
-        string $backgroundColor
+        string $sales,
+        string $profit,
+        string $salesLabel,
+        string $profitLabel
     ): LongPerformance {
         return $this->eloquentLongPerformance->updateOrCreate([
-            'company_id'       => $companyId,
-            'label'            => $label,
-            'closing_year'     => $closingYear,
-            'data'             => $data,
-            'background_color' => $backgroundColor
+            'company_id'   => $companyId,
+            'closing_year' => $closingYear,
+            'sales'        => $sales,
+            'profit'       => $profit,
+            'sales_label'  => $salesLabel,
+            'profit_label' => $profitLabel
         ]);
     }
 
-    public function findPerformance(int $companyId)
+    /**
+     * １社の業績を取得
+     *
+     * @param integer $companyId
+     * @return LongPerformance|null
+     */
+    public function findPerformance(int $companyId): ?LongPerformance
     {
         return $this->eloquentLongPerformance
             ->where('company_id', $companyId)
-            ->get();
+            ->first();
+    }
+
+    public function deletePerformance(int $companyId)
+    {
+        $this->eloquentLongPerformance
+            ->where('company_id', $companyId)
+            ->delete();
     }
 }

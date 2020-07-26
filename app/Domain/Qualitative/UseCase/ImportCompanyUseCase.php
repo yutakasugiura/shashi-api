@@ -123,26 +123,24 @@ class ImportCompanyUseCase
                 );
             }
         }
+        //業績の削除
+        $this->longPerformanceRepository->deletePerformance($companyId);
+
+        //決算年配列を文字列に変換
+        $closingYear = implode(',', $company->get('closing_year'));
+
+        //業績配列を文字列に変換
+        $sales = implode(',', $company->get('sales'));
+        $profit = implode(',', $company->get('profit'));
 
         //業績を永続化
-        $longPerformances = $company->get('long_performances');
-
-        foreach ($longPerformances as $performance) {
-            //決算年を文字列に変換
-            $performanceArray = $performance['closing_year'];
-            $closingYear = implode(",", $performanceArray);
-
-            //業績数値を文字列に変換
-            $dataArray = $performance['data'];
-            $data = implode(",", $dataArray);
-
-            $this->longPerformanceRepository->updateOrCreateLongPerformance(
-                $companyId,
-                $performance['label'],
-                $closingYear,
-                $data,
-                $performance['background_color'],
-            );
-        }
+        $this->longPerformanceRepository->updateOrCreateLongPerformance(
+            $companyId,
+            $closingYear,
+            $sales,
+            $profit,
+            $company->get('sales_label'),
+            $company->get('profit_label')
+        );
     }
 }

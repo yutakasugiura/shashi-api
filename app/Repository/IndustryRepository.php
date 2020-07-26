@@ -4,7 +4,7 @@ namespace App\Repository;
 
 use App\Models\Industry;
 
-class industryRepository
+class IndustryRepository
 {
     private Industry $eloquentIndustry;
 

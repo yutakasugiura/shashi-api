@@ -51,6 +51,18 @@ export default {
   */
   modules: [
     '@nuxtjs/axios',
+    'bootstrap-vue/nuxt',
+    [
+      'nuxt-mq',
+      {
+        // Default breakpoint for SSR
+        defaultBreakpoint: 'default',
+        breakpoints: {
+          sp: 640,
+          pc: 641,
+        }
+      }
+    ]
   ],
   axios: {},
   /*

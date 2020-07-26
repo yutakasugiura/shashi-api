@@ -60,10 +60,30 @@ class ShowCompanyDetailUseCase
         $histories = $this->historyRepository->findCompanyHistory($companyId)->toArray();
 
         //業績詳細を取得
-        $performances = $this->longPerformanceRepository->findPerformance($companyId)->toArray();
+        $performance = $this->longPerformanceRepository->findPerformance($companyId)->toArray();
 
-        $datasets = array('histories' => $histories, 'performances' => $performances);
+        //X軸：年号はstringで保持
+        $closingYear = explode(",", $performance['closing_year']);
 
-        return array_merge($company, $companyDetail, $datasets);
+        //Y軸：数値はintegerで保持
+        $sales = array_map('intval', explode(",", $performance['sales']));
+        $profit = array_map('intval', explode(",", $performance['profit']));
+
+        $convertedPerformance = array(
+            'closing_year' => $closingYear,
+            'datasets' => array(
+                'label' => $performance['sales_label'],
+                'data'  => $sales,
+                'backgroundColor' => 'rgba(0, 0, 0, 0)',
+            )
+            // 'sales'        => $sales,
+            // 'profit'       => $profit,
+            // 'sales_label'  => $performance['sales_label'],
+            // 'profit_label' => $performance['profit_label'],
+        );
+
+        $convertedHistory = array('histories' => $histories);
+
+        return array_merge($company, $companyDetail, $convertedHistory, $convertedPerformance);
     }
 }

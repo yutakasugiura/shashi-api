@@ -22,6 +22,8 @@ class CreateCompaniesTable extends Migration
             $table->string('status')
                 ->comment('ステータス');
             $table->timestamps();
+
+            $table->index('stock_code');
         });
     }
 

@@ -14,6 +14,7 @@
             <div class="content-summary">
               <div class="msg-box">
                 <h2>
+                  歴史の原点：
                   <strong>{{ company.summary }}</strong>
                 </h2>
                 <p style="white-space: pre-wrap;">{{ company.detail }}</p>
@@ -23,11 +24,13 @@
           <!-- 作者コメント -->
           <div class="col-md-3">
             <div class="content-comment shadow-sm">
-              <img
-                src="https://the-shashi.com/img-top/face-light.png"
-                width="40px"
-                class="rounded-circle"
-              />
+              <a href="https://the-shashi.com">
+                <img
+                  src="https://the-shashi.com/img-top/face-light.png"
+                  width="40px"
+                  class="rounded-circle"
+                />
+              </a>
               <span>作者コメント</span>
               <p>{{ company.summary }}ことが、{{ company.name }}の歴史における原点です。</p>
               <div class="right">

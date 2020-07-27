@@ -1,0 +1,35 @@
+.tse-v4 {
+  table,
+  th,
+  td {
+    padding: 10px 5px;
+    border: none;
+    font-weight: normal;
+    vertical-align: middle;
+  }
+  th {
+    padding: 10px;
+    color: rgb(196, 196, 196);
+  }
+  tr:hover {
+    background: rgb(249, 250, 255);
+  }
+  th,
+  td {
+    &.year {
+      width: 60px;
+      color: #fff;
+      background: rgba(100, 100, 100, 0.5);
+    }
+    &.tag {
+      width: 60px;
+      font-weight: bold;
+    }
+    &.region {
+      width: 60px;
+    }
+    &.summary {
+      width: 200px;
+    }
+  }
+}

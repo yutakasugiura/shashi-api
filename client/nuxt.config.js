@@ -29,12 +29,21 @@ export default {
   ** Global CSS
   */
   css: [
+    "~/assets/scss/main.scss",
+    "~/assets/scss/responsible.scss",
+    "~/assets/scss/tse/tse-main.scss",
+    "~/assets/scss/tse/tse-tag.scss",
+    "~/assets/scss/tse/tse-table.scss",
   ],
   /*
   ** Plugins to load before mounting the App
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
+    {
+      src: '@/plugins/plugin',
+      mode: 'client'
+    }
   ],
   /*
   ** Auto import components

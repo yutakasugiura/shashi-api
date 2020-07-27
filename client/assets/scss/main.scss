@@ -1,0 +1,30 @@
+// 全ページ共通設定
+// レイアウト
+body {
+  font-family: sans-serif;
+  //情報量が重要なサイトのため「12px」を採用
+  font-size: 12px;
+}
+
+// 特定文字列の設定
+p {
+  margin: 0px;
+  font-size: 100%;
+}
+a {
+  color: #5f5f5f;
+}
+
+// 文字サイズ・文字位置の設定
+span.unit-80percent {
+  font-size: 60%;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.divide {
+  padding: 5px 0px;
+}

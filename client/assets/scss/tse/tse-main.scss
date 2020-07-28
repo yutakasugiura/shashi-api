@@ -1,0 +1,58 @@
+.tse-v4 {
+  color: rgb(104, 104, 104);
+  & h1 {
+    font-size: 250%;
+  }
+  & h2 {
+    font-size: 150%;
+    padding: 10px;
+  }
+  & .msg-box {
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  & .content-title {
+    padding: 10px;
+  }
+  & .content-summary {
+    padding: 5px;
+    background: rgb(220, 240, 230);
+    border-radius: 5px;
+  }
+  // 吹き出しコメントの設定
+  .content-comment {
+    position: relative;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    width: 90%;
+    background: rgb(232, 255, 241);
+    & :before {
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: -30px;
+      margin-top: -20px;
+      border: 15px solid transparent;
+      border-right: 15px solid rgb(232, 255, 241);
+    }
+  }
+  & .content-history-title {
+    padding: 5px;
+    border-radius: 5px;
+    color: #fff;
+    background: rgb(96, 114, 107);
+  }
+  & .content-dataset {
+    padding: 0px;
+    background: rgb(220, 240, 230);
+    border-radius: 5px;
+  }
+  & .content-graph {
+    margin: 5px;
+    padding: 5px;
+    background: #fff;
+    border-radius: 10px;
+  }
+}

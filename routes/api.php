@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//企業一覧
+//企業一覧(企業詳細を一覧取得)
 Route::apiResource('company', 'API\CompanyController', ['only' => ['index']]);
 
 //企業詳細

@@ -32,6 +32,7 @@ class CompanyController extends Controller
      */
     public function index()
     {
+        //有効な企業を一覧で取得
         $companies = $this->showCompanyListUseCase->execute();
 
         return response()->json($companies);

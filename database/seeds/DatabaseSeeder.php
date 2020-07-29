@@ -26,6 +26,5 @@ class DatabaseSeeder extends Seeder
 
         //子テーブル生成
         $this->call(HistoriesTableSeeder::class);
-        $this->call(CompanyDetailsTableSeeder::class);
     }
 }

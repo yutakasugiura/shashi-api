@@ -66,6 +66,7 @@ class CompanyRepository
     {
         return $this->eloquentCompany
             ->where('status', $status)
+            ->with('companyDetail')
             ->get();
     }
 

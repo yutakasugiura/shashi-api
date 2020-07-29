@@ -1,34 +1,40 @@
 <template>
   <div class="container">
-    <div>
-      <h1>Nuxt - top</h1>
-
-      <div v-for="company in companies" :key="company.id">
-        <h2>
-          <router-link :to="{ path: `/tse/${company.stock_code}`}">{{ company.name }}</router-link>
-        </h2>
-        <p>{{ company }}</p>
-      </div>
-    </div>
-    <hr />
-    <!-- <div id="index">
+    <div id="index">
       <div class="row">
         <div class="col-sm-12">
           <div class="grid">
-            <div v-for="comapny in companies" :key="comapny.id" class="comapny">
-              <div class="letter shadow">
+            <div v-for="company in companies" :key="company.id" class="company">
+              <div class="index-cover shadow">
                 <router-link :to="{ path: `/tse/${company.stock_code}`}">
-                  {{ company.name }}
-                  <img :src="comapny.company_detail.top_img_path" class="rounded" />
+                  <img :src="company.person_img_path" class="rounded" />
                 </router-link>
-                <p>{{ comapny.name }}</p>
-                <span :class="comapny.company_detail.industry">{{ comapny.company_detail.industry }}</span>
+                <h2>{{ company.name }}</h2>
+                <span class="index-tag">{{ company.ipo_year }}年</span>
+              </div>
+            </div>
+            <div v-for="company in companies" :key="company.id" class="company">
+              <div class="index-cover shadow">
+                <router-link :to="{ path: `/tse/${company.stock_code}`}">
+                  <img :src="company.person_img_path" class="rounded" />
+                </router-link>
+                <h2>{{ company.name }}</h2>
+                <span :class="company.ipo_year">{{ company.ipo_year }}</span>
+              </div>
+            </div>
+            <div v-for="company in companies" :key="company.id" class="company">
+              <div class="index-cover shadow">
+                <router-link :to="{ path: `/tse/${company.stock_code}`}">
+                  <img :src="company.person_img_path" class="rounded" />
+                </router-link>
+                <h2>{{ company.name }}</h2>
+                <span :class="company.ipo_year">{{ company.ipo_year }}</span>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>-->
+    </div>
   </div>
 </template>
 
@@ -53,3 +59,31 @@ export default {
   },
 };
 </script>
+
+<style lang="scss">
+.grid {
+  margin: 5px;
+  display: grid;
+  gap: 0px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+}
+.grid img {
+  width: 100%;
+}
+.index-cover {
+  margin: 10px;
+  padding: 5px;
+  max-width: 150px;
+  position: relative;
+  & h2 {
+    color: #666;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  & span.index-tag {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+</style>

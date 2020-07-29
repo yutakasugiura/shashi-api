@@ -30,6 +30,7 @@ export default {
   */
   css: [
     "~/assets/scss/main.scss",
+    "~/assets/scss/index.scss",
     "~/assets/scss/responsible.scss",
     "~/assets/scss/tse/tse-main.scss",
     "~/assets/scss/tse/tse-tag.scss",

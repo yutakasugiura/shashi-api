@@ -19,7 +19,7 @@ class DatabaseSeeder extends Seeder
         //NOTICE: 追加後は「composer dump-autoload」を実行
 
         //親テーブルを生成
-        // $this->call(CompaniesTableSeeder::class);
+        $this->call(CompaniesTableSeeder::class);
         $this->call(HistoryTagsTableSeeder::class);
         $this->call(RegionsTableSeeder::class);
         $this->call(IndustriesTableSeeder::class);

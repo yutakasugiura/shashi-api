@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <META http-equiv="Refresh" content="0.5;URL=http://localhost">
 
+
     <title>Laravel</title>
 
     <!-- Fonts -->
@@ -60,6 +61,10 @@
             text-decoration: none;
             text-transform: uppercase;
         }
+
+        span.bad {
+            color: crimson;
+        }
     </style>
 </head>
 
@@ -67,8 +72,8 @@
     <div class="flex-center position-ref full-height">
         <div class="content">
             <div class="title m-b-md">
-                　Jsonデータの保存に成功しました
-                <p>STORE JSON IN DATABASE</p>
+                　保存に<span class="bad">失敗</span>しました
+                <p>YOU NEED JSON SECRET KEY</p>
             </div>
         </div>
     </div>

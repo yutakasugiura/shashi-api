@@ -3,6 +3,10 @@
 /public/storage
 /storage/*.key
 /vendor
+/docker/logs
+/docker/php/bash
+/docker/db
+/docker/mysql/.data
 .vscode
 .env
 .env.backup

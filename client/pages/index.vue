@@ -52,7 +52,7 @@ export default {
     };
   },
   async asyncData(app) {
-    const res = await app.$axios.$get("http://localhost:8000/api/company/");
+    const res = await app.$axios.$get("http://localhost/api/company/");
     return {
       companies: res,
     };

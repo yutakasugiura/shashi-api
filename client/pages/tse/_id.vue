@@ -142,7 +142,7 @@ export default {
   },
   async asyncData({ app, params }) {
     const company = await app.$axios.$get(
-      `http://localhost:8000/api/company/${params.id}`
+      `http://localhost/api/company/${params.id}`
     );
     return {
       company: company,

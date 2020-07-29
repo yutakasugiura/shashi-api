@@ -52,6 +52,14 @@ class companyDetailRepository
             ->first();
     }
 
+    public function findCompanyDetailAndBasicInfo(int $companyId)
+    {
+        return $this->eloquentCompanyDetail
+            ->join('companies', 'company_details.company_id', '=', 'companies.id')
+            ->where('company_id', $companyId)
+            ->first();
+    }
+
     public function delete(int $companyId)
     {
         return $this->eloquentCompanyDetail

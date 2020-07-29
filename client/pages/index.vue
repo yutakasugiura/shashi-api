@@ -1,6 +1,8 @@
 <template>
   <div class="container">
     <div>
+      <h1>Nuxt - top</h1>
+
       <div v-for="company in companies" :key="company.id">
         <h2>
           <router-link :to="{ path: `/tse/${company.stock_code}`}">{{ company.name }}</router-link>

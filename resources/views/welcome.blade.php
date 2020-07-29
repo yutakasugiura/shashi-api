@@ -92,8 +92,11 @@
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
             </form> -->
+            <h2>localhost:8000 - Laravel</h2>
+            <p><a href="./api/company">全企業の一覧を取得</a></p>
             <p><a href="./api/company/6758">ソニーの企業詳細をAPIで取得</a></p>
-            <h2><a href="http://localhost:3000/">Nuxt.js - localhost:3000</a></h2>
+            <h2>localhost:3000 - Nuxt.js</h2>
+            <p><a href="http://localhost:3000/">Nuxt.js - localhost:3000</a></p>
             <p><a href="http://localhost:3000/tse/6758/">Nuxt.js - SONY</a></p>
 
         </div>

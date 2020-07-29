@@ -43,9 +43,9 @@ class ImportController extends Controller
         $jsonSecretKey = config('json_key.json_key');
 
         if ($jsonKey == $jsonSecretKey) {
-            $companies = $this->importCompanyUseCase->execute($stockCode);
+            $this->importCompanyUseCase->execute($stockCode);
 
-            return view('success_store', compact('companies'));
+            return view('success_store');
         } else {
             return view('failed_store');
         }

@@ -16326,6 +16326,13 @@ return [
         'updated_at' => '2020-07-25',
     ],
     [
+        'stock_code' => 6792,
+        'name'   	 => '日本ビクター',
+        'status'     => 'disable',
+        'created_at' => '2020-07-29',
+        'updated_at' => '2020-07-29',
+    ],
+    [
         'stock_code' => 6794,
         'name'   	 => 'フォスター電機',
         'status'     => 'disable',

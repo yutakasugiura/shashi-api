@@ -45,7 +45,7 @@ class ShowCompanyDetailUseCase
      *
      * @return void
      */
-    public function execute($stockCode)
+    public function execute($stockCode): array
     {
         //企業を取得
         $company = $this->companyRepository->findCompany($stockCode)->toArray();

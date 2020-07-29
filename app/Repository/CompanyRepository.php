@@ -57,6 +57,20 @@ class CompanyRepository
     }
 
     /**
+     * 証券コードを取得
+     *
+     * @param integer $companyId
+     * @return Company|null
+     */
+    public function findStockCode(
+        int $companyId
+    ): ?Company {
+        return $this->eloquentCompany
+            ->where('id', $companyId)
+            ->first();
+    }
+
+    /**
      * 企業一覧を取得（Enableのみ）
      *
      * @param string $status

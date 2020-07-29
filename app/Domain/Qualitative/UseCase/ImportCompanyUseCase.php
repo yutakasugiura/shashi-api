@@ -67,7 +67,7 @@ class ImportCompanyUseCase
         string $stockCode
     ) {
         //Jsonを読み込む
-        $url = storage_path('s3/qualitative/'.$stockCode.'.json');
+        $url = storage_path('s3/tse/'.$stockCode.'.json');
         $company = $this->readCompanyJsonUtility->convertJsonToArray($url);
 
         //企業の表示ステータスを有効化

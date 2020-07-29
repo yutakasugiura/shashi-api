@@ -49,7 +49,7 @@ class ShowCompanyListUseCase
         foreach ($companies as $company) {
             $companyId = $company['id'];
 
-            $details[] = $this->companyDetailRepository->findCompanyDetail($companyId)->toArray();
+            $details[] = $this->companyDetailRepository->findCompanyDetailAndBasicInfo($companyId)->toArray();
         }
 
         return $details;

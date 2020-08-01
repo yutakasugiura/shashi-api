@@ -108,6 +108,7 @@
           </tr>
         </div>
       </table>
+      <p>{{ company }}</p>
     </div>
     <!-- SP用の表示画面・nuxt-mqを使用 -->
     <div v-if="$mq === 'sp'" class="sp">
@@ -170,9 +171,8 @@ export default {
 </script>
 
 <style lang="scss">
-// コンテンツの位置（サイド確定後に除去）
-.content {
-  width: 100%;
+.tse-v4 {
+  width: 1000px;
   margin: 10px;
 }
 </style>

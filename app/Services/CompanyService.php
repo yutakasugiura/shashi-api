@@ -18,7 +18,7 @@ class CompanyService
     }
 
     public function createCompany(
-        int $stockCode,
+        string $stockCode,
         string $name,
         string $memo
     ): Company {

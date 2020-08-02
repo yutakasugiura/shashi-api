@@ -31,7 +31,7 @@
               />
             </a>
             <span>作者コメント</span>
-            <p>{{ company.summary }}ことが、{{ company.name }}の歴史における原点です。</p>
+            <p>{{ company.name }}の歴史における原点です。作者はこう見ています。</p>
             <div class="right">
               文責：
               <a href="https://the-shashi.com">Yutaka-Sugiura</a>

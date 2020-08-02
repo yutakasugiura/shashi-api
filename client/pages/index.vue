@@ -1,46 +1,37 @@
 <template>
-  <div class="container">
-    <div id="index">
-      <div class="row">
-        <div class="col-lg-10">
-          <div class="title-box main-shashi">
-            <h1>The社史</h1>
-            <p>長期視点で企業を知る</p>
-          </div>
-          <div class="grid">
-            <div v-for="company in companies" :key="company.id" class="company">
-              <div class="index-cover shadow">
-                <router-link :to="{ path: `/tse/${company.stock_code}`}">
-                  <img :src="company.top_img_path" class="rounded" />
-                </router-link>
-                <h2>{{ company.name }}</h2>
-                <span
-                  class="index-tag"
-                  :class="company.industry_classification"
-                >{{ company.industry_name }}</span>
-              </div>
+  <div id="index">
+    <div class="container">
+      <div class="col-md-12">
+        <div class="title-box main-shashi">
+          <h1>The社史</h1>
+          <p>長期視点で企業を知る</p>
+        </div>
+        <div class="grid">
+          <div v-for="company in companies" :key="company.id" class="company">
+            <div class="index-cover shadow">
+              <router-link :to="{ path: `/tse/${company.stock_code}`}">
+                <img :src="company.top_img_path" class="rounded" />
+              </router-link>
+              <h2>{{ company.name }}</h2>
+              <span
+                class="index-tag"
+                :class="company.industry_classification"
+              >{{ company.industry_name }}</span>
             </div>
-            <div v-for="company in companies" :key="company.id" class="company">
-              <div class="index-cover shadow">
-                <router-link :to="{ path: `/tse/${company.stock_code}`}">
-                  <img :src="company.top_img_path" class="rounded" />
-                </router-link>
-                <h2>{{ company.name }}</h2>
-                <span
-                  class="index-tag"
-                  :class="company.industry_classification"
-                >{{ company.industry_name }}</span>
-              </div>
+          </div>
+          <div v-for="company in companies" :key="company.id" class="company">
+            <div class="index-cover shadow">
+              <router-link :to="{ path: `/tse/${company.stock_code}`}">
+                <img :src="company.top_img_path" class="rounded" />
+              </router-link>
+              <h2>{{ company.name }}</h2>
+              <span
+                class="index-tag"
+                :class="company.industry_classification"
+              >{{ company.industry_name }}</span>
             </div>
           </div>
         </div>
-        <!-- <div class="col-lg-2">
-          <div class="comment-box">
-            <div class="msg">
-              <p>aasśsasasa</p>
-            </div>
-          </div>
-        </div>-->
       </div>
     </div>
   </div>
@@ -90,7 +81,7 @@ export default {
     color: #666;
     padding: 0px;
     margin: 0px;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: bold;
     text-align: center;
   }

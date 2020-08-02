@@ -101,7 +101,7 @@ export default {};
 .side-menu {
   top: 0px;
   position: fixed;
-  width: 180px;
+  width: 200px;
   height: 100vmax;
   float: left;
   background-color: rgb(131, 161, 150);

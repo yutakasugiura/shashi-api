@@ -1,14 +1,10 @@
 <template>
   <div>
     <div v-if="$mq === 'pc'">
-      <div class="container-fulid">
-        <div class="layout">
-          <div class="row">
-            <sidebar />
-            <div class="main">
-              <Nuxt />
-            </div>
-          </div>
+      <div class="row">
+        <sidebar />
+        <div class="main">
+          <Nuxt />
         </div>
       </div>
     </div>
@@ -30,7 +26,7 @@ export default {
 
 <style lang="scss">
 .main {
-  margin: 0px 0px 0px 180px;
+  margin: 0px 0px 0px 200px;
   width: 100%;
 }
 </style>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <META http-equiv="Refresh" content="0.5;URL=http://localhost">
+    <META http-equiv="Refresh" content="0.5;URL=/">
 
     <title>Laravel</title>
 

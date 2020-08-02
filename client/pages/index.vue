@@ -1,35 +1,34 @@
 <template>
-  <div class="container">
-    <div id="index">
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="grid">
-            <div v-for="company in companies" :key="company.id" class="company">
-              <div class="index-cover shadow">
-                <router-link :to="{ path: `/tse/${company.stock_code}`}">
-                  <img :src="company.person_img_path" class="rounded" />
-                </router-link>
-                <h2>{{ company.name }}</h2>
-                <span class="index-tag">{{ company.ipo_year }}年</span>
-              </div>
+  <div id="index">
+    <div class="container">
+      <div class="col-md-12">
+        <div class="title-box main-shashi">
+          <h1>The社史</h1>
+          <p>長期視点で企業を知る</p>
+        </div>
+        <div class="grid">
+          <div v-for="company in companies" :key="company.id" class="company">
+            <div class="index-cover shadow">
+              <router-link :to="{ path: `/tse/${company.stock_code}`}">
+                <img :src="company.top_img_path" class="rounded" />
+              </router-link>
+              <h2>{{ company.name }}</h2>
+              <span
+                class="index-tag"
+                :class="company.industry_classification"
+              >{{ company.industry_name }}</span>
             </div>
-            <div v-for="company in companies" :key="company.id" class="company">
-              <div class="index-cover shadow">
-                <router-link :to="{ path: `/tse/${company.stock_code}`}">
-                  <img :src="company.person_img_path" class="rounded" />
-                </router-link>
-                <h2>{{ company.name }}</h2>
-                <span :class="company.ipo_year">{{ company.ipo_year }}</span>
-              </div>
-            </div>
-            <div v-for="company in companies" :key="company.id" class="company">
-              <div class="index-cover shadow">
-                <router-link :to="{ path: `/tse/${company.stock_code}`}">
-                  <img :src="company.person_img_path" class="rounded" />
-                </router-link>
-                <h2>{{ company.name }}</h2>
-                <span :class="company.ipo_year">{{ company.ipo_year }}</span>
-              </div>
+          </div>
+          <div v-for="company in companies" :key="company.id" class="company">
+            <div class="index-cover shadow">
+              <router-link :to="{ path: `/tse/${company.stock_code}`}">
+                <img :src="company.top_img_path" class="rounded" />
+              </router-link>
+              <h2>{{ company.name }}</h2>
+              <span
+                class="index-tag"
+                :class="company.industry_classification"
+              >{{ company.industry_name }}</span>
             </div>
           </div>
         </div>
@@ -70,20 +69,57 @@ export default {
 .grid img {
   width: 100%;
 }
+.grid hover:img {
+  opacity: 0.6;
+}
 .index-cover {
   margin: 10px;
-  padding: 5px;
+  padding: 0px;
   max-width: 150px;
   position: relative;
   & h2 {
     color: #666;
-    font-size: 15px;
+    padding: 0px;
+    margin: 0px;
+    font-size: 12px;
     font-weight: bold;
+    text-align: center;
   }
   & span.index-tag {
     position: absolute;
     top: 0;
-    left: 0;
+    right: 0;
   }
+  & span.manufacturing {
+    border-radius: 5px;
+    background: rgba(70, 155, 211, 0.5);
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+  }
+}
+.title-box {
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+  & h1 {
+    font-size: 150%;
+    font-weight: bold;
+  }
+}
+.main-shashi {
+  border-radius: 5px;
+  background: rgb(159, 187, 214);
+  color: #fff;
+  font-weight: bold;
+}
+.comment-box {
+  margin: 10px;
+  padding: 0px;
+  border-radius: 5px;
+  background: rgb(81, 98, 114);
+  color: #fff;
+  width: 100%;
+  font-weight: bold;
 }
 </style>

@@ -53,7 +53,7 @@ class HistoryRepository
     /**
      * 沿革を取得（企業単位）
      *
-     * @param int $stockCode
+     * @param int $companyId
      * @return Collection
      */
     public function findCompanyHistory(int $companyId): Collection

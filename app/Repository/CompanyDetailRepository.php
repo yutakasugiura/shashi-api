@@ -56,6 +56,15 @@ class companyDetailRepository
     {
         return $this->eloquentCompanyDetail
             ->join('companies', 'company_details.company_id', '=', 'companies.id')
+            ->join('industries', 'company_details.industry_id', '=', 'industries.id')
+            ->select(
+                'companies.name',
+                'companies.stock_code',
+                'company_details.person_img_path',
+                'company_details.top_img_path',
+                'industries.name as industry_name',
+                'industries.classification as industry_classification',
+            )
             ->where('company_id', $companyId)
             ->first();
     }

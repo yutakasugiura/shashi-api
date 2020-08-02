@@ -26488,5 +26488,12 @@ return [
         'status'     => 'disable',
         'created_at' => '2020-07-25',
         'updated_at' => '2020-07-25',
+    ],
+    [
+        'stock_code' => "jp-ykk",
+        'name'   	 => 'YKK',
+        'status'     => 'disable',
+        'created_at' => '2020-07-25',
+        'updated_at' => '2020-07-25',
     ]
 ];

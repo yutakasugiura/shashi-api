@@ -1,30 +1,67 @@
 <template>
   <div class="side-menu shadow-sm">
+    <div class="top-item">
+      <img src="https://the-shashi.com/img-top/icon/cat.png" class="icon rounded-circle shadow-sm" />
+      The社史
+    </div>
     <div class="item">
       <nuxt-link to="/">
-        <div class="link-box">
+        <div class="link-box shadow-sm">
           <img
             src="https://the-shashi.com/img-top/icon/cat.png"
             class="icon rounded-circle shadow-sm"
           />
-          The社史
+          企業一覧
         </div>
       </nuxt-link>
     </div>
     <div class="item">
       <nuxt-link to="/tse/6758/">
-        <div class="link-box shadow">
+        <div class="link-box shadow-sm">
           <img
             src="https://the-shashi.com/img-contents/6758/morita-akio.png"
             class="icon rounded-circle shadow-sm"
           />
-          最新号
+          高収益企業
+        </div>
+      </nuxt-link>
+    </div>
+    <div class="item">
+      <nuxt-link to="/tse/6758/">
+        <div class="link-box shadow-sm">
+          <img
+            src="https://the-shashi.com/img-contents/6758/morita-akio.png"
+            class="icon rounded-circle shadow-sm"
+          />
+          高シェア企業
+        </div>
+      </nuxt-link>
+    </div>
+    <div class="item">
+      <nuxt-link to="/tse/6758/">
+        <div class="link-box shadow-sm">
+          <img
+            src="https://the-shashi.com/img-contents/6758/morita-akio.png"
+            class="icon rounded-circle shadow-sm"
+          />
+          倒産/消滅企業
+        </div>
+      </nuxt-link>
+    </div>
+    <div class="item">
+      <nuxt-link to="/tse/6758/">
+        <div class="link-box shadow-sm">
+          <img
+            src="https://the-shashi.com/img-contents/6758/morita-akio.png"
+            class="icon rounded-circle shadow-sm"
+          />
+          地方発企業
         </div>
       </nuxt-link>
     </div>
     <div class="item">
       <nuxt-link to="/">
-        <div class="link-box shadow">
+        <div class="link-box shadow-sm">
           <img
             src="https://the-shashi.com/img-top/icon/news.png"
             class="icon rounded-circle shadow-sm"
@@ -35,7 +72,7 @@
     </div>
     <div class="item">
       <nuxt-link to="/">
-        <div class="link-box shadow">
+        <div class="link-box shadow-sm">
           <img
             src="https://the-shashi.com/img-top/icon/twitter.png"
             class="icon rounded-circle shadow-sm"
@@ -46,7 +83,7 @@
     </div>
     <div class="item">
       <nuxt-link to="/">
-        <div class="link-box shadow">
+        <div class="link-box shadow-sm">
           <img
             src="https://the-shashi.com/img-top/face-light.png"
             class="icon rounded-circle shadow-sm"
@@ -67,21 +104,24 @@ export default {};
   width: 200px;
   height: 100vmax;
   float: left;
-  // background-color: rgba(104, 104, 104, 0.5);
-  background-image: url("/side-bar.png");
-  background-image: url("/side-bar.png");
+  background-color: rgb(131, 161, 150);
+  // background-image: url("/component/side-bar.png");
   color: #fff;
-  margin: 0;
   padding: 0;
+  & div.top-item {
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+  }
   & div.item {
     padding: 3px;
     & a {
-      color: #fff;
+      color: rgb(255, 255, 255);
       font-weight: bold;
     }
   }
   & div.link-box a {
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     text-decoration: none;
   }

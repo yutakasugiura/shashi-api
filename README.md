@@ -1,9 +1,9 @@
 # the社史APIプロジェクト
 ## PURPOSE
-- For Business Person
-#### 経営の歴史的教訓を次世代に伝え、経営上の機会損失を最小化する
-- For Institutional investor
-#### 長期視点の普及を通じて投資精度を向上させ、年金等の公的資産を最大化する
+### To Business Person
+ - <b>経営の歴史的教訓を次世代に伝え、経営上の機会損失を最小化する</b>
+### To Institutional investor
+ - <b>長期視点の普及を通じて投資精度を向上させ、年金等の公的資産を最大化する</b>
 <img src="https://the-shashi.com/img-top/opg.png">
 
 ## ABOUT
@@ -17,27 +17,27 @@
       - 投資・株価に関するコンテンツ
       - 企業分析に関するコンテンツ
       - 転職サイトにおけるコンテンツ
-   - 緻密な分析が必要な層をターゲットとする
-      - マス層にはアプローチしない
 
 ## HOW TO BUILD
 - 社史コンテンツの流用可能性を高めるために、社史コンテンツを供与するためのAPIを立てる
    - バックエンドはLaravelを活用
-      - UseCase層とレポジトリを分離した設計
+      - 設計はUseCase層とレポジトリを分離
    - フロントエンドは任意だが、暫定でNuxt.jsを活用
-      - SPAを構築し、APIの表示テストを行う
+      - SPAを構築し、APIの表示テストを実施
    - Dockerを活用し、環境構築の簡素化を図る
       - 現状はローカル環境で構築
          -  laravel(php7.4) //APIに特化
          -  Nuxt.js //API連携によってコンテンツの表示テストを行う
          -  mysql5.7
-      - 12月頃を目処にDockerへの移行を実施する
+      - 正式デプロイと同時にDockerへ移行
+         - Nuxt(Client)はデプロイせず
 
    - deploy先は「the-shahsi.com」ではなく「新しいドメイン」にて実施
        - the-shahsi.comは運用中のため、あまり触りたくない
+       - the-shashi.comは引き続き静的サイトとして運営
 
     - AWS（tokyo-region）を活用
-       - APIに関しては「ECR・ESC」で構築
+       - 「ECR・ESC」で構築
 
 ## OTHER IDEAS
 - The社史は一人ではなく、できるだけ周囲を巻き込んだProjectにしたい

@@ -1,8 +1,8 @@
 # the社史APIプロジェクト
 ## PURPOSE
-### To Business Person
+### Business Person に向けて
  - 経営の歴史的教訓を次世代に伝え、経営上の機会損失を最小化する
-### To Institutional investor
+### Institutional investor に向けて
  - 長期視点の普及を通じて投資精度の向上に貢献し、年金等の公的資産を最大化する
 <img src="https://the-shashi.com/img-top/opg.png">
 
@@ -23,7 +23,7 @@
       - 転職サイトにおけるコンテンツ
 
 ## HOW TO BUILD
-- 可搬性を高めるために、社史コンテンツを供与するためのAPI専用サーバーを構築する
+- <b>可搬性を高めるために、社史コンテンツを供与するためのAPI専用サーバーを構築する</b>
    - バックエンドはLaravelを活用
       - 設計はUseCase層とレポジトリを分離
    - フロントエンドは任意だが、暫定でNuxt.jsを活用
@@ -44,7 +44,7 @@
        - 「ECR・ESC」で構築
 
 ## OTHER IDEAS
-- The社史は一人ではなく、できるだけ周囲を巻き込んだProjectにしたい
+- <b>The社史APIは一人ではなく、できるだけ周囲を巻き込んだProjectにする</b>
    - GitHubを活用して開発をOpne化
    - 作成する対象企業の選定を、需要に合わせる（Twitterなどで限定的に募集）
    - API活用先を開拓

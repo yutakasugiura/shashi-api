@@ -1,6 +1,9 @@
 # the社史APIプロジェクト
 ## PURPOSE
-### 経営の歴史的教訓を次世代に伝え、経営上の機会損失を最小化する
+- For Business Person
+#### 経営の歴史的教訓を次世代に伝え、経営上の機会損失を最小化する
+- For Institutional investor
+#### 長期視点の普及を通じて投資精度を向上させ、年金等の公的資産を最大化する
 <img src="https://the-shashi.com/img-top/opg.png">
 
 ## ABOUT
@@ -18,7 +21,7 @@
       - マス層にはアプローチしない
 
 ## HOW TO BUILD
-- 社史コンテンツの流用可能性を高めるために、APIにより社史コンテンツを供与するためのAPIサーバーを立てる
+- 社史コンテンツの流用可能性を高めるために、社史コンテンツを供与するためのAPIを立てる
    - バックエンドはLaravelを活用
       - UseCase層とレポジトリを分離した設計
    - フロントエンドは任意だが、暫定でNuxt.jsを活用
@@ -28,15 +31,13 @@
          -  laravel(php7.4) //APIに特化
          -  Nuxt.js //API連携によってコンテンツの表示テストを行う
          -  mysql5.7
-      - 8月頃を目処にDockerへの移行を実施する
+      - 12月頃を目処にDockerへの移行を実施する
 
-   - deploy先は「the-shahsi.com」ではなく「yutaka-sugiura.com」にて実施
+   - deploy先は「the-shahsi.com」ではなく「新しいドメイン」にて実施
        - the-shahsi.comは運用中のため、あまり触りたくない
-       - apiの発行はyutaka-sugiura.comにて実施
 
     - AWS（tokyo-region）を活用
-       - 初回テスト時はDockerを活用せずに、RDS+EC2による通常の構成
-       - 初回テスト成功後、Dockerを活用してECR・ESCで構築
+       - APIに関しては「ECR・ESC」で構築
 
 ## OTHER IDEAS
 - The社史は一人ではなく、できるだけ周囲を巻き込んだProjectにしたい

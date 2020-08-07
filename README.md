@@ -1,7 +1,7 @@
 # the社史APIプロジェクト
 ## PURPOSE
 ### Business Person に向けて
- - 経営の歴史的教訓を次世代に伝え、経営上の機会損失を最小化する
+ - 経営の歴史的教訓を共有し、経営判断における機会損失を最小化する
 ### Institutional investor に向けて
  - 長期視点の普及を通じて投資精度の向上に貢献し、年金等の公的資産を最大化する
 <img src="https://the-shashi.com/img-top/opg.png">

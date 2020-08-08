@@ -20,5 +20,8 @@ Route::get('/', 'ImportController@index')->name('import.index');
 //Json経由で企業情報を一括で永続化
 Route::put('import_json', 'ImportController@store')->name('import.store');
 
+//特定企業を非表示に変更（削除）
+Route::put('disable_company', 'ImportController@delete')->name('import.delete');
+
 //CSVで業績データを保存
 Route::put('import_csv', 'CsvController@store')->name('csv.store');

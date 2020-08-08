@@ -69,6 +69,16 @@
             border: none;  /* 枠線を消す */
         }
 
+        .btn-square-stop {
+            padding: 0.25em 0.5em;
+            text-decoration: none;
+            color: #FFF;
+            background: red;/*背景色*/
+            border-radius: 4px;/*角の丸み*/
+            font-weight: bold;
+            border: none;  /* 枠線を消す */
+        }
+
     </style>
 </head>
 
@@ -79,26 +89,21 @@
                 社史API
             </div>
             <form action="import_json" method="post">
-                <input type="input" name="stockCode" placeholder="証券コード例）6758" autocomplete=off>
+                <input type="input" name="stockCode" placeholder="証券コード" autocomplete=off>
                 <input type="password" name="jsonKey" placeholder="json_password" autocomplete=off>
-                <input type="submit" value="json保存" class="btn-square-pop" style="cursor:pointer">
+                <input type="submit" value="詳細生成" class="btn-square-pop" style="cursor:pointer">
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
             </form>
-
-            <!-- <form action="import_csv" method="post">
-                <input type="input" name="stockCode" placeholder="証券コード例）6758">
-                <input type="submit" value="csv保存" class="btn-square-pop">
+            <hr>
+            <form action="disable_company" method="post">
+                <input type="input" name="stockCode" placeholder="証券コード" autocomplete=off>
+                <input type="submit" value="非表示" class="btn-square-red" style="cursor:pointer">
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
-            </form> -->
-            <h2>localhost:8000 - Laravel</h2>
-            <p><a href="./api/company">全企業の一覧を取得</a></p>
-            <p><a href="./api/company/6758">ソニーの企業詳細をAPIで取得</a></p>
-            <h2>localhost:3000 - Nuxt.js</h2>
-            <p><a href="http://localhost:3000/">Nuxt.js - localhost:3000</a></p>
-            <p><a href="http://localhost:3000/tse/6758/">Nuxt.js - SONY</a></p>
-
+            </form>
+            <h2><a href="./api/company">localhost:8000 - Laravel(API)</a></h2>
+            <h2><a href="http://localhost:3000/">localhost:3000 - Nuxt(Client)</a</h2>
         </div>
     </div>
 </body>

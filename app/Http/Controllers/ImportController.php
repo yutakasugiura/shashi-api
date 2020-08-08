@@ -36,18 +36,27 @@ class ImportController extends Controller
      */
     public function store(Request $request)
     {
-        $stockCode = $request->stockCode;
-
-        //json_key照合
         $jsonKey = $request->jsonKey;
         $jsonSecretKey = config('json_key.json_key');
 
         if ($jsonKey == $jsonSecretKey) {
-            $this->importCompanyUseCase->execute($stockCode);
+            $this->importCompanyUseCase->execute(
+                $request->stockCode
+            );
 
             return view('success_store');
         } else {
             return view('failed_store');
         }
+    }
+
+    /**
+     * 企業を削除する（表示ステータスの変更）
+     *
+     * @return void
+     */
+    public function delete(Request $request)
+    {
+        dd('delete');
     }
 }

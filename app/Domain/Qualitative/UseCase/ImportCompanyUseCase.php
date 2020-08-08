@@ -70,9 +70,21 @@ class ImportCompanyUseCase
         $url = storage_path('s3/tse/'.$stockCode.'.json');
         $company = $this->readCompanyJsonUtility->convertJsonToArray($url);
 
-        //企業の表示ステータスを有効化
-        $status = config('company_status.enable');
-        $this->companyRepository->updateCompanyStatus($stockCode, $status);
+        //企業データが存在するか検査し、なければ新規作成
+        $companyId = $this->companyRepository->findCompany($stockCode);
+
+        if (!isset($companyId)) {
+            $statusEnable = config('company_status.enable');
+            $this->companyRepository->createCompany(
+                $stockCode,
+                $company['company'],
+                $statusEnable
+            );
+        } else {
+            //企業の表示ステータスを有効化
+            $statusEnable = config('company_status.enable');
+            $this->companyRepository->updateCompanyStatus($stockCode, $statusEnable);
+        }
 
         //企業idを取得
         $companyId = $this->companyRepository->findCompany($stockCode)->id;

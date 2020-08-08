@@ -1,0 +1,31 @@
+{
+  "stock_code": "1000",
+  "company": "テスト企業",
+  "industry": "",
+  "found_year": "",
+  "found_region": "",
+  "found_type": "",
+  "founder": "",
+  "person_img_path": "",
+  "top_img_path": "",
+  "ipo_year": "",
+  "ipo_type": "",
+  "summary": "",
+  "detail": "",
+  "histories": [
+    {
+      "year": "",
+      "summary": "",
+      "detail": "",
+      "region": "",
+      "history_tag": "",
+      "classification": ""
+    }
+  ],
+  "sales_label": "売上高(億円)",
+  "profit_label": "営業利益(億円)",
+  "closing_year": [],
+  "sales": [],
+  "profit": [],
+  "reference": "日経ビジネス(1969〜)、会社四季報(1961〜)、有価証券報告書"
+}

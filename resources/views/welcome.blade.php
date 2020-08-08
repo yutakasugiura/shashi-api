@@ -81,7 +81,7 @@
             <form action="import_json" method="post">
                 <input type="input" name="stockCode" placeholder="証券コード例）6758" autocomplete=off>
                 <input type="password" name="jsonKey" placeholder="json_password" autocomplete=off>
-                <input type="submit" value="json保存" class="btn-square-pop">
+                <input type="submit" value="json保存" class="btn-square-pop" style="cursor:pointer">
                 <input type="hidden" name="_method" value="put">
                 <input type="hidden" name="_token" value="{{csrf_token()}}">
             </form>

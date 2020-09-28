@@ -44,4 +44,4 @@
        - 「ECR・ESC」で構築
 
 ## OTHER IDEAS
-- <b>The社史APIは一人ではなく、できるだけ周囲を巻き込んだProjectにする</b>
+- <b>The社史APIは一人ではなく、できるだけ周囲を巻き込んだProjectにする?</b>

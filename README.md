@@ -45,6 +45,3 @@
 
 ## OTHER IDEAS
 - <b>The社史APIは一人ではなく、できるだけ周囲を巻き込んだProjectにする</b>
-   - GitHubを活用して開発をOpne化
-   - 作成する対象企業の選定を、需要に合わせる（Twitterなどで限定的に募集）
-   - API活用先を開拓

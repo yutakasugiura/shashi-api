@@ -1,5 +1,6 @@
 # the社史APIプロジェクト
 <img src="http://the-shashi.com/img-common/opg.png">
+
 ## ABOUT
 - 社史コンテンツをオープンにする
    - 紙・製本が主流だった時代の社史はClosedな環境

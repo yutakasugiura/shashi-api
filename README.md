@@ -1,10 +1,4 @@
 # the社史APIプロジェクト
-## PURPOSE
-### Business Person に向けて
- - 経営の歴史的教訓を共有し、経営判断における機会損失を最小化する
-### Institutional investor に向けて
- - 長期視点の普及を通じて投資精度の向上に貢献し、年金等の公的資産を最大化する
-<img src="https://the-shashi.com/img-top/opg.png">
 
 ## ABOUT
 - 社史コンテンツをオープンにする
@@ -42,9 +36,3 @@
 
     - AWS（tokyo-region）を活用
        - 「ECR・ESC」で構築
-
-## OTHER IDEAS
-- <b>The社史APIは一人ではなく、できるだけ周囲を巻き込んだProjectにする</b>
-   - GitHubを活用して開発をOpne化
-   - 作成する対象企業の選定を、需要に合わせる（Twitterなどで限定的に募集）
-   - API活用先を開拓

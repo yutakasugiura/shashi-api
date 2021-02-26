@@ -1,4 +1,6 @@
 # the社史APIプロジェクト
+
+#### <font color="red">The社史の本番コード（by Nuxt.js）は、別のPrivate Repositoryにあります〜</font>
 <img src="http://the-shashi.com/img-common/opg.png" />
 
 ## ABOUT
